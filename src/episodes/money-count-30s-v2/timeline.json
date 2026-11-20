@@ -1,0 +1,171 @@
+{
+  "slug": "money-count-30s-v2",
+  "title": "WHAT IF YOU COULD SEE HOW MUCH MONEY EVERYONE HAS?",
+  "fps": 30,
+  "total": 909,
+  "segments": [
+    {
+      "shot": "S1",
+      "a": 0,
+      "b": 110,
+      "t0": 0,
+      "t1": 110,
+      "line": "You are standing in the lunch line when it happens. Above the"
+    },
+    {
+      "shot": "S2",
+      "a": 110,
+      "b": 160,
+      "t0": 0,
+      "t1": 50,
+      "line": "cashier's head, a number"
+    },
+    {
+      "shot": "S3",
+      "a": 160,
+      "b": 238,
+      "t0": 0,
+      "t1": 78,
+      "line": "appears. Forty dollars."
+    },
+    {
+      "shot": "S15",
+      "a": 238,
+      "b": 318,
+      "t0": 0,
+      "t1": 80,
+      "line": "what if you could see how much money everyone has?"
+    },
+    {
+      "shot": "S24",
+      "a": 318,
+      "b": 419,
+      "t0": 0,
+      "t1": 101,
+      "line": "Rule three, you can't see your own number. You"
+    },
+    {
+      "shot": "S25",
+      "a": 419,
+      "b": 543,
+      "t0": 0,
+      "t1": 124,
+      "line": "stand in front of the bathroom mirror and look up. Nothing. You"
+    },
+    {
+      "shot": "S28",
+      "a": 543,
+      "b": 660,
+      "t0": 0,
+      "t1": 117,
+      "line": "test rule two that night at home. Your mom pays the"
+    },
+    {
+      "shot": "S29",
+      "a": 660,
+      "b": 782,
+      "t0": 0,
+      "t1": 122,
+      "line": "electric bill on her phone. One tap. Her number"
+    },
+    {
+      "shot": "S30",
+      "a": 782,
+      "b": 909,
+      "t0": 0,
+      "t1": 127,
+      "line": "drops one hundred and twelve dollars in a single blink."
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "key": 20,
+      "len": 110,
+      "first": 0,
+      "line": "You are standing in the lunch line when it happens. Above the",
+      "note": "Wide cafeteria lunch line (classroom set reused as cafeteria); hero in blue hoodie mid-line, no number visible yet; trays, steam, lunch crowd"
+    },
+    {
+      "id": "S2",
+      "size": "close-up",
+      "key": 20,
+      "len": 50,
+      "first": 110,
+      "line": "cashier's head, a number",
+      "note": "Close-up: Mrs. Park the cashier at the till; a soft white $40 pill appears nearly touching her head; hero stares, face swaps neutral to shock"
+    },
+    {
+      "id": "S3",
+      "size": "macro insert",
+      "key": 30,
+      "len": 78,
+      "first": 160,
+      "line": "appears. Forty dollars.",
+      "note": "Macro insert: the $40 pill HUGE, soft white, floating like a price tag; blurred cafeteria behind"
+    },
+    {
+      "id": "S15",
+      "size": "title",
+      "key": 30,
+      "len": 80,
+      "first": 238,
+      "line": "what if you could see how much money everyone has?",
+      "note": "Title card on the dark void: glowing pill, then WHAT IF YOU COULD SEE / HOW MUCH MONEY EVERYONE HAS? in yellow caps"
+    },
+    {
+      "id": "S24",
+      "size": "close-up",
+      "key": 20,
+      "len": 101,
+      "first": 318,
+      "line": "Rule three, you can't see your own number. You",
+      "note": "Close-up: hero at the bathroom mirror; his reflection has NO pill above its head; red label NOTHING ABOVE YOUR HEAD"
+    },
+    {
+      "id": "S25",
+      "size": "close-up",
+      "key": 20,
+      "len": 124,
+      "first": 419,
+      "line": "stand in front of the bathroom mirror and look up. Nothing. You",
+      "note": "Close-up: hero looks up at the mirror, then at his own head; empty space above; his face falls"
+    },
+    {
+      "id": "S28",
+      "size": "medium",
+      "key": 20,
+      "len": 117,
+      "first": 543,
+      "line": "test rule two that night at home. Your mom pays the",
+      "note": "Medium home kitchen at night: Mom at the table with her phone; hero watches from the doorway; her pill above her head"
+    },
+    {
+      "id": "S29",
+      "size": "close-up",
+      "key": 20,
+      "len": 122,
+      "first": 660,
+      "line": "electric bill on her phone. One tap. Her number",
+      "note": "Close-up: Mom taps her phone to pay the electric bill; her pill flashes red"
+    },
+    {
+      "id": "S30",
+      "size": "extreme close-up",
+      "key": 30,
+      "len": 127,
+      "first": 782,
+      "line": "drops one hundred and twelve dollars in a single blink.",
+      "note": "Extreme close-up: Mom's pill drops $112 in a single blink, flashing red; her face calm, unaware (her starting balance is never given)"
+    }
+  ],
+  "fx": [],
+  "audio": {
+    "musicVol": 0,
+    "sfxVol": 0,
+    "voice": "money-count-30s-v2/voice.wav",
+    "sfx": "money-count-30s-v2/sfx.mp3",
+    "music": "money-count-30s-v2/music.mp3"
+  }
+}

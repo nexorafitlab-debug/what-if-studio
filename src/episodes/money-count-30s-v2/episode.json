@@ -1,0 +1,144 @@
+{
+  "accent": "LEFT",
+  "cast": [
+    "hero (you, black head, blue hoodie, NO balance ever)",
+    "mrs. park (cafeteria cashier, $40)",
+    "mom (at home kitchen, pays electric bill)"
+  ],
+  "edit": [
+    {
+      "at": "f:0",
+      "shot": "S1"
+    },
+    {
+      "at": "cashier's",
+      "shot": "S2"
+    },
+    {
+      "at": "appears",
+      "shot": "S3"
+    },
+    {
+      "at": "what",
+      "shot": "S15"
+    },
+    {
+      "at": "Rule",
+      "shot": "S24"
+    },
+    {
+      "at": "stand",
+      "shot": "S25"
+    },
+    {
+      "at": "test",
+      "shot": "S28"
+    },
+    {
+      "at": "electric",
+      "shot": "S29"
+    },
+    {
+      "at": "drops",
+      "shot": "S30"
+    }
+  ],
+  "fx": [],
+  "gaps": {
+    "comma": 0.5,
+    "question": 1.0,
+    "sentence": 0.8,
+    "word": 0.3
+  },
+  "id": "MoneyCount30sV2",
+  "script": [
+    {
+      "beat": "1 cold open (lunch line, the cashier's $40)",
+      "text": "You are standing in the lunch line when it happens. Above the cashier's head, a number appears. Forty dollars."
+    },
+    {
+      "beat": "2 rules on the void",
+      "text": "What if you could see how much money everyone has?"
+    },
+    {
+      "beat": "3 bathroom rule: nothing above your head",
+      "text": "Rule three, you can't see your own number. You stand in front of the bathroom mirror and look up. Nothing."
+    },
+    {
+      "beat": "4 kitchen: mom's bill dropping",
+      "text": "You test rule two that night at home. Your mom pays the electric bill on her phone. One tap. Her number drops one hundred and twelve dollars in a single blink."
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "key": 20,
+      "note": "Wide cafeteria lunch line (classroom set reused as cafeteria); hero in blue hoodie mid-line, no number visible yet; trays, steam, lunch crowd",
+      "set": "classroom",
+      "size": "wide"
+    },
+    {
+      "id": "S2",
+      "key": 20,
+      "note": "Close-up: Mrs. Park the cashier at the till; a soft white $40 pill appears nearly touching her head; hero stares, face swaps neutral to shock",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S3",
+      "key": 30,
+      "note": "Macro insert: the $40 pill HUGE, soft white, floating like a price tag; blurred cafeteria behind",
+      "set": "classroom",
+      "size": "macro insert"
+    },
+    {
+      "id": "S15",
+      "key": 30,
+      "note": "Title card on the dark void: glowing pill, then WHAT IF YOU COULD SEE / HOW MUCH MONEY EVERYONE HAS? in yellow caps",
+      "set": "dark void",
+      "size": "title"
+    },
+    {
+      "id": "S24",
+      "key": 20,
+      "note": "Close-up: hero at the bathroom mirror; his reflection has NO pill above its head; red label NOTHING ABOVE YOUR HEAD",
+      "set": "bathroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S25",
+      "key": 20,
+      "note": "Close-up: hero looks up at the mirror, then at his own head; empty space above; his face falls",
+      "set": "bathroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S28",
+      "key": 20,
+      "note": "Medium home kitchen at night: Mom at the table with her phone; hero watches from the doorway; her pill above her head",
+      "set": "kitchen",
+      "size": "medium"
+    },
+    {
+      "id": "S29",
+      "key": 20,
+      "note": "Close-up: Mom taps her phone to pay the electric bill; her pill flashes red",
+      "set": "kitchen",
+      "size": "close-up"
+    },
+    {
+      "id": "S30",
+      "key": 30,
+      "note": "Extreme close-up: Mom's pill drops $112 in a single blink, flashing red; her face calm, unaware (her starting balance is never given)",
+      "set": "kitchen",
+      "size": "extreme close-up"
+    }
+  ],
+  "tail": 1.2,
+  "title": [
+    "WHAT IF YOU COULD SEE",
+    "HOW MUCH MONEY EVERYONE HAS?"
+  ],
+  "topic": "What if you could see how much money everyone has?",
+  "slug": "money-count-30s-v2"
+}
