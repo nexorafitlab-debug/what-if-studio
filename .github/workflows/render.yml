@@ -4,15 +4,17 @@
 #   1. setup job: turns the `chunks` input into a matrix list [0..N-1].
 #   2. render job (one per chunk): checks out the repo, installs Node 20 +
 #      Chrome + ffmpeg, renders ONLY its frame range with the Remotion CLI
-#      (video-only: --muted, so no audio is baked into the chunks), and
-#      uploads chunk-N.mp4 as an artifact.
-#   3. stitch job: downloads all chunks, concats them, mixes the episode's
-#      audio stems (public/<slug>/voice + music + sfx, already at their target
-#      relative levels), loudnorms to -14 LUFS (same settings as master.py),
-#      downscales to 1280x720, and uploads the final mp4.
+#      (WITH audio — the chunks carry the voice track, see scripts/stitch.sh
+#      for why that matters), and uploads chunk-N.mp4 as an artifact.
+#   3. stitch job: downloads all chunks, concats them, loudnorms the voice
+#      to -14 LUFS (same settings as master.py), mixes the music/sfx stems
+#      in, downscales to 1280x720, and uploads the final mp4.
 #
-# Why --muted chunks: the audio stems are mixed ONCE in the stitch job. If the
-# chunks carried voice audio, the voice would be doubled.
+# Why chunks carry the voice: loudnorm only reaches -14 LUFS on the
+# Remotion-rendered voice (its true peaks sit ~3 dB lower than the raw
+# voice stem). Mixing the raw stems first and then loudnorming caps out
+# at about -15.6 LUFS (measured 2026-11-20). So the voice rides with the
+# chunks and the music/sfx are mixed in AFTER loudnorm.
 #
 # Trigger: Actions tab -> "Render episode" -> Run workflow. Inputs:
 #   composition   Remotion composition id (default DeathCountV2)
@@ -90,10 +92,14 @@ jobs:
           END=$(( START + SIZE - 1 ))
           if [ "$END" -ge "$TOTAL" ]; then END=$(( TOTAL - 1 )); fi
           echo "chunk ${{ matrix.chunk }}: frames $START-$END of $TOTAL"
+          # NOTE: no --muted — chunks carry the voice track. The stitch job
+          # loudnorms the concatenated voice exactly like master.py does,
+          # which only lands on -14 LUFS with the Remotion-rendered voice
+          # (its true peaks sit ~3 dB lower than the raw stem).
           REMOTION_BROWSER="${{ steps.chrome.outputs.chrome-path }}" \
             node node_modules/@remotion/cli/remotion-cli.js render src/index.ts \
             "${{ inputs.composition }}" "chunk-${{ matrix.chunk }}.mp4" \
-            --frames="$START-$END" --muted --concurrency 2 --log=error
+            --frames="$START-$END" --concurrency 2 --log=error
           echo "frames in chunk:"
           ffprobe -v error -show_entries stream=nb_frames -of csv=p=0 "chunk-${{ matrix.chunk }}.mp4"
 

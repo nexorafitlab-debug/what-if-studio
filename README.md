@@ -39,8 +39,9 @@ ffmpeg -y -i out/<slug>/<slug>-final.mp4 -vf scale=1280:720 -c:v libx264 -pix_fm
 
 ```bash
 # chunk 0: frames 0-487, chunk 1: frames 488-975 (DeathCountV2 = 976 frames)
-TMPDIR=/home/hatch/tmp-remotion node node_modules/@remotion/cli/remotion-cli.js render src/index.ts DeathCountV2 chunk-0.mp4 --frames=0-487 --muted --log=error
-TMPDIR=/home/hatch/tmp-remotion node node_modules/@remotion/cli/remotion-cli.js render src/index.ts DeathCountV2 chunk-1.mp4 --frames=488-975 --muted --log=error
+# Chunks carry the voice track (no --muted) — the stitch loudnorms it.
+TMPDIR=/home/hatch/tmp-remotion node node_modules/@remotion/cli/remotion-cli.js render src/index.ts DeathCountV2 chunk-0.mp4 --frames=0-487 --log=error
+TMPDIR=/home/hatch/tmp-remotion node node_modules/@remotion/cli/remotion-cli.js render src/index.ts DeathCountV2 chunk-1.mp4 --frames=488-975 --log=error
 mkdir -p chunks && mv chunk-0.mp4 chunk-1.mp4 chunks/
 bash scripts/stitch.sh death-count-v2 976 2 chunks final-DeathCountV2-720p.mp4
 ```
@@ -50,5 +51,9 @@ bash scripts/stitch.sh death-count-v2 976 2 chunks final-DeathCountV2-720p.mp4
 - `remotion.config.ts` uses `REMOTION_BROWSER` when set (GitHub Actions Chrome);
   locally it defaults to the VM's `chrome-wrapper.sh` (headless Chrome + --no-sandbox).
 - Audio stems in `public/<slug>/` are pre-attenuated to their target relative levels
-  (music ~27 dB below voice); `scripts/stitch.sh` mixes them at volume 1.0.
+  (music ~27 dB below voice); `scripts/stitch.sh` mixes music at volume 1.0 and
+  sfx at volume 0.1 AFTER loudnorm — the same order as the approved
+  death-count-v2 single render. Do not mix the raw stems before loudnorm:
+  the voice stem's true peaks sit ~3 dB higher than the Remotion-rendered
+  voice, and loudnorm then caps out around −15.6 LUFS instead of −14.
 - `out/` (renders) and `node_modules/` are git-ignored and never committed.
