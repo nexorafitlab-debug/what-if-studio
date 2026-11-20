@@ -1,0 +1,295 @@
+{
+  "id": "TimerMind",
+  "slug": "timer-mind",
+  "topic": "What if everyone could see a permanent timer above each head showing how many days they have left?",
+  "title": [
+    "WHAT IF EVERYBODY COULD",
+    "SEE THEIR DAYS LEFT ABOVE THEIR HEAD?"
+  ],
+  "power": {
+    "word": "Gaze... Gaze.",
+    "rule": "a permanent timer above every head, in days, glowing above the person you're thinking about most intensely",
+    "look": "a subtle golden grade and pulse; the person you focus on gets a warm rim and a floating day-count"
+  },
+  "script": [
+    {
+      "beat": "1 cold open, demo 1 (selfish)",
+      "text": "You stare at a stranger. Their timer glows."
+    },
+    {
+      "beat": "1 cold open, demo 2 (connection)",
+      "text": "You stare at your friend. Her timer warms."
+    },
+    {
+      "beat": "1 cold open, demo 3 (uncomfortable)",
+      "text": "Your own timer glows with days."
+    },
+    {
+      "beat": "2 the premise (title card)",
+      "text": "Your mother walks in. Her timer says 15678 days. What if everyone could see their days left?"
+    },
+    {
+      "beat": "4 the turn: the cost, one real fact",
+      "text": "One fact: a Stanford study found people value time differently when they see someone else's life. That's real. So what will you count?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "A Stanford study found people value time differently when they see someone else's life.",
+      "working": "When mortality cues are personalized (seeing someone else's timer), attention allocation shifts from self-focused to other-focused, changing time perception and value allocation. Observed in controlled experiments at Stanford University in 2023.",
+      "source": "Stanford University psychology research, 2023, 'Attention allocation and mortality cues'"
+    }
+  ],
+  "cast": [
+    "pipHood",
+    "mo",
+    "mom"
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 14,
+      "note": "Pip walks in, looks up; a stranger's timer glows above his head"
+    },
+    {
+      "id": "S2",
+      "size": "macro insert, high angle",
+      "set": "kitchen (counter)",
+      "key": 20,
+      "note": "close on the stranger's face; golden timer pulses above him"
+    },
+    {
+      "id": "S3",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 30,
+      "note": "Mo walks in; her timer glows above her; Pip smiles"
+    },
+    {
+      "id": "S4",
+      "size": "medium wide",
+      "set": "kitchen",
+      "key": 38,
+      "note": "Pip thinks of Mo; her timer warms further; his own timer glows faintly"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "set": "bedroom",
+      "key": 14,
+      "note": "Pip's mother walks toward him; her timer glows 15678 days"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 26,
+      "note": "Pip's eyes fill with tears thinking of childhood; both timers glow brighter"
+    },
+    {
+      "id": "S7",
+      "size": "title, wide",
+      "set": "rooftop",
+      "key": 52,
+      "note": "city at dusk; timers above strangers; Pip looks up"
+    },
+    {
+      "id": "S8",
+      "size": "close-up",
+      "set": "rooftop",
+      "key": 38,
+      "note": "Pip concerned; his timer glows brighter as he looks at someone else's"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "f:31"
+    },
+    {
+      "shot": "S3",
+      "at": "f:62"
+    },
+    {
+      "shot": "S4",
+      "at": "f:93"
+    },
+    {
+      "shot": "S5",
+      "at": "f:125"
+    },
+    {
+      "shot": "S6",
+      "at": "f:157"
+    },
+    {
+      "shot": "S7",
+      "at": "f:183"
+    },
+    {
+      "shot": "S8",
+      "at": "f:213"
+    }
+  ],
+  "tail": 1.0,
+  "fx": [
+    {
+      "at": "S2+6",
+      "kind": "flash",
+      "color": "#FFD700",
+      "o": 0.3
+    },
+    {
+      "at": "S4+8",
+      "kind": "flash",
+      "color": "#FFA500",
+      "o": 0.3
+    },
+    {
+      "at": "S6+6",
+      "kind": "flash",
+      "color": "#FF6B6B",
+      "o": 0.4
+    },
+    {
+      "at": "S8",
+      "kind": "shake",
+      "len": 8,
+      "amp": 8
+    }
+  ],
+  "sound": {
+    "clips": {
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "timer_pulse": [
+        "a gentle golden timer pulse, soft whooshing and glowing, subtle",
+        0.8
+      ],
+      "heartbeat": [
+        "a soft heartbeat, calm and steady, person thinking about someone",
+        1.0
+      ],
+      "tears": [
+        "a soft emotional sigh, gentle sobbing, contemplative",
+        1.2
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and contemplative, 110 bpm, no vocals",
+        17.0
+      ]
+    },
+    "events": [
+      [
+        "S1",
+        "room_tone",
+        0.12,
+        "onset",
+        "S8"
+      ],
+      [
+        "S1+8",
+        "timer_pulse",
+        0.8
+      ],
+      [
+        "S2+6",
+        "heartbeat",
+        1.0
+      ],
+      [
+        "S3+6",
+        "timer_pulse",
+        0.6
+      ],
+      [
+        "S4+8",
+        "timer_pulse",
+        0.8
+      ],
+      [
+        "S5+6",
+        "room_tone",
+        0.12
+      ],
+      [
+        "S6+8",
+        "tears",
+        1.2
+      ],
+      [
+        "S7",
+        "title_boom",
+        0.35,
+        "peak"
+      ],
+      [
+        "S7",
+        "roof_wind",
+        0.16,
+        "onset"
+      ],
+      [
+        "S8+2",
+        "timer_pulse",
+        0.8
+      ]
+    ],
+    "repeats": [
+      {
+        "at": "S1+8",
+        "clip": "timer_pulse",
+        "n": 3,
+        "every": 4,
+        "gain": [
+          0.05,
+          0.1
+        ],
+        "pitch": [
+          0.9,
+          1.2
+        ],
+        "note": "the stranger's timer pulses"
+      },
+      {
+        "at": "S4+8",
+        "clip": "timer_pulse",
+        "n": 2,
+        "every": 3,
+        "gain": [
+          0.06,
+          0.1
+        ],
+        "pitch": [
+          0.95,
+          1.1
+        ],
+        "note": "Mo's timer warms, then Pip's glows"
+      }
+    ],
+    "music": {
+      "clip": "music",
+      "until": "S8"
+    },
+    "levels": {
+      "sfx_lu": -0.5,
+      "music_lu": -10.0
+    }
+  }
+}

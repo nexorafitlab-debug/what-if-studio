@@ -1,0 +1,251 @@
+{
+  "id": "Sleep",
+  "slug": "sleep",
+  "topic": "What if you never had to sleep?",
+  "title": [
+    "WHAT IF YOU COULD",
+    "NEVER SLEEP?"
+  ],
+  "fps": 30,
+  "lead": 2,
+  "shots": [
+    {
+      "id": "Sh1",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 60,
+      "note": "Pip in bed, eyes open, clock visible, yawning, long hold"
+    },
+    {
+      "id": "Sh2",
+      "size": "macro insert",
+      "set": "bedroom (nightstand)",
+      "key": 30,
+      "note": "clock face, glowing digits, 03:00, slowly changing"
+    },
+    {
+      "id": "Sh3",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 90,
+      "note": "Pip sitting up, rubbing eyes, stretching, long hold"
+    },
+    {
+      "id": "Sh4",
+      "size": "close-up",
+      "set": "bedroom",
+      "key": 72,
+      "note": "Pip's face, tired expression, dark circles, slow blinks"
+    },
+    {
+      "id": "Sh5",
+      "size": "medium wide",
+      "set": "living room",
+      "key": 120,
+      "note": "Pip at table, spreading out notes and a laptop, pages turning"
+    },
+    {
+      "id": "Sh6",
+      "size": "medium",
+      "set": "living room",
+      "key": 108,
+      "note": "Pip looking at phone, checking time, frowning, phone screen lighting"
+    },
+    {
+      "id": "Sh7",
+      "size": "low angle, medium",
+      "set": "rooftop",
+      "key": 150,
+      "note": "Pip on rooftop at dawn, sky lightening slowly, clouds moving"
+    },
+    {
+      "id": "Sh8",
+      "size": "extreme close-up",
+      "set": "bedroom",
+      "key": 72,
+      "note": "Pip's eye, pupil dilated, eyelid heavy, slow blink"
+    },
+    {
+      "id": "Sh9",
+      "size": "wide, low angle",
+      "set": "rooftop",
+      "key": 162,
+      "note": "Pip watching sunrise, arms spread, peaceful, slow head turn"
+    },
+    {
+      "id": "Sh10",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 90,
+      "note": "Pip back in bed, eyes closed, relaxed, deep breath"
+    },
+    {
+      "id": "Sh11",
+      "size": "wide, low angle",
+      "set": "rooftop",
+      "key": 180,
+      "note": "Pip watching full sunrise, calm, sun rising fully"
+    },
+    {
+      "id": "Sh12",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 108,
+      "note": "Pip sleeping, peaceful face, clock reads 08:00, sun rising outside"
+    },
+    {
+      "id": "Sh13",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 120,
+      "note": "Pip sleeping soundly, peaceful, clock reads 08:30"
+    },
+    {
+      "id": "Sh14",
+      "size": "wide, low angle",
+      "set": "rooftop",
+      "key": 180,
+      "note": "Pip on rooftop at morning, full sun, birds singing"
+    },
+    {
+      "id": "Sh15",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 150,
+      "note": "Pip sleeping soundly, peaceful, clock reads 09:00, morning light"
+    },
+    {
+      "id": "Sh16",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 180,
+      "note": "Pip waking naturally, stretching, clock reads 09:30"
+    },
+    {
+      "id": "Sh17",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 210,
+      "note": "Pip up and about, making coffee, day started"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "f:64"
+    },
+    {
+      "shot": "S3",
+      "at": "f:160"
+    },
+    {
+      "shot": "S4",
+      "at": "f:257"
+    },
+    {
+      "shot": "S5",
+      "at": "f:353"
+    },
+    {
+      "shot": "S6",
+      "at": "f:428"
+    },
+    {
+      "shot": "S7",
+      "at": "f:492"
+    },
+    {
+      "shot": "S8",
+      "at": "f:546"
+    },
+    {
+      "shot": "S9",
+      "at": "f:578"
+    },
+    {
+      "shot": "S10",
+      "at": "f:610"
+    },
+    {
+      "shot": "S11",
+      "at": "f:642"
+    },
+    {
+      "shot": "S12",
+      "at": "f:664"
+    },
+    {
+      "shot": "S13",
+      "at": "f:685"
+    },
+    {
+      "shot": "S14",
+      "at": "f:696"
+    },
+    {
+      "shot": "S15",
+      "at": "f:707"
+    },
+    {
+      "shot": "S16",
+      "at": "f:717"
+    },
+    {
+      "shot": "S17",
+      "at": "f:739"
+    }
+  ],
+  "fx": [
+    {
+      "at": "S2+4",
+      "kind": "flash",
+      "color": "#FFFFFF"
+    },
+    {
+      "at": "S8",
+      "kind": "shake",
+      "len": 6,
+      "amp": 8
+    }
+  ],
+  "end": "f:900",
+  "sound": {
+    "clips": {
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        30
+      ]
+    }
+  },
+  "script": [
+    {
+      "beat": "1 cold open, demo 1 (small and selfish)",
+      "text": "Stay up till 3 still awake finish work email answers"
+    },
+    {
+      "beat": "1 cold open, demo 2 (useful)",
+      "text": "Stay up till 6 still awake ace the test skip the crash"
+    },
+    {
+      "beat": "1 cold open, demo 3 (a little uncanny)",
+      "text": "Stay up till 9 still awake watch the whole series in one sitting"
+    },
+    {
+      "beat": "2 the premise (title card)",
+      "text": "What if you could never sleep?"
+    },
+    {
+      "beat": "4 the turn the cost one real fact",
+      "text": "One day without sleep slows reactions as much as 5 drinks That's real"
+    },
+    {
+      "beat": "5-7 folded into a question",
+      "text": "So who's watching you drive home at night"
+    }
+  ],
+  "total": 900
+}

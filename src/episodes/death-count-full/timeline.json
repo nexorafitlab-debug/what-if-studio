@@ -1,0 +1,2676 @@
+{
+ "slug": "death-count-full",
+ "title": "WHAT IF YOU COULD SEE EVERYONE'S DEATH COUNT?",
+ "fps": 30,
+ "total": 15025,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 106,
+   "t0": 0,
+   "t1": 106,
+   "line": "You check the stranger's timer: 12403."
+  },
+  {
+   "shot": "S2",
+   "a": 106,
+   "b": 137,
+   "t0": 0,
+   "t1": 31,
+   "line": "You tip extra."
+  },
+  {
+   "shot": "S3",
+   "a": 137,
+   "b": 311,
+   "t0": 0,
+   "t1": 174,
+   "line": "You scan the subway car. Mother: 42. Baby: 19801."
+  },
+  {
+   "shot": "S4",
+   "a": 311,
+   "b": 353,
+   "t0": 0,
+   "t1": 42,
+   "line": "So you give up your seat."
+  },
+  {
+   "shot": "S5",
+   "a": 353,
+   "b": 412,
+   "t0": 0,
+   "t1": 59,
+   "line": "You stare at your sister across the table."
+  },
+  {
+   "shot": "S6",
+   "a": 412,
+   "b": 527,
+   "t0": 0,
+   "t1": 115,
+   "line": "Her timer blinks 14. You haven't spoken in three years."
+  },
+  {
+   "shot": "S7",
+   "a": 527,
+   "b": 618,
+   "t0": 0,
+   "t1": 91,
+   "line": "What if you could see a death count above everyone's head?"
+  },
+  {
+   "shot": "S8",
+   "a": 618,
+   "b": 675,
+   "t0": 0,
+   "t1": 57,
+   "line": "You'd finally know who matters."
+  },
+  {
+   "shot": "S9",
+   "a": 675,
+   "b": 813,
+   "t0": 0,
+   "t1": 138,
+   "line": "One catch: the timer counts whoever you're thinking of right now. That's real."
+  },
+  {
+   "shot": "S10",
+   "a": 813,
+   "b": 845,
+   "t0": 0,
+   "t1": 32,
+   "line": "Part one."
+  },
+  {
+   "shot": "S11",
+   "a": 845,
+   "b": 902,
+   "t0": 0,
+   "t1": 57,
+   "line": "Part one was the fun part."
+  },
+  {
+   "shot": "S12",
+   "a": 902,
+   "b": 950,
+   "t0": 0,
+   "t1": 48,
+   "line": "Now you test it."
+  },
+  {
+   "shot": "S13",
+   "a": 950,
+   "b": 1032,
+   "t0": 0,
+   "t1": 82,
+   "line": "Rule one: the number follows your thoughts."
+  },
+  {
+   "shot": "S14",
+   "a": 1032,
+   "b": 1130,
+   "t0": 0,
+   "t1": 98,
+   "line": "You think of the barista. At home. In bed."
+  },
+  {
+   "shot": "S15",
+   "a": 1130,
+   "b": 1275,
+   "t0": 0,
+   "t1": 145,
+   "line": "His number appears. 12403. He's not even here."
+  },
+  {
+   "shot": "S16",
+   "a": 1275,
+   "b": 1373,
+   "t0": 0,
+   "t1": 98,
+   "line": "You don't need to see them. You need to think of them."
+  },
+  {
+   "shot": "S17",
+   "a": 1373,
+   "b": 1501,
+   "t0": 0,
+   "t1": 128,
+   "line": "You write a number down before you look. 9412."
+  },
+  {
+   "shot": "S18",
+   "a": 1501,
+   "b": 1623,
+   "t0": 0,
+   "t1": 122,
+   "line": "You look. 9412. It's real."
+  },
+  {
+   "shot": "S19",
+   "a": 1623,
+   "b": 1733,
+   "t0": 0,
+   "t1": 110,
+   "line": "You test it ten times. Ten times, you're right."
+  },
+  {
+   "shot": "S20",
+   "a": 1733,
+   "b": 1847,
+   "t0": 0,
+   "t1": 114,
+   "line": "Rule two: the numbers tick down. In real time."
+  },
+  {
+   "shot": "S21",
+   "a": 1847,
+   "b": 1973,
+   "t0": 0,
+   "t1": 126,
+   "line": "You watch a stranger's number. It drops. One second at a time."
+  },
+  {
+   "shot": "S22",
+   "a": 1973,
+   "b": 2040,
+   "t0": 0,
+   "t1": 67,
+   "line": "Rule three: you can't turn it off."
+  },
+  {
+   "shot": "S23",
+   "a": 2040,
+   "b": 2123,
+   "t0": 0,
+   "t1": 83,
+   "line": "You close your eyes. The numbers are still there."
+  },
+  {
+   "shot": "S24",
+   "a": 2123,
+   "b": 2216,
+   "t0": 0,
+   "t1": 93,
+   "line": "At school, the man in the charcoal suit finds you."
+  },
+  {
+   "shot": "S25",
+   "a": 2216,
+   "b": 2384,
+   "t0": 0,
+   "t1": 168,
+   "line": "His timer says 8912. He's been watching you watch him."
+  },
+  {
+   "shot": "S26",
+   "a": 2384,
+   "b": 2432,
+   "t0": 0,
+   "t1": 48,
+   "line": "\"What are you staring at?\""
+  },
+  {
+   "shot": "S27",
+   "a": 2432,
+   "b": 2465,
+   "t0": 0,
+   "t1": 33,
+   "line": "\"Nothing.\""
+  },
+  {
+   "shot": "S28",
+   "a": 2465,
+   "b": 2535,
+   "t0": 0,
+   "t1": 70,
+   "line": "\"You've been staring at me"
+  },
+  {
+   "shot": "S29",
+   "a": 2535,
+   "b": 2589,
+   "t0": 0,
+   "t1": 54,
+   "line": "for a minute.\" You walk away. Fast."
+  },
+  {
+   "shot": "S30",
+   "a": 2589,
+   "b": 2647,
+   "t0": 0,
+   "t1": 58,
+   "line": "It's real. All of it."
+  },
+  {
+   "shot": "S31",
+   "a": 2647,
+   "b": 2700,
+   "t0": 0,
+   "t1": 53,
+   "line": "So you start testing everyone."
+  },
+  {
+   "shot": "S32",
+   "a": 2700,
+   "b": 2820,
+   "t0": 0,
+   "t1": 120,
+   "line": "Your best friend, Sam. Orange hoodie. Always has your back."
+  },
+  {
+   "shot": "S33",
+   "a": 2820,
+   "b": 2928,
+   "t0": 0,
+   "t1": 108,
+   "line": "You check Sam. 15204."
+  },
+  {
+   "shot": "S34",
+   "a": 2928,
+   "b": 3029,
+   "t0": 0,
+   "t1": 101,
+   "line": "He saves you the last slice of pizza every Friday."
+  },
+  {
+   "shot": "S35",
+   "a": 3029,
+   "b": 3050,
+   "t0": 0,
+   "t1": 21,
+   "line": "\"What?\""
+  },
+  {
+   "shot": "S36",
+   "a": 3050,
+   "b": 3074,
+   "t0": 0,
+   "t1": 24,
+   "line": "\"Nothing.\""
+  },
+  {
+   "shot": "S37",
+   "a": 3074,
+   "b": 3228,
+   "t0": 0,
+   "t1": 154,
+   "line": "Mr. Ortiz, the janitor. You check him. 9412."
+  },
+  {
+   "shot": "S38",
+   "a": 3228,
+   "b": 3323,
+   "t0": 0,
+   "t1": 95,
+   "line": "He waters the dead plant by the gym door every morning."
+  },
+  {
+   "shot": "S39",
+   "a": 3323,
+   "b": 3345,
+   "t0": 0,
+   "t1": 22,
+   "line": "\"Morning.\""
+  },
+  {
+   "shot": "S40",
+   "a": 3345,
+   "b": 3389,
+   "t0": 0,
+   "t1": 44,
+   "line": "\"It'll come back.\""
+  },
+  {
+   "shot": "S41",
+   "a": 3389,
+   "b": 3558,
+   "t0": 0,
+   "t1": 169,
+   "line": "Maya, the quiet girl in the library. You check her. 17842."
+  },
+  {
+   "shot": "S42",
+   "a": 3558,
+   "b": 3657,
+   "t0": 0,
+   "t1": 99,
+   "line": "She writes a novel in a notebook she never lets anyone read."
+  },
+  {
+   "shot": "S43",
+   "a": 3657,
+   "b": 3698,
+   "t0": 0,
+   "t1": 41,
+   "line": "\"It's not finished.\""
+  },
+  {
+   "shot": "S44",
+   "a": 3698,
+   "b": 3787,
+   "t0": 0,
+   "t1": 89,
+   "line": "You see the mother again. On the same subway."
+  },
+  {
+   "shot": "S45",
+   "a": 3787,
+   "b": 3845,
+   "t0": 0,
+   "t1": 58,
+   "line": "Her number says 41."
+  },
+  {
+   "shot": "S46",
+   "a": 3845,
+   "b": 3903,
+   "t0": 0,
+   "t1": 58,
+   "line": "Yesterday it said 42."
+  },
+  {
+   "shot": "S47",
+   "a": 3903,
+   "b": 4003,
+   "t0": 0,
+   "t1": 100,
+   "line": "The baby still says 19801."
+  },
+  {
+   "shot": "S48",
+   "a": 4003,
+   "b": 4070,
+   "t0": 0,
+   "t1": 67,
+   "line": "The numbers are real. They move."
+  },
+  {
+   "shot": "S49",
+   "a": 4070,
+   "b": 4170,
+   "t0": 0,
+   "t1": 100,
+   "line": "You start doing small kindnesses. For the small numbers."
+  },
+  {
+   "shot": "S50",
+   "a": 4170,
+   "b": 4304,
+   "t0": 0,
+   "t1": 134,
+   "line": "You carry Mr. Ortiz's boxes. You hold doors. You give up seats."
+  },
+  {
+   "shot": "S51",
+   "a": 4304,
+   "b": 4401,
+   "t0": 0,
+   "t1": 97,
+   "line": "It feels good. Like you finally know what to do with it."
+  },
+  {
+   "shot": "S52",
+   "a": 4401,
+   "b": 4529,
+   "t0": 0,
+   "t1": 128,
+   "line": "You check the whole cafeteria. Hundreds of numbers. All at once."
+  },
+  {
+   "shot": "S53",
+   "a": 4529,
+   "b": 4657,
+   "t0": 0,
+   "t1": 128,
+   "line": "Most are big. Thousands of days. Years and years."
+  },
+  {
+   "shot": "S54",
+   "a": 4657,
+   "b": 4743,
+   "t0": 0,
+   "t1": 86,
+   "line": "A few are small. Too small. You look away."
+  },
+  {
+   "shot": "S55",
+   "a": 4743,
+   "b": 4797,
+   "t0": 0,
+   "t1": 54,
+   "line": "And then you see the pattern."
+  },
+  {
+   "shot": "S56",
+   "a": 4797,
+   "b": 4891,
+   "t0": 0,
+   "t1": 94,
+   "line": "The numbers are brightest over the people you already know."
+  },
+  {
+   "shot": "S57",
+   "a": 4891,
+   "b": 4990,
+   "t0": 0,
+   "t1": 99,
+   "line": "The strangers are dim. Like a light turned low."
+  },
+  {
+   "shot": "S58",
+   "a": 4990,
+   "b": 5057,
+   "t0": 0,
+   "t1": 67,
+   "line": "The people you love burn bright."
+  },
+  {
+   "shot": "S59",
+   "a": 5057,
+   "b": 5112,
+   "t0": 0,
+   "t1": 55,
+   "line": "You feel like you have a superpower."
+  },
+  {
+   "shot": "S60",
+   "a": 5112,
+   "b": 5174,
+   "t0": 0,
+   "t1": 62,
+   "line": "You can finally see who matters."
+  },
+  {
+   "shot": "S61",
+   "a": 5174,
+   "b": 5255,
+   "t0": 0,
+   "t1": 81,
+   "line": "You just don't know what \"matters\" costs yet."
+  },
+  {
+   "shot": "S62",
+   "a": 5255,
+   "b": 5302,
+   "t0": 0,
+   "t1": 47,
+   "line": "This next bit is real."
+  },
+  {
+   "shot": "S63",
+   "a": 5302,
+   "b": 5354,
+   "t0": 0,
+   "t1": 52,
+   "line": "Now, the strange part."
+  },
+  {
+   "shot": "S64",
+   "a": 5354,
+   "b": 5498,
+   "t0": 0,
+   "t1": 144,
+   "line": "Start with 100,000 babies. That's how the CDC counts a lifetime."
+  },
+  {
+   "shot": "S65",
+   "a": 5498,
+   "b": 5598,
+   "t0": 0,
+   "t1": 100,
+   "line": "Most of them get about 28,500 days."
+  },
+  {
+   "shot": "S66",
+   "a": 5598,
+   "b": 5781,
+   "t0": 0,
+   "t1": 183,
+   "line": "The average American gets about 78 years. The CDC counted it in 2023."
+  },
+  {
+   "shot": "S67",
+   "a": 5781,
+   "b": 5856,
+   "t0": 0,
+   "t1": 75,
+   "line": "Some get less. A few get more."
+  },
+  {
+   "shot": "S68",
+   "a": 5856,
+   "b": 6008,
+   "t0": 0,
+   "t1": 152,
+   "line": "The baby has 19,801. Your sister has 14."
+  },
+  {
+   "shot": "S69",
+   "a": 6008,
+   "b": 6187,
+   "t0": 0,
+   "t1": 179,
+   "line": "In 1999, a scientist at Stanford named Laura Carstensen asked a simple question."
+  },
+  {
+   "shot": "S70",
+   "a": 6187,
+   "b": 6264,
+   "t0": 0,
+   "t1": 77,
+   "line": "What do people do when time runs out?"
+  },
+  {
+   "shot": "S71",
+   "a": 6264,
+   "b": 6385,
+   "t0": 0,
+   "t1": 121,
+   "line": "She found that when people feel time is short, they stop chasing new things."
+  },
+  {
+   "shot": "S72",
+   "a": 6385,
+   "b": 6467,
+   "t0": 0,
+   "t1": 82,
+   "line": "They choose the people they love."
+  },
+  {
+   "shot": "S73",
+   "a": 6467,
+   "b": 6609,
+   "t0": 0,
+   "t1": 142,
+   "line": "In 2017, researchers gave sixty workers 40 dollars each."
+  },
+  {
+   "shot": "S74",
+   "a": 6609,
+   "b": 6838,
+   "t0": 0,
+   "t1": 229,
+   "line": "One weekend, buy a thing. The next weekend, buy time. Sixty workers, two weekends, forty dollars each."
+  },
+  {
+   "shot": "S75",
+   "a": 6838,
+   "b": 6926,
+   "t0": 0,
+   "t1": 88,
+   "line": "The time weekend won. Every time."
+  },
+  {
+   "shot": "S76",
+   "a": 6926,
+   "b": 7039,
+   "t0": 0,
+   "t1": 113,
+   "line": "People who buy back time are happier than people who buy things."
+  },
+  {
+   "shot": "S77",
+   "a": 7039,
+   "b": 7164,
+   "t0": 0,
+   "t1": 125,
+   "line": "The timers? Those are ours. Nobody has ever seen one."
+  },
+  {
+   "shot": "S78",
+   "a": 7164,
+   "b": 7382,
+   "t0": 0,
+   "t1": 218,
+   "line": "But the way they change you? That's real. That is what the timer does to you. It makes every day feel like the last one."
+  },
+  {
+   "shot": "S79",
+   "a": 7382,
+   "b": 7429,
+   "t0": 0,
+   "t1": 47,
+   "line": "And then you start using it."
+  },
+  {
+   "shot": "S80",
+   "a": 7429,
+   "b": 7476,
+   "t0": 0,
+   "t1": 47,
+   "line": "You tell Sam his number."
+  },
+  {
+   "shot": "S81",
+   "a": 7476,
+   "b": 7532,
+   "t0": 0,
+   "t1": 56,
+   "line": "You think you're helping."
+  },
+  {
+   "shot": "S82",
+   "a": 7532,
+   "b": 7629,
+   "t0": 0,
+   "t1": 97,
+   "line": "\"Fifteen thousand, two hundred and four days,\" you say."
+  },
+  {
+   "shot": "S83",
+   "a": 7629,
+   "b": 7702,
+   "t0": 0,
+   "t1": 73,
+   "line": "\"That's forty-one years. Use them.\""
+  },
+  {
+   "shot": "S84",
+   "a": 7702,
+   "b": 7768,
+   "t0": 0,
+   "t1": 66,
+   "line": "He laughs. Then he stops."
+  },
+  {
+   "shot": "S85",
+   "a": 7768,
+   "b": 7832,
+   "t0": 0,
+   "t1": 64,
+   "line": "He stops applying to college."
+  },
+  {
+   "shot": "S86",
+   "a": 7832,
+   "b": 7885,
+   "t0": 0,
+   "t1": 53,
+   "line": "\"Then why bother?\" he says."
+  },
+  {
+   "shot": "S87",
+   "a": 7885,
+   "b": 7959,
+   "t0": 0,
+   "t1": 74,
+   "line": "You try to take it back. You can't."
+  },
+  {
+   "shot": "S88",
+   "a": 7959,
+   "b": 8018,
+   "t0": 0,
+   "t1": 59,
+   "line": "The number is in his head now."
+  },
+  {
+   "shot": "S89",
+   "a": 8018,
+   "b": 8076,
+   "t0": 0,
+   "t1": 58,
+   "line": "Sam stops texting back."
+  },
+  {
+   "shot": "S90",
+   "a": 8076,
+   "b": 8202,
+   "t0": 0,
+   "t1": 126,
+   "line": "You see him in the hallway. His number is the same. He is not."
+  },
+  {
+   "shot": "S91",
+   "a": 8202,
+   "b": 8316,
+   "t0": 0,
+   "t1": 114,
+   "line": "You avoid your sister. Fourteen is too bright to look at."
+  },
+  {
+   "shot": "S92",
+   "a": 8316,
+   "b": 8439,
+   "t0": 0,
+   "t1": 123,
+   "line": "You take the long way to class. You eat lunch in the library."
+  },
+  {
+   "shot": "S93",
+   "a": 8439,
+   "b": 8514,
+   "t0": 0,
+   "t1": 75,
+   "line": "Three years of silence becomes hiding."
+  },
+  {
+   "shot": "S94",
+   "a": 8514,
+   "b": 8566,
+   "t0": 0,
+   "t1": 52,
+   "line": "You start sorting people."
+  },
+  {
+   "shot": "S95",
+   "a": 8566,
+   "b": 8686,
+   "t0": 0,
+   "t1": 120,
+   "line": "You sit next to the big numbers. You walk past the small ones."
+  },
+  {
+   "shot": "S96",
+   "a": 8686,
+   "b": 8779,
+   "t0": 0,
+   "t1": 93,
+   "line": "You catch yourself doing it. And you feel sick."
+  },
+  {
+   "shot": "S97",
+   "a": 8779,
+   "b": 8893,
+   "t0": 0,
+   "t1": 114,
+   "line": "When you can see everyone's ending, you stop seeing the people."
+  },
+  {
+   "shot": "S98",
+   "a": 8893,
+   "b": 8946,
+   "t0": 0,
+   "t1": 53,
+   "line": "You just see the countdown."
+  },
+  {
+   "shot": "S99",
+   "a": 8946,
+   "b": 9066,
+   "t0": 0,
+   "t1": 120,
+   "line": "You know everyone's ending. And you've never felt more alone."
+  },
+  {
+   "shot": "S100",
+   "a": 9066,
+   "b": 9223,
+   "t0": 0,
+   "t1": 157,
+   "line": "At night, you see the numbers through the ceiling. Through the walls. Through the dark."
+  },
+  {
+   "shot": "S101",
+   "a": 9223,
+   "b": 9291,
+   "t0": 0,
+   "t1": 68,
+   "line": "That night, you look in the mirror."
+  },
+  {
+   "shot": "S102",
+   "a": 9291,
+   "b": 9336,
+   "t0": 0,
+   "t1": 45,
+   "line": "Nothing above your head."
+  },
+  {
+   "shot": "S103",
+   "a": 9336,
+   "b": 9502,
+   "t0": 0,
+   "t1": 166,
+   "line": "You turn. You stand on a chair. You hold up your phone. Nothing."
+  },
+  {
+   "shot": "S104",
+   "a": 9502,
+   "b": 9558,
+   "t0": 0,
+   "t1": 56,
+   "line": "You ask Sam what he sees."
+  },
+  {
+   "shot": "S105",
+   "a": 9558,
+   "b": 9641,
+   "t0": 0,
+   "t1": 83,
+   "line": "\"Nothing,\" he says. \"Just you.\""
+  },
+  {
+   "shot": "S106",
+   "a": 9641,
+   "b": 9883,
+   "t0": 0,
+   "t1": 242,
+   "line": "You try everything. The bathroom mirror. The window. A shop window. A puddle. A photo. Nothing."
+  },
+  {
+   "shot": "S107",
+   "a": 9883,
+   "b": 10184,
+   "t0": 0,
+   "t1": 301,
+   "line": "You flip through old photos. Every head is blank. Even yours. Even then. Every photo. Every year. Every single one."
+  },
+  {
+   "shot": "S108",
+   "a": 10184,
+   "b": 10356,
+   "t0": 0,
+   "t1": 172,
+   "line": "You climb to the roof at dusk. The city glows with numbers. Yours is blank."
+  },
+  {
+   "shot": "S109",
+   "a": 10356,
+   "b": 10506,
+   "t0": 0,
+   "t1": 150,
+   "line": "The one number you actually want, the only one that matters, you'll never get."
+  },
+  {
+   "shot": "S110",
+   "a": 10506,
+   "b": 10549,
+   "t0": 0,
+   "t1": 43,
+   "line": "You can't see your own."
+  },
+  {
+   "shot": "S111",
+   "a": 10549,
+   "b": 10604,
+   "t0": 0,
+   "t1": 55,
+   "line": "That's when you test it properly."
+  },
+  {
+   "shot": "S112",
+   "a": 10604,
+   "b": 10720,
+   "t0": 0,
+   "t1": 116,
+   "line": "You stare at the man in the charcoal suit. You think of nothing but him."
+  },
+  {
+   "shot": "S113",
+   "a": 10720,
+   "b": 10822,
+   "t0": 0,
+   "t1": 102,
+   "line": "His number stays dim. Flickering. Hard to read."
+  },
+  {
+   "shot": "S114",
+   "a": 10822,
+   "b": 10938,
+   "t0": 0,
+   "t1": 116,
+   "line": "8912. Like a light turned low."
+  },
+  {
+   "shot": "S115",
+   "a": 10938,
+   "b": 11031,
+   "t0": 0,
+   "t1": 93,
+   "line": "You try to picture the barista's face. You can't."
+  },
+  {
+   "shot": "S116",
+   "a": 11031,
+   "b": 11193,
+   "t0": 0,
+   "t1": 162,
+   "line": "His number is a faint smudge. 12403. Barely there."
+  },
+  {
+   "shot": "S117",
+   "a": 11193,
+   "b": 11287,
+   "t0": 0,
+   "t1": 94,
+   "line": "You think of your sister. You don't even have to look."
+  },
+  {
+   "shot": "S118",
+   "a": 11287,
+   "b": 11366,
+   "t0": 0,
+   "t1": 79,
+   "line": "Fourteen burns so bright it hurts."
+  },
+  {
+   "shot": "S119",
+   "a": 11366,
+   "b": 11493,
+   "t0": 0,
+   "t1": 127,
+   "line": "You'd finally know who matters. You were right. You just had it backwards."
+  },
+  {
+   "shot": "S120",
+   "a": 11493,
+   "b": 11566,
+   "t0": 0,
+   "t1": 73,
+   "line": "The timer never showed you everyone's death."
+  },
+  {
+   "shot": "S121",
+   "a": 11566,
+   "b": 11654,
+   "t0": 0,
+   "t1": 88,
+   "line": "It only ever showed you the person at the front of your mind."
+  },
+  {
+   "shot": "S122",
+   "a": 11654,
+   "b": 11778,
+   "t0": 0,
+   "t1": 124,
+   "line": "It was never about their endings. It was about your attention."
+  },
+  {
+   "shot": "S123",
+   "a": 11778,
+   "b": 11852,
+   "t0": 0,
+   "t1": 74,
+   "line": "The numbers are a map of who you love."
+  },
+  {
+   "shot": "S124",
+   "a": 11852,
+   "b": 11960,
+   "t0": 0,
+   "t1": 108,
+   "line": "Every number you've seen was someone you were already carrying with you."
+  },
+  {
+   "shot": "S125",
+   "a": 11960,
+   "b": 12197,
+   "t0": 0,
+   "t1": 237,
+   "line": "Your whole week was a map. The barista. The mother. The baby. Sam. Maya. Mr. Ortiz."
+  },
+  {
+   "shot": "S126",
+   "a": 12197,
+   "b": 12265,
+   "t0": 0,
+   "t1": 68,
+   "line": "The brightest numbers are the people you love most."
+  },
+  {
+   "shot": "S127",
+   "a": 12265,
+   "b": 12365,
+   "t0": 0,
+   "t1": 100,
+   "line": "Because those are the endings you already feel."
+  },
+  {
+   "shot": "S128",
+   "a": 12365,
+   "b": 12479,
+   "t0": 0,
+   "t1": 114,
+   "line": "You were never counting their days. You were counting your love."
+  },
+  {
+   "shot": "S129",
+   "a": 12479,
+   "b": 12544,
+   "t0": 0,
+   "t1": 65,
+   "line": "\"Go talk to her,\" Sam says."
+  },
+  {
+   "shot": "S130",
+   "a": 12544,
+   "b": 12590,
+   "t0": 0,
+   "t1": 46,
+   "line": "So you go to the diner."
+  },
+  {
+   "shot": "S131",
+   "a": 12590,
+   "b": 12742,
+   "t0": 0,
+   "t1": 152,
+   "line": "The same booth. Dusk through the window. Two coffees. Still untouched."
+  },
+  {
+   "shot": "S132",
+   "a": 12742,
+   "b": 12837,
+   "t0": 0,
+   "t1": 95,
+   "line": "Your sister is there. Her timer says 14."
+  },
+  {
+   "shot": "S133",
+   "a": 12837,
+   "b": 12873,
+   "t0": 0,
+   "t1": 36,
+   "line": "You sit down."
+  },
+  {
+   "shot": "S134",
+   "a": 12873,
+   "b": 12971,
+   "t0": 0,
+   "t1": 98,
+   "line": "You speak. First words in three years."
+  },
+  {
+   "shot": "S135",
+   "a": 12971,
+   "b": 13005,
+   "t0": 0,
+   "t1": 34,
+   "line": "\"You came.\""
+  },
+  {
+   "shot": "S136",
+   "a": 13005,
+   "b": 13040,
+   "t0": 0,
+   "t1": 35,
+   "line": "\"I missed you.\""
+  },
+  {
+   "shot": "S137",
+   "a": 13040,
+   "b": 13146,
+   "t0": 0,
+   "t1": 106,
+   "line": "The number doesn't change. Fourteen is still fourteen."
+  },
+  {
+   "shot": "S138",
+   "a": 13146,
+   "b": 13193,
+   "t0": 0,
+   "t1": 47,
+   "line": "But you stop counting."
+  },
+  {
+   "shot": "S139",
+   "a": 13193,
+   "b": 13277,
+   "t0": 0,
+   "t1": 84,
+   "line": "You ask her about her day. She laughs."
+  },
+  {
+   "shot": "S140",
+   "a": 13277,
+   "b": 13335,
+   "t0": 0,
+   "t1": 58,
+   "line": "You forgot what that sounds like."
+  },
+  {
+   "shot": "S141",
+   "a": 13335,
+   "b": 13419,
+   "t0": 0,
+   "t1": 84,
+   "line": "You stay for an hour. Then two."
+  },
+  {
+   "shot": "S142",
+   "a": 13419,
+   "b": 13562,
+   "t0": 0,
+   "t1": 143,
+   "line": "She tells you about school. About her friends. About the book she's reading."
+  },
+  {
+   "shot": "S143",
+   "a": 13562,
+   "b": 13706,
+   "t0": 0,
+   "t1": 144,
+   "line": "You tell her about the numbers. She doesn't laugh. She just listens."
+  },
+  {
+   "shot": "S144",
+   "a": 13706,
+   "b": 13828,
+   "t0": 0,
+   "t1": 122,
+   "line": "For the first time in three years, the table doesn't feel like a wall."
+  },
+  {
+   "shot": "S145",
+   "a": 13828,
+   "b": 13956,
+   "t0": 0,
+   "t1": 128,
+   "line": "You can't add days to her number. But you can fill the days in it."
+  },
+  {
+   "shot": "S146",
+   "a": 13956,
+   "b": 14063,
+   "t0": 0,
+   "t1": 107,
+   "line": "The timer is still there. But you're not looking at it anymore."
+  },
+  {
+   "shot": "S147",
+   "a": 14063,
+   "b": 14115,
+   "t0": 0,
+   "t1": 52,
+   "line": "You're looking at her."
+  },
+  {
+   "shot": "S148",
+   "a": 14115,
+   "b": 14177,
+   "t0": 0,
+   "t1": 62,
+   "line": "Connections give our days meaning."
+  },
+  {
+   "shot": "S149",
+   "a": 14177,
+   "b": 14267,
+   "t0": 0,
+   "t1": 90,
+   "line": "The days don't matter. The people do."
+  },
+  {
+   "shot": "S150",
+   "a": 14267,
+   "b": 14447,
+   "t0": 0,
+   "t1": 180,
+   "line": "The next morning, you sit with Sam at lunch. And Maya. You don't check anyone's number."
+  },
+  {
+   "shot": "S151",
+   "a": 14447,
+   "b": 14603,
+   "t0": 0,
+   "t1": 156,
+   "line": "Outside, the city glows with numbers. Thousands of them. All at once."
+  },
+  {
+   "shot": "S152",
+   "a": 14603,
+   "b": 14730,
+   "t0": 0,
+   "t1": 127,
+   "line": "You don't count them anymore. You just walk home. With your sister."
+  },
+  {
+   "shot": "S153",
+   "a": 14730,
+   "b": 14813,
+   "t0": 0,
+   "t1": 83,
+   "line": "She talks the whole way. You let her."
+  },
+  {
+   "shot": "S154",
+   "a": 14813,
+   "b": 14919,
+   "t0": 0,
+   "t1": 106,
+   "line": "Fourteen days. You plan to use every one of them."
+  },
+  {
+   "shot": "S155",
+   "a": 14919,
+   "b": 15025,
+   "t0": 0,
+   "t1": 106,
+   "line": "So... what would yours say? Tell us in the comments."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "Medium",
+   "key": 21,
+   "len": 106,
+   "first": 0,
+   "line": "You check the stranger's timer: 12403.",
+   "note": "Café counter · Medium · You, barista · timer 12403"
+  },
+  {
+   "id": "S2",
+   "size": "Macro insert, high angle",
+   "key": 8,
+   "len": 31,
+   "first": 106,
+   "line": "You tip extra.",
+   "note": "Café counter top · Macro insert, high angle · Tip jar · timer 12403 (pulse)"
+  },
+  {
+   "id": "S3",
+   "size": "Wide",
+   "key": 35,
+   "len": 174,
+   "first": 137,
+   "line": "You scan the subway car. Mother: 42. Baby: 19801.",
+   "note": "Subway car · Wide · You, mother, baby · timer 42 / 19801"
+  },
+  {
+   "id": "S4",
+   "size": "Medium, over the shoulder",
+   "key": 8,
+   "len": 42,
+   "first": 311,
+   "line": "So you give up your seat.",
+   "note": "Subway car · Medium, over the shoulder · You (POV), passengers · timer timers above every head"
+  },
+  {
+   "id": "S5",
+   "size": "Medium wide",
+   "key": 12,
+   "len": 59,
+   "first": 353,
+   "line": "You stare at your sister across the table.",
+   "note": "Diner booth · Medium wide · You, sister · timer 14"
+  },
+  {
+   "id": "S6",
+   "size": "Extreme close-up",
+   "key": 23,
+   "len": 115,
+   "first": 412,
+   "line": "Her timer blinks 14. You haven't spoken in three years.",
+   "note": "Diner booth · Extreme close-up · Sister's timer · timer 14 → 13"
+  },
+  {
+   "id": "S7",
+   "size": "Title, wide",
+   "key": 46,
+   "len": 91,
+   "first": 527,
+   "line": "What if you could see a death count above everyone's head?",
+   "note": "Rooftop · Title, wide · You, city at dusk · timer —"
+  },
+  {
+   "id": "S8",
+   "size": "Medium, low angle",
+   "key": 11,
+   "len": 57,
+   "first": 618,
+   "line": "You'd finally know who matters.",
+   "note": "Rooftop · Medium, low angle · You · timer —"
+  },
+  {
+   "id": "S9",
+   "size": "Close-up",
+   "key": 28,
+   "len": 138,
+   "first": 675,
+   "line": "One catch: the timer counts whoever you're thinking of right now. That's real.",
+   "note": "Diner · Close-up · Suit man · timer 8912"
+  },
+  {
+   "id": "S10",
+   "size": "Wide, low angle",
+   "key": 16,
+   "len": 32,
+   "first": 813,
+   "line": "Part one.",
+   "note": "Rooftop · Wide, low angle · City timers · timer —"
+  },
+  {
+   "id": "S11",
+   "size": "Medium",
+   "key": 11,
+   "len": 57,
+   "first": 845,
+   "line": "Part one was the fun part.",
+   "note": "Rooftop · Medium · You · timer —"
+  },
+  {
+   "id": "S12",
+   "size": "Medium",
+   "key": 10,
+   "len": 48,
+   "first": 902,
+   "line": "Now you test it.",
+   "note": "Bedroom · Medium · You · timer —"
+  },
+  {
+   "id": "S13",
+   "size": "Close-up",
+   "key": 16,
+   "len": 82,
+   "first": 950,
+   "line": "Rule one: the number follows your thoughts.",
+   "note": "Bedroom · Close-up · You · timer —"
+  },
+  {
+   "id": "S14",
+   "size": "Medium",
+   "key": 20,
+   "len": 98,
+   "first": 1032,
+   "line": "You think of the barista. At home. In bed.",
+   "note": "Bedroom · Medium · You · timer 12403"
+  },
+  {
+   "id": "S15",
+   "size": "Close-up",
+   "key": 29,
+   "len": 145,
+   "first": 1130,
+   "line": "His number appears. 12403. He's not even here.",
+   "note": "Bedroom · Close-up · Pill only · timer 12403"
+  },
+  {
+   "id": "S16",
+   "size": "Medium",
+   "key": 20,
+   "len": 98,
+   "first": 1275,
+   "line": "You don't need to see them. You need to think of them.",
+   "note": "Bedroom · Medium · You · timer 12403"
+  },
+  {
+   "id": "S17",
+   "size": "Medium",
+   "key": 26,
+   "len": 128,
+   "first": 1373,
+   "line": "You write a number down before you look. 9412.",
+   "note": "School hallway · Medium · You, notebook · timer 9412"
+  },
+  {
+   "id": "S18",
+   "size": "Close-up",
+   "key": 24,
+   "len": 122,
+   "first": 1501,
+   "line": "You look. 9412. It's real.",
+   "note": "School hallway · Close-up · You · timer 9412"
+  },
+  {
+   "id": "S19",
+   "size": "Medium",
+   "key": 22,
+   "len": 110,
+   "first": 1623,
+   "line": "You test it ten times. Ten times, you're right.",
+   "note": "School hallway · Medium · You · timer —"
+  },
+  {
+   "id": "S20",
+   "size": "Wide",
+   "key": 23,
+   "len": 114,
+   "first": 1733,
+   "line": "Rule two: the numbers tick down. In real time.",
+   "note": "Street · Wide · You, stranger · timer ticking (dim)"
+  },
+  {
+   "id": "S21",
+   "size": "Close-up",
+   "key": 25,
+   "len": 126,
+   "first": 1847,
+   "line": "You watch a stranger's number. It drops. One second at a time.",
+   "note": "Street · Close-up · Stranger's pill · timer ticking"
+  },
+  {
+   "id": "S22",
+   "size": "Close-up",
+   "key": 13,
+   "len": 67,
+   "first": 1973,
+   "line": "Rule three: you can't turn it off.",
+   "note": "Bedroom · Close-up · You, eyes closed · timer —"
+  },
+  {
+   "id": "S23",
+   "size": "Medium",
+   "key": 17,
+   "len": 83,
+   "first": 2040,
+   "line": "You close your eyes. The numbers are still there.",
+   "note": "Bedroom · Medium · You · timer pills faint"
+  },
+  {
+   "id": "S24",
+   "size": "Medium",
+   "key": 19,
+   "len": 93,
+   "first": 2123,
+   "line": "At school, the man in the charcoal suit finds you.",
+   "note": "School hallway · Medium · You, suit man · timer 8912"
+  },
+  {
+   "id": "S25",
+   "size": "Close-up",
+   "key": 34,
+   "len": 168,
+   "first": 2216,
+   "line": "His timer says 8912. He's been watching you watch him.",
+   "note": "School hallway · Close-up · Suit man · timer 8912"
+  },
+  {
+   "id": "S26",
+   "size": "Two-shot",
+   "key": 10,
+   "len": 48,
+   "first": 2384,
+   "line": "\"What are you staring at?\"",
+   "note": "School hallway · Two-shot · You, suit man · timer 8912"
+  },
+  {
+   "id": "S27",
+   "size": "Close-up",
+   "key": 8,
+   "len": 33,
+   "first": 2432,
+   "line": "\"Nothing.\"",
+   "note": "School hallway · Close-up · You · timer 8912"
+  },
+  {
+   "id": "S28",
+   "size": "Close-up",
+   "key": 14,
+   "len": 70,
+   "first": 2465,
+   "line": "\"You've been staring at me",
+   "note": "School hallway · Close-up · Suit man · timer 8912"
+  },
+  {
+   "id": "S29",
+   "size": "Medium",
+   "key": 11,
+   "len": 54,
+   "first": 2535,
+   "line": "for a minute.\" You walk away. Fast.",
+   "note": "School hallway · Medium · You walking away · timer —"
+  },
+  {
+   "id": "S30",
+   "size": "Wide",
+   "key": 12,
+   "len": 58,
+   "first": 2589,
+   "line": "It's real. All of it.",
+   "note": "School hallway · Wide · You · timer —"
+  },
+  {
+   "id": "S31",
+   "size": "Medium",
+   "key": 11,
+   "len": 53,
+   "first": 2647,
+   "line": "So you start testing everyone.",
+   "note": "School hallway · Medium · You · timer —"
+  },
+  {
+   "id": "S32",
+   "size": "Medium",
+   "key": 24,
+   "len": 120,
+   "first": 2700,
+   "line": "Your best friend, Sam. Orange hoodie. Always has your back.",
+   "note": "School hallway · Medium · You, Sam · timer 15204"
+  },
+  {
+   "id": "S33",
+   "size": "Close-up",
+   "key": 22,
+   "len": 108,
+   "first": 2820,
+   "line": "You check Sam. 15204.",
+   "note": "School hallway · Close-up · Sam's pill · timer 15204"
+  },
+  {
+   "id": "S34",
+   "size": "Medium",
+   "key": 20,
+   "len": 101,
+   "first": 2928,
+   "line": "He saves you the last slice of pizza every Friday.",
+   "note": "Cafeteria · Medium · Sam · timer 15204"
+  },
+  {
+   "id": "S35",
+   "size": "Close-up",
+   "key": 8,
+   "len": 21,
+   "first": 3029,
+   "line": "\"What?\"",
+   "note": "Cafeteria · Close-up · Sam · timer 15204"
+  },
+  {
+   "id": "S36",
+   "size": "Close-up",
+   "key": 8,
+   "len": 24,
+   "first": 3050,
+   "line": "\"Nothing.\"",
+   "note": "Cafeteria · Close-up · You · timer —"
+  },
+  {
+   "id": "S37",
+   "size": "Medium",
+   "key": 31,
+   "len": 154,
+   "first": 3074,
+   "line": "Mr. Ortiz, the janitor. You check him. 9412.",
+   "note": "Gym door · Medium · You, Mr. Ortiz · timer 9412"
+  },
+  {
+   "id": "S38",
+   "size": "Medium",
+   "key": 19,
+   "len": 95,
+   "first": 3228,
+   "line": "He waters the dead plant by the gym door every morning.",
+   "note": "Gym door · Medium · Mr. Ortiz, dead plant · timer 9412"
+  },
+  {
+   "id": "S39",
+   "size": "Close-up",
+   "key": 8,
+   "len": 22,
+   "first": 3323,
+   "line": "\"Morning.\"",
+   "note": "Gym door · Close-up · Mr. Ortiz · timer 9412"
+  },
+  {
+   "id": "S40",
+   "size": "Close-up",
+   "key": 9,
+   "len": 44,
+   "first": 3345,
+   "line": "\"It'll come back.\"",
+   "note": "Gym door · Close-up · Dead plant · timer 9412"
+  },
+  {
+   "id": "S41",
+   "size": "Medium",
+   "key": 34,
+   "len": 169,
+   "first": 3389,
+   "line": "Maya, the quiet girl in the library. You check her. 17842.",
+   "note": "Library · Medium · You, Maya · timer 17842"
+  },
+  {
+   "id": "S42",
+   "size": "Close-up",
+   "key": 20,
+   "len": 99,
+   "first": 3558,
+   "line": "She writes a novel in a notebook she never lets anyone read.",
+   "note": "Library · Close-up · Maya's notebook · timer 17842"
+  },
+  {
+   "id": "S43",
+   "size": "Close-up",
+   "key": 8,
+   "len": 41,
+   "first": 3657,
+   "line": "\"It's not finished.\"",
+   "note": "Library · Close-up · Maya · timer 17842"
+  },
+  {
+   "id": "S44",
+   "size": "Wide",
+   "key": 18,
+   "len": 89,
+   "first": 3698,
+   "line": "You see the mother again. On the same subway.",
+   "note": "Subway car · Wide · You, mother, baby · timer 41 / 19801"
+  },
+  {
+   "id": "S45",
+   "size": "Close-up",
+   "key": 12,
+   "len": 58,
+   "first": 3787,
+   "line": "Her number says 41.",
+   "note": "Subway car · Close-up · Mother's pill · timer 41"
+  },
+  {
+   "id": "S46",
+   "size": "Close-up",
+   "key": 12,
+   "len": 58,
+   "first": 3845,
+   "line": "Yesterday it said 42.",
+   "note": "Subway car · Close-up · Mother's pill · timer 42 → 41"
+  },
+  {
+   "id": "S47",
+   "size": "Medium",
+   "key": 20,
+   "len": 100,
+   "first": 3903,
+   "line": "The baby still says 19801.",
+   "note": "Subway car · Medium · Baby · timer 19801"
+  },
+  {
+   "id": "S48",
+   "size": "Medium",
+   "key": 13,
+   "len": 67,
+   "first": 4003,
+   "line": "The numbers are real. They move.",
+   "note": "Subway car · Medium · You · timer 41 / 19801"
+  },
+  {
+   "id": "S49",
+   "size": "Medium",
+   "key": 20,
+   "len": 100,
+   "first": 4070,
+   "line": "You start doing small kindnesses. For the small numbers.",
+   "note": "Street · Medium · You · timer —"
+  },
+  {
+   "id": "S50",
+   "size": "Medium",
+   "key": 27,
+   "len": 134,
+   "first": 4170,
+   "line": "You carry Mr. Ortiz's boxes. You hold doors. You give up seats.",
+   "note": "Gym door · Medium · You, Mr. Ortiz, boxes · timer 9412"
+  },
+  {
+   "id": "S51",
+   "size": "Medium",
+   "key": 19,
+   "len": 97,
+   "first": 4304,
+   "line": "It feels good. Like you finally know what to do with it.",
+   "note": "Street · Medium · You · timer —"
+  },
+  {
+   "id": "S52",
+   "size": "Wide",
+   "key": 26,
+   "len": 128,
+   "first": 4401,
+   "line": "You check the whole cafeteria. Hundreds of numbers. All at once.",
+   "note": "Cafeteria · Wide · Crowd · timer many pills"
+  },
+  {
+   "id": "S53",
+   "size": "Wide",
+   "key": 26,
+   "len": 128,
+   "first": 4529,
+   "line": "Most are big. Thousands of days. Years and years.",
+   "note": "Cafeteria · Wide · Crowd pills · timer big numbers"
+  },
+  {
+   "id": "S54",
+   "size": "Medium",
+   "key": 17,
+   "len": 86,
+   "first": 4657,
+   "line": "A few are small. Too small. You look away.",
+   "note": "Cafeteria · Medium · You looking away · timer small numbers"
+  },
+  {
+   "id": "S55",
+   "size": "Close-up",
+   "key": 11,
+   "len": 54,
+   "first": 4743,
+   "line": "And then you see the pattern.",
+   "note": "Cafeteria · Close-up · You · timer —"
+  },
+  {
+   "id": "S56",
+   "size": "Medium",
+   "key": 19,
+   "len": 94,
+   "first": 4797,
+   "line": "The numbers are brightest over the people you already know.",
+   "note": "Cafeteria · Medium · Sam, Maya · timer bright pills"
+  },
+  {
+   "id": "S57",
+   "size": "Medium",
+   "key": 20,
+   "len": 99,
+   "first": 4891,
+   "line": "The strangers are dim. Like a light turned low.",
+   "note": "Cafeteria · Medium · Strangers · timer dim pills"
+  },
+  {
+   "id": "S58",
+   "size": "Close-up",
+   "key": 13,
+   "len": 67,
+   "first": 4990,
+   "line": "The people you love burn bright.",
+   "note": "Cafeteria · Close-up · You · timer bright pills"
+  },
+  {
+   "id": "S59",
+   "size": "Medium",
+   "key": 11,
+   "len": 55,
+   "first": 5057,
+   "line": "You feel like you have a superpower.",
+   "note": "Cafeteria · Medium · You · timer —"
+  },
+  {
+   "id": "S60",
+   "size": "Medium",
+   "key": 12,
+   "len": 62,
+   "first": 5112,
+   "line": "You can finally see who matters.",
+   "note": "Cafeteria · Medium · You · timer —"
+  },
+  {
+   "id": "S61",
+   "size": "Close-up",
+   "key": 16,
+   "len": 81,
+   "first": 5174,
+   "line": "You just don't know what \"matters\" costs yet.",
+   "note": "Cafeteria · Close-up · You · timer —"
+  },
+  {
+   "id": "S62",
+   "size": "Medium",
+   "key": 9,
+   "len": 47,
+   "first": 5255,
+   "line": "This next bit is real.",
+   "note": "Starry void · Medium · You · timer —"
+  },
+  {
+   "id": "S63",
+   "size": "Close-up",
+   "key": 10,
+   "len": 52,
+   "first": 5302,
+   "line": "Now, the strange part.",
+   "note": "Starry void · Close-up · You · timer —"
+  },
+  {
+   "id": "S64",
+   "size": "Wide",
+   "key": 29,
+   "len": 144,
+   "first": 5354,
+   "line": "Start with 100,000 babies. That's how the CDC counts a lifetime.",
+   "note": "Starry void · Wide · Dot grid (100,000 dots) · timer —"
+  },
+  {
+   "id": "S65",
+   "size": "Wide",
+   "key": 20,
+   "len": 100,
+   "first": 5498,
+   "line": "Most of them get about 28,500 days.",
+   "note": "Starry void · Wide · Dot grid · timer —"
+  },
+  {
+   "id": "S66",
+   "size": "Medium",
+   "key": 37,
+   "len": 183,
+   "first": 5598,
+   "line": "The average American gets about 78 years. The CDC counted it in 2023.",
+   "note": "Starry void · Medium · You, dots · timer —"
+  },
+  {
+   "id": "S67",
+   "size": "Wide",
+   "key": 15,
+   "len": 75,
+   "first": 5781,
+   "line": "Some get less. A few get more.",
+   "note": "Starry void · Wide · Dot grid · timer —"
+  },
+  {
+   "id": "S68",
+   "size": "Close-up",
+   "key": 30,
+   "len": 152,
+   "first": 5856,
+   "line": "The baby has 19,801. Your sister has 14.",
+   "note": "Starry void · Close-up · Two pills · timer 19801 / 14"
+  },
+  {
+   "id": "S69",
+   "size": "Medium",
+   "key": 36,
+   "len": 179,
+   "first": 6008,
+   "line": "In 1999, a scientist at Stanford named Laura Carstensen asked a simple question.",
+   "note": "Starry void · Medium · You · timer —"
+  },
+  {
+   "id": "S70",
+   "size": "Close-up",
+   "key": 15,
+   "len": 77,
+   "first": 6187,
+   "line": "What do people do when time runs out?",
+   "note": "Starry void · Close-up · You · timer —"
+  },
+  {
+   "id": "S71",
+   "size": "Medium",
+   "key": 24,
+   "len": 121,
+   "first": 6264,
+   "line": "She found that when people feel time is short, they stop chasing new things.",
+   "note": "Starry void · Medium · You · timer —"
+  },
+  {
+   "id": "S72",
+   "size": "Medium",
+   "key": 16,
+   "len": 82,
+   "first": 6385,
+   "line": "They choose the people they love.",
+   "note": "Starry void · Medium · You · timer —"
+  },
+  {
+   "id": "S73",
+   "size": "Medium",
+   "key": 28,
+   "len": 142,
+   "first": 6467,
+   "line": "In 2017, researchers gave sixty workers 40 dollars each.",
+   "note": "Starry void · Medium · You · timer —"
+  },
+  {
+   "id": "S74",
+   "size": "Medium",
+   "key": 46,
+   "len": 229,
+   "first": 6609,
+   "line": "One weekend, buy a thing. The next weekend, buy time. Sixty workers, two weekends, forty dollars each.",
+   "note": "Starry void · Medium · You · timer —"
+  },
+  {
+   "id": "S75",
+   "size": "Close-up",
+   "key": 18,
+   "len": 88,
+   "first": 6838,
+   "line": "The time weekend won. Every time.",
+   "note": "Starry void · Close-up · You · timer —"
+  },
+  {
+   "id": "S76",
+   "size": "Medium",
+   "key": 23,
+   "len": 113,
+   "first": 6926,
+   "line": "People who buy back time are happier than people who buy things.",
+   "note": "Starry void · Medium · You · timer —"
+  },
+  {
+   "id": "S77",
+   "size": "Close-up",
+   "key": 25,
+   "len": 125,
+   "first": 7039,
+   "line": "The timers? Those are ours. Nobody has ever seen one.",
+   "note": "Starry void · Close-up · You · timer —"
+  },
+  {
+   "id": "S78",
+   "size": "Medium",
+   "key": 44,
+   "len": 218,
+   "first": 7164,
+   "line": "But the way they change you? That's real. That is what the timer does to you. It makes every day feel like the last one.",
+   "note": "Starry void · Medium · You · timer —"
+  },
+  {
+   "id": "S79",
+   "size": "Medium",
+   "key": 9,
+   "len": 47,
+   "first": 7382,
+   "line": "And then you start using it.",
+   "note": "School hallway · Medium · You · timer —"
+  },
+  {
+   "id": "S80",
+   "size": "Medium",
+   "key": 9,
+   "len": 47,
+   "first": 7429,
+   "line": "You tell Sam his number.",
+   "note": "School hallway · Medium · You, Sam · timer 15204"
+  },
+  {
+   "id": "S81",
+   "size": "Close-up",
+   "key": 11,
+   "len": 56,
+   "first": 7476,
+   "line": "You think you're helping.",
+   "note": "School hallway · Close-up · You · timer 15204"
+  },
+  {
+   "id": "S82",
+   "size": "Two-shot",
+   "key": 19,
+   "len": 97,
+   "first": 7532,
+   "line": "\"Fifteen thousand, two hundred and four days,\" you say.",
+   "note": "School hallway · Two-shot · You, Sam · timer 15204"
+  },
+  {
+   "id": "S83",
+   "size": "Close-up",
+   "key": 15,
+   "len": 73,
+   "first": 7629,
+   "line": "\"That's forty-one years. Use them.\"",
+   "note": "School hallway · Close-up · Sam · timer 15204"
+  },
+  {
+   "id": "S84",
+   "size": "Close-up",
+   "key": 13,
+   "len": 66,
+   "first": 7702,
+   "line": "He laughs. Then he stops.",
+   "note": "School hallway · Close-up · Sam · timer 15204"
+  },
+  {
+   "id": "S85",
+   "size": "Medium",
+   "key": 13,
+   "len": 64,
+   "first": 7768,
+   "line": "He stops applying to college.",
+   "note": "Classroom · Medium · Sam's empty desk · timer —"
+  },
+  {
+   "id": "S86",
+   "size": "Close-up",
+   "key": 11,
+   "len": 53,
+   "first": 7832,
+   "line": "\"Then why bother?\" he says.",
+   "note": "Classroom · Close-up · Sam · timer 15204"
+  },
+  {
+   "id": "S87",
+   "size": "Medium",
+   "key": 15,
+   "len": 74,
+   "first": 7885,
+   "line": "You try to take it back. You can't.",
+   "note": "Classroom · Medium · You · timer —"
+  },
+  {
+   "id": "S88",
+   "size": "Close-up",
+   "key": 12,
+   "len": 59,
+   "first": 7959,
+   "line": "The number is in his head now.",
+   "note": "Classroom · Close-up · You · timer —"
+  },
+  {
+   "id": "S89",
+   "size": "Medium",
+   "key": 12,
+   "len": 58,
+   "first": 8018,
+   "line": "Sam stops texting back.",
+   "note": "School hallway · Medium · You, phone · timer —"
+  },
+  {
+   "id": "S90",
+   "size": "Medium",
+   "key": 25,
+   "len": 126,
+   "first": 8076,
+   "line": "You see him in the hallway. His number is the same. He is not.",
+   "note": "School hallway · Medium · You, Sam passing · timer 15204"
+  },
+  {
+   "id": "S91",
+   "size": "Medium",
+   "key": 23,
+   "len": 114,
+   "first": 8202,
+   "line": "You avoid your sister. Fourteen is too bright to look at.",
+   "note": "School hallway · Medium · You · timer 14"
+  },
+  {
+   "id": "S92",
+   "size": "Wide",
+   "key": 25,
+   "len": 123,
+   "first": 8316,
+   "line": "You take the long way to class. You eat lunch in the library.",
+   "note": "School hallway · Wide · You, long way round · timer —"
+  },
+  {
+   "id": "S93",
+   "size": "Medium",
+   "key": 15,
+   "len": 75,
+   "first": 8439,
+   "line": "Three years of silence becomes hiding.",
+   "note": "Library · Medium · You alone · timer —"
+  },
+  {
+   "id": "S94",
+   "size": "Wide",
+   "key": 10,
+   "len": 52,
+   "first": 8514,
+   "line": "You start sorting people.",
+   "note": "Cafeteria · Wide · You · timer —"
+  },
+  {
+   "id": "S95",
+   "size": "Medium",
+   "key": 24,
+   "len": 120,
+   "first": 8566,
+   "line": "You sit next to the big numbers. You walk past the small ones.",
+   "note": "Cafeteria · Medium · You, big-number kids · timer big pills"
+  },
+  {
+   "id": "S96",
+   "size": "Medium",
+   "key": 19,
+   "len": 93,
+   "first": 8686,
+   "line": "You catch yourself doing it. And you feel sick.",
+   "note": "Cafeteria · Medium · You · timer —"
+  },
+  {
+   "id": "S97",
+   "size": "Close-up",
+   "key": 23,
+   "len": 114,
+   "first": 8779,
+   "line": "When you can see everyone's ending, you stop seeing the people.",
+   "note": "Cafeteria · Close-up · You · timer —"
+  },
+  {
+   "id": "S98",
+   "size": "Close-up",
+   "key": 11,
+   "len": 53,
+   "first": 8893,
+   "line": "You just see the countdown.",
+   "note": "Cafeteria · Close-up · You · timer —"
+  },
+  {
+   "id": "S99",
+   "size": "Medium",
+   "key": 24,
+   "len": 120,
+   "first": 8946,
+   "line": "You know everyone's ending. And you've never felt more alone.",
+   "note": "Cafeteria · Medium · You alone · timer —"
+  },
+  {
+   "id": "S100",
+   "size": "Close-up",
+   "key": 31,
+   "len": 157,
+   "first": 9066,
+   "line": "At night, you see the numbers through the ceiling. Through the walls. Through the dark.",
+   "note": "Bedroom · Close-up · You in the dark · timer pills through ceiling"
+  },
+  {
+   "id": "S101",
+   "size": "Medium",
+   "key": 14,
+   "len": 68,
+   "first": 9223,
+   "line": "That night, you look in the mirror.",
+   "note": "Bedroom · Medium · You, mirror · timer —"
+  },
+  {
+   "id": "S102",
+   "size": "Extreme close-up",
+   "key": 9,
+   "len": 45,
+   "first": 9291,
+   "line": "Nothing above your head.",
+   "note": "Bedroom · Extreme close-up · Mirror (empty above head) · timer — (blank)"
+  },
+  {
+   "id": "S103",
+   "size": "Medium",
+   "key": 33,
+   "len": 166,
+   "first": 9336,
+   "line": "You turn. You stand on a chair. You hold up your phone. Nothing.",
+   "note": "Bedroom · Medium · You on chair, phone · timer — (blank)"
+  },
+  {
+   "id": "S104",
+   "size": "Medium",
+   "key": 11,
+   "len": 56,
+   "first": 9502,
+   "line": "You ask Sam what he sees.",
+   "note": "Bedroom · Medium · You, Sam · timer — (blank)"
+  },
+  {
+   "id": "S105",
+   "size": "Close-up",
+   "key": 17,
+   "len": 83,
+   "first": 9558,
+   "line": "\"Nothing,\" he says. \"Just you.\"",
+   "note": "Bedroom · Close-up · Sam · timer — (blank)"
+  },
+  {
+   "id": "S106",
+   "size": "Medium",
+   "key": 48,
+   "len": 242,
+   "first": 9641,
+   "line": "You try everything. The bathroom mirror. The window. A shop window. A puddle. A photo. Nothing.",
+   "note": "Bathroom · Medium · You · timer — (blank)"
+  },
+  {
+   "id": "S107",
+   "size": "Close-up",
+   "key": 60,
+   "len": 301,
+   "first": 9883,
+   "line": "You flip through old photos. Every head is blank. Even yours. Even then. Every photo. Every year. Every single one.",
+   "note": "Bedroom · Close-up · Old photos · timer — (blank)"
+  },
+  {
+   "id": "S108",
+   "size": "Wide",
+   "key": 34,
+   "len": 172,
+   "first": 10184,
+   "line": "You climb to the roof at dusk. The city glows with numbers. Yours is blank.",
+   "note": "Rooftop · Wide · City numbers · timer many pills"
+  },
+  {
+   "id": "S109",
+   "size": "Close-up",
+   "key": 30,
+   "len": 150,
+   "first": 10356,
+   "line": "The one number you actually want, the only one that matters, you'll never get.",
+   "note": "Rooftop · Close-up · You · timer — (blank)"
+  },
+  {
+   "id": "S110",
+   "size": "Extreme close-up",
+   "key": 9,
+   "len": 43,
+   "first": 10506,
+   "line": "You can't see your own.",
+   "note": "Rooftop · Extreme close-up · You · timer — (blank)"
+  },
+  {
+   "id": "S111",
+   "size": "Medium",
+   "key": 11,
+   "len": 55,
+   "first": 10549,
+   "line": "That's when you test it properly.",
+   "note": "School hallway · Medium · You · timer —"
+  },
+  {
+   "id": "S112",
+   "size": "Medium",
+   "key": 23,
+   "len": 116,
+   "first": 10604,
+   "line": "You stare at the man in the charcoal suit. You think of nothing but him.",
+   "note": "School hallway · Medium · You, suit man · timer 8912 (dim)"
+  },
+  {
+   "id": "S113",
+   "size": "Close-up",
+   "key": 20,
+   "len": 102,
+   "first": 10720,
+   "line": "His number stays dim. Flickering. Hard to read.",
+   "note": "School hallway · Close-up · Suit man's pill, dim · timer 8912 (dim)"
+  },
+  {
+   "id": "S114",
+   "size": "Extreme close-up",
+   "key": 23,
+   "len": 116,
+   "first": 10822,
+   "line": "8912. Like a light turned low.",
+   "note": "School hallway · Extreme close-up · Pill only · timer 8912 (dim)"
+  },
+  {
+   "id": "S115",
+   "size": "Medium",
+   "key": 19,
+   "len": 93,
+   "first": 10938,
+   "line": "You try to picture the barista's face. You can't.",
+   "note": "Café · Medium · You · timer —"
+  },
+  {
+   "id": "S116",
+   "size": "Close-up",
+   "key": 32,
+   "len": 162,
+   "first": 11031,
+   "line": "His number is a faint smudge. 12403. Barely there.",
+   "note": "Café · Close-up · Faint pill · timer 12403 (faint)"
+  },
+  {
+   "id": "S117",
+   "size": "Close-up",
+   "key": 19,
+   "len": 94,
+   "first": 11193,
+   "line": "You think of your sister. You don't even have to look.",
+   "note": "Home · Close-up · You · timer —"
+  },
+  {
+   "id": "S118",
+   "size": "Extreme close-up",
+   "key": 16,
+   "len": 79,
+   "first": 11287,
+   "line": "Fourteen burns so bright it hurts.",
+   "note": "Home · Extreme close-up · Pill burning bright · timer 14"
+  },
+  {
+   "id": "S119",
+   "size": "Close-up",
+   "key": 25,
+   "len": 127,
+   "first": 11366,
+   "line": "You'd finally know who matters. You were right. You just had it backwards.",
+   "note": "Home · Close-up · You · timer —"
+  },
+  {
+   "id": "S120",
+   "size": "Medium",
+   "key": 15,
+   "len": 73,
+   "first": 11493,
+   "line": "The timer never showed you everyone's death.",
+   "note": "Home · Medium · You · timer —"
+  },
+  {
+   "id": "S121",
+   "size": "Medium",
+   "key": 18,
+   "len": 88,
+   "first": 11566,
+   "line": "It only ever showed you the person at the front of your mind.",
+   "note": "Home · Medium · You · timer —"
+  },
+  {
+   "id": "S122",
+   "size": "Close-up",
+   "key": 25,
+   "len": 124,
+   "first": 11654,
+   "line": "It was never about their endings. It was about your attention.",
+   "note": "Home · Close-up · You · timer —"
+  },
+  {
+   "id": "S123",
+   "size": "Medium",
+   "key": 15,
+   "len": 74,
+   "first": 11778,
+   "line": "The numbers are a map of who you love.",
+   "note": "Home · Medium · You · timer —"
+  },
+  {
+   "id": "S124",
+   "size": "Medium",
+   "key": 22,
+   "len": 108,
+   "first": 11852,
+   "line": "Every number you've seen was someone you were already carrying with you.",
+   "note": "Home · Medium · You · timer —"
+  },
+  {
+   "id": "S125",
+   "size": "Wide",
+   "key": 47,
+   "len": 237,
+   "first": 11960,
+   "line": "Your whole week was a map. The barista. The mother. The baby. Sam. Maya. Mr. Ortiz.",
+   "note": "Home · Wide · Memory flashes: barista, mother, baby, Sam, Maya, Mr. Ortiz · timer 12403 / 41 / 19801 / 15204 / 17842 / 9412"
+  },
+  {
+   "id": "S126",
+   "size": "Close-up",
+   "key": 14,
+   "len": 68,
+   "first": 12197,
+   "line": "The brightest numbers are the people you love most.",
+   "note": "Home · Close-up · You · timer —"
+  },
+  {
+   "id": "S127",
+   "size": "Close-up",
+   "key": 20,
+   "len": 100,
+   "first": 12265,
+   "line": "Because those are the endings you already feel.",
+   "note": "Home · Close-up · You · timer —"
+  },
+  {
+   "id": "S128",
+   "size": "Extreme close-up",
+   "key": 23,
+   "len": 114,
+   "first": 12365,
+   "line": "You were never counting their days. You were counting your love.",
+   "note": "Home · Extreme close-up · You · timer —"
+  },
+  {
+   "id": "S129",
+   "size": "Medium",
+   "key": 13,
+   "len": 65,
+   "first": 12479,
+   "line": "\"Go talk to her,\" Sam says.",
+   "note": "School hallway · Medium · You, Sam · timer —"
+  },
+  {
+   "id": "S130",
+   "size": "Wide",
+   "key": 9,
+   "len": 46,
+   "first": 12544,
+   "line": "So you go to the diner.",
+   "note": "Street · Wide · You walking · timer —"
+  },
+  {
+   "id": "S131",
+   "size": "Medium wide",
+   "key": 30,
+   "len": 152,
+   "first": 12590,
+   "line": "The same booth. Dusk through the window. Two coffees. Still untouched.",
+   "note": "Diner booth · Medium wide · You, sister · timer 14"
+  },
+  {
+   "id": "S132",
+   "size": "Medium",
+   "key": 19,
+   "len": 95,
+   "first": 12742,
+   "line": "Your sister is there. Her timer says 14.",
+   "note": "Diner booth · Medium · Sister · timer 14"
+  },
+  {
+   "id": "S133",
+   "size": "Medium",
+   "key": 8,
+   "len": 36,
+   "first": 12837,
+   "line": "You sit down.",
+   "note": "Diner booth · Medium · You sitting · timer 14"
+  },
+  {
+   "id": "S134",
+   "size": "Close-up",
+   "key": 20,
+   "len": 98,
+   "first": 12873,
+   "line": "You speak. First words in three years.",
+   "note": "Diner booth · Close-up · You · timer 14"
+  },
+  {
+   "id": "S135",
+   "size": "Close-up",
+   "key": 8,
+   "len": 34,
+   "first": 12971,
+   "line": "\"You came.\"",
+   "note": "Diner booth · Close-up · Sister · timer 14"
+  },
+  {
+   "id": "S136",
+   "size": "Close-up",
+   "key": 8,
+   "len": 35,
+   "first": 13005,
+   "line": "\"I missed you.\"",
+   "note": "Diner booth · Close-up · Sister · timer 14"
+  },
+  {
+   "id": "S137",
+   "size": "Extreme close-up",
+   "key": 21,
+   "len": 106,
+   "first": 13040,
+   "line": "The number doesn't change. Fourteen is still fourteen.",
+   "note": "Diner booth · Extreme close-up · Sister's pill · timer 14"
+  },
+  {
+   "id": "S138",
+   "size": "Medium",
+   "key": 9,
+   "len": 47,
+   "first": 13146,
+   "line": "But you stop counting.",
+   "note": "Diner booth · Medium · You · timer 14"
+  },
+  {
+   "id": "S139",
+   "size": "Two-shot",
+   "key": 17,
+   "len": 84,
+   "first": 13193,
+   "line": "You ask her about her day. She laughs.",
+   "note": "Diner booth · Two-shot · You, sister · timer 14"
+  },
+  {
+   "id": "S140",
+   "size": "Close-up",
+   "key": 12,
+   "len": 58,
+   "first": 13277,
+   "line": "You forgot what that sounds like.",
+   "note": "Diner booth · Close-up · Sister laughing · timer 14"
+  },
+  {
+   "id": "S141",
+   "size": "Medium",
+   "key": 17,
+   "len": 84,
+   "first": 13335,
+   "line": "You stay for an hour. Then two.",
+   "note": "Diner booth · Medium · You, sister · timer 14"
+  },
+  {
+   "id": "S142",
+   "size": "Medium",
+   "key": 29,
+   "len": 143,
+   "first": 13419,
+   "line": "She tells you about school. About her friends. About the book she's reading.",
+   "note": "Diner booth · Medium · Sister talking · timer 14"
+  },
+  {
+   "id": "S143",
+   "size": "Close-up",
+   "key": 29,
+   "len": 144,
+   "first": 13562,
+   "line": "You tell her about the numbers. She doesn't laugh. She just listens.",
+   "note": "Diner booth · Close-up · You · timer 14"
+  },
+  {
+   "id": "S144",
+   "size": "Medium",
+   "key": 24,
+   "len": 122,
+   "first": 13706,
+   "line": "For the first time in three years, the table doesn't feel like a wall.",
+   "note": "Diner booth · Medium · You, sister · timer 14"
+  },
+  {
+   "id": "S145",
+   "size": "Close-up",
+   "key": 26,
+   "len": 128,
+   "first": 13828,
+   "line": "You can't add days to her number. But you can fill the days in it.",
+   "note": "Diner booth · Close-up · You · timer 14"
+  },
+  {
+   "id": "S146",
+   "size": "Medium",
+   "key": 21,
+   "len": 107,
+   "first": 13956,
+   "line": "The timer is still there. But you're not looking at it anymore.",
+   "note": "Diner booth · Medium · You, sister · timer 14"
+  },
+  {
+   "id": "S147",
+   "size": "Close-up",
+   "key": 10,
+   "len": 52,
+   "first": 14063,
+   "line": "You're looking at her.",
+   "note": "Diner booth · Close-up · You · timer —"
+  },
+  {
+   "id": "S148",
+   "size": "Close-up",
+   "key": 12,
+   "len": 62,
+   "first": 14115,
+   "line": "Connections give our days meaning.",
+   "note": "Diner booth · Close-up · You, sister · timer 14"
+  },
+  {
+   "id": "S149",
+   "size": "Medium",
+   "key": 18,
+   "len": 90,
+   "first": 14177,
+   "line": "The days don't matter. The people do.",
+   "note": "Diner booth · Medium · You, sister · timer 14"
+  },
+  {
+   "id": "S150",
+   "size": "Medium",
+   "key": 36,
+   "len": 180,
+   "first": 14267,
+   "line": "The next morning, you sit with Sam at lunch. And Maya. You don't check anyone's number.",
+   "note": "Cafeteria · Medium · You, Sam, Maya · timer —"
+  },
+  {
+   "id": "S151",
+   "size": "Wide",
+   "key": 31,
+   "len": 156,
+   "first": 14447,
+   "line": "Outside, the city glows with numbers. Thousands of them. All at once.",
+   "note": "Street · Wide · City numbers · timer many pills"
+  },
+  {
+   "id": "S152",
+   "size": "Wide",
+   "key": 25,
+   "len": 127,
+   "first": 14603,
+   "line": "You don't count them anymore. You just walk home. With your sister.",
+   "note": "Street · Wide · You, sister walking · timer —"
+  },
+  {
+   "id": "S153",
+   "size": "Wide",
+   "key": 17,
+   "len": 83,
+   "first": 14730,
+   "line": "She talks the whole way. You let her.",
+   "note": "Street · Wide · You, sister walking · timer —"
+  },
+  {
+   "id": "S154",
+   "size": "Wide",
+   "key": 21,
+   "len": 106,
+   "first": 14813,
+   "line": "Fourteen days. You plan to use every one of them.",
+   "note": "Street · Wide · You, sister walking · timer —"
+  },
+  {
+   "id": "S155",
+   "size": "Wide",
+   "key": 53,
+   "len": 106,
+   "first": 14919,
+   "line": "So... what would yours say? Tell us in the comments.",
+   "note": "Street · Wide · You, sister, comment-box end card · timer —"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 10,
+   "f": 412
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4,
+   "f": 527
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.5,
+   "f": 11287
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 8,
+   "f": 13040
+  }
+ ],
+ "audio": {
+  "voice": "death-count-full/voice.mp3",
+  "sfx": "death-count-full/sfx.mp3",
+  "music": "death-count-full/music.mp3"
+ }
+}

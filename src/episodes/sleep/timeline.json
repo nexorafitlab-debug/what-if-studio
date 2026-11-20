@@ -1,0 +1,315 @@
+{
+  "slug": "sleep",
+  "title": "WHAT IF YOU COULD NEVER SLEEP?",
+  "fps": 30,
+  "total": 900,
+  "segments": [
+    {
+      "shot": "Sh1",
+      "a": 0,
+      "b": 64,
+      "t0": 0,
+      "t1": 30,
+      "line": ""
+    },
+    {
+      "shot": "Sh2",
+      "a": 64,
+      "b": 160,
+      "t0": 0,
+      "t1": 45,
+      "line": ""
+    },
+    {
+      "shot": "Sh3",
+      "a": 160,
+      "b": 257,
+      "t0": 0,
+      "t1": 45,
+      "line": ""
+    },
+    {
+      "shot": "Sh4",
+      "a": 257,
+      "b": 353,
+      "t0": 0,
+      "t1": 45,
+      "line": ""
+    },
+    {
+      "shot": "Sh5",
+      "a": 353,
+      "b": 428,
+      "t0": 0,
+      "t1": 35,
+      "line": ""
+    },
+    {
+      "shot": "Sh6",
+      "a": 428,
+      "b": 492,
+      "t0": 0,
+      "t1": 30,
+      "line": ""
+    },
+    {
+      "shot": "Sh7",
+      "a": 492,
+      "b": 546,
+      "t0": 0,
+      "t1": 25,
+      "line": ""
+    },
+    {
+      "shot": "Sh8",
+      "a": 546,
+      "b": 578,
+      "t0": 0,
+      "t1": 15,
+      "line": ""
+    },
+    {
+      "shot": "Sh9",
+      "a": 578,
+      "b": 610,
+      "t0": 0,
+      "t1": 15,
+      "line": ""
+    },
+    {
+      "shot": "Sh10",
+      "a": 610,
+      "b": 642,
+      "t0": 0,
+      "t1": 15,
+      "line": ""
+    },
+    {
+      "shot": "Sh11",
+      "a": 642,
+      "b": 664,
+      "t0": 0,
+      "t1": 10,
+      "line": ""
+    },
+    {
+      "shot": "Sh12",
+      "a": 664,
+      "b": 685,
+      "t0": 0,
+      "t1": 10,
+      "line": ""
+    },
+    {
+      "shot": "Sh13",
+      "a": 685,
+      "b": 696,
+      "t0": 0,
+      "t1": 5,
+      "line": ""
+    },
+    {
+      "shot": "Sh14",
+      "a": 696,
+      "b": 707,
+      "t0": 0,
+      "t1": 5,
+      "line": ""
+    },
+    {
+      "shot": "Sh15",
+      "a": 707,
+      "b": 717,
+      "t0": 0,
+      "t1": 5,
+      "line": ""
+    },
+    {
+      "shot": "Sh16",
+      "a": 717,
+      "b": 739,
+      "t0": 0,
+      "t1": 10,
+      "line": ""
+    },
+    {
+      "shot": "Sh17",
+      "a": 739,
+      "b": 900,
+      "t0": 0,
+      "t1": 75,
+      "line": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "Sh1",
+      "size": "medium",
+      "key": 128,
+      "len": 64,
+      "first": 0,
+      "line": "",
+      "note": "Pip in bed, eyes open, clock visible, yawning, long hold"
+    },
+    {
+      "id": "Sh2",
+      "size": "macro insert",
+      "key": 64,
+      "len": 96,
+      "first": 64,
+      "line": "",
+      "note": "clock face, glowing digits, 03:00, slowly changing"
+    },
+    {
+      "id": "Sh3",
+      "size": "medium",
+      "key": 192,
+      "len": 96,
+      "first": 160,
+      "line": "",
+      "note": "Pip sitting up, rubbing eyes, stretching, long hold"
+    },
+    {
+      "id": "Sh4",
+      "size": "close-up",
+      "key": 154,
+      "len": 96,
+      "first": 257,
+      "line": "",
+      "note": "Pip's face, tired expression, dark circles, slow blinks"
+    },
+    {
+      "id": "Sh5",
+      "size": "medium wide",
+      "key": 257,
+      "len": 75,
+      "first": 353,
+      "line": "",
+      "note": "Pip at table, spreading out notes and a laptop, pages turning"
+    },
+    {
+      "id": "Sh6",
+      "size": "medium",
+      "key": 231,
+      "len": 64,
+      "first": 428,
+      "line": "",
+      "note": "Pip looking at phone, checking time, frowning, phone screen lighting"
+    },
+    {
+      "id": "Sh7",
+      "size": "low angle, medium",
+      "key": 321,
+      "len": 53,
+      "first": 492,
+      "line": "",
+      "note": "Pip on rooftop at dawn, sky lightening slowly, clouds moving"
+    },
+    {
+      "id": "Sh8",
+      "size": "extreme close-up",
+      "key": 154,
+      "len": 32,
+      "first": 546,
+      "line": "",
+      "note": "Pip's eye, pupil dilated, eyelid heavy, slow blink"
+    },
+    {
+      "id": "Sh9",
+      "size": "wide, low angle",
+      "key": 347,
+      "len": 32,
+      "first": 578,
+      "line": "",
+      "note": "Pip watching sunrise, arms spread, peaceful, slow head turn"
+    },
+    {
+      "id": "Sh10",
+      "size": "medium",
+      "key": 192,
+      "len": 32,
+      "first": 610,
+      "line": "",
+      "note": "Pip back in bed, eyes closed, relaxed, deep breath"
+    },
+    {
+      "id": "Sh11",
+      "size": "wide, low angle",
+      "key": 385,
+      "len": 21,
+      "first": 642,
+      "line": "",
+      "note": "Pip watching full sunrise, calm, sun rising fully"
+    },
+    {
+      "id": "Sh12",
+      "size": "medium",
+      "key": 231,
+      "len": 21,
+      "first": 664,
+      "line": "",
+      "note": "Pip sleeping, peaceful face, clock reads 08:00, sun rising outside"
+    },
+    {
+      "id": "Sh13",
+      "size": "medium",
+      "key": 257,
+      "len": 10,
+      "first": 685,
+      "line": "",
+      "note": "Pip sleeping soundly, peaceful, clock reads 08:30"
+    },
+    {
+      "id": "Sh14",
+      "size": "wide, low angle",
+      "key": 385,
+      "len": 10,
+      "first": 696,
+      "line": "",
+      "note": "Pip on rooftop at morning, full sun, birds singing"
+    },
+    {
+      "id": "Sh15",
+      "size": "medium",
+      "key": 321,
+      "len": 10,
+      "first": 707,
+      "line": "",
+      "note": "Pip sleeping soundly, peaceful, clock reads 09:00, morning light"
+    },
+    {
+      "id": "Sh16",
+      "size": "medium",
+      "key": 385,
+      "len": 21,
+      "first": 717,
+      "line": "",
+      "note": "Pip waking naturally, stretching, clock reads 09:30"
+    },
+    {
+      "id": "Sh17",
+      "size": "medium",
+      "key": 450,
+      "len": 160,
+      "first": 739,
+      "line": "",
+      "note": "Pip up and about, making coffee, day started"
+    }
+  ],
+  "fx": [
+    {
+      "kind": "flash",
+      "color": "#FFFFFF",
+      "f": 34
+    },
+    {
+      "kind": "shake",
+      "len": 6,
+      "amp": 8,
+      "f": 255
+    }
+  ],
+  "audio": {
+    "voice": "sleep/voice.mp3"
+  }
+}

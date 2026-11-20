@@ -1,0 +1,173 @@
+{
+ "slug": "timer-mind",
+ "title": "WHAT IF EVERYBODY COULD SEE THEIR DAYS LEFT ABOVE THEIR HEAD?",
+ "fps": 30,
+ "total": 1020,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 31,
+   "t0": 0,
+   "t1": 31,
+   "line": "You stare"
+  },
+  {
+   "shot": "S2",
+   "a": 31,
+   "b": 62,
+   "t0": 0,
+   "t1": 31,
+   "line": "at a"
+  },
+  {
+   "shot": "S3",
+   "a": 62,
+   "b": 93,
+   "t0": 0,
+   "t1": 31,
+   "line": "stranger Their timer"
+  },
+  {
+   "shot": "S4",
+   "a": 93,
+   "b": 125,
+   "t0": 0,
+   "t1": 32,
+   "line": "glows You"
+  },
+  {
+   "shot": "S5",
+   "a": 125,
+   "b": 157,
+   "t0": 0,
+   "t1": 32,
+   "line": "stare at"
+  },
+  {
+   "shot": "S6",
+   "a": 157,
+   "b": 183,
+   "t0": 0,
+   "t1": 26,
+   "line": "your friend"
+  },
+  {
+   "shot": "S7",
+   "a": 183,
+   "b": 213,
+   "t0": 0,
+   "t1": 30,
+   "line": ". Your"
+  },
+  {
+   "shot": "S8",
+   "a": 213,
+   "b": 1020,
+   "t0": 0,
+   "t1": 807,
+   "line": "own timer glows with days . Your mother walks in . Her timer says What if everyone could see their days left . One fact : a Stanford study found people value time differently when they see someone else life . That s real . So what will you count ?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 14,
+   "len": 31,
+   "first": 0,
+   "line": "You stare",
+   "note": "Pip walks in, looks up; a stranger's timer glows above his head"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "key": 20,
+   "len": 31,
+   "first": 31,
+   "line": "at a",
+   "note": "close on the stranger's face; golden timer pulses above him"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 30,
+   "len": 31,
+   "first": 62,
+   "line": "stranger Their timer",
+   "note": "Mo walks in; her timer glows above her; Pip smiles"
+  },
+  {
+   "id": "S4",
+   "size": "medium wide",
+   "key": 38,
+   "len": 32,
+   "first": 93,
+   "line": "glows You",
+   "note": "Pip thinks of Mo; her timer warms further; his own timer glows faintly"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 14,
+   "len": 32,
+   "first": 125,
+   "line": "stare at",
+   "note": "Pip's mother walks toward him; her timer glows 15678 days"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 26,
+   "len": 26,
+   "first": 157,
+   "line": "your friend",
+   "note": "Pip's eyes fill with tears thinking of childhood; both timers glow brighter"
+  },
+  {
+   "id": "S7",
+   "size": "title, wide",
+   "key": 52,
+   "len": 30,
+   "first": 183,
+   "line": ". Your",
+   "note": "city at dusk; timers above strangers; Pip looks up"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 38,
+   "len": 807,
+   "first": 213,
+   "line": "own timer glows with days . Your mother walks in . Her timer says What if everyone could see their days left . One fact : a Stanford study found people value time differently when they see someone else life . That s real . So what will you count ?",
+   "note": "Pip concerned; his timer glows brighter as he looks at someone else's"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFD700",
+   "o": 0.3,
+   "f": 37
+  },
+  {
+   "kind": "flash",
+   "color": "#FFA500",
+   "o": 0.3,
+   "f": 101
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6B6B",
+   "o": 0.4,
+   "f": 163
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 8,
+   "f": 213
+  }
+ ],
+ "audio": {}
+}

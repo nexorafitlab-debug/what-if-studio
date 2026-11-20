@@ -1,0 +1,122 @@
+{
+  "id": "DeathTimer",
+  "slug": "death_timer",
+  "topic": "What if you could see a death count above everyone's head showing their days left?",
+  "title": ["WHAT IF YOU COULD", "SEE EVERYONE'S COUNT?"],
+  "accent": "COUNT",
+  "power": {
+    "word": "Count.",
+    "rule": "a glowing number above every head, counting down their days",
+    "look": "a soft red counter above each head, digits fading in on focus"
+  },
+  "script": [
+    {
+      "beat": "1 cold open, demo 1 (small and selfish)",
+      "text": "You check the cashier: 12,403. You tip extra."
+    },
+    {
+      "beat": "1 cold open, demo 2 (useful)",
+      "text": "You scan the subway. A mother: 42. Her baby: 19,801. You give up your seat."
+    },
+    {
+      "beat": "1 cold open, demo 3 (a little uncanny)",
+      "text": "You stare at your sister across the table. Her timer blinks 14. You haven't spoken in three years."
+    },
+    {
+      "beat": "2 the premise (title card)",
+      "text": "What if you could see a death count above everyone's head?"
+    },
+    {
+      "beat": "3 the fun part, one line",
+      "text": "You'd finally know who matters."
+    },
+    {
+      "beat": "4 the turn: the hidden rule, one real fact",
+      "text": "One catch: the timer counts whoever you're thinking of — right now. That's real."
+    },
+    {
+      "beat": "7 cliffhanger",
+      "text": "Part 1."
+    }
+  ],
+  "science": [
+    {
+      "claim": "The timer reads the person you're thinking about, not you.",
+      "working": "Narrative rule, not a scientific claim. The twist reframes the power from self-focused to other-focused, making every glance a choice about whose time you're witnessing.",
+      "source": "Original story rule"
+    }
+  ],
+  "cast": ["pipHood", "sis", "suit"],
+  "shots": [
+    { "id": "S1", "size": "medium", "set": "kitchen", "key": 18, "note": "Pip at a cafe counter; the barista's timer (12403) glows red above their head; Pip reaches for the tip jar" },
+    { "id": "S2", "size": "macro insert, high angle", "set": "kitchen (counter top)", "key": 10, "note": "coins drop into the tip jar; the barista's timer pulses once" },
+    { "id": "S3", "size": "wide", "set": "study", "key": 26, "note": "subway car, low sun through windows; a mother (42) holds a baby (19801); Pip stands, gestures to seat" },
+    { "id": "S4", "size": "medium, over the shoulder", "set": "study", "key": 20, "note": "Pip's POV: red timers above every head; Pip's hand enters frame, offering seat" },
+    { "id": "S5", "size": "medium wide", "set": "kitchen", "key": 22, "note": "diner booth, dusk through window; Pip across from sister (timer 14 blinking); both silent, untouched coffee" },
+    { "id": "S6", "size": "extreme close-up", "set": "kitchen", "key": 8, "note": "the sister's timer: 14, digits trembling down to 13" },
+    { "id": "S7", "size": "title, wide", "set": "rooftop", "key": 48, "note": "the premise over the city at dusk; Pip on the roof" },
+    { "id": "S8", "size": "medium, low angle", "set": "rooftop", "key": 14, "note": "Pip looks up, realisation; Pip's timer counts down behind them" },
+    { "id": "S9", "size": "close-up", "set": "kitchen", "key": 16, "note": "the man in the charcoal suit at the next table (timer 8912) lowers his paper; eyes locked on Pip" },
+    { "id": "S10", "size": "wide, low angle", "set": "rooftop", "key": 45, "note": "the city timers flicker; title card: PART 1" }
+  ],
+  "edit": [
+    { "shot": "S1", "at": "f:0" },
+    { "shot": "S2", "at": "f:31" },
+    { "shot": "S3", "at": "f:62" },
+    { "shot": "S4", "at": "f:93" },
+    { "shot": "S5", "at": "f:125" },
+    { "shot": "S6", "at": "f:157" },
+    { "shot": "S7", "at": "f:183" },
+    { "shot": "S8", "at": "f:213" },
+    { "shot": "S9", "at": "f:237" },
+    { "shot": "S10", "at": "f:263" }
+  ],
+  "end": "f:300",
+  "tail": 1.0,
+  "fx": [
+    { "at": "f:36", "kind": "flash", "color": "#FF6B6B", "o": 0.4 },
+    { "at": "f:146", "kind": "flash", "color": "#FF6B6B", "o": 0.5 },
+    { "at": "f:298", "kind": "flash", "color": "#FF6B6B" },
+    { "at": "f:430", "kind": "flash", "color": "#FF6B6B" },
+    { "at": "f:500", "kind": "shake", "len": 8, "amp": 12 }
+  ],
+  "sound": {
+    "clips": {
+      "coin_drop": ["a coin dropping into a glass tip jar, bright metallic clink", 0.4],
+      "timer_pulse": ["a soft digital pulse, a subtle electronic blink sound", 0.3],
+      "subway_ambience": ["subway car interior, low rumble, distant brakes, muffled voices", 8.0],
+      "seat_offer": ["fabric rustle as someone stands and gestures, a soft shoe scuff", 0.6],
+      "timer_blink": ["a tiny digital glitch as numbers change, almost inaudible", 0.2],
+      "title_boom": ["a cinematic whoosh rising into a deep boom impact", 1.6],
+      "diner_ambience": ["quiet evening diner, faint clink of cups, distant kitchen hum", 6.0],
+      "paper_lower": ["newspaper being lowered slowly, crisp paper rustle", 0.7],
+      "heartbeat": ["a single slow heartbeat, muffled, intimate", 0.9],
+      "roof_wind": ["a gentle evening breeze on a city rooftop, distant traffic", 7.0],
+      "glitch": ["a short digital glitch, an electric buzz and crackle flickering like an unstable hologram", 1.0],
+      "drone_hit": ["a dark ominous low drone hit, deep cinematic horror sting", 2.6],
+      "music": ["playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals", 12.0],
+      "music_dark": ["ominous slow cello drone with sparse piano, minor key, cinematic tension, 60 bpm, no vocals", 20.0]
+    },
+    "events": [
+      ["f:0", "diner_ambience", 0.15, "onset", "f:183"],
+      ["f:10", "timer_pulse", 0.25],
+      ["f:31+5", "coin_drop", 0.5],
+      ["f:31+6", "timer_pulse", 0.2],
+      ["f:62", "subway_ambience", 0.12, "onset", "f:183"],
+      ["f:62+8", "timer_pulse", 0.18],
+      ["f:93+6", "seat_offer", 0.4],
+      ["f:125+12", "timer_blink", 0.15],
+      ["f:157+2", "timer_blink", 0.3],
+      ["f:157+3", "heartbeat", 0.25, "onset", "f:183"],
+      ["f:183", "title_boom", 0.4, "peak"],
+      ["f:183", "roof_wind", 0.15, "onset", "f:263"],
+      ["f:183", "music", 0.25, "onset", "f:237"],
+      ["f:237", "diner_ambience", 0.18, "onset", "f:263"],
+      ["f:237+6", "paper_lower", 0.35],
+      ["f:237+14", "timer_pulse", 0.2]
+    ],
+    "repeats": [],
+    "music": { "clip": "music", "until": "f:213" },
+    "levels": { "sfx_lu": -0.5, "music_lu": -10.0 }
+  }
+}

@@ -1,0 +1,211 @@
+{
+ "slug": "death_timer",
+ "title": "WHAT IF YOU COULD SEE EVERYONE'S COUNT?",
+ "fps": 30,
+ "total": 300,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 31,
+   "t0": 0,
+   "t1": 31,
+   "line": ""
+  },
+  {
+   "shot": "S2",
+   "a": 31,
+   "b": 62,
+   "t0": 0,
+   "t1": 31,
+   "line": ""
+  },
+  {
+   "shot": "S3",
+   "a": 62,
+   "b": 93,
+   "t0": 0,
+   "t1": 31,
+   "line": ""
+  },
+  {
+   "shot": "S4",
+   "a": 93,
+   "b": 125,
+   "t0": 0,
+   "t1": 32,
+   "line": ""
+  },
+  {
+   "shot": "S5",
+   "a": 125,
+   "b": 157,
+   "t0": 0,
+   "t1": 32,
+   "line": ""
+  },
+  {
+   "shot": "S6",
+   "a": 157,
+   "b": 183,
+   "t0": 0,
+   "t1": 26,
+   "line": ""
+  },
+  {
+   "shot": "S7",
+   "a": 183,
+   "b": 213,
+   "t0": 0,
+   "t1": 30,
+   "line": ""
+  },
+  {
+   "shot": "S8",
+   "a": 213,
+   "b": 237,
+   "t0": 0,
+   "t1": 24,
+   "line": ""
+  },
+  {
+   "shot": "S9",
+   "a": 237,
+   "b": 263,
+   "t0": 0,
+   "t1": 26,
+   "line": ""
+  },
+  {
+   "shot": "S10",
+   "a": 263,
+   "b": 300,
+   "t0": 0,
+   "t1": 37,
+   "line": ""
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium",
+   "key": 18,
+   "len": 31,
+   "first": 0,
+   "line": "",
+   "note": "Pip at a cafe counter; the barista's timer (12403) glows red above their head; Pip reaches for the tip jar"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "key": 10,
+   "len": 31,
+   "first": 31,
+   "line": "",
+   "note": "coins drop into the tip jar; the barista's timer pulses once"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 26,
+   "len": 31,
+   "first": 62,
+   "line": "",
+   "note": "subway car, low sun through windows; a mother (42) holds a baby (19801); Pip stands, gestures to seat"
+  },
+  {
+   "id": "S4",
+   "size": "medium, over the shoulder",
+   "key": 20,
+   "len": 32,
+   "first": 93,
+   "line": "",
+   "note": "Pip's POV: red timers above every head; Pip's hand enters frame, offering seat"
+  },
+  {
+   "id": "S5",
+   "size": "medium wide",
+   "key": 22,
+   "len": 32,
+   "first": 125,
+   "line": "",
+   "note": "diner booth, dusk through window; Pip across from sister (timer 14 blinking); both silent, untouched coffee"
+  },
+  {
+   "id": "S6",
+   "size": "extreme close-up",
+   "key": 8,
+   "len": 26,
+   "first": 157,
+   "line": "",
+   "note": "the sister's timer: 14, digits trembling down to 13"
+  },
+  {
+   "id": "S7",
+   "size": "title, wide",
+   "key": 48,
+   "len": 30,
+   "first": 183,
+   "line": "",
+   "note": "the premise over the city at dusk; Pip on the roof"
+  },
+  {
+   "id": "S8",
+   "size": "medium, low angle",
+   "key": 14,
+   "len": 24,
+   "first": 213,
+   "line": "",
+   "note": "Pip looks up, realisation; Pip's timer counts down behind them"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 16,
+   "len": 26,
+   "first": 237,
+   "line": "",
+   "note": "the man in the charcoal suit at the next table (timer 8912) lowers his paper; eyes locked on Pip"
+  },
+  {
+   "id": "S10",
+   "size": "wide, low angle",
+   "key": 45,
+   "len": 37,
+   "first": 263,
+   "line": "",
+   "note": "the city timers flicker; title card: PART 1"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FF6B6B",
+   "o": 0.4,
+   "f": 36
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6B6B",
+   "o": 0.5,
+   "f": 146
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6B6B",
+   "f": 298
+  },
+  {
+   "kind": "flash",
+   "color": "#FF6B6B",
+   "f": 430
+  },
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 12,
+   "f": 500
+  }
+ ],
+ "audio": {}
+}

@@ -1,0 +1,205 @@
+{
+ "slug": "death-count",
+ "title": "WHAT IF YOU COULD SEE EVERYONE'S DEATH COUNT?",
+ "fps": 30,
+ "total": 861,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 108,
+   "t0": 0,
+   "t1": 108,
+   "line": "You check the Stranger's timer, 12403,"
+  },
+  {
+   "shot": "S2",
+   "a": 108,
+   "b": 141,
+   "t0": 0,
+   "t1": 33,
+   "line": "you tip extra,"
+  },
+  {
+   "shot": "S3",
+   "a": 141,
+   "b": 317,
+   "t0": 0,
+   "t1": 176,
+   "line": "you scan the subway car, mother 42, baby, 19801, so"
+  },
+  {
+   "shot": "S4",
+   "a": 317,
+   "b": 359,
+   "t0": 0,
+   "t1": 42,
+   "line": "you give up your seat. You"
+  },
+  {
+   "shot": "S5",
+   "a": 359,
+   "b": 424,
+   "t0": 0,
+   "t1": 65,
+   "line": "stare at your sister across the table, her timer"
+  },
+  {
+   "shot": "S6",
+   "a": 424,
+   "b": 527,
+   "t0": 0,
+   "t1": 103,
+   "line": "blinks 14. You haven't spoken in three years."
+  },
+  {
+   "shot": "S7",
+   "a": 527,
+   "b": 623,
+   "t0": 0,
+   "t1": 96,
+   "line": "What if you could see a death count above everyone's head? You'd"
+  },
+  {
+   "shot": "S8",
+   "a": 623,
+   "b": 679,
+   "t0": 0,
+   "t1": 56,
+   "line": "finally know who matters."
+  },
+  {
+   "shot": "S9",
+   "a": 679,
+   "b": 813,
+   "t0": 0,
+   "t1": 134,
+   "line": "One catch, the timer counts whoever you're thinking of right now. That's real."
+  },
+  {
+   "shot": "S10",
+   "a": 813,
+   "b": 861,
+   "t0": 0,
+   "t1": 48,
+   "line": "Part one."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium",
+   "key": 18,
+   "len": 108,
+   "first": 0,
+   "line": "You check the Stranger's timer, 12403,",
+   "note": "Pip at a cafe counter; the barista's timer (12403) glows red above their head; Pip reaches for the tip jar"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "key": 10,
+   "len": 33,
+   "first": 108,
+   "line": "you tip extra,",
+   "note": "coins drop into the tip jar; the barista's timer pulses once"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 26,
+   "len": 176,
+   "first": 141,
+   "line": "you scan the subway car, mother 42, baby, 19801, so",
+   "note": "subway car, low sun through windows; a mother (42) holds a baby (19801); Pip stands, gestures to seat"
+  },
+  {
+   "id": "S4",
+   "size": "medium, over the shoulder",
+   "key": 20,
+   "len": 42,
+   "first": 317,
+   "line": "you give up your seat. You",
+   "note": "Pip's POV: red timers above every head; Pip's hand enters frame, offering seat"
+  },
+  {
+   "id": "S5",
+   "size": "medium wide",
+   "key": 22,
+   "len": 65,
+   "first": 359,
+   "line": "stare at your sister across the table, her timer",
+   "note": "diner booth, dusk through window; Pip across from sister (timer 14 blinking); both silent, untouched coffee"
+  },
+  {
+   "id": "S6",
+   "size": "extreme close-up",
+   "key": 8,
+   "len": 103,
+   "first": 424,
+   "line": "blinks 14. You haven't spoken in three years.",
+   "note": "the sister's timer: 14, digits trembling down to 13"
+  },
+  {
+   "id": "S7",
+   "size": "title, wide",
+   "key": 48,
+   "len": 96,
+   "first": 527,
+   "line": "What if you could see a death count above everyone's head? You'd",
+   "note": "the premise over the city at dusk; Pip on the roof"
+  },
+  {
+   "id": "S8",
+   "size": "medium, low angle",
+   "key": 14,
+   "len": 56,
+   "first": 623,
+   "line": "finally know who matters.",
+   "note": "Pip looks up, realisation; Pip's timer counts down behind them"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 16,
+   "len": 134,
+   "first": 679,
+   "line": "One catch, the timer counts whoever you're thinking of right now. That's real.",
+   "note": "the man in the charcoal suit at the next table (timer 8912) lowers his paper; eyes locked on Pip"
+  },
+  {
+   "id": "S10",
+   "size": "wide, low angle",
+   "key": 45,
+   "len": 48,
+   "first": 813,
+   "line": "Part one.",
+   "note": "the city timers flicker; title card: PART 1"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 10,
+   "f": 424
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4,
+   "f": 527
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.5,
+   "f": 557
+  }
+ ],
+ "audio": {
+  "voice": "death-count/voice.mp3",
+  "sfx": "death-count/sfx.mp3",
+  "music": "death-count/music.mp3"
+ }
+}

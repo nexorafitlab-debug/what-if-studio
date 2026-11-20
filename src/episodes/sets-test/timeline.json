@@ -1,0 +1,287 @@
+{
+  "slug": "sets-test",
+  "title": [
+    "SETS",
+    "TEST"
+  ],
+  "fps": 30,
+  "total": 480,
+  "segments": [
+    {
+      "shot": "S1",
+      "a": 0,
+      "b": 30,
+      "t0": 0,
+      "t1": 30,
+      "line": "LivingRoom"
+    },
+    {
+      "shot": "S2",
+      "a": 30,
+      "b": 60,
+      "t0": 0,
+      "t1": 30,
+      "line": "Workshop"
+    },
+    {
+      "shot": "S3",
+      "a": 60,
+      "b": 90,
+      "t0": 0,
+      "t1": 30,
+      "line": "Hospital"
+    },
+    {
+      "shot": "S4",
+      "a": 90,
+      "b": 120,
+      "t0": 0,
+      "t1": 30,
+      "line": "HospitalGrey"
+    },
+    {
+      "shot": "S5",
+      "a": 120,
+      "b": 150,
+      "t0": 0,
+      "t1": 30,
+      "line": "Cafe"
+    },
+    {
+      "shot": "S6",
+      "a": 150,
+      "b": 180,
+      "t0": 0,
+      "t1": 30,
+      "line": "Bus"
+    },
+    {
+      "shot": "S7",
+      "a": 180,
+      "b": 210,
+      "t0": 0,
+      "t1": 30,
+      "line": "Airplane"
+    },
+    {
+      "shot": "S8",
+      "a": 210,
+      "b": 240,
+      "t0": 0,
+      "t1": 30,
+      "line": "Cinema"
+    },
+    {
+      "shot": "S9",
+      "a": 240,
+      "b": 270,
+      "t0": 0,
+      "t1": 30,
+      "line": "Bowling"
+    },
+    {
+      "shot": "S10",
+      "a": 270,
+      "b": 300,
+      "t0": 0,
+      "t1": 30,
+      "line": "Park"
+    },
+    {
+      "shot": "S11",
+      "a": 300,
+      "b": 330,
+      "t0": 0,
+      "t1": 30,
+      "line": "Street"
+    },
+    {
+      "shot": "S12",
+      "a": 330,
+      "b": 360,
+      "t0": 0,
+      "t1": 30,
+      "line": "Stadium"
+    },
+    {
+      "shot": "S13",
+      "a": 360,
+      "b": 390,
+      "t0": 0,
+      "t1": 30,
+      "line": "Fairground"
+    },
+    {
+      "shot": "S14",
+      "a": 390,
+      "b": 420,
+      "t0": 0,
+      "t1": 30,
+      "line": "RainyStreet"
+    },
+    {
+      "shot": "S15",
+      "a": 420,
+      "b": 450,
+      "t0": 0,
+      "t1": 30,
+      "line": "Bathroom"
+    },
+    {
+      "shot": "S16",
+      "a": 450,
+      "b": 480,
+      "t0": 0,
+      "t1": 30,
+      "line": "Calendar"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 0,
+      "line": "LivingRoom",
+      "note": "living room at dusk"
+    },
+    {
+      "id": "S2",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 30,
+      "line": "Workshop",
+      "note": "bike repair workshop"
+    },
+    {
+      "id": "S3",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 60,
+      "line": "Hospital",
+      "note": "hospital ward, colour"
+    },
+    {
+      "id": "S4",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 90,
+      "line": "HospitalGrey",
+      "note": "hospital ward, greyscale"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 120,
+      "line": "Cafe",
+      "note": "corner cafe"
+    },
+    {
+      "id": "S6",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 150,
+      "line": "Bus",
+      "note": "bus interior"
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 180,
+      "line": "Airplane",
+      "note": "airplane cabin"
+    },
+    {
+      "id": "S8",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 210,
+      "line": "Cinema",
+      "note": "cinema, dark"
+    },
+    {
+      "id": "S9",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 240,
+      "line": "Bowling",
+      "note": "bowling alley party"
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 270,
+      "line": "Park",
+      "note": "park at dusk"
+    },
+    {
+      "id": "S11",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 300,
+      "line": "Street",
+      "note": "evening street with shops"
+    },
+    {
+      "id": "S12",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 330,
+      "line": "Stadium",
+      "note": "stadium at night"
+    },
+    {
+      "id": "S13",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 360,
+      "line": "Fairground",
+      "note": "fairground at dusk"
+    },
+    {
+      "id": "S14",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 390,
+      "line": "RainyStreet",
+      "note": "rainy street / bus stop"
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 420,
+      "line": "Bathroom",
+      "note": "bathroom, mirror"
+    },
+    {
+      "id": "S16",
+      "size": "wide",
+      "key": 20,
+      "len": 30,
+      "first": 450,
+      "line": "Calendar",
+      "note": "calendar macro insert"
+    }
+  ],
+  "fx": [],
+  "audio": {}
+}
