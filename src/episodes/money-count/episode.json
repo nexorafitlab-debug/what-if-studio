@@ -258,7 +258,11 @@
     },
     {
       "at": "Eight",
-      "shot": "S62"
+      "shot": "S62a"
+    },
+    {
+      "at": "blink",
+      "shot": "S62b"
     },
     {
       "at": "imagined",
@@ -1116,11 +1120,18 @@
       "size": "close-up"
     },
     {
-      "id": "S62",
+      "id": "S62a",
       "key": 30,
-      "note": "Macro insert on the dark void: $8,412,009 HUGE in gold with glow, digits ticking into place; no face, just the number",
+      "note": "Macro insert on the dark void: $8,412,009 builds in three steps as the hero reads it - $8,000,000, then $8,412,000, then $8,412,009 - gold with glow",
       "set": "dark void",
       "size": "macro insert"
+    },
+    {
+      "id": "S62b",
+      "key": 20,
+      "note": "Close-up: hero blinks, shocked, on the stairwell - the mopping man turns the corner and is gone",
+      "set": "stairwell",
+      "size": "close-up"
     },
     {
       "id": "S63",

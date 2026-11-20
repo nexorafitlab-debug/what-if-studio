@@ -61,7 +61,7 @@ type Spec = {
   chars: CharSpec[]; pills: PillSpec[]; seed: number;
   banner?: string; redLabel?: string; title?: [string, string]; accent?: string;
   titleSize?: number; titleY?: number;
-  macro?: { n?: string; lines?: string[]; outline: string; s?: number; curve?: boolean; glow?: boolean };
+  macro?: { n?: string; lines?: string[]; outline: string; s?: number; curve?: boolean; glow?: boolean; tick?: TickSpec };
   textLines?: string[]; art?: string; prop?: string; propAt?: [number, number]; propS?: number;
   mugs?: [number, number][]; fries?: [number, number][]; bill?: [number, number];
   phone?: [number, number];
@@ -542,7 +542,7 @@ const GenericShot: React.FC<ShotProps & { spec: Spec }> = ({ t, spec }) => {
       <g transform={camT(960, 540, 1.0)}>
         <Back spec={spec} t={t} />
         <Count x={960} y={300} n="$40" t={t} outline={WHITE} glow s={1.1} />
-        <TitleCard t={t} lines={spec.title ?? ['', '']} accent={spec.accent} y={430} size={100} />
+        <TitleCard t={t} lines={spec.title ?? ['', '']} accent={spec.accent} y={430} size={spec.titleSize ?? 100} />
       </g>
     );
   }
@@ -552,7 +552,7 @@ const GenericShot: React.FC<ShotProps & { spec: Spec }> = ({ t, spec }) => {
     return (
       <g transform={camT(960, 540, 1.0)}>
         {bg}
-        {m.n ? <Count x={960} y={440} n={m.n} t={t} outline={m.outline} glow={m.glow} s={m.s ?? 2.2} /> : null}
+        {m.n ? <Count x={960} y={440} n={m.n} t={t} outline={m.outline} glow={m.glow} s={m.s ?? 2.2} tick={m.tick} /> : null}
         {m.lines ? m.lines.map((ln, i) => (
           <text key={i} x={960} y={m.n ? 720 + i * 80 : 420 + i * 90} fontFamily={FONT.title} fontWeight={700} fontSize={m.n ? 44 : 72} fill={GOLD} textAnchor="middle" style={{ filter: 'drop-shadow(0 0 18px rgba(255,200,69,0.6))' }}>
             {ln}
@@ -1105,7 +1105,8 @@ const SPECS: Record<string, Spec> = {
    "WHAT IF YOU COULD SEE",
    "HOW MUCH MONEY EVERYONE HAS?"
   ],
-  "accent": "MONEY"
+  "accent": "MONEY",
+  "titleSize": 64
  },
  "S16": {
   "kind": "scene",
@@ -2570,7 +2571,7 @@ const SPECS: Record<string, Spec> = {
   ],
   "seed": 61
  },
- "S62": {
+ "S62a": {
   "kind": "macro",
   "set": "void",
   "size": "macro insert",
@@ -2579,13 +2580,41 @@ const SPECS: Record<string, Spec> = {
   "cy": 540,
   "chars": [],
   "pills": [],
-  "seed": 62,
+  "seed": 1062,
   "macro": {
    "n": "$8,412,009",
    "outline": "#FFC845",
    "glow": true,
-   "s": 2.2
+   "s": 2.2,
+   "tick": {
+    "values": [
+     "$8,000,000",
+     "$8,412,000",
+     "$8,412,009"
+    ],
+    "step": 57
+   }
   }
+ },
+ "S62b": {
+  "kind": "scene",
+  "set": "stairwell",
+  "size": "close-up",
+  "zoom": 1.15,
+  "cx": 900,
+  "cy": 540,
+  "chars": [
+   {
+    "look": "hero",
+    "facing": 1,
+    "expr": "shock",
+    "x": 900,
+    "y": 780,
+    "scale": 1.25
+   }
+  ],
+  "pills": [],
+  "seed": 2062
  },
  "S63": {
   "kind": "scene",
@@ -5349,8 +5378,10 @@ export const S59: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S
 export const S60: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S60} />;
 // ---------- S61: close-up · stairwell — Close-up: above the mopping man's head, a pill so big it crowds the frame; hero's eyes go wide
 export const S61: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S61} />;
-// ---------- S62: macro insert · dark void — Macro insert on the dark void: $8,412,009 HUGE in gold with glow, digits ticking into place; no face, just the
-export const S62: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S62} />;
+// ---------- S62a: macro insert · dark void — Macro insert on the dark void: $8,412,009 builds in three steps as the hero reads it - $8,000,000, then $8,412
+export const S62a: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S62a} />;
+// ---------- S62b: close-up · stairwell — Close-up: hero blinks, shocked, on the stairwell - the mopping man turns the corner and is gone
+export const S62b: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S62b} />;
 // ---------- S63: medium · stairwell — Medium: hero blinks hard and shakes his head; the mopping man turns the corner and is gone; empty hallway
 export const S63: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S63} />;
 // ---------- S64: close-up · stairwell — Close-up: hero alone in the hallway, muttering to himself; his face says he imagined it

@@ -25,8 +25,8 @@ ep = json.loads((EP / 'episode.json').read_text())
 NOTES = {s['id']: s['note'] for s in ep['shots']}
 SETS = {s['id']: s['set'] for s in ep['shots']}
 SIZES = {s['id']: s['size'] for s in ep['shots']}
-IDS = [f'S{i}' for i in range(1, 159)]
-assert [s['id'] for s in ep['shots']] == IDS, 'episode.json shot ids are not S1..S158'
+IDS = [f'S{i}' for i in range(1, 62)] + ['S62a', 'S62b'] + [f'S{i}' for i in range(63, 159)]
+assert [s['id'] for s in ep['shots']] == IDS, 'episode.json shot ids are not S1..S158 + S62a/S62b'
 
 GREEN = '#3ED598'
 ORANGE = '#FF8A3D'
@@ -105,7 +105,10 @@ def shot(id, chars=(), pills=(), kind='scene', **kw):
          'zoom': ZOOM[size],
          'cx': chars[0]['x'] if chars and size in ('close-up', 'extreme close-up') else 960,
          'cy': 540,
-         'chars': chars, 'pills': list(pills), 'seed': int(id[1:])}
+         'chars': chars, 'pills': list(pills),
+         'seed': (lambda _n, _s: _n + (ord(_s) - 96) * 1000 if _s else _n)(
+             int(''.join(c for c in id[1:] if c.isdigit())),
+             ''.join(c for c in id[1:] if c.isalpha()))}
     d.update(kw)
     SPECS[id] = d
     return d
@@ -139,7 +142,7 @@ shot('S14', [ch('hero', 960, e='shock')] + crowd(
     [(420, 'kid1', '$12,400'), (700, 'kid2', '$312'), (1150, 'kid3', '$86,000'),
      (1500, 'kid1', '$40')]))
 shot('S15', kind='title', title=['WHAT IF YOU COULD SEE', 'HOW MUCH MONEY EVERYONE HAS?'],
-     accent='MONEY')
+     accent='MONEY', titleSize=64)
 # Beat 2 — the rules / the test (Mom -$112, Sam -$2.50)
 # ------------------------------------------------------------
 shot('S16', [ch('hero', 850, armR={'a': -60, 'b': -20}), ch('sam', 1200)],
@@ -224,7 +227,9 @@ shot('S59', [ch('hero', walk=True)] + crowd(
 shot('S60', [ch('ellis', 1100, f=-1), ch('hero', 650, e='shock')])
 shot('S61', [ch('ellis', 960, 850, 1.3)],
      pills=[pl(960, 300, '$8,412,009', GOLD, s=1.6, glow=True)])
-shot('S62', kind='macro', macro={'n': '$8,412,009', 'outline': GOLD, 'glow': True, 's': 2.2})
+shot('S62a', kind='macro', macro={'n': '$8,412,009', 'outline': GOLD, 'glow': True, 's': 2.2,
+     'tick': {'values': ['$8,000,000', '$8,412,000', '$8,412,009'], 'step': 57}})
+shot('S62b', [ch('hero', 900, e='shock')])
 shot('S63', [ch('hero', 900, e='worried')])
 shot('S64', [ch('hero', e='worried')])
 # Beat 4 — the science ($75,000 and giving)
@@ -471,7 +476,7 @@ type Spec = {
   chars: CharSpec[]; pills: PillSpec[]; seed: number;
   banner?: string; redLabel?: string; title?: [string, string]; accent?: string;
   titleSize?: number; titleY?: number;
-  macro?: { n?: string; lines?: string[]; outline: string; s?: number; curve?: boolean; glow?: boolean };
+  macro?: { n?: string; lines?: string[]; outline: string; s?: number; curve?: boolean; glow?: boolean; tick?: TickSpec };
   textLines?: string[]; art?: string; prop?: string; propAt?: [number, number]; propS?: number;
   mugs?: [number, number][]; fries?: [number, number][]; bill?: [number, number];
   phone?: [number, number];
@@ -954,7 +959,7 @@ const GenericShot: React.FC<ShotProps & { spec: Spec }> = ({ t, spec }) => {
       <g transform={camT(960, 540, 1.0)}>
         <Back spec={spec} t={t} />
         <Count x={960} y={300} n="$40" t={t} outline={WHITE} glow s={1.1} />
-        <TitleCard t={t} lines={spec.title ?? ['', '']} accent={spec.accent} y={430} size={100} />
+        <TitleCard t={t} lines={spec.title ?? ['', '']} accent={spec.accent} y={430} size={spec.titleSize ?? 100} />
       </g>
     );
   }
@@ -964,7 +969,7 @@ const GenericShot: React.FC<ShotProps & { spec: Spec }> = ({ t, spec }) => {
     return (
       <g transform={camT(960, 540, 1.0)}>
         {bg}
-        {m.n ? <Count x={960} y={440} n={m.n} t={t} outline={m.outline} glow={m.glow} s={m.s ?? 2.2} /> : null}
+        {m.n ? <Count x={960} y={440} n={m.n} t={t} outline={m.outline} glow={m.glow} s={m.s ?? 2.2} tick={m.tick} /> : null}
         {m.lines ? m.lines.map((ln, i) => (
           <text key={i} x={960} y={m.n ? 720 + i * 80 : 420 + i * 90} fontFamily={FONT.title} fontWeight={700} fontSize={m.n ? 44 : 72} fill={GOLD} textAnchor="middle" style={{ filter: 'drop-shadow(0 0 18px rgba(255,200,69,0.6))' }}>
             {ln}

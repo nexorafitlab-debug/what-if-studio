@@ -493,12 +493,20 @@
       "line": "brain."
     },
     {
-      "shot": "S62",
+      "shot": "S62a",
       "a": 6270,
+      "b": 6441,
+      "t0": 0,
+      "t1": 171,
+      "line": "eight million, four hundred and twelve thousand, and nine dollars. You"
+    },
+    {
+      "shot": "S62b",
+      "a": 6441,
       "b": 6567,
       "t0": 0,
-      "t1": 297,
-      "line": "eight million, four hundred and twelve thousand, and nine dollars. You blink, he turns the corner. Gone, you tell yourself you"
+      "t1": 126,
+      "line": "blink, he turns the corner. Gone, you tell yourself you"
     },
     {
       "shot": "S63",
@@ -1820,13 +1828,22 @@
       "note": "Close-up: above the mopping man's head, a pill so big it crowds the frame; hero's eyes go wide"
     },
     {
-      "id": "S62",
+      "id": "S62a",
       "size": "macro insert",
       "key": 30,
-      "len": 297,
+      "len": 171,
       "first": 6270,
-      "line": "eight million, four hundred and twelve thousand, and nine dollars. You blink, he turns the corner. Gone, you tell yourself you",
-      "note": "Macro insert on the dark void: $8,412,009 HUGE in gold with glow, digits ticking into place; no face, just the number"
+      "line": "eight million, four hundred and twelve thousand, and nine dollars. You",
+      "note": "Macro insert on the dark void: $8,412,009 builds in three steps as the hero reads it - $8,000,000, then $8,412,000, then $8,412,009 - gold with glow"
+    },
+    {
+      "id": "S62b",
+      "size": "close-up",
+      "key": 20,
+      "len": 126,
+      "first": 6441,
+      "line": "blink, he turns the corner. Gone, you tell yourself you",
+      "note": "Close-up: hero blinks, shocked, on the stairwell - the mopping man turns the corner and is gone"
     },
     {
       "id": "S63",
