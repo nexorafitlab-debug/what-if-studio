@@ -1,4 +1,5 @@
 import React from 'react';
+import { staticFile } from 'remotion';
 import {
   Hero, poseAt, kf, easeOut, faceAt, FONT, Look,
   TitleCard, Foreground, camT, ShotProps,
@@ -6,6 +7,16 @@ import {
   RainyStreet, Bathroom, Calendar, Classroom, CLS, SchoolDesk,
   Study, STUDY, Bus, BUS, Bedroom, BEDROOM, Street, STREET, Stairwell,
 } from '../../engine';
+
+/* Pre-blurred set backgrounds (public/death-count-2min/blurred/*.png, baked
+   with ffmpeg gblur sigma 16 from set-alone stills of the BlurredSets
+   composition): the live SVG blur16 filter races in Chrome and tiles frames
+   3x3, so close-ups use a baked still instead. The <image> sits inside the
+   shot's camT group exactly where the blurred set was, so framing is
+   unchanged. Characters, pills and foreground keep all their motion. */
+const BlurBg: React.FC<{ src: string }> = ({ src }) => (
+  <image x={0} y={0} width={1920} height={1080} href={staticFile(src)} />
+);
 
 /* ------------------------------------------------------------------ */
 /* IFINITE LOOKS — solid BLACK round heads, white dot eyes, thin stick */
@@ -225,9 +236,7 @@ export const S2: React.FC<ShotProps> = ({ t }) => {
   const secs = Math.max(0, 3 - Math.floor(t / 30));
   return (
     <g transform={camT(980, 560, 1.5)}>
-      <g filter="url(#blur16)">
-        <RainyStreet t={t} />
-      </g>
+      <BlurBg src="death-count-2min/blurred/rainy.png" />
       <Hero look={SAM} pose={{ ...sam, ...faceAt(t, [[0, 'neutral'], [14, 'shock']]) }} shadow={0} rimId="rimBlue" />
       <Hero look={MAN} pose={{ ...man, ...faceAt(t, [[0, 'neutral'], [14, 'shock']]) }} shadow={0} rimId="rimBlue" />
       <Count x={manHead.x} y={manHead.y} n={`00:00:00:0${secs}`} t={t} outline={RED} pulse />
@@ -404,9 +413,7 @@ export const S9: React.FC<ShotProps> = ({ t }) => {
   const bigY = headTop - 21 * lily.scale - 12 * 2.6 - 24 * 2.6;
   return (
     <g transform={camT(960, 540, 1.0)}>
-      <g filter="url(#blur16)">
-        <Kitchen t={t} id="k9" veil={0.3} />
-      </g>
+      <BlurBg src="death-count-2min/blurred/kitchen.png" />
       <Hero look={LILY} pose={{ ...lily, ...faceAt(t, [[0, 'neutral'], [30, 'worried']]) }} shadow={0} rimId="rimR" />
       <Count x={960} y={150} n="81 YRS 4 MO" t={t} outline={GREEN} s={0.9} />
       <g>
@@ -466,9 +473,7 @@ export const S12: React.FC<ShotProps> = ({ t }) => {
   const alexHead = above(alex);
   return (
     <g transform={camT(960, 540, 1.15)}>
-      <g filter="url(#blur16)">
-        <Classroom t={t} id="c12" />
-      </g>
+      <BlurBg src="death-count-2min/blurred/classroom.png" />
       <Hero look={ALEX} pose={{ ...alex, ...faceAt(t, [[0, 'happy'], [40, 'neutral']]) }} shadow={0} rimId="rimR" />
       <Count x={alexHead.x} y={alexHead.y} n="15204" t={t} outline={GREEN} />
     </g>
@@ -509,9 +514,7 @@ export const S14: React.FC<ShotProps> = ({ t }) => {
   const drop = t < 30 ? null : { x: 880 + ((t - 30) % 12) * 2, y: 700 + ((t - 30) % 12) * 6 };
   return (
     <g transform={camT(960, 560, 1.3)}>
-      <g filter="url(#blur16)">
-        <Stairwell t={t} id="s14" />
-      </g>
+      <BlurBg src="death-count-2min/blurred/stairwell.png" />
       <DeadPlant x={1080} y={860} s={1.5} />
       {drop ? <circle cx={drop.x} cy={drop.y} r={5} fill="#9FC0FF" opacity={0.8} /> : null}
       <Hero look={ORTIZ} pose={{ ...ortiz, ...faceAt(t, [[0, 'neutral'], [25, 'happy']]) }} shadow={0} rimId="rimR" />
@@ -556,9 +559,7 @@ export const S16: React.FC<ShotProps> = ({ t }) => {
   const nbY = maya.y + 60;
   return (
     <g transform={camT(960, 540, 1.15)}>
-      <g filter="url(#blur16)">
-        <Study t={t} id="st16" veil={0.35} />
-      </g>
+      <BlurBg src="death-count-2min/blurred/study.png" />
       {/* the notebook, handwritten pages */}
       <g transform={`translate(${nbX} ${nbY}) rotate(-4)`}>
         <rect x={-90} y={-60} width={180} height={120} rx={8} fill="#F4F1EA" stroke="#14101E" strokeWidth={3} />
@@ -615,9 +616,7 @@ export const S18: React.FC<ShotProps> = ({ t }) => {
   const momHead = above(mom);
   return (
     <g transform={camT(960, 540, 1.15)}>
-      <g filter="url(#blur16)">
-        <Bus t={t} id="b18" />
-      </g>
+      <BlurBg src="death-count-2min/blurred/bus.png" />
       <Hero look={MOTHER} pose={{ ...mom, ...faceAt(t, [[0, 'worried']]) }} shadow={0} rimId="rimR" />
       <Count x={momHead.x} y={momHead.y} n="41" t={t} outline={RED} pulse />
     </g>
@@ -635,9 +634,7 @@ export const S19: React.FC<ShotProps> = ({ t }) => {
   const babyHead = above(baby);
   return (
     <g transform={camT(960, 540, 1.15)}>
-      <g filter="url(#blur16)">
-        <Bus t={t} id="b19" />
-      </g>
+      <BlurBg src="death-count-2min/blurred/bus.png" />
       <Hero look={MOTHER} pose={{ ...mom, ...faceAt(t, [[0, 'neutral']]) }} shadow={0} rimId="rimR" />
       <Hero look={BABY} pose={{ ...baby, ...faceAt(t, [[0, 'happy']]) }} shadow={0} rimId="rimR" />
       <Count x={babyHead.x} y={babyHead.y} n="19801" t={t} outline={GREEN} />
@@ -717,9 +714,7 @@ export const S22: React.FC<ShotProps> = ({ t }) => {
   const mayaHead = above(maya);
   return (
     <g transform={camT(960, 540, 1.15)}>
-      <g filter="url(#blur16)">
-        <Classroom t={t} id="c22" />
-      </g>
+      <BlurBg src="death-count-2min/blurred/classroom.png" />
       <Hero look={ALEX} pose={{ ...alex, ...faceAt(t, [[0, 'happy']]) }} shadow={0} rimId="rimR" />
       <Hero look={MAYA} pose={{ ...maya, ...faceAt(t, [[0, 'happy']]) }} shadow={0} rimId="rimR" />
       <Count x={alexHead.x} y={alexHead.y} n="15204" t={t} outline={GREEN} />
@@ -825,9 +820,7 @@ export const S26: React.FC<ShotProps> = ({ t }) => {
   const alexHead = above(alex);
   return (
     <g transform={camT(960, 540, 1.15)}>
-      <g filter="url(#blur16)">
-        <Classroom t={t} id="c26" />
-      </g>
+      <BlurBg src="death-count-2min/blurred/classroom.png" />
       <Hero look={SAM} pose={{ ...sam, ...faceAt(t, [[0, 'worried']]) }} shadow={0} rimId="rimR" />
       <Hero look={ALEX} pose={{ ...alex, ...faceAt(t, [[0, 'neutral']]) }} shadow={0} rimId="rimR" />
       <Count x={alexHead.x} y={alexHead.y} n="15204" t={t} outline={GREEN} s={1.5} />
@@ -845,9 +838,7 @@ export const S27: React.FC<ShotProps> = ({ t }) => {
   const alexHead = above(alex);
   return (
     <g transform={camT(960, 540, 1.15)}>
-      <g filter="url(#blur16)">
-        <Classroom t={t} id="c27" />
-      </g>
+      <BlurBg src="death-count-2min/blurred/classroom.png" />
       <Hero look={ALEX} pose={{ ...alex, ...faceAt(t, [[0, 'happy'], [25, 'neutral'], [45, 'worried']]) }} shadow={0} rimId="rimR" />
       <Count x={alexHead.x} y={alexHead.y} n="15204" t={t} outline={GREEN} />
     </g>
@@ -887,9 +878,7 @@ export const S29: React.FC<ShotProps> = ({ t }) => {
   const alexHead = above(alex);
   return (
     <g transform={camT(960, 540, 1.15)}>
-      <g filter="url(#blur16)">
-        <Classroom t={t} id="c29" />
-      </g>
+      <BlurBg src="death-count-2min/blurred/classroom.png" />
       <Hero look={ALEX} pose={{ ...alex, ...faceAt(t, [[0, 'tired']]) }} shadow={0} rimId="rimR" />
       <Count x={alexHead.x} y={alexHead.y} n="15204" t={t} outline={GREEN} />
     </g>
@@ -985,9 +974,7 @@ export const S32: React.FC<ShotProps> = ({ t }) => {
   ]);
   return (
     <g transform={camT(960, 540, 1.15)}>
-      <g filter="url(#blur16)">
-        <Classroom t={t} id="c32" />
-      </g>
+      <BlurBg src="death-count-2min/blurred/classroom.png" />
       <Hero look={SAM} pose={{ ...sam, ...faceAt(t, [[0, 'worried'], [25, 'oops'], [50, 'tired']]) }} shadow={0} rimId="rimR" />
     </g>
   );
@@ -1052,9 +1039,7 @@ export const S35: React.FC<ShotProps> = ({ t }) => {
   ]);
   return (
     <g transform={camT(960, 700, 1.6)}>
-      <g filter="url(#blur16)">
-        <Bedroom t={t} id="bd35" veil={0.35} lamp={0.4} />
-      </g>
+      <BlurBg src="death-count-2min/blurred/bedroom.png" />
       <Hero look={SAM} pose={{ ...sam, ...faceAt(t, [[0, 'worried']]) }} shadow={0} rimId="rimBlue" />
     </g>
   );

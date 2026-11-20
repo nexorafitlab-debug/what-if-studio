@@ -20,8 +20,10 @@
 #      -14. Mixing the raw stems first and then loudnorming caps out at
 #      about -15.6 LUFS (measured 2026-11-20) — do not do that.
 #   3. Mix the music + sfx stems in AFTER loudnorm, at their measured levels
-#      (music volume 1.0, sfx volume 0.1 — the stems are pre-attenuated and
-#      the sfx sit ~20 dB under the music in the approved final). They add
+#      (music volume 1.0, sfx volume 1.0 — in the approved 30s final the sfx
+#      sit well ABOVE the music: SFX mean -38.8 dB vs music -57.0 dB, so the
+#      sfx stem mixes at full volume; at 0.1 it lands at ~-62.7 dB = inaudible
+#      — that was the 2-min video's missing-SFX bug, fixed 2026-11-20). They add
 #      negligible energy, so the loudness stays at ~-14 LUFS.
 #   4. Downscale to 1280x720 (the delivery size).
 #   5. Verify duration + frame count against total_frames and print the
@@ -63,7 +65,7 @@ ffmpeg -y -v error -i "$CHUNK_DIR/stitched-1080p.mp4" -c:v copy -af "$FILT" \
   -ar 48000 -c:a aac -b:a 256k norm-1080p.mp4
 
 # --- 3. mix music + sfx stems in (after loudnorm, at measured levels) -------
-# music at 1.0, sfx at 0.1. Stems are looked up as .mp3 first, then .wav.
+# music at 1.0, sfx at 1.0 (sfx sit ABOVE the music in the approved final — see header). Stems are looked up as .mp3 first, then .wav.
 INPUTS=(-i norm-1080p.mp4)
 VOL_FILTERS=()
 MIX_IN="[0:a]"
@@ -72,7 +74,7 @@ IDX=1
 for stem in music sfx; do
   F="public/$SLUG/$stem.mp3"; [ -f "$F" ] || F="public/$SLUG/$stem.wav"
   [ -f "$F" ] || continue
-  if [ "$stem" = "music" ]; then VOL=1.0; else VOL=0.1; fi
+  VOL=1.0
   INPUTS+=(-i "$F")
   VOL_FILTERS+=("[$IDX:a]volume=$VOL[v$IDX]")
   MIX_IN="$MIX_IN[v$IDX]"
