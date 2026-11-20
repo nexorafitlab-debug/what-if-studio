@@ -902,28 +902,28 @@
       "id": "S31",
       "key": 20,
       "note": "Medium school corridor next morning: Sam buys a snack at the machine; hero watches; Sam's orange $212.50 pill above his head",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "medium"
     },
     {
       "id": "S32",
       "key": 20,
       "note": "Close-up: Sam's orange pill ticks down $2.50 to $210.00, flashing red, as he takes the snack",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "close-up"
     },
     {
       "id": "S33",
       "key": 20,
       "note": "Medium: Sam grins and taps his shoe; hero laughs; Sam's $210.00 pill above him; snack in hand",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "medium"
     },
     {
       "id": "S34",
       "key": 20,
       "note": "Close-up: Sam taps his shoe twice, dead serious then grinning; the crumpled five tucked inside; his $210.00 pill above",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "close-up"
     },
     {
@@ -1014,84 +1014,84 @@
       "id": "S47",
       "key": 20,
       "note": "Medium school hallway: a kid feeds two dollars into the snack machine; hero watches from the side",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "medium"
     },
     {
       "id": "S48",
       "key": 20,
       "note": "Close-up: the kid's pill ticks down $2, flashing red, as the snack drops; hero's eyes track it (kid's starting balance never given)",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "close-up"
     },
     {
       "id": "S49",
       "key": 20,
       "note": "Wide hallway: pills above every passing head, ticking as money moves; hero stands still, watching them all",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "wide"
     },
     {
       "id": "S50",
       "key": 20,
       "note": "Close-up: hero's face, thrilled; a pill ticks above a passer-by behind him; his eyes shine",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "close-up"
     },
     {
       "id": "S51",
       "key": 20,
       "note": "Medium: hero peeks around a locker at a kid counting cash; his face shifts thrilled to uneasy",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "medium"
     },
     {
       "id": "S52",
       "key": 20,
       "note": "Medium hallway: Derek the captain strides past, new shoes gleaming; crowd parts around him; hero watches",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "medium"
     },
     {
       "id": "S53",
       "key": 20,
       "note": "Close-up: Derek's brand-new shoes, then his dad's car keys in his hand; students stare enviously",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "close-up"
     },
     {
       "id": "S54",
       "key": 20,
       "note": "Wide hallway: everybody turns to watch Derek pass; hero among them; Derek soaks it up",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "wide"
     },
     {
       "id": "S55",
       "key": 30,
       "note": "Extreme close-up: Derek's pill HUGE, red and pulsing $0.00, nearly touching his head; blurred hallway behind",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "extreme close-up"
     },
     {
       "id": "S56",
       "key": 20,
       "note": "Close-up: hero stares at Derek's red $0.00 pill, mouth open; Derek notices and frowns",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "close-up"
     },
     {
       "id": "S57",
       "key": 20,
       "note": "Close-up: Derek turns on hero, suspicious; his red $0.00 pill pulses above him",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "close-up"
     },
     {
       "id": "S58",
       "key": 20,
       "note": "Medium: hero looks away fast, forced casual smile; Derek's $0.00 pill still pulsing above him",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "medium"
     },
     {
@@ -1168,14 +1168,14 @@
       "id": "S69",
       "key": 20,
       "note": "Dark void: a graph line climbs steeply, then flattens; a question mark pops above it",
-      "set": "dark void",
+      "set": "schematic",
       "size": "close-up"
     },
     {
       "id": "S70",
       "key": 30,
       "note": "Macro insert on the void: $75,000 HUGE in glowing gold; a happiness curve rising beneath it",
-      "set": "dark void",
+      "set": "schematic",
       "size": "macro insert"
     },
     {
@@ -1238,7 +1238,7 @@
       "id": "S79",
       "key": 20,
       "note": "Dark void: a green pill climbs to a gold line marked $75,000 and stops; yellow banner MONEY HELPS, UP TO A POINT",
-      "set": "dark void",
+      "set": "schematic",
       "size": "medium"
     },
     {
@@ -1434,21 +1434,21 @@
       "id": "S107",
       "key": 20,
       "note": "Medium school corridor next day: hero walks with Sam; hero looks sideways at Sam, about to ask",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "medium"
     },
     {
       "id": "S108",
       "key": 20,
       "note": "Close-up: Sam shrugs, unbothered; his orange $210.00 pill above him; hero glances up at his own empty head",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "close-up"
     },
     {
       "id": "S109",
       "key": 20,
       "note": "Close-up: hero's face as it hits him; eyes widen, mouth stills; blurred corridor behind",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "close-up"
     },
     {
@@ -1476,7 +1476,7 @@
       "id": "S113",
       "key": 20,
       "note": "Medium: Mrs. Hale sets a coffee on the janitor's cart, smiling; her green $12,400 pill above her; hero watches",
-      "set": "classroom",
+      "set": "stairwell",
       "size": "medium"
     },
     {

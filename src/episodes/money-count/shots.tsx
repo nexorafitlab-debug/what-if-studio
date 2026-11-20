@@ -1560,7 +1560,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S31": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "medium",
   "zoom": 0.95,
   "cx": 960,
@@ -1590,7 +1590,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S32": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "close-up",
   "zoom": 1.15,
   "cx": 960,
@@ -1620,7 +1620,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S33": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "medium",
   "zoom": 0.95,
   "cx": 960,
@@ -1650,7 +1650,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S34": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "close-up",
   "zoom": 1.15,
   "cx": 960,
@@ -2043,7 +2043,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S47": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "medium",
   "zoom": 0.95,
   "cx": 960,
@@ -2077,7 +2077,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S48": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "close-up",
   "zoom": 1.15,
   "cx": 960,
@@ -2106,7 +2106,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S49": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "wide",
   "zoom": 0.85,
   "cx": 960,
@@ -2172,7 +2172,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S50": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "close-up",
   "zoom": 1.15,
   "cx": 960,
@@ -2200,7 +2200,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S51": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "medium",
   "zoom": 0.95,
   "cx": 960,
@@ -2230,7 +2230,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S52": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "medium",
   "zoom": 0.95,
   "cx": 960,
@@ -2281,7 +2281,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S53": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "close-up",
   "zoom": 1.15,
   "cx": 960,
@@ -2309,7 +2309,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S54": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "wide",
   "zoom": 0.85,
   "cx": 960,
@@ -2360,7 +2360,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S55": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "extreme close-up",
   "zoom": 1.5,
   "cx": 960,
@@ -2389,7 +2389,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S56": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "close-up",
   "zoom": 1.15,
   "cx": 850,
@@ -2420,7 +2420,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S57": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "close-up",
   "zoom": 1.15,
   "cx": 960,
@@ -2443,7 +2443,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S58": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "medium",
   "zoom": 0.95,
   "cx": 960,
@@ -2707,7 +2707,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S69": {
   "kind": "scene",
-  "set": "void",
+  "set": "schematic",
   "size": "close-up",
   "zoom": 1.15,
   "cx": 960,
@@ -2719,7 +2719,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S70": {
   "kind": "macro",
-  "set": "void",
+  "set": "schematic",
   "size": "macro insert",
   "zoom": 1.0,
   "cx": 960,
@@ -2884,7 +2884,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S79": {
   "kind": "scene",
-  "set": "void",
+  "set": "schematic",
   "size": "medium",
   "zoom": 0.95,
   "cx": 960,
@@ -3757,7 +3757,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S107": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "medium",
   "zoom": 0.95,
   "cx": 960,
@@ -3789,7 +3789,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S108": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "close-up",
   "zoom": 1.15,
   "cx": 900,
@@ -3819,7 +3819,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S109": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "close-up",
   "zoom": 1.15,
   "cx": 960,
@@ -3916,7 +3916,7 @@ const SPECS: Record<string, Spec> = {
  },
  "S113": {
   "kind": "scene",
-  "set": "classroom",
+  "set": "stairwell",
   "size": "medium",
   "zoom": 0.95,
   "cx": 960,
@@ -5287,13 +5287,13 @@ export const S28: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S
 export const S29: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S29} />;
 // ---------- S30: extreme close-up · kitchen — Extreme close-up: Mom's pill drops $112 in a single blink, flashing red; her face calm, unaware (her starting 
 export const S30: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S30} />;
-// ---------- S31: medium · classroom — Medium school corridor next morning: Sam buys a snack at the machine; hero watches; Sam's orange $212.50 pill 
+// ---------- S31: medium · stairwell — Medium school corridor next morning: Sam buys a snack at the machine; hero watches; Sam's orange $212.50 pill 
 export const S31: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S31} />;
-// ---------- S32: close-up · classroom — Close-up: Sam's orange pill ticks down $2.50 to $210.00, flashing red, as he takes the snack
+// ---------- S32: close-up · stairwell — Close-up: Sam's orange pill ticks down $2.50 to $210.00, flashing red, as he takes the snack
 export const S32: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S32} />;
-// ---------- S33: medium · classroom — Medium: Sam grins and taps his shoe; hero laughs; Sam's $210.00 pill above him; snack in hand
+// ---------- S33: medium · stairwell — Medium: Sam grins and taps his shoe; hero laughs; Sam's $210.00 pill above him; snack in hand
 export const S33: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S33} />;
-// ---------- S34: close-up · classroom — Close-up: Sam taps his shoe twice, dead serious then grinning; the crumpled five tucked inside; his $210.00 pi
+// ---------- S34: close-up · stairwell — Close-up: Sam taps his shoe twice, dead serious then grinning; the crumpled five tucked inside; his $210.00 pi
 export const S34: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S34} />;
 // ---------- S35: wide · classroom — Wide classroom: hero scans the room; a pill above every head; yellow banner THE EXPERIMENT
 export const S35: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S35} />;
@@ -5319,29 +5319,29 @@ export const S44: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S
 export const S45: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S45} />;
 // ---------- S46: close-up · study — Close-up: Mr. Grant alone at his desk, tray untouched; his green $86,000 pill above; cold office light
 export const S46: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S46} />;
-// ---------- S47: medium · classroom — Medium school hallway: a kid feeds two dollars into the snack machine; hero watches from the side
+// ---------- S47: medium · stairwell — Medium school hallway: a kid feeds two dollars into the snack machine; hero watches from the side
 export const S47: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S47} />;
-// ---------- S48: close-up · classroom — Close-up: the kid's pill ticks down $2, flashing red, as the snack drops; hero's eyes track it (kid's starting
+// ---------- S48: close-up · stairwell — Close-up: the kid's pill ticks down $2, flashing red, as the snack drops; hero's eyes track it (kid's starting
 export const S48: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S48} />;
-// ---------- S49: wide · classroom — Wide hallway: pills above every passing head, ticking as money moves; hero stands still, watching them all
+// ---------- S49: wide · stairwell — Wide hallway: pills above every passing head, ticking as money moves; hero stands still, watching them all
 export const S49: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S49} />;
-// ---------- S50: close-up · classroom — Close-up: hero's face, thrilled; a pill ticks above a passer-by behind him; his eyes shine
+// ---------- S50: close-up · stairwell — Close-up: hero's face, thrilled; a pill ticks above a passer-by behind him; his eyes shine
 export const S50: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S50} />;
-// ---------- S51: medium · classroom — Medium: hero peeks around a locker at a kid counting cash; his face shifts thrilled to uneasy
+// ---------- S51: medium · stairwell — Medium: hero peeks around a locker at a kid counting cash; his face shifts thrilled to uneasy
 export const S51: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S51} />;
-// ---------- S52: medium · classroom — Medium hallway: Derek the captain strides past, new shoes gleaming; crowd parts around him; hero watches
+// ---------- S52: medium · stairwell — Medium hallway: Derek the captain strides past, new shoes gleaming; crowd parts around him; hero watches
 export const S52: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S52} />;
-// ---------- S53: close-up · classroom — Close-up: Derek's brand-new shoes, then his dad's car keys in his hand; students stare enviously
+// ---------- S53: close-up · stairwell — Close-up: Derek's brand-new shoes, then his dad's car keys in his hand; students stare enviously
 export const S53: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S53} />;
-// ---------- S54: wide · classroom — Wide hallway: everybody turns to watch Derek pass; hero among them; Derek soaks it up
+// ---------- S54: wide · stairwell — Wide hallway: everybody turns to watch Derek pass; hero among them; Derek soaks it up
 export const S54: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S54} />;
-// ---------- S55: extreme close-up · classroom — Extreme close-up: Derek's pill HUGE, red and pulsing $0.00, nearly touching his head; blurred hallway behind
+// ---------- S55: extreme close-up · stairwell — Extreme close-up: Derek's pill HUGE, red and pulsing $0.00, nearly touching his head; blurred hallway behind
 export const S55: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S55} />;
-// ---------- S56: close-up · classroom — Close-up: hero stares at Derek's red $0.00 pill, mouth open; Derek notices and frowns
+// ---------- S56: close-up · stairwell — Close-up: hero stares at Derek's red $0.00 pill, mouth open; Derek notices and frowns
 export const S56: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S56} />;
-// ---------- S57: close-up · classroom — Close-up: Derek turns on hero, suspicious; his red $0.00 pill pulses above him
+// ---------- S57: close-up · stairwell — Close-up: Derek turns on hero, suspicious; his red $0.00 pill pulses above him
 export const S57: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S57} />;
-// ---------- S58: medium · classroom — Medium: hero looks away fast, forced casual smile; Derek's $0.00 pill still pulsing above him
+// ---------- S58: medium · stairwell — Medium: hero looks away fast, forced casual smile; Derek's $0.00 pill still pulsing above him
 export const S58: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S58} />;
 // ---------- S59: medium · stairwell — Medium school hallway (stairwell set): hero walks between classes, crowd streaming past; lockers, afternoon li
 export const S59: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S59} />;
@@ -5363,9 +5363,9 @@ export const S66: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S
 export const S67: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S67} />;
 // ---------- S68: medium wide · dark void — Dark void text card: KAHNEMAN & DEATON, 2010; thousands of tiny head outlines below
 export const S68: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S68} />;
-// ---------- S69: close-up · dark void — Dark void: a graph line climbs steeply, then flattens; a question mark pops above it
+// ---------- S69: close-up · schematic — Dark void: a graph line climbs steeply, then flattens; a question mark pops above it
 export const S69: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S69} />;
-// ---------- S70: macro insert · dark void — Macro insert on the void: $75,000 HUGE in glowing gold; a happiness curve rising beneath it
+// ---------- S70: macro insert · schematic — Macro insert on the void: $75,000 HUGE in glowing gold; a happiness curve rising beneath it
 export const S70: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S70} />;
 // ---------- S71: medium · dark void — Dark void: the gold $75,000 line goes flat; the curve stops climbing; red label THEN IT STOPS
 export const S71: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S71} />;
@@ -5383,7 +5383,7 @@ export const S76: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S
 export const S77: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S77} />;
 // ---------- S78: medium · dark void — Dark void: yellow banner TWO THINGS; two gold pills side by side
 export const S78: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S78} />;
-// ---------- S79: medium · dark void — Dark void: a green pill climbs to a gold line marked $75,000 and stops; yellow banner MONEY HELPS, UP TO A POI
+// ---------- S79: medium · schematic — Dark void: a green pill climbs to a gold line marked $75,000 and stops; yellow banner MONEY HELPS, UP TO A POI
 export const S79: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S79} />;
 // ---------- S80: medium · dark void — Dark void: coins flow from one hand to another; the giver's face glows warmer; yellow banner GIVING FEELS BETT
 export const S80: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S80} />;
@@ -5439,11 +5439,11 @@ export const S104: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.
 export const S105: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S105} />;
 // ---------- S106: extreme close-up · bathroom — Extreme close-up: hero's eyes in the mirror; empty dark above his head; no pill, no number
 export const S106: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S106} />;
-// ---------- S107: medium · classroom — Medium school corridor next day: hero walks with Sam; hero looks sideways at Sam, about to ask
+// ---------- S107: medium · stairwell — Medium school corridor next day: hero walks with Sam; hero looks sideways at Sam, about to ask
 export const S107: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S107} />;
-// ---------- S108: close-up · classroom — Close-up: Sam shrugs, unbothered; his orange $210.00 pill above him; hero glances up at his own empty head
+// ---------- S108: close-up · stairwell — Close-up: Sam shrugs, unbothered; his orange $210.00 pill above him; hero glances up at his own empty head
 export const S108: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S108} />;
-// ---------- S109: close-up · classroom — Close-up: hero's face as it hits him; eyes widen, mouth stills; blurred corridor behind
+// ---------- S109: close-up · stairwell — Close-up: hero's face as it hits him; eyes widen, mouth stills; blurred corridor behind
 export const S109: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S109} />;
 // ---------- S110: medium · classroom — Medium: hero looks back down the week, quick flash of the cafeteria tables, pills above heads; his face grim
 export const S110: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S110} />;
@@ -5451,7 +5451,7 @@ export const S110: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.
 export const S111: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S111} />;
 // ---------- S112: close-up · classroom — Close-up: hero's face, the worse part dawning; his eyes drop
 export const S112: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S112} />;
-// ---------- S113: medium · classroom — Medium: Mrs. Hale sets a coffee on the janitor's cart, smiling; her green $12,400 pill above her; hero watches
+// ---------- S113: medium · stairwell — Medium: Mrs. Hale sets a coffee on the janitor's cart, smiling; her green $12,400 pill above her; hero watches
 export const S113: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S113} />;
 // ---------- S114: medium · classroom — Medium cafeteria: Maya shares her fries with a new kid; her orange $312 pill above her; hero watches
 export const S114: React.FC<ShotProps> = (p) => <GenericShot {...p} spec={SPECS.S114} />;
