@@ -1,0 +1,188 @@
+{
+  "slug": "money-count-30s",
+  "title": "WHAT IF YOU COULD SEE HOW MUCH MONEY EVERYONE HAS?",
+  "fps": 30,
+  "total": 985,
+  "segments": [
+    {
+      "shot": "S1",
+      "a": 0,
+      "b": 98,
+      "t0": 0,
+      "t1": 98,
+      "line": "You are standing in the lunch line when it happens. Above the"
+    },
+    {
+      "shot": "S2",
+      "a": 98,
+      "b": 173,
+      "t0": 0,
+      "t1": 75,
+      "line": "cashier's head, a number appears,"
+    },
+    {
+      "shot": "S3",
+      "a": 173,
+      "b": 320,
+      "t0": 0,
+      "t1": 147,
+      "line": "$40. It floats there, soft and white, like a price tag in the air."
+    },
+    {
+      "shot": "S4",
+      "a": 320,
+      "b": 414,
+      "t0": 0,
+      "t1": 94,
+      "line": "Nobody else looks up, nobody else can see it. You"
+    },
+    {
+      "shot": "S5",
+      "a": 414,
+      "b": 496,
+      "t0": 0,
+      "t1": 82,
+      "line": "blink, the number stays. Mrs."
+    },
+    {
+      "shot": "S6",
+      "a": 496,
+      "b": 600,
+      "t0": 0,
+      "t1": 104,
+      "line": "Park hands you your tray and takes your lunch money. Her number"
+    },
+    {
+      "shot": "S7",
+      "a": 600,
+      "b": 754,
+      "t0": 0,
+      "t1": 154,
+      "line": "ticks up, $40, $44, $48."
+    },
+    {
+      "shot": "S8",
+      "a": 754,
+      "b": 840,
+      "t0": 0,
+      "t1": 86,
+      "line": "Money just moved and you watched it move. Sam"
+    },
+    {
+      "shot": "S9",
+      "a": 840,
+      "b": 895,
+      "t0": 0,
+      "t1": 55,
+      "line": "elbows you in the ribs. You"
+    },
+    {
+      "shot": "S10",
+      "a": 895,
+      "b": 985,
+      "t0": 0,
+      "t1": 90,
+      "line": "okay? You look like you saw a ghost."
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "key": 20,
+      "len": 98,
+      "first": 0,
+      "line": "You are standing in the lunch line when it happens. Above the",
+      "note": "Wide cafeteria lunch line (classroom set reused as cafeteria); hero in blue hoodie mid-line, Sam beside him; no number visible yet; trays, steam, lunch crowd"
+    },
+    {
+      "id": "S2",
+      "size": "close-up",
+      "key": 20,
+      "len": 75,
+      "first": 98,
+      "line": "cashier's head, a number appears,",
+      "note": "Close-up: Mrs. Park the cashier at the till; a soft white $40 pill appears nearly touching her head; hero stares, face swaps neutral to shock"
+    },
+    {
+      "id": "S3",
+      "size": "macro insert",
+      "key": 30,
+      "len": 147,
+      "first": 173,
+      "line": "$40. It floats there, soft and white, like a price tag in the air.",
+      "note": "Macro insert: the $40 pill HUGE, soft white, floating like a price tag; blurred cafeteria behind"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 20,
+      "len": 94,
+      "first": 320,
+      "line": "Nobody else looks up, nobody else can see it. You",
+      "note": "Medium: hero glances around the lunch line; nobody else looks up; Mrs. Park's $40 pill visible only to him; crowd faces blank"
+    },
+    {
+      "id": "S5",
+      "size": "close-up",
+      "key": 20,
+      "len": 82,
+      "first": 414,
+      "line": "blink, the number stays. Mrs.",
+      "note": "Close-up: hero blinks, eyes shut then open; the $40 pill is still there above Mrs. Park; his face shifts to disbelief"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "key": 20,
+      "len": 104,
+      "first": 496,
+      "line": "Park hands you your tray and takes your lunch money. Her number",
+      "note": "Medium: Mrs. Park hands hero his tray and takes his lunch money; her $40 pill above her head; Sam behind hero in line"
+    },
+    {
+      "id": "S7",
+      "size": "close-up",
+      "key": 20,
+      "len": 154,
+      "first": 600,
+      "line": "ticks up, $40, $44, $48.",
+      "note": "Close-up: Mrs. Park's pill ticks $40 to $44 to $48, flashing green on each +$4 step; coins and tray on the counter"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "key": 20,
+      "len": 86,
+      "first": 754,
+      "line": "Money just moved and you watched it move. Sam",
+      "note": "Medium: hero watches the till, eyes wide; the $48 pill glows green above Mrs. Park; Sam nudges him"
+    },
+    {
+      "id": "S9",
+      "size": "close-up",
+      "key": 20,
+      "len": 55,
+      "first": 840,
+      "line": "elbows you in the ribs. You",
+      "note": "Close-up: Sam elbows hero in the ribs, grinning; hero startled; Mrs. Park's $48 pill behind them"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 20,
+      "len": 90,
+      "first": 895,
+      "line": "okay? You look like you saw a ghost.",
+      "note": "Medium: Sam leans in, worried; hero's face pale; lunch-line crowd behind, no numbers visible to Sam"
+    }
+  ],
+  "fx": [],
+  "audio": {
+    "musicVol": 0,
+    "sfxVol": 0,
+    "voice": "money-count-30s/voice.wav",
+    "sfx": "money-count-30s/sfx.mp3",
+    "music": "money-count-30s/music.mp3"
+  }
+}
