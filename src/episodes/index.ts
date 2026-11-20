@@ -8,6 +8,7 @@ import { deathCountV2 } from './death-count-v2';
 import { deathCount2Min } from './death-count-2min';
 import { deathCount30sNew } from './death-count-30s-new';
 import { moneyCount30s } from './money-count-30s';
+import { moneyCount } from './money-count';
 import { setsTest } from './sets-test';
 
-export const EPISODES = [rewind, copyPaste, sleep, deathCount, deathCountFull, deathCountV2, deathCount2Min, deathCount30sNew, moneyCount30s, setsTest];
+export const EPISODES = [rewind, copyPaste, sleep, deathCount, deathCountFull, deathCountV2, deathCount2Min, deathCount30sNew, moneyCount30s, moneyCount, setsTest];

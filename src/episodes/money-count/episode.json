@@ -1,0 +1,1805 @@
+{
+  "accent": "LEFT",
+  "cast": [
+    "hero (you, black head, blue hoodie, NO balance ever, not in a mirror, not anywhere)",
+    "sam (best friend, black head, orange top, $212.50 orange, $210.00 after the snack, $205.00 after buying Derek lunch)",
+    "mrs. hale (teacher, $12,400 green, buys two coffees every morning, one for the janitor's cart)",
+    "maya (the quiet girl, $312 orange, draws in a notebook, shares her fries)",
+    "derek (the captain, $0.00 red pulsing, new shoes every week, spends everything trying to look rich)",
+    "mr. ellis (the janitor, $8,412,009 gold with glow, mopped the same hallway for forty years)",
+    "mrs. park (cafeteria cashier, $40 red, ticks $40 to $44 to $48, +$4 a lunch)",
+    "mr. grant (principal, $86,000 green, eats lunch alone in his office)",
+    "mom (pays the electric bill, her number drops $112, flashes red)"
+  ],
+  "edit": [
+    {
+      "at": "f:0",
+      "shot": "S1"
+    },
+    {
+      "at": "cashier's",
+      "shot": "S2"
+    },
+    {
+      "at": "Forty",
+      "shot": "S3"
+    },
+    {
+      "at": "Nobody",
+      "shot": "S4"
+    },
+    {
+      "at": "blink",
+      "shot": "S5"
+    },
+    {
+      "at": "Park",
+      "shot": "S6"
+    },
+    {
+      "at": "ticks",
+      "shot": "S7"
+    },
+    {
+      "at": "Money",
+      "shot": "S8"
+    },
+    {
+      "at": "elbows",
+      "shot": "S9"
+    },
+    {
+      "at": "ghost",
+      "shot": "S10"
+    },
+    {
+      "at": "point",
+      "shot": "S11"
+    },
+    {
+      "at": "looks",
+      "shot": "S12"
+    },
+    {
+      "at": "get",
+      "shot": "S13"
+    },
+    {
+      "at": "only",
+      "shot": "S14"
+    },
+    {
+      "at": "What",
+      "shot": "S15"
+    },
+    {
+      "at": "deal",
+      "shot": "S16"
+    },
+    {
+      "at": "Rule",
+      "shot": "S17"
+    },
+    {
+      "at": "Cash",
+      "shot": "S18"
+    },
+    {
+      "at": "added",
+      "shot": "S19"
+    },
+    {
+      "at": "two",
+      "shot": "S20"
+    },
+    {
+      "at": "second",
+      "shot": "S21"
+    },
+    {
+      "at": "flashes",
+      "shot": "S22"
+    },
+    {
+      "at": "drops",
+      "shot": "S23"
+    },
+    {
+      "at": "three",
+      "shot": "S24"
+    },
+    {
+      "at": "mirror",
+      "shot": "S25"
+    },
+    {
+      "at": "Nothing",
+      "shot": "S26"
+    },
+    {
+      "at": "File",
+      "shot": "S27"
+    },
+    {
+      "at": "test",
+      "shot": "S28"
+    },
+    {
+      "at": "electric",
+      "shot": "S29"
+    },
+    {
+      "at": "hundred",
+      "shot": "S30"
+    },
+    {
+      "at": "morning",
+      "shot": "S31"
+    },
+    {
+      "at": "snack",
+      "shot": "S32"
+    },
+    {
+      "at": "emergency",
+      "shot": "S33"
+    },
+    {
+      "at": "rule",
+      "shot": "S34"
+    },
+    {
+      "at": "experiment",
+      "shot": "S35"
+    },
+    {
+      "at": "Hale",
+      "shot": "S36"
+    },
+    {
+      "at": "coffees",
+      "shot": "S37"
+    },
+    {
+      "at": "janitor's",
+      "shot": "S38"
+    },
+    {
+      "at": "Maya",
+      "shot": "S39"
+    },
+    {
+      "at": "draws",
+      "shot": "S40"
+    },
+    {
+      "at": "fries",
+      "shot": "S41"
+    },
+    {
+      "at": "Sam",
+      "shot": "S42"
+    },
+    {
+      "at": "saves",
+      "shot": "S43"
+    },
+    {
+      "at": "shoe",
+      "shot": "S44"
+    },
+    {
+      "at": "Grant",
+      "shot": "S45"
+    },
+    {
+      "at": "alone",
+      "shot": "S46"
+    },
+    {
+      "at": "machine",
+      "shot": "S47"
+    },
+    {
+      "at": "down",
+      "shot": "S48"
+    },
+    {
+      "at": "watch",
+      "shot": "S49"
+    },
+    {
+      "at": "superpower",
+      "shot": "S50"
+    },
+    {
+      "at": "spying",
+      "shot": "S51"
+    },
+    {
+      "at": "Derek",
+      "shot": "S52"
+    },
+    {
+      "at": "shoes",
+      "shot": "S53"
+    },
+    {
+      "at": "Everybody",
+      "shot": "S54"
+    },
+    {
+      "at": "Zero",
+      "shot": "S55"
+    },
+    {
+      "at": "stare",
+      "shot": "S56"
+    },
+    {
+      "at": "looking",
+      "shot": "S57"
+    },
+    {
+      "at": "Nice",
+      "shot": "S58"
+    },
+    {
+      "at": "hallway",
+      "shot": "S59"
+    },
+    {
+      "at": "mopping",
+      "shot": "S60"
+    },
+    {
+      "at": "brain",
+      "shot": "S61"
+    },
+    {
+      "at": "Eight",
+      "shot": "S62"
+    },
+    {
+      "at": "imagined",
+      "shot": "S63"
+    },
+    {
+      "at": "kind",
+      "shot": "S64"
+    },
+    {
+      "at": "real",
+      "shot": "S65"
+    },
+    {
+      "at": "actually",
+      "shot": "S66"
+    },
+    {
+      "at": "happiness",
+      "shot": "S67"
+    },
+    {
+      "at": "Kahneman",
+      "shot": "S68"
+    },
+    {
+      "at": "strange",
+      "shot": "S69"
+    },
+    {
+      "at": "climbs",
+      "shot": "S70"
+    },
+    {
+      "at": "stops",
+      "shot": "S71"
+    },
+    {
+      "at": "better",
+      "shot": "S72"
+    },
+    {
+      "at": "growing",
+      "shot": "S73"
+    },
+    {
+      "at": "Dunn",
+      "shot": "S74"
+    },
+    {
+      "at": "gave",
+      "shot": "S75"
+    },
+    {
+      "at": "someone",
+      "shot": "S76"
+    },
+    {
+      "at": "happier",
+      "shot": "S77"
+    },
+    {
+      "at": "science",
+      "shot": "S78"
+    },
+    {
+      "at": "helps",
+      "shot": "S79"
+    },
+    {
+      "at": "giving",
+      "shot": "S80"
+    },
+    {
+      "at": "show",
+      "shot": "S81"
+    },
+    {
+      "at": "money",
+      "shot": "S82"
+    },
+    {
+      "at": "cost",
+      "shot": "S83"
+    },
+    {
+      "at": "knowing",
+      "shot": "S84"
+    },
+    {
+      "at": "hard",
+      "shot": "S85"
+    },
+    {
+      "at": "showing",
+      "shot": "S86"
+    },
+    {
+      "at": "table",
+      "shot": "S87"
+    },
+    {
+      "at": "loud",
+      "shot": "S88"
+    },
+    {
+      "at": "bad",
+      "shot": "S89"
+    },
+    {
+      "at": "quiet",
+      "shot": "S90"
+    },
+    {
+      "at": "red",
+      "shot": "S91"
+    },
+    {
+      "at": "kicked",
+      "shot": "S92"
+    },
+    {
+      "at": "mean",
+      "shot": "S93"
+    },
+    {
+      "at": "powerful",
+      "shot": "S94"
+    },
+    {
+      "at": "true",
+      "shot": "S95"
+    },
+    {
+      "at": "stop",
+      "shot": "S96"
+    },
+    {
+      "at": "bet",
+      "shot": "S97"
+    },
+    {
+      "at": "win",
+      "shot": "S98"
+    },
+    {
+      "at": "bigger",
+      "shot": "S99"
+    },
+    {
+      "at": "checking",
+      "shot": "S100"
+    },
+    {
+      "at": "catch",
+      "shot": "S101"
+    },
+    {
+      "at": "decide",
+      "shot": "S102"
+    },
+    {
+      "at": "big",
+      "shot": "S103"
+    },
+    {
+      "at": "notice",
+      "shot": "S104"
+    },
+    {
+      "at": "night",
+      "shot": "S105"
+    },
+    {
+      "at": "Still",
+      "shot": "S106"
+    },
+    {
+      "at": "ask",
+      "shot": "S107"
+    },
+    {
+      "at": "shrugs",
+      "shot": "S108"
+    },
+    {
+      "at": "hits",
+      "shot": "S109"
+    },
+    {
+      "at": "ranking",
+      "shot": "S110"
+    },
+    {
+      "at": "rank",
+      "shot": "S111"
+    },
+    {
+      "at": "worse",
+      "shot": "S112"
+    },
+    {
+      "at": "twelve",
+      "shot": "S113"
+    },
+    {
+      "at": "generous",
+      "shot": "S114"
+    },
+    {
+      "at": "zero",
+      "shot": "S115"
+    },
+    {
+      "at": "told",
+      "shot": "S116"
+    },
+    {
+      "at": "decided",
+      "shot": "S117"
+    },
+    {
+      "at": "school",
+      "shot": "S118"
+    },
+    {
+      "at": "Ellis",
+      "shot": "S119"
+    },
+    {
+      "at": "Mopping",
+      "shot": "S120"
+    },
+    {
+      "at": "Nine",
+      "shot": "S121"
+    },
+    {
+      "at": "richest",
+      "shot": "S122"
+    },
+    {
+      "at": "right",
+      "shot": "S123"
+    },
+    {
+      "at": "finishes",
+      "shot": "S124"
+    },
+    {
+      "at": "smiles",
+      "shot": "S125"
+    },
+    {
+      "at": "walk",
+      "shot": "S126"
+    },
+    {
+      "at": "leans",
+      "shot": "S127"
+    },
+    {
+      "at": "say",
+      "shot": "S128"
+    },
+    {
+      "at": "Forty",
+      "shot": "S129"
+    },
+    {
+      "at": "inheritance",
+      "shot": "S130"
+    },
+    {
+      "at": "grew",
+      "shot": "S131"
+    },
+    {
+      "at": "millions",
+      "shot": "S132"
+    },
+    {
+      "at": "envies",
+      "shot": "S133"
+    },
+    {
+      "at": "spends",
+      "shot": "S134"
+    },
+    {
+      "at": "second",
+      "shot": "S135"
+    },
+    {
+      "at": "along",
+      "shot": "S136"
+    },
+    {
+      "at": "reading",
+      "shot": "S137"
+    },
+    {
+      "at": "next",
+      "shot": "S138"
+    },
+    {
+      "at": "faces",
+      "shot": "S139"
+    },
+    {
+      "at": "shares",
+      "shot": "S140"
+    },
+    {
+      "at": "apologize",
+      "shot": "S141"
+    },
+    {
+      "at": "lunch",
+      "shot": "S142"
+    },
+    {
+      "at": "takes",
+      "shot": "S143"
+    },
+    {
+      "at": "swore",
+      "shot": "S144"
+    },
+    {
+      "at": "counts",
+      "shot": "S145"
+    },
+    {
+      "at": "eats",
+      "shot": "S146"
+    },
+    {
+      "at": "already",
+      "shot": "S147"
+    },
+    {
+      "at": "pass",
+      "shot": "S148"
+    },
+    {
+      "at": "number",
+      "shot": "S149"
+    },
+    {
+      "at": "Eight",
+      "shot": "S150"
+    },
+    {
+      "at": "read",
+      "shot": "S151"
+    },
+    {
+      "at": "Morning",
+      "shot": "S152"
+    },
+    {
+      "at": "kid",
+      "shot": "S153"
+    },
+    {
+      "at": "finally",
+      "shot": "S154"
+    },
+    {
+      "at": "measures",
+      "shot": "S155"
+    },
+    {
+      "at": "never",
+      "shot": "S156"
+    },
+    {
+      "at": "If",
+      "shot": "S157"
+    },
+    {
+      "at": "yours",
+      "shot": "S158"
+    }
+  ],
+  "fx": [],
+  "gaps": {
+    "comma": 0.5,
+    "question": 1.0,
+    "sentence": 0.8,
+    "word": 0.3
+  },
+  "id": "MoneyCount",
+  "script": [
+    {
+      "beat": "1 cold open (lunch line, the cashier's $40)",
+      "text": "You are standing in the lunch line when it happens. Above the cashier's head, a number appears. $40. It floats there, soft and white, like a price tag in the air. Nobody else looks up. Nobody else can see it. You blink. The number stays. Mrs. Park hands you your tray and takes your lunch money. Her number ticks up. $40. $44. $48. Money just moved, and you watched it move. Sam elbows you in the ribs. \"You okay? You look like you saw a ghost.\" You point up. \"Above her head. The number.\" Sam looks. \"What number?\" And that's when you get it. The numbers are only for you. So, what if you could see how much money everyone has?"
+    },
+    {
+      "beat": "2 the rules / the test (Mom -$112, Sam -$2.50)",
+      "text": "Here's the deal. You figure out three rules, fast. Rule one: the number is everything a person has. Cash in a wallet. Money in the bank. All of it, added up, floating over their head. Rule two: it ticks. The second money moves, the number moves. Money in, it flashes green and climbs. Money out, it flashes red and drops. Rule three: you can't see your own number. You stand in front of the bathroom mirror and look up. Nothing. No number above your head at all. File that away. You'll need it. You test rule two that night at home. Your mom pays the electric bill on her phone. One tap. Her number drops a hundred and twelve dollars in a single blink. You test it on Sam the next morning. He buys a snack. His number drops two dollars and fifty cents. Sam grins. \"The emergency five stays in the shoe, though.\" \"That's the rule.\""
+    },
+    {
+      "beat": "3 the experiment (reading the whole school)",
+      "text": "So you run an experiment. All day, at school, you read everyone. Mrs. Hale, your teacher: $12,400. She buys two coffees every morning. One for her. One she leaves on the janitor's cart. Maya, the quiet girl: $312. She draws in a notebook all through lunch. She shares her fries with anyone who sits down. Sam: $212.50. He saves every lunch dollar. The emergency five stays in the shoe. The principal, Mr. Grant: $86,000. He eats lunch alone in his office, door closed. At the snack machine, a kid feeds in two dollars. His number ticks down, two dollars, right in front of you. You could watch anyone's money move, any time you wanted. It feels like a superpower. It feels a little bit like spying. Then Derek. The captain. New shoes every week. His dad's car in the parking lot. Everybody wants to be Derek. His number: $0.00. Zero. Not one dollar. You stare so long he notices. \"What are you looking at?\" \"Nothing,\" you say. \"Nice shoes.\" And in the hallway, between classes, you see something else. A man mopping the floor. Above his head, a number so big it doesn't fit your brain. $8,412,009. You blink. He turns the corner. Gone. You tell yourself you imagined it. Nobody has that kind of money and mops a school hallway."
+    },
+    {
+      "beat": "4 the science ($75,000 and giving)",
+      "text": "This next bit is real. No one can actually see a number above your head. That's the made-up part. But the part about money and happiness? Scientists tested that. In 2010, two researchers named Kahneman and Deaton studied thousands of Americans. They found something strange. Happiness climbs as income climbs, up to about seventy-five thousand dollars a year. Then it stops. More money after that doesn't make people feel better day to day. The number keeps growing. The feeling doesn't. And in 2008, three more researchers, Dunn, Aknin, and Norton, ran a different test. They gave people money and told half of them to spend it on themselves, and half to spend it on someone else. The people who spent it on someone else felt happier. Every time. So the science says two things. Money helps, up to a point. And giving it away feels better than keeping it. But the numbers above everyone's heads don't show any of that. They only show the money."
+    },
+    {
+      "beat": "5 the cost (Derek's $0.00, out loud)",
+      "text": "And that's when the numbers start to cost you. Because knowing someone's number feels like power. And power is hard to put down. At lunch, Derek is showing off his new shoes again. The whole table is watching. And you say it. Out loud. In front of everyone. \"Nice shoes, Derek. Too bad you've got zero dollars. $0.00.\" The table goes quiet. Then it laughs. Derek's face goes red. He stands up. He walks out. Sam looks at you like you just kicked a dog. \"That was mean. You didn't have to say it.\" You feel powerful for about two seconds. Then you feel sick. Because the number was true. And it still hurt. And it doesn't stop there. First, it's small. You bet Sam five dollars that the new kid has less than a hundred. You win. It feels clever. Then it's bigger. You start checking numbers before you talk to anyone, like a price tag on a person. You catch yourself checking Maya's three hundred dollars before you decide where to sit. You sit with the big numbers. You avoid the small ones. You notice yourself doing it. You don't stop."
+    },
+    {
+      "beat": "6 the mirror (you can't see your own)",
+      "text": "That night, you stand in front of the bathroom mirror again. Still nothing above your head. You ask Sam the next day. \"What do you think mine says?\" Sam shrugs. \"I can't see any numbers. Only you can.\" And it hits you. You spent a whole week ranking everyone, and you don't even know your own rank. But here's the worse part. Mrs. Hale's twelve thousand doesn't say she's kind. Maya's three hundred doesn't say she's generous. Derek's zero doesn't say he's a bad person. The numbers told you about money. You decided they meant worth."
+    },
+    {
+      "beat": "7 the twist (Mr. Ellis, $8,412,009)",
+      "text": "So after school, you go back to the hallway. Mr. Ellis is there. The janitor. Mopping the same floor he's mopped for forty years. Above his head: $8,412,009. The richest person in the whole school. You were right. You didn't imagine it. He finishes mopping. He picks up the coffee Mrs. Hale left on his cart. He smiles at it, like it's a gift. You walk up to him. \"Mr. Ellis. Why do you still work here?\" He leans on his mop. \"Somebody's got to keep the floors clean. And the kids are good company.\" Here's what the number doesn't say. Forty years of saving. A small inheritance from his mother that he never touched. It grew, year after year, while he just kept mopping. He has millions. And he mops floors because he likes it here. And Derek? The one everyone envies? He has zero dollars because he spends everything the second he gets it, trying to look rich. The numbers were right all along. Your reading of them was wrong."
+    },
+    {
+      "beat": "8 the moral (the number never measures worth)",
+      "text": "The next morning, you walk into school, and the numbers are still there. But this time, you look at faces first. You sit with Maya. She shares her fries. You apologize to Derek. He nods, and that's enough. At lunch, Sam does something. He takes the emergency five out of his shoe, the five he swore he'd never spend, and buys Derek lunch. \"Emergency,\" he says. \"This counts.\" Derek eats. Nobody laughs. That feels better than any number. Sam is already saving up a new emergency five. He doesn't even care. On your way out, you pass Mr. Ellis, still mopping. His number is still there. Eight million, four hundred and twelve thousand, and nine dollars. You don't even read it anymore. You just say, \"Morning, Mr. Ellis.\" He says, \"Morning, kid.\" And that's the whole thing. And you finally get it. The number never measures what a person is worth. It never did. If you could see one number above everyone's head, what would you want it to be? What would yours say? Tell us in the comments."
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "key": 20,
+      "note": "Wide cafeteria lunch line (classroom set reused as cafeteria); hero in blue hoodie mid-line, Sam beside him; no number visible yet; trays, steam, lunch crowd",
+      "set": "classroom",
+      "size": "wide"
+    },
+    {
+      "id": "S2",
+      "key": 20,
+      "note": "Close-up: Mrs. Park the cashier at the till; a soft white $40 pill appears nearly touching her head; hero stares, face swaps neutral to shock",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S3",
+      "key": 30,
+      "note": "Macro insert: the $40 pill HUGE, soft white, floating like a price tag; blurred cafeteria behind",
+      "set": "classroom",
+      "size": "macro insert"
+    },
+    {
+      "id": "S4",
+      "key": 20,
+      "note": "Medium: hero glances around the lunch line; nobody else looks up; Mrs. Park's $40 pill visible only to him; crowd faces blank",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S5",
+      "key": 20,
+      "note": "Close-up: hero blinks, eyes shut then open; the $40 pill is still there above Mrs. Park; his face shifts to disbelief",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S6",
+      "key": 20,
+      "note": "Medium: Mrs. Park hands hero his tray and takes his lunch money; her $40 pill above her head; Sam behind hero in line",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S7",
+      "key": 20,
+      "note": "Close-up: Mrs. Park's pill ticks $40 to $44 to $48, flashing green on each +$4 step; coins and tray on the counter",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S8",
+      "key": 20,
+      "note": "Medium: hero watches the till, eyes wide; the $48 pill glows green above Mrs. Park; Sam nudges him",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S9",
+      "key": 20,
+      "note": "Close-up: Sam elbows hero in the ribs, grinning; hero startled; Mrs. Park's $48 pill behind them",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S10",
+      "key": 20,
+      "note": "Medium: Sam leans in, worried; hero's face pale; lunch-line crowd behind, no numbers visible to Sam",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S11",
+      "key": 20,
+      "note": "Close-up: hero points up at Mrs. Park's $48 pill; Sam follows his finger, sees nothing; hero's face urgent",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S12",
+      "key": 20,
+      "note": "Medium: Sam shrugs, confused, looks at the empty air above Mrs. Park; hero realises Sam can't see it",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S13",
+      "key": 20,
+      "note": "Close-up: hero's face, realisation dawning; the $48 pill glows above Mrs. Park behind him",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S14",
+      "key": 20,
+      "note": "Medium: hero looks slowly around the cafeteria; a pill above every head, each a different value; his eyes widen",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S15",
+      "key": 30,
+      "note": "Title card on the dark void: glowing pill, then WHAT IF YOU COULD SEE / HOW MUCH MONEY EVERYONE HAS? in yellow caps",
+      "set": "dark void",
+      "size": "title"
+    },
+    {
+      "id": "S16",
+      "key": 20,
+      "note": "Medium classroom: hero at his desk, Sam beside him; yellow banner THE RULES; hero holds up three fingers",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S17",
+      "key": 20,
+      "note": "Medium: hero explains rule one; a wallet and bank-card icon pop beside a sample green pill",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S18",
+      "key": 20,
+      "note": "Close-up: a wallet opens, cash inside, a bank card beside it; a sample pill ticks as coins drop in",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S19",
+      "key": 20,
+      "note": "Wide classroom: a pill above every student's head, all different values; hero scans the room, counting",
+      "set": "classroom",
+      "size": "wide"
+    },
+    {
+      "id": "S20",
+      "key": 20,
+      "note": "Medium: hero taps his watch; a sample pill ticks up and down; yellow banner RULE TWO: IT TICKS",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S21",
+      "key": 20,
+      "note": "Close-up: a pill ticks the instant a coin drops into a hand; money moves, number moves",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S22",
+      "key": 20,
+      "note": "Rules on the void: a green pill climbs and flashes green as coins drop in; yellow banner MONEY IN = GREEN",
+      "set": "dark void",
+      "size": "medium wide"
+    },
+    {
+      "id": "S23",
+      "key": 20,
+      "note": "Rules on the void: a red pill drops and flashes red as coins fly out; yellow banner MONEY OUT = RED",
+      "set": "dark void",
+      "size": "medium wide"
+    },
+    {
+      "id": "S24",
+      "key": 20,
+      "note": "Close-up: hero at the bathroom mirror; his reflection has NO pill above its head; red label NOTHING ABOVE YOUR HEAD",
+      "set": "bathroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S25",
+      "key": 20,
+      "note": "Close-up: hero looks up at the mirror, then at his own head; empty space above; his face falls",
+      "set": "bathroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S26",
+      "key": 30,
+      "note": "Extreme close-up: hero's eyes in the mirror; the space above his head is empty dark; no pill, no number",
+      "set": "bathroom",
+      "size": "extreme close-up"
+    },
+    {
+      "id": "S27",
+      "key": 20,
+      "note": "Medium: hero nods at his reflection, filing it away; determined face; toothbrush and towel behind",
+      "set": "bathroom",
+      "size": "medium"
+    },
+    {
+      "id": "S28",
+      "key": 20,
+      "note": "Medium home kitchen at night: Mom at the table with her phone; hero watches from the doorway; her pill above her head",
+      "set": "kitchen",
+      "size": "medium"
+    },
+    {
+      "id": "S29",
+      "key": 20,
+      "note": "Close-up: Mom taps her phone to pay the electric bill; her pill flashes red",
+      "set": "kitchen",
+      "size": "close-up"
+    },
+    {
+      "id": "S30",
+      "key": 30,
+      "note": "Extreme close-up: Mom's pill drops $112 in a single blink, flashing red; her face calm, unaware (her starting balance is never given)",
+      "set": "kitchen",
+      "size": "extreme close-up"
+    },
+    {
+      "id": "S31",
+      "key": 20,
+      "note": "Medium school corridor next morning: Sam buys a snack at the machine; hero watches; Sam's orange $212.50 pill above his head",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S32",
+      "key": 20,
+      "note": "Close-up: Sam's orange pill ticks down $2.50 to $210.00, flashing red, as he takes the snack",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S33",
+      "key": 20,
+      "note": "Medium: Sam grins and taps his shoe; hero laughs; Sam's $210.00 pill above him; snack in hand",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S34",
+      "key": 20,
+      "note": "Close-up: Sam taps his shoe twice, dead serious then grinning; the crumpled five tucked inside; his $210.00 pill above",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S35",
+      "key": 20,
+      "note": "Wide classroom: hero scans the room; a pill above every head; yellow banner THE EXPERIMENT",
+      "set": "classroom",
+      "size": "wide"
+    },
+    {
+      "id": "S36",
+      "key": 20,
+      "note": "Medium: Mrs. Hale at the board; her green $12,400 pill nearly touching her head; chalk, books",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S37",
+      "key": 20,
+      "note": "Close-up: two coffees on Mrs. Hale's desk; her green $12,400 pill above; morning light",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S38",
+      "key": 20,
+      "note": "Medium: Mrs. Hale sets the second coffee on the janitor's cart by the door; her $12,400 pill above her",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S39",
+      "key": 20,
+      "note": "Medium: Maya the quiet girl at her desk, drawing in a notebook; her orange $312 pill nearly touching her head",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S40",
+      "key": 20,
+      "note": "Close-up: Maya's notebook, pencil sketching; her orange $312 pill above; soft light",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S41",
+      "key": 20,
+      "note": "Medium cafeteria (classroom set reused as cafeteria): Maya shares her fries with a kid who sits down; her $312 pill above her",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S42",
+      "key": 20,
+      "note": "Medium: Sam at his desk counting lunch dollars; his orange $212.50 pill nearly touching his head",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S43",
+      "key": 20,
+      "note": "Close-up: Sam stacks coins on his desk, saving; his $212.50 pill above; determined smile",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S44",
+      "key": 20,
+      "note": "Close-up: Sam's shoe, a crumpled five-dollar bill tucked inside; his $212.50 pill above his head",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S45",
+      "key": 20,
+      "note": "Medium principal's office (study set reused as Mr. Grant's office): Mr. Grant eats lunch alone, door closed; his green $86,000 pill above him",
+      "set": "study",
+      "size": "medium"
+    },
+    {
+      "id": "S46",
+      "key": 20,
+      "note": "Close-up: Mr. Grant alone at his desk, tray untouched; his green $86,000 pill above; cold office light",
+      "set": "study",
+      "size": "close-up"
+    },
+    {
+      "id": "S47",
+      "key": 20,
+      "note": "Medium school hallway: a kid feeds two dollars into the snack machine; hero watches from the side",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S48",
+      "key": 20,
+      "note": "Close-up: the kid's pill ticks down $2, flashing red, as the snack drops; hero's eyes track it (kid's starting balance never given)",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S49",
+      "key": 20,
+      "note": "Wide hallway: pills above every passing head, ticking as money moves; hero stands still, watching them all",
+      "set": "classroom",
+      "size": "wide"
+    },
+    {
+      "id": "S50",
+      "key": 20,
+      "note": "Close-up: hero's face, thrilled; a pill ticks above a passer-by behind him; his eyes shine",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S51",
+      "key": 20,
+      "note": "Medium: hero peeks around a locker at a kid counting cash; his face shifts thrilled to uneasy",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S52",
+      "key": 20,
+      "note": "Medium hallway: Derek the captain strides past, new shoes gleaming; crowd parts around him; hero watches",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S53",
+      "key": 20,
+      "note": "Close-up: Derek's brand-new shoes, then his dad's car keys in his hand; students stare enviously",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S54",
+      "key": 20,
+      "note": "Wide hallway: everybody turns to watch Derek pass; hero among them; Derek soaks it up",
+      "set": "classroom",
+      "size": "wide"
+    },
+    {
+      "id": "S55",
+      "key": 30,
+      "note": "Extreme close-up: Derek's pill HUGE, red and pulsing $0.00, nearly touching his head; blurred hallway behind",
+      "set": "classroom",
+      "size": "extreme close-up"
+    },
+    {
+      "id": "S56",
+      "key": 20,
+      "note": "Close-up: hero stares at Derek's red $0.00 pill, mouth open; Derek notices and frowns",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S57",
+      "key": 20,
+      "note": "Close-up: Derek turns on hero, suspicious; his red $0.00 pill pulses above him",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S58",
+      "key": 20,
+      "note": "Medium: hero looks away fast, forced casual smile; Derek's $0.00 pill still pulsing above him",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S59",
+      "key": 20,
+      "note": "Medium school hallway (stairwell set): hero walks between classes, crowd streaming past; lockers, afternoon light",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S60",
+      "key": 20,
+      "note": "Medium: a man mopping the floor ahead, back to camera; hero stops and stares",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S61",
+      "key": 20,
+      "note": "Close-up: above the mopping man's head, a pill so big it crowds the frame; hero's eyes go wide",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S62",
+      "key": 30,
+      "note": "Macro insert on the dark void: $8,412,009 HUGE in gold with glow, digits ticking into place; no face, just the number",
+      "set": "dark void",
+      "size": "macro insert"
+    },
+    {
+      "id": "S63",
+      "key": 20,
+      "note": "Medium: hero blinks hard and shakes his head; the mopping man turns the corner and is gone; empty hallway",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S64",
+      "key": 20,
+      "note": "Close-up: hero alone in the hallway, muttering to himself; his face says he imagined it",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S65",
+      "key": 20,
+      "note": "Dark void: hero silhouette small under a yellow banner THE SCIENCE; no pills, just stars",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S66",
+      "key": 20,
+      "note": "Dark void: a single head outline with no pill above it; red label THAT'S THE MADE-UP PART",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S67",
+      "key": 20,
+      "note": "Dark void: two pills, one green one gold, side by side; yellow banner MONEY AND HAPPINESS?",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S68",
+      "key": 20,
+      "note": "Dark void text card: KAHNEMAN & DEATON, 2010; thousands of tiny head outlines below",
+      "set": "dark void",
+      "size": "medium wide"
+    },
+    {
+      "id": "S69",
+      "key": 20,
+      "note": "Dark void: a graph line climbs steeply, then flattens; a question mark pops above it",
+      "set": "dark void",
+      "size": "close-up"
+    },
+    {
+      "id": "S70",
+      "key": 30,
+      "note": "Macro insert on the void: $75,000 HUGE in glowing gold; a happiness curve rising beneath it",
+      "set": "dark void",
+      "size": "macro insert"
+    },
+    {
+      "id": "S71",
+      "key": 20,
+      "note": "Dark void: the gold $75,000 line goes flat; the curve stops climbing; red label THEN IT STOPS",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S72",
+      "key": 20,
+      "note": "Dark void: coins pile higher and higher beside a flat, unmoving smiley face",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S73",
+      "key": 20,
+      "note": "Dark void: the number keeps growing, digits spinning up; the smiley face stays exactly the same",
+      "set": "dark void",
+      "size": "close-up"
+    },
+    {
+      "id": "S74",
+      "key": 20,
+      "note": "Dark void text card: DUNN, AKNIN & NORTON, 2008; two hands holding out coins",
+      "set": "dark void",
+      "size": "medium wide"
+    },
+    {
+      "id": "S75",
+      "key": 20,
+      "note": "Dark void: one hand spends coins on itself; the other hand holds coins out; two faces watch",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S76",
+      "key": 20,
+      "note": "Dark void: the second hand gives its coins to someone else; that face lights up; yellow banner SPEND IT ON SOMEONE ELSE",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S77",
+      "key": 30,
+      "note": "Macro insert on the void: SPENDING ON OTHERS = HAPPIER in glowing gold caps; the giving face lights up",
+      "set": "dark void",
+      "size": "macro insert"
+    },
+    {
+      "id": "S78",
+      "key": 20,
+      "note": "Dark void: yellow banner TWO THINGS; two gold pills side by side",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S79",
+      "key": 20,
+      "note": "Dark void: a green pill climbs to a gold line marked $75,000 and stops; yellow banner MONEY HELPS, UP TO A POINT",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S80",
+      "key": 20,
+      "note": "Dark void: coins flow from one hand to another; the giver's face glows warmer; yellow banner GIVING FEELS BETTER",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S81",
+      "key": 20,
+      "note": "Dark void: pills above a row of heads, all different values, none showing a face; red label THEY ONLY SHOW THE MONEY",
+      "set": "dark void",
+      "size": "close-up"
+    },
+    {
+      "id": "S82",
+      "key": 30,
+      "note": "Extreme close-up on the void: a single pill, digits spinning; the face beneath it is blank",
+      "set": "dark void",
+      "size": "extreme close-up"
+    },
+    {
+      "id": "S83",
+      "key": 20,
+      "note": "Wide cafeteria (classroom set reused as cafeteria): hero at a lunch table, pills above every head; yellow banner THE COST",
+      "set": "classroom",
+      "size": "wide"
+    },
+    {
+      "id": "S84",
+      "key": 20,
+      "note": "Close-up: hero's face, hungry for the power; a red $0.00 pill glows behind him over Derek's table",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S85",
+      "key": 20,
+      "note": "Medium: hero clenches his fist around nothing, then lets go slowly; his face hardens",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S86",
+      "key": 20,
+      "note": "Medium cafeteria: Derek shows off his new shoes to the whole table; everyone watches; his red $0.00 pill pulses above him",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S87",
+      "key": 20,
+      "note": "Wide: the whole lunch table leans in, watching Derek; hero at the far end, watching the $0.00 pill",
+      "set": "classroom",
+      "size": "wide"
+    },
+    {
+      "id": "S88",
+      "key": 20,
+      "note": "Close-up: hero stands, mouth open, about to speak; the table turns toward him",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S89",
+      "key": 30,
+      "note": "Extreme close-up: Derek's red $0.00 pill HUGE and pulsing above his head as hero's words land; Derek's face freezes",
+      "set": "classroom",
+      "size": "extreme close-up"
+    },
+    {
+      "id": "S90",
+      "key": 20,
+      "note": "Medium: the table goes quiet, then erupts laughing; Derek's face burns; his $0.00 pill pulses",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S91",
+      "key": 20,
+      "note": "Close-up: Derek's face goes red, he stands up and walks out; his $0.00 pill recedes down the aisle",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S92",
+      "key": 20,
+      "note": "Close-up: Sam stares at hero like he kicked a dog; hero looks down; the laughter dies behind them",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S93",
+      "key": 20,
+      "note": "Medium: Sam leans in, face serious; hero can't meet his eyes; empty tray between them",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S94",
+      "key": 20,
+      "note": "Close-up: hero's face, powerful for a beat, then sick; his smile dies",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S95",
+      "key": 20,
+      "note": "Close-up: hero's eyes drop; the red $0.00 pill glows faintly in the blurred background",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S96",
+      "key": 20,
+      "note": "Medium: hero at the lunch table, counting on his fingers; a new kid's orange pill visible across the room",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S97",
+      "key": 20,
+      "note": "Medium: hero bets Sam five dollars, pointing at the new kid; Sam's orange pill above him; the new kid's pill small",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S98",
+      "key": 20,
+      "note": "Close-up: hero grins, clever, pocketing the win; Sam pays up, rolling his eyes",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S99",
+      "key": 20,
+      "note": "Medium: hero scans the cafeteria like a shop, checking pills before choosing a table",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S100",
+      "key": 20,
+      "note": "Close-up: hero's eyes flick from pill to pill, pricing each person; a price-tag icon pops over a stranger",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S101",
+      "key": 20,
+      "note": "Medium: hero hesitates by Maya's table, checking her orange $312 pill before deciding where to sit",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S102",
+      "key": 20,
+      "note": "Close-up: hero's eyes drop to the empty chair, then back to Maya's $312 pill; he still hasn't sat down",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S103",
+      "key": 20,
+      "note": "Wide cafeteria: hero sits with the big green pills, laughing; across the room, small red pills sit alone",
+      "set": "classroom",
+      "size": "wide"
+    },
+    {
+      "id": "S104",
+      "key": 20,
+      "note": "Close-up: hero catches himself mid-laugh, face falling; he looks at his own hands; he doesn't stop",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S105",
+      "key": 20,
+      "note": "Close-up: hero at the bathroom mirror at night; his reflection has NO pill above its head; red label STILL NOTHING",
+      "set": "bathroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S106",
+      "key": 30,
+      "note": "Extreme close-up: hero's eyes in the mirror; empty dark above his head; no pill, no number",
+      "set": "bathroom",
+      "size": "extreme close-up"
+    },
+    {
+      "id": "S107",
+      "key": 20,
+      "note": "Medium school corridor next day: hero walks with Sam; hero looks sideways at Sam, about to ask",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S108",
+      "key": 20,
+      "note": "Close-up: Sam shrugs, unbothered; his orange $210.00 pill above him; hero glances up at his own empty head",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S109",
+      "key": 20,
+      "note": "Close-up: hero's face as it hits him; eyes widen, mouth stills; blurred corridor behind",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S110",
+      "key": 20,
+      "note": "Medium: hero looks back down the week, quick flash of the cafeteria tables, pills above heads; his face grim",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S111",
+      "key": 20,
+      "note": "Close-up: hero's face, realising he ranked everyone without knowing his own rank; his eyes widen",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S112",
+      "key": 20,
+      "note": "Close-up: hero's face, the worse part dawning; his eyes drop",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S113",
+      "key": 20,
+      "note": "Medium: Mrs. Hale sets a coffee on the janitor's cart, smiling; her green $12,400 pill above her; hero watches",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S114",
+      "key": 20,
+      "note": "Medium cafeteria: Maya shares her fries with a new kid; her orange $312 pill above her; hero watches",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S115",
+      "key": 20,
+      "note": "Close-up: Derek alone at a table, head down; his red $0.00 pill pulses softly above him",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S116",
+      "key": 20,
+      "note": "Close-up: hero's face, quiet; the pills blur behind him as he looks at faces instead",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S117",
+      "key": 20,
+      "note": "Dark void beat-closing card: a pill and a heart, side by side; the pill fades, the heart stays; yellow banner YOU DECIDED THEY MEANT WORTH",
+      "set": "dark void",
+      "size": "medium"
+    },
+    {
+      "id": "S118",
+      "key": 20,
+      "note": "Wide school hallway after school, emptying out; hero walks back in alone; lockers, late light",
+      "set": "stairwell",
+      "size": "wide"
+    },
+    {
+      "id": "S119",
+      "key": 20,
+      "note": "Medium: Mr. Ellis the janitor mopping the same floor, back to camera; his mop and bucket; hero stops at the far end",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S120",
+      "key": 20,
+      "note": "Close-up: the mop moving across the floor, forty years of the same motion; Ellis's worn shoes",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S121",
+      "key": 30,
+      "note": "Extreme close-up: the gold $8,412,009 pill HUGE above Mr. Ellis's head, glowing; the episode's ONE slow push-in, on this payoff reveal",
+      "set": "stairwell",
+      "size": "extreme close-up"
+    },
+    {
+      "id": "S122",
+      "key": 20,
+      "note": "Medium: hero stands frozen in the hallway, staring up at the gold pill; Ellis mops on, unaware",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S123",
+      "key": 20,
+      "note": "Close-up: hero's face, vindicated, he didn't imagine it; a slow nod",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S124",
+      "key": 20,
+      "note": "Medium: Ellis finishes mopping, leans on his mop, picks up the coffee Mrs. Hale left on his cart",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S125",
+      "key": 20,
+      "note": "Close-up: Ellis smiles at the coffee like it's a gift; his gold $8,412,009 pill glows softly above him",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S126",
+      "key": 20,
+      "note": "Medium: hero walks up to Ellis; Ellis leans on his mop, listening; the gold pill above him",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S127",
+      "key": 20,
+      "note": "Close-up: Ellis leans on his mop, easy smile; hero listens; the cart and coffee beside them",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S128",
+      "key": 20,
+      "note": "Medium: Ellis shakes his head gently, smiling; hero listens; yellow banner WHAT THE NUMBER DOESN'T SAY",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S129",
+      "key": 20,
+      "note": "Close-up: Ellis's hands, worn from forty years of mopping; a small old photograph tucked on his cart",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S130",
+      "key": 20,
+      "note": "Close-up: the photograph, Ellis's mother, young, smiling; his gold pill glows above the cart",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S131",
+      "key": 30,
+      "note": "Macro insert on the schematic set: a savings line growing year after year, small and steady, climbing to $8,412,009",
+      "set": "schematic",
+      "size": "macro insert"
+    },
+    {
+      "id": "S132",
+      "key": 20,
+      "note": "Medium: Ellis mops on, content; his gold pill above him; the hallway gleams behind him",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S133",
+      "key": 20,
+      "note": "Medium cafeteria: Derek alone, counting empty pockets, new shoes scuffed; his red $0.00 pill above him",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S134",
+      "key": 20,
+      "note": "Close-up: Derek's hand, empty wallet, receipts spilling; his $0.00 pill pulses red above him",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S135",
+      "key": 20,
+      "note": "Close-up: Derek's new shoes, already scuffed, as he hurries past a shop window; his $0.00 pill above him",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S136",
+      "key": 20,
+      "note": "Close-up: hero's face, the numbers finally making sense; his eyes clear",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S137",
+      "key": 20,
+      "note": "Medium: hero and Ellis in the hallway; hero nods slowly; the gold pill glows above Ellis",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S138",
+      "key": 20,
+      "note": "Wide cafeteria next morning (classroom set reused as cafeteria): hero walks in; pills above every head, small now; he looks at faces first",
+      "set": "classroom",
+      "size": "wide"
+    },
+    {
+      "id": "S139",
+      "key": 20,
+      "note": "Close-up: hero's eyes move from face to face, not pill to pill; a smile starts",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S140",
+      "key": 20,
+      "note": "Medium: hero sits with Maya; she slides her fries over; her orange $312 pill small above her; both smile",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S141",
+      "key": 20,
+      "note": "Medium: hero turns to Derek's table and apologises; Derek nods, that's enough; his red $0.00 pill above him",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S142",
+      "key": 20,
+      "note": "Medium lunch table: Sam sits up, suddenly decided; hero and Derek watch him; Sam's $210.00 pill above him",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S143",
+      "key": 20,
+      "note": "Close-up: Sam pulls the crumpled emergency five from his shoe and holds it out; his pill ticks down $5.00, flashing red, to $205.00",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S144",
+      "key": 20,
+      "note": "Close-up: Sam hands the five over for Derek's lunch, the five he swore he'd never spend; Derek stares; hero laughs",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S145",
+      "key": 20,
+      "note": "Close-up: Sam grins, holding up the five; Derek stares; hero laughs",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S146",
+      "key": 20,
+      "note": "Medium: Derek eats, nobody laughs; Sam watches, satisfied; the table is quiet and warm",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S147",
+      "key": 20,
+      "note": "Medium: Sam pats his shoe, already planning the next emergency five; his $205.00 pill above him; he doesn't care",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S148",
+      "key": 20,
+      "note": "Medium hallway: hero walks out, passes Mr. Ellis still mopping; the gold pill glows above Ellis",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S149",
+      "key": 20,
+      "note": "Close-up: Ellis's gold $8,412,009 pill, still there, glowing softly; hero glances at it and looks away",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S150",
+      "key": 30,
+      "note": "Extreme close-up: Ellis's gold $8,412,009 pill HUGE, the words EIGHT MILLION, FOUR HUNDRED AND TWELVE THOUSAND, AND NINE DOLLARS spelled beneath it",
+      "set": "stairwell",
+      "size": "extreme close-up"
+    },
+    {
+      "id": "S151",
+      "key": 20,
+      "note": "Close-up: hero's face, at peace; he doesn't read the number anymore; he just smiles",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S152",
+      "key": 20,
+      "note": "Medium: hero waves, Morning, Mr. Ellis; Ellis waves back with his mop; the gold pill above him",
+      "set": "stairwell",
+      "size": "medium"
+    },
+    {
+      "id": "S153",
+      "key": 20,
+      "note": "Close-up: Ellis smiles, Morning, kid; his mop rests on the clean floor; warm light",
+      "set": "stairwell",
+      "size": "close-up"
+    },
+    {
+      "id": "S154",
+      "key": 20,
+      "note": "Close-up: hero's face, finally getting it; soft light; blurred cafeteria behind",
+      "set": "classroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S155",
+      "key": 30,
+      "note": "Extreme close-up: hero's eyes; yellow banner THE NUMBER NEVER MEASURES WHAT A PERSON IS WORTH",
+      "set": "classroom",
+      "size": "extreme close-up"
+    },
+    {
+      "id": "S156",
+      "key": 20,
+      "note": "Medium: hero looks out at the cafeteria, faces first, pills small above heads; calm",
+      "set": "classroom",
+      "size": "medium"
+    },
+    {
+      "id": "S157",
+      "key": 20,
+      "note": "Wide rooftop at dusk: hero looks over the city; end-card question on screen: IF YOU COULD SEE ONE NUMBER, WHAT WOULD YOU WANT IT TO BE?",
+      "set": "rooftop",
+      "size": "wide"
+    },
+    {
+      "id": "S158",
+      "key": 40,
+      "note": "Wide rooftop at dusk, low angle: hero turns to camera; title card TELL US IN THE COMMENTS; city lights behind",
+      "set": "rooftop",
+      "size": "wide"
+    }
+  ],
+  "slug": "money-count",
+  "tail": 1.2,
+  "title": [
+    "WHAT IF YOU COULD SEE",
+    "HOW MUCH MONEY EVERYONE HAS?"
+  ],
+  "topic": "What if you could see how much money everyone has?"
+}
