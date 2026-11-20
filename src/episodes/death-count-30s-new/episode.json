@@ -1,0 +1,175 @@
+{
+  "accent": "LEFT",
+  "cast": [
+    "sam (hero, black head, teal top)",
+    "lily (sister, 10, black head, yellow top)",
+    "man (stranger at the bus stop)"
+  ],
+  "edit": [
+    {
+      "at": "f:0",
+      "shot": "S1"
+    },
+    {
+      "at": "Sam",
+      "shot": "S2"
+    },
+    {
+      "at": "truck",
+      "shot": "S3"
+    },
+    {
+      "at": "His",
+      "shot": "S4"
+    },
+    {
+      "at": "What",
+      "shot": "S5"
+    },
+    {
+      "at": "Green",
+      "shot": "S6"
+    },
+    {
+      "at": "Red",
+      "shot": "S6B"
+    },
+    {
+      "at": "see",
+      "shot": "S7"
+    },
+    {
+      "at": "morning",
+      "shot": "S8"
+    },
+    {
+      "at": "years",
+      "shot": "S9"
+    },
+    {
+      "at": "Saturday",
+      "shot": "S10"
+    },
+    {
+      "at": "hours",
+      "shot": "S11"
+    }
+  ],
+  "fx": [],
+  "id": "DeathCount30sNew",
+  "script": [
+    {
+      "beat": "1 cold open rescue (first 12 s)",
+      "text": "A man at the bus stop has twelve seconds left. Sam grabs his collar and pulls. A truck runs the red light. His timer spins. Twelve seconds becomes forty-one years."
+    },
+    {
+      "beat": "2 the premise (title card)",
+      "text": "What if you could see how long everyone has left?"
+    },
+    {
+      "beat": "3 the rules, one line",
+      "text": "Green means decades. Orange means years. Red means hurry. You can't see your own. Not in a mirror."
+    },
+    {
+      "beat": "4 the deadline (sister's number drops)",
+      "text": "Then one morning, Lily's number drops. Eighty-one years, down to two days. Saturday, two forty. Her birthday. Forty-eight hours."
+    },
+    {
+      "beat": "5 cliffhanger",
+      "text": "Part one."
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "key": 20,
+      "note": "Wide rainy street at night; a man waits at the bus stop, red timer 00:00:00:12 nearly touching his head; Sam watches from the curb; rain, wet road reflections, red traffic light",
+      "set": "rainy street / bus stop, night",
+      "size": "wide"
+    },
+    {
+      "id": "S2",
+      "key": 12,
+      "note": "Close-up: Sam grabs the man's collar and pulls; man's face swaps neutral to shock; timer 00:00:00:03 ticking; blurred street behind",
+      "set": "rainy street / bus stop, night",
+      "size": "close-up"
+    },
+    {
+      "id": "S3",
+      "key": 20,
+      "note": "Wide from the other side: a truck blasts through the red light through the exact spot where the man stood; Sam and the man safe at the curb; brake lights, rain",
+      "set": "rainy street / bus stop, night",
+      "size": "wide, low angle"
+    },
+    {
+      "id": "S4",
+      "key": 55,
+      "note": "The man's timer HUGE on the dark void: 00:00:00:12 spins and flickers through digits, then settles on 41 YEARS in green; breakdown pills above it",
+      "set": "dark void",
+      "size": "macro insert"
+    },
+    {
+      "id": "S5",
+      "key": 30,
+      "note": "Title card on the dark void: glowing ?? ??:??:??:?? pill, then WHAT IF YOU COULD SEE / HOW LONG EVERYONE HAS LEFT? in yellow caps",
+      "set": "dark void",
+      "size": "title, wide"
+    },
+    {
+      "id": "S6",
+      "key": 20,
+      "note": "Rules on the void: yellow banner GREEN MEANS DECADES; three outline figures with green 52 YEARS, orange 3 YEARS, red 00:00:00:12 pills; labels DECADES / YEARS / DAYS",
+      "set": "dark void",
+      "size": "medium wide"
+    },
+    {
+      "id": "S6B",
+      "key": 20,
+      "note": "Close-up: the red figure (Lily) with a pulsing red timer 00:00:00:12; yellow banner RED MEANS HURRY",
+      "set": "dark void",
+      "size": "close-up"
+    },
+    {
+      "id": "S7",
+      "key": 20,
+      "note": "Close-up: Sam at the bathroom mirror; his reflection has NO timer above its head; red label NOT IN A MIRROR; blurred bathroom behind",
+      "set": "bathroom",
+      "size": "close-up"
+    },
+    {
+      "id": "S8",
+      "key": 20,
+      "note": "Kitchen in the morning: Lily (yellow, small) at the table with a cereal box; Sam across from her; her green pill 81 YRS 6 MO nearly touching her head",
+      "set": "kitchen, morning",
+      "size": "medium wide"
+    },
+    {
+      "id": "S9",
+      "key": 30,
+      "note": "Extreme close-up: Lily's timer HUGE red 02:06:19:45 ticking down in real time; breakdown pills 2 DAYS / 6 HOURS / 19 MINUTES above; green 81 YRS 4 MO at the top; background heavily blurred",
+      "set": "kitchen, morning",
+      "size": "extreme close-up"
+    },
+    {
+      "id": "S10",
+      "key": 20,
+      "note": "Macro insert: wall calendar THIS WEEK, red X marks, LILY'S B-DAY! 2:40 PM circled in red on SATURDAY; red label SATURDAY; PART 1 banner pops in at the end",
+      "set": "calendar",
+      "size": "macro insert"
+    },
+    {
+      "id": "S11",
+      "key": 40,
+      "note": "Wide rooftop at dusk; Sam looks over the city, timers flicker in the distance; title card PART 1",
+      "set": "rooftop, dusk",
+      "size": "wide, low angle"
+    }
+  ],
+  "slug": "death-count-30s-new",
+  "tail": 1.2,
+  "title": [
+    "WHAT IF YOU COULD SEE",
+    "HOW LONG EVERYONE HAS LEFT?"
+  ],
+  "topic": "What if you could see how long everyone has left?"
+}

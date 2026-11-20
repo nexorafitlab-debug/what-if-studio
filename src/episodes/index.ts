@@ -6,6 +6,7 @@ import { deathCount } from './death-count';
 import { deathCountFull } from './death-count-full';
 import { deathCountV2 } from './death-count-v2';
 import { deathCount2Min } from './death-count-2min';
+import { deathCount30sNew } from './death-count-30s-new';
 import { setsTest } from './sets-test';
 
-export const EPISODES = [rewind, copyPaste, sleep, deathCount, deathCountFull, deathCountV2, deathCount2Min, setsTest];
+export const EPISODES = [rewind, copyPaste, sleep, deathCount, deathCountFull, deathCountV2, deathCount2Min, deathCount30sNew, setsTest];
