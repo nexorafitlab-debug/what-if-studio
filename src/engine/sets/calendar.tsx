@@ -44,9 +44,6 @@ export const Calendar: React.FC<{ t: number }> = ({ t }) => {
       <text x={960} y={640} fontFamily={FONT.title} fontWeight={700} fontSize={44} fill={RED} textAnchor="middle">
         2:40 PM
       </text>
-      <text x={960} y={760} fontFamily={FONT.title} fontWeight={600} fontSize={30} fill="#5A4A3A" textAnchor="middle">
-        blue car · windows down
-      </text>
     </g>
   );
 };

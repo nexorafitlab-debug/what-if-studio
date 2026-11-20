@@ -1,0 +1,696 @@
+{
+  "slug": "death-count-2min",
+  "title": "WHAT IF YOU COULD SEE HOW LONG EVERYONE HAS LEFT?",
+  "fps": 30,
+  "total": 3600,
+  "segments": [
+    {
+      "shot": "S1",
+      "a": 0,
+      "b": 90,
+      "t0": 0,
+      "t1": 90,
+      "line": "A man at the bus stop has twelve seconds left.."
+    },
+    {
+      "shot": "S2",
+      "a": 90,
+      "b": 158,
+      "t0": 0,
+      "t1": 68,
+      "line": "Sam grabs his collar and pulls.."
+    },
+    {
+      "shot": "S3",
+      "a": 158,
+      "b": 218,
+      "t0": 0,
+      "t1": 60,
+      "line": "A truck runs the red light.. His"
+    },
+    {
+      "shot": "S4",
+      "a": 218,
+      "b": 337,
+      "t0": 0,
+      "t1": 119,
+      "line": "timer spins.. Twelve seconds becomes forty-one years.."
+    },
+    {
+      "shot": "S5",
+      "a": 337,
+      "b": 423,
+      "t0": 0,
+      "t1": 86,
+      "line": "What if you could see how long everyone has left??"
+    },
+    {
+      "shot": "S6",
+      "a": 423,
+      "b": 506,
+      "t0": 0,
+      "t1": 83,
+      "line": "Green means decades.. Orange means years.."
+    },
+    {
+      "shot": "S6B",
+      "a": 506,
+      "b": 575,
+      "t0": 0,
+      "t1": 69,
+      "line": "Red means hurry.. You can't see your"
+    },
+    {
+      "shot": "S7",
+      "a": 575,
+      "b": 639,
+      "t0": 0,
+      "t1": 64,
+      "line": "own.. Not in a mirror.. Then one"
+    },
+    {
+      "shot": "S8",
+      "a": 639,
+      "b": 721,
+      "t0": 0,
+      "t1": 82,
+      "line": "morning,, Lily's number drops.. Eighty-one"
+    },
+    {
+      "shot": "S9",
+      "a": 721,
+      "b": 802,
+      "t0": 0,
+      "t1": 81,
+      "line": "years,, down to two days.."
+    },
+    {
+      "shot": "S10",
+      "a": 802,
+      "b": 948,
+      "t0": 0,
+      "t1": 146,
+      "line": "Saturday,, two forty.. Her birthday.. Forty-eight hours.. So you start"
+    },
+    {
+      "shot": "S11",
+      "a": 948,
+      "b": 1046,
+      "t0": 0,
+      "t1": 98,
+      "line": "testing everyone.. Your best friend,, Alex.. Orange"
+    },
+    {
+      "shot": "S12",
+      "a": 1046,
+      "b": 1194,
+      "t0": 0,
+      "t1": 148,
+      "line": "hoodie.. You check Alex.. Fifteen thousand,, two hundred and four days.."
+    },
+    {
+      "shot": "S13",
+      "a": 1194,
+      "b": 1314,
+      "t0": 0,
+      "t1": 120,
+      "line": "Mister Ortiz,, the janitor.. Nine thousand,, four hundred and twelve.. He"
+    },
+    {
+      "shot": "S14",
+      "a": 1314,
+      "b": 1382,
+      "t0": 0,
+      "t1": 68,
+      "line": "waters the dead plant every morning.."
+    },
+    {
+      "shot": "S15",
+      "a": 1382,
+      "b": 1540,
+      "t0": 0,
+      "t1": 158,
+      "line": "Maya,, the quiet girl in the library.. Seventeen thousand,, eight hundred and forty-two.. She writes a"
+    },
+    {
+      "shot": "S16",
+      "a": 1540,
+      "b": 1605,
+      "t0": 0,
+      "t1": 65,
+      "line": "novel no one ever reads.. You see the"
+    },
+    {
+      "shot": "S17",
+      "a": 1605,
+      "b": 1698,
+      "t0": 0,
+      "t1": 93,
+      "line": "mother again.. Her number says forty-one.."
+    },
+    {
+      "shot": "S18",
+      "a": 1698,
+      "b": 1766,
+      "t0": 0,
+      "t1": 68,
+      "line": "Yesterday it said forty-two.."
+    },
+    {
+      "shot": "S19",
+      "a": 1766,
+      "b": 1892,
+      "t0": 0,
+      "t1": 126,
+      "line": "The baby still says nineteen thousand,, eight hundred and one.. The numbers are"
+    },
+    {
+      "shot": "S20",
+      "a": 1892,
+      "b": 1973,
+      "t0": 0,
+      "t1": 81,
+      "line": "brightest over the people you already know.. The"
+    },
+    {
+      "shot": "S21",
+      "a": 1973,
+      "b": 2106,
+      "t0": 0,
+      "t1": 133,
+      "line": "strangers are dim.. Like a light turned low.. The people you love"
+    },
+    {
+      "shot": "S22",
+      "a": 2106,
+      "b": 2181,
+      "t0": 0,
+      "t1": 75,
+      "line": "burn bright.. You start doing small"
+    },
+    {
+      "shot": "S23",
+      "a": 2181,
+      "b": 2230,
+      "t0": 0,
+      "t1": 49,
+      "line": "kindnesses.. You carry"
+    },
+    {
+      "shot": "S24",
+      "a": 2230,
+      "b": 2343,
+      "t0": 0,
+      "t1": 113,
+      "line": "boxes and hold doors.. It feels good.. And then"
+    },
+    {
+      "shot": "S25",
+      "a": 2343,
+      "b": 2510,
+      "t0": 0,
+      "t1": 167,
+      "line": "you tell Alex his number.. Fifteen thousand,, two hundred and four days.. Forty-one years.."
+    },
+    {
+      "shot": "S26",
+      "a": 2510,
+      "b": 2543,
+      "t0": 0,
+      "t1": 33,
+      "line": "Use them.."
+    },
+    {
+      "shot": "S27",
+      "a": 2543,
+      "b": 2611,
+      "t0": 0,
+      "t1": 68,
+      "line": "He laughs.. Then he stops.. He stops"
+    },
+    {
+      "shot": "S28",
+      "a": 2611,
+      "b": 2667,
+      "t0": 0,
+      "t1": 56,
+      "line": "applying to college.. Then why"
+    },
+    {
+      "shot": "S29",
+      "a": 2667,
+      "b": 2732,
+      "t0": 0,
+      "t1": 65,
+      "line": "bother,, he says.. You try to take it"
+    },
+    {
+      "shot": "S30",
+      "a": 2732,
+      "b": 2822,
+      "t0": 0,
+      "t1": 90,
+      "line": "back.. The number is in his head now.. You start"
+    },
+    {
+      "shot": "S31",
+      "a": 2822,
+      "b": 2864,
+      "t0": 0,
+      "t1": 42,
+      "line": "sorting people.. You"
+    },
+    {
+      "shot": "S31B",
+      "a": 2864,
+      "b": 3038,
+      "t0": 0,
+      "t1": 174,
+      "line": "sit next to the big numbers.. You walk past the small ones.. You catch yourself doing it.. And you feel"
+    },
+    {
+      "shot": "S32",
+      "a": 3038,
+      "b": 3108,
+      "t0": 0,
+      "t1": 70,
+      "line": "sick.. That night,, you look in"
+    },
+    {
+      "shot": "S33",
+      "a": 3108,
+      "b": 3203,
+      "t0": 0,
+      "t1": 95,
+      "line": "the mirror.. Nothing above your head.. You stand on"
+    },
+    {
+      "shot": "S34",
+      "a": 3203,
+      "b": 3299,
+      "t0": 0,
+      "t1": 96,
+      "line": "a chair,, phone up.. Nothing.. You can't see your"
+    },
+    {
+      "shot": "S35",
+      "a": 3299,
+      "b": 3373,
+      "t0": 0,
+      "t1": 74,
+      "line": "own.. Saturday,, two forty.."
+    },
+    {
+      "shot": "S36",
+      "a": 3373,
+      "b": 3409,
+      "t0": 0,
+      "t1": 36,
+      "line": "Counting down.. Fourteen"
+    },
+    {
+      "shot": "S37",
+      "a": 3409,
+      "b": 3483,
+      "t0": 0,
+      "t1": 74,
+      "line": "days.. Use every one.."
+    },
+    {
+      "shot": "S38",
+      "a": 3483,
+      "b": 3600,
+      "t0": 0,
+      "t1": 117,
+      "line": "Part one.. So...... what would yours say??"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "key": 20,
+      "len": 90,
+      "first": 0,
+      "line": "A man at the bus stop has twelve seconds left..",
+      "note": "Wide rainy street at night; a man waits at the bus stop, red timer 00:00:00:12 nearly touching his head; Sam watches from the curb; rain, wet road, red traffic light"
+    },
+    {
+      "id": "S2",
+      "size": "close-up",
+      "key": 12,
+      "len": 68,
+      "first": 90,
+      "line": "Sam grabs his collar and pulls..",
+      "note": "Close-up: Sam grabs the man's collar and pulls; man's face swaps neutral to shock; timer 00:00:00:03 ticking; blurred street behind"
+    },
+    {
+      "id": "S3",
+      "size": "wide, low angle",
+      "key": 20,
+      "len": 60,
+      "first": 158,
+      "line": "A truck runs the red light.. His",
+      "note": "Wide from the other side: a truck blasts through the red light through the exact spot where the man stood; Sam and the man safe at the curb; brake lights, rain"
+    },
+    {
+      "id": "S4",
+      "size": "macro insert",
+      "key": 55,
+      "len": 119,
+      "first": 218,
+      "line": "timer spins.. Twelve seconds becomes forty-one years..",
+      "note": "The man's timer HUGE on the dark void: 00:00:00:12 spins and flickers through digits, then settles on 41 YEARS in green; breakdown pills above it"
+    },
+    {
+      "id": "S5",
+      "size": "title, wide",
+      "key": 30,
+      "len": 86,
+      "first": 337,
+      "line": "What if you could see how long everyone has left??",
+      "note": "Title card on the dark void: glowing ?? ??:??:??:?? pill, then WHAT IF YOU COULD SEE / HOW LONG EVERYONE HAS LEFT? in yellow caps"
+    },
+    {
+      "id": "S6",
+      "size": "medium wide",
+      "key": 20,
+      "len": 83,
+      "first": 423,
+      "line": "Green means decades.. Orange means years..",
+      "note": "Rules on the void: yellow banner GREEN MEANS DECADES; three outline figures with green 52 YEARS, orange 3 YEARS, red 00:00:00:12 pills; labels DECADES / YEARS / DAYS"
+    },
+    {
+      "id": "S6B",
+      "size": "close-up",
+      "key": 20,
+      "len": 69,
+      "first": 506,
+      "line": "Red means hurry.. You can't see your",
+      "note": "Close-up: the red figure (Lily) with a pulsing red timer 00:00:00:12; yellow banner RED MEANS HURRY"
+    },
+    {
+      "id": "S7",
+      "size": "close-up",
+      "key": 20,
+      "len": 64,
+      "first": 575,
+      "line": "own.. Not in a mirror.. Then one",
+      "note": "Close-up: Sam at the bathroom mirror; his reflection has NO timer above its head; red label NOT IN A MIRROR; blurred bathroom behind"
+    },
+    {
+      "id": "S8",
+      "size": "medium wide",
+      "key": 20,
+      "len": 82,
+      "first": 639,
+      "line": "morning,, Lily's number drops.. Eighty-one",
+      "note": "Kitchen in the morning: Lily (yellow, small) at the table with a cereal box; Sam across from her; her green pill 81 YRS 6 MO nearly touching her head"
+    },
+    {
+      "id": "S9",
+      "size": "extreme close-up",
+      "key": 30,
+      "len": 81,
+      "first": 721,
+      "line": "years,, down to two days..",
+      "note": "Extreme close-up: Lily's timer HUGE red 02:06:19:45 ticking down in real time; breakdown pills 2 DAYS / 6 HOURS / 19 MINUTES above; green 81 YRS 4 MO at the top; background heavily blurred"
+    },
+    {
+      "id": "S10",
+      "size": "macro insert",
+      "key": 20,
+      "len": 146,
+      "first": 802,
+      "line": "Saturday,, two forty.. Her birthday.. Forty-eight hours.. So you start",
+      "note": "Macro insert: wall calendar THIS WEEK, red X marks, LILY'S B-DAY! 2:40 PM circled in red on SATURDAY; red label SATURDAY"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "key": 20,
+      "len": 98,
+      "first": 948,
+      "line": "testing everyone.. Your best friend,, Alex.. Orange",
+      "note": "Medium school hallway: Sam and Alex (orange hoodie) walk; Alex's green pill 15204 nearly touching his head; lockers, dusk light through windows"
+    },
+    {
+      "id": "S12",
+      "size": "close-up",
+      "key": 20,
+      "len": 148,
+      "first": 1046,
+      "line": "hoodie.. You check Alex.. Fifteen thousand,, two hundred and four days..",
+      "note": "Close-up: Alex's face, orange hoodie; his green pill 15204 nearly touching his head; blurred hallway behind"
+    },
+    {
+      "id": "S13",
+      "size": "medium",
+      "key": 20,
+      "len": 120,
+      "first": 1194,
+      "line": "Mister Ortiz,, the janitor.. Nine thousand,, four hundred and twelve.. He",
+      "note": "Medium stairwell corridor: Mr. Ortiz the janitor with a mop and bucket; his orange pill 9412 nearly touching his head; dead plant by the gym door"
+    },
+    {
+      "id": "S14",
+      "size": "close-up",
+      "key": 20,
+      "len": 68,
+      "first": 1314,
+      "line": "waters the dead plant every morning..",
+      "note": "Close-up: Mr. Ortiz watering the dead plant by the gym door; his pill 9412 above; watering can, morning light"
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "key": 20,
+      "len": 158,
+      "first": 1382,
+      "line": "Maya,, the quiet girl in the library.. Seventeen thousand,, eight hundred and forty-two.. She writes a",
+      "note": "Medium library: Maya (quiet girl) at a desk with a notebook; her green pill 17842 nearly touching her head; bookshelves, lamp light"
+    },
+    {
+      "id": "S16",
+      "size": "close-up",
+      "key": 20,
+      "len": 65,
+      "first": 1540,
+      "line": "novel no one ever reads.. You see the",
+      "note": "Close-up: Maya's notebook, handwritten pages; her pill 17842 above; pencil, lamp glow"
+    },
+    {
+      "id": "S17",
+      "size": "wide",
+      "key": 20,
+      "len": 93,
+      "first": 1605,
+      "line": "mother again.. Her number says forty-one..",
+      "note": "Wide bus interior: the subway mother holds her baby; her red pill 41 and the baby's green pill 19801 above their heads; Sam watches; city scrolling past windows"
+    },
+    {
+      "id": "S18",
+      "size": "close-up",
+      "key": 20,
+      "len": 68,
+      "first": 1698,
+      "line": "Yesterday it said forty-two..",
+      "note": "Close-up: the mother's red pill 41 ticking; her face worried; blurred bus interior behind"
+    },
+    {
+      "id": "S19",
+      "size": "close-up",
+      "key": 20,
+      "len": 126,
+      "first": 1766,
+      "line": "The baby still says nineteen thousand,, eight hundred and one.. The numbers are",
+      "note": "Close-up: the baby in the mother's arms; green pill 19801 above; soft light"
+    },
+    {
+      "id": "S20",
+      "size": "wide",
+      "key": 20,
+      "len": 81,
+      "first": 1892,
+      "line": "brightest over the people you already know.. The",
+      "note": "Wide classroom: a crowd of kids, a pill above every head; the pills over Alex and Maya burn bright, strangers' pills dim; Sam scans the room"
+    },
+    {
+      "id": "S21",
+      "size": "medium",
+      "key": 20,
+      "len": 133,
+      "first": 1973,
+      "line": "strangers are dim.. Like a light turned low.. The people you love",
+      "note": "Medium: two strangers with dim, faint pills; Sam looks past them"
+    },
+    {
+      "id": "S22",
+      "size": "close-up",
+      "key": 20,
+      "len": 75,
+      "first": 2106,
+      "line": "burn bright.. You start doing small",
+      "note": "Close-up: Alex and Maya, their pills burning bright green; warm light"
+    },
+    {
+      "id": "S23",
+      "size": "medium",
+      "key": 20,
+      "len": 49,
+      "first": 2181,
+      "line": "kindnesses.. You carry",
+      "note": "Medium evening street: Sam carries a box for an old woman; small red pill 6 DAYS above her head; dusk, shop lights"
+    },
+    {
+      "id": "S24",
+      "size": "medium",
+      "key": 20,
+      "len": 113,
+      "first": 2230,
+      "line": "boxes and hold doors.. It feels good.. And then",
+      "note": "Medium street: Sam holds a door open, a kid with a green pill walks through; Sam smiles; warm shop light"
+    },
+    {
+      "id": "S25",
+      "size": "medium",
+      "key": 20,
+      "len": 167,
+      "first": 2343,
+      "line": "you tell Alex his number.. Fifteen thousand,, two hundred and four days.. Forty-one years..",
+      "note": "Medium hallway: Sam faces Alex, about to speak; Alex's green pill 15204 above; lockers behind"
+    },
+    {
+      "id": "S26",
+      "size": "close-up",
+      "key": 20,
+      "len": 33,
+      "first": 2510,
+      "line": "Use them..",
+      "note": "Close-up: Alex's green pill 15204 HUGE beside him; Sam's hand pointing; blurred hallway"
+    },
+    {
+      "id": "S27",
+      "size": "close-up",
+      "key": 20,
+      "len": 68,
+      "first": 2543,
+      "line": "He laughs.. Then he stops.. He stops",
+      "note": "Close-up: Alex's face swaps laugh to still; his pill 15204 unchanged; the smile dies"
+    },
+    {
+      "id": "S28",
+      "size": "medium",
+      "key": 20,
+      "len": 56,
+      "first": 2611,
+      "line": "applying to college.. Then why",
+      "note": "Medium classroom: Alex's empty desk, his books untouched; a college letter on the desk; his pill 15204 faint above the empty chair"
+    },
+    {
+      "id": "S29",
+      "size": "close-up",
+      "key": 20,
+      "len": 65,
+      "first": 2667,
+      "line": "bother,, he says.. You try to take it",
+      "note": "Close-up: Alex, tired face; his pill 15204 above; cold light"
+    },
+    {
+      "id": "S30",
+      "size": "medium",
+      "key": 20,
+      "len": 90,
+      "first": 2732,
+      "line": "back.. The number is in his head now.. You start",
+      "note": "Medium: Sam reaches out, then stops; Alex walks away down the hall; his pill 15204 receding"
+    },
+    {
+      "id": "S31",
+      "size": "wide",
+      "key": 20,
+      "len": 42,
+      "first": 2822,
+      "line": "sorting people.. You",
+      "note": "Wide cafeteria: Sam scans the room; big green pills over one table, small red pills over another; he sits with the big numbers"
+    },
+    {
+      "id": "S31B",
+      "size": "medium",
+      "key": 20,
+      "len": 174,
+      "first": 2864,
+      "line": "sit next to the big numbers.. You walk past the small ones.. You catch yourself doing it.. And you feel",
+      "note": "Medium: Sam sits at the big-numbers table with two green-pill kids; across the room a small red pill 41 glows over an empty chair; he looks away from it"
+    },
+    {
+      "id": "S32",
+      "size": "close-up",
+      "key": 20,
+      "len": 70,
+      "first": 3038,
+      "line": "sick.. That night,, you look in",
+      "note": "Close-up: Sam's face, worried then sick; he looks down at his hands; blurred cafeteria behind"
+    },
+    {
+      "id": "S33",
+      "size": "close-up",
+      "key": 20,
+      "len": 95,
+      "first": 3108,
+      "line": "the mirror.. Nothing above your head.. You stand on",
+      "note": "Close-up: Sam at the bathroom mirror at night; his reflection has NO timer above its head; red label NOTHING ABOVE YOUR HEAD"
+    },
+    {
+      "id": "S34",
+      "size": "medium",
+      "key": 20,
+      "len": 96,
+      "first": 3203,
+      "line": "a chair,, phone up.. Nothing.. You can't see your",
+      "note": "Medium bedroom at night: Sam stands on a chair holding up his phone; the phone screen is blank above his head; moonlight through the window"
+    },
+    {
+      "id": "S35",
+      "size": "extreme close-up",
+      "key": 30,
+      "len": 74,
+      "first": 3299,
+      "line": "own.. Saturday,, two forty..",
+      "note": "Extreme close-up: Sam's eyes, worried; the space above his head is empty dark; no pill, no number"
+    },
+    {
+      "id": "S36",
+      "size": "wide",
+      "key": 20,
+      "len": 36,
+      "first": 3373,
+      "line": "Counting down.. Fourteen",
+      "note": "Wide rooftop at dusk: Sam looks over the city, timers flicker in the distance; red label SATURDAY 2:40 PM"
+    },
+    {
+      "id": "S37",
+      "size": "medium",
+      "key": 20,
+      "len": 74,
+      "first": 3409,
+      "line": "days.. Use every one..",
+      "note": "Medium rooftop: Sam holds a small red pill 14 DAYS in his hand; the city glows behind him; his face is set, determined"
+    },
+    {
+      "id": "S38",
+      "size": "wide, low angle",
+      "key": 40,
+      "len": 117,
+      "first": 3483,
+      "line": "Part one.. So...... what would yours say??",
+      "note": "Wide rooftop at dusk: Sam and Lily walk home together down the street below; city timers flicker; title card PART 1 and the question on screen"
+    }
+  ],
+  "fx": [],
+  "audio": {
+    "musicVol": 0,
+    "sfxVol": 0,
+    "voice": "death-count-2min/voice.wav"
+  }
+}
