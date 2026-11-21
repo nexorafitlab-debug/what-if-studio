@@ -218,7 +218,7 @@ export const WallClock: React.FC<{ x: number; y: number; r?: number; t?: number 
   <g>
     <circle cx={x} cy={y} r={r} fill="#EFE2CC" />
     <circle cx={x} cy={y} r={r} fill="none" stroke="#1E1824" strokeWidth={r * 0.19} />
-    <path d={`M ${x} ${y} L ${x} ${y - r * 0.62} M ${x} ${y} L ${x + r * 0.44} ${y + r * 0.25}`} stroke="#1E1824" strokeWidth={r * 0.13} strokeLinecap="round" transform={`rotate(${t * 0.2} ${x} ${y})`} />
+    <path d={`M ${x} ${y} L ${x} ${y - r * 0.62} M ${x} ${y} L ${x + r * 0.44} ${y + r * 0.25}`} stroke="#1E1824" strokeWidth={r * 0.13} strokeLinecap="round" transform={`rotate(0 ${x} ${y})`} />
   </g>
 );
 

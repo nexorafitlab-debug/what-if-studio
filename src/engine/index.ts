@@ -1,6 +1,8 @@
 // Everything an episode builds with, in one import: import { Study, Hero, poseAt, Marquee, ... } from '../../engine';
 export * from './anim';
 export * from './rig';
+export * from './rig/hero-rig';
+export { NumberPill, PanelPop, Ring, FreezeDiagram, TextBanner, EyeBeam } from './components/house';
 export * from './props';
 export * from './kit';
 export * from './light';

@@ -24,8 +24,12 @@
 #      sit well ABOVE the music: SFX mean -38.8 dB vs music -57.0 dB, so the
 #      sfx stem mixes at full volume; at 0.1 it lands at ~-62.7 dB = inaudible
 #      — that was the 2-min video's missing-SFX bug, fixed 2026-11-20). They add
-#      negligible energy, so the loudness stays at ~-14 LUFS.
-#   4. Downscale to 1280x720 (the delivery size).
+#      negligible energy, so the loudness stays at ~-14 LUFS. The music bus
+#      gets the R8 + B3 recipe (EXACT-SOLUTION §4 Step 8): an EQ vocal pocket
+#      plus a GENTLE sidechain duck against the voice — never heavy ducking,
+#      which buried the music at ~-56 dB (inaudible). SFX are never ducked.
+#   4. Downscale to 1280x720 (the delivery size) AND apply the 40px
+#      letterbox (A6) so no video can ship without it.
 #   5. Verify duration + frame count against total_frames and print the
 #      measured loudness. Exits non-zero if duration/frames don't match.
 set -euo pipefail
@@ -65,6 +69,20 @@ ffmpeg -y -v error -i "$CHUNK_DIR/stitched-1080p.mp4" -c:v copy -af "$FILT" \
   -ar 48000 -c:a aac -b:a 256k norm-1080p.mp4
 
 # --- 3. mix music + sfx stems in (after loudnorm, at measured levels) -------
+# R8 + B3 (EXACT-SOLUTION §4 Step 8): EQ-pocket + GENTLE duck — NOT heavy
+# sidechain ducking (heavy ducking is what buried the music at ~-56 dB).
+#   * Music bus: carve a vocal pocket with EQ (-4 dB at 1500 Hz, Q 1.2;
+#     -3 dB at 350 Hz, Q 1.5 to de-mud low-mids), then duck GENTLY against
+#     the voice sidechain (threshold 0.05, ratio 2, attack 20 ms,
+#     release 700 ms) — a 2-6 dB dip, never toward silence.
+#   * SFX are NOT ducked: they must punch at/near voice level (stem peaks
+#     ~-8 dBFS); ducking them would bury the pops.
+#   * amix normalize=0 ALWAYS — without it amix divides each input by 1/N
+#     and the voice loses 50-66% of its volume.
+# Chime tails (0.3-0.5 s + fast fade, atrim + afade) are a per-event
+# stem-build rule and already hold in the stems (v3 chimes decay 20 dB in
+# 0.35 s); the SFX stem arrives pre-mixed here, so no per-chime atrim is
+# possible at this stage — do not add one here.
 # music at 1.0, sfx at 1.0 (sfx sit ABOVE the music in the approved final — see header). Stems are looked up as .mp3 first, then .wav.
 INPUTS=(-i norm-1080p.mp4)
 VOL_FILTERS=()
@@ -76,7 +94,12 @@ for stem in music sfx; do
   [ -f "$F" ] || continue
   VOL=1.0
   INPUTS+=(-i "$F")
-  VOL_FILTERS+=("[$IDX:a]volume=$VOL[v$IDX]")
+  if [ "$stem" = "music" ]; then
+    # EQ vocal pocket + gentle sidechain duck against the voice ([0:a]).
+    VOL_FILTERS+=("[$IDX:a]volume=$VOL,equalizer=f=1500:t=q:w=1.2:g=-4,equalizer=f=350:t=q:w=1.5:g=-3[meq];[meq][0:a]sidechaincompress=threshold=0.05:ratio=2:attack=20:release=700[v$IDX]")
+  else
+    VOL_FILTERS+=("[$IDX:a]volume=$VOL[v$IDX]")
+  fi
   MIX_IN="$MIX_IN[v$IDX]"
   IDX=$((IDX + 1)); COUNT=$((COUNT + 1))
   echo "stem: $stem (vol $VOL)"
@@ -95,8 +118,11 @@ else
     -map 0:v -map "[aout]" -c:v copy -c:a aac -b:a 256k -ar 48000 mixed-1080p.mp4
 fi
 
-# --- 4. downscale to 1280x720 ----------------------------------------------
-ffmpeg -y -v error -i mixed-1080p.mp4 -vf scale=1280:720 \
+# --- 4. downscale to 1280x720 + 40px letterbox ------------------------------
+# A6 (EXACT-SOLUTION §10): 40 px black bars top + bottom, applied here in the
+# stitch step so no video can ship without it: crop the central 640 rows,
+# then pad back to 1280x720 with black bars.
+ffmpeg -y -v error -i mixed-1080p.mp4 -vf scale=1280:720,crop=1280:640:0:40,pad=1280:720:0:40:black \
   -c:v libx264 -pix_fmt yuv420p -c:a copy -movflags +faststart "$OUT"
 
 # --- 5. verify ---------------------------------------------------------------
