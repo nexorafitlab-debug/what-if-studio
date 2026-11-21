@@ -1,0 +1,307 @@
+{
+ "audio": {
+  "music": "allergies-40s/music.mp3",
+  "musicVol": 0,
+  "sfx": "allergies-40s/sfx.mp3",
+  "sfxVol": 0,
+  "voice": "allergies-40s/voice.wav"
+ },
+ "fps": 30,
+ "fx": [],
+ "segments": [
+  {
+   "a": 0,
+   "b": 93,
+   "line": "You wake up, and the world has changed.",
+   "shot": "S1",
+   "t0": 0,
+   "t1": 93
+  },
+  {
+   "a": 93,
+   "b": 177,
+   "line": "Above every head, a little green label.",
+   "shot": "S2",
+   "t0": 0,
+   "t1": 84
+  },
+  {
+   "a": 177,
+   "b": 197,
+   "line": "Everyone's biggest allergy,",
+   "shot": "S3",
+   "t0": 0,
+   "t1": 20
+  },
+  {
+   "a": 197,
+   "b": 216,
+   "line": "written where only",
+   "shot": "S4",
+   "t0": 0,
+   "t1": 19
+  },
+  {
+   "a": 216,
+   "b": 236,
+   "line": "you can see it.",
+   "shot": "S5",
+   "t0": 0,
+   "t1": 20
+  },
+  {
+   "a": 236,
+   "b": 255,
+   "line": "Everyone's biggest allergy,",
+   "shot": "S6",
+   "t0": 0,
+   "t1": 19
+  },
+  {
+   "a": 255,
+   "b": 275,
+   "line": "written where only you can see it.",
+   "shot": "S7",
+   "t0": 0,
+   "t1": 20
+  },
+  {
+   "a": 275,
+   "b": 294,
+   "line": "Everyone's biggest allergy, written where only you can see it.",
+   "shot": "S8",
+   "t0": 0,
+   "t1": 19
+  },
+  {
+   "a": 294,
+   "b": 381,
+   "line": "On the bus, the big guy's label says PEANUTS.",
+   "shot": "S9",
+   "t0": 0,
+   "t1": 87
+  },
+  {
+   "a": 381,
+   "b": 456,
+   "line": "The girl by the window: POLLEN.",
+   "shot": "S10",
+   "t0": 0,
+   "t1": 75
+  },
+  {
+   "a": 456,
+   "b": 562,
+   "line": "Even the driver: CATS. The labels never lie.",
+   "shot": "S11",
+   "t0": 0,
+   "t1": 106
+  },
+  {
+   "a": 562,
+   "b": 687,
+   "line": "They don't change. And nobody else can see them. Only you.",
+   "shot": "S12",
+   "t0": 0,
+   "t1": 125
+  },
+  {
+   "a": 687,
+   "b": 801,
+   "line": "What if you could read anyone's allergies? Not just the big ones.",
+   "shot": "S13",
+   "t0": 0,
+   "t1": 114
+  },
+  {
+   "a": 801,
+   "b": 906,
+   "line": "Not just the obvious ones. Every single one.",
+   "shot": "S14",
+   "t0": 0,
+   "t1": 105
+  },
+  {
+   "a": 906,
+   "b": 1026,
+   "line": "All day, every day. Labels above every head.",
+   "shot": "S15",
+   "t0": 0,
+   "t1": 120
+  },
+  {
+   "a": 1026,
+   "b": 1083,
+   "line": "Sounds like a superpower, right?",
+   "shot": "S16",
+   "t0": 0,
+   "t1": 57
+  },
+  {
+   "a": 1083,
+   "b": 1224,
+   "line": "Stick around, because by the end of this, it won't feel like one.",
+   "shot": "S17",
+   "t0": 0,
+   "t1": 141
+  }
+ ],
+ "shots": [
+  {
+   "first": 0,
+   "id": "S1",
+   "key": 30,
+   "len": 93,
+   "line": "You wake up, and the world has changed.",
+   "note": "Bedroom wide; hero wakes up",
+   "size": "wide"
+  },
+  {
+   "first": 93,
+   "id": "S2",
+   "key": 30,
+   "len": 84,
+   "line": "Above every head, a little green label.",
+   "note": "Dark void; hero shocked, ALLERGY label pops big",
+   "size": "medium"
+  },
+  {
+   "first": 177,
+   "id": "S3",
+   "key": 30,
+   "len": 20,
+   "line": "Everyone's biggest allergy,",
+   "note": "Kitchen; mum PEANUTS, hero small at right (flash)",
+   "size": "medium"
+  },
+  {
+   "first": 197,
+   "id": "S4",
+   "key": 30,
+   "len": 19,
+   "line": "written where only",
+   "note": "Park; little kid, POLLEN pops (flash)",
+   "size": "medium"
+  },
+  {
+   "first": 216,
+   "id": "S5",
+   "key": 30,
+   "len": 20,
+   "line": "you can see it.",
+   "note": "Dark void; hero blinks, face swaps shock to neutral (flash)",
+   "size": "close-up"
+  },
+  {
+   "first": 236,
+   "id": "S6",
+   "key": 30,
+   "len": 19,
+   "line": "Everyone's biggest allergy,",
+   "note": "Street; old man CATS, hero small at right (flash)",
+   "size": "medium"
+  },
+  {
+   "first": 255,
+   "id": "S7",
+   "key": 30,
+   "len": 20,
+   "line": "written where only you can see it.",
+   "note": "Street; woman with the pram, POLLEN pops (flash)",
+   "size": "medium"
+  },
+  {
+   "first": 275,
+   "id": "S8",
+   "key": 30,
+   "len": 19,
+   "line": "Everyone's biggest allergy, written where only you can see it.",
+   "note": "Street; hero, girl POLLEN, driver CATS (flash)",
+   "size": "wide"
+  },
+  {
+   "first": 294,
+   "id": "S9",
+   "key": 30,
+   "len": 87,
+   "line": "On the bus, the big guy's label says PEANUTS.",
+   "note": "Bus; the big guy, PEANUTS pops on 'says'",
+   "size": "medium"
+  },
+  {
+   "first": 381,
+   "id": "S10",
+   "key": 30,
+   "len": 75,
+   "line": "The girl by the window: POLLEN.",
+   "note": "Bus; the girl by the window, POLLEN pops on POLLEN",
+   "size": "medium"
+  },
+  {
+   "first": 456,
+   "id": "S11",
+   "key": 30,
+   "len": 106,
+   "line": "Even the driver: CATS. The labels never lie.",
+   "note": "Bus; the driver, CATS pops on CATS; holds through 'The labels never lie.'",
+   "size": "medium"
+  },
+  {
+   "first": 562,
+   "id": "S12",
+   "key": 30,
+   "len": 125,
+   "line": "They don't change. And nobody else can see them. Only you.",
+   "note": "Bus trio; hero, bigguy PEANUTS, girl POLLEN; the one slow push-in",
+   "size": "wide"
+  },
+  {
+   "first": 687,
+   "id": "S13",
+   "key": 30,
+   "len": 114,
+   "line": "What if you could read anyone's allergies? Not just the big ones.",
+   "note": "Title card 1 on the void: WHAT IF YOU COULD READ ANYONE'S ALLERGIES?",
+   "size": "title, wide"
+  },
+  {
+   "first": 801,
+   "id": "S14",
+   "key": 30,
+   "len": 105,
+   "line": "Not just the obvious ones. Every single one.",
+   "note": "Title card 2 on the void: EVERY SINGLE ONE + three labels pop",
+   "size": "title, wide"
+  },
+  {
+   "first": 906,
+   "id": "S15",
+   "key": 30,
+   "len": 120,
+   "line": "All day, every day. Labels above every head.",
+   "note": "Title card 3 on the void: ALL DAY, EVERY DAY. LABELS ABOVE EVERY HEAD.",
+   "size": "title, wide"
+  },
+  {
+   "first": 1026,
+   "id": "S16",
+   "key": 30,
+   "len": 57,
+   "line": "Sounds like a superpower, right?",
+   "note": "Title card 4 on the void: SOUNDS LIKE A SUPERPOWER, RIGHT?",
+   "size": "title, wide"
+  },
+  {
+   "first": 1083,
+   "id": "S17",
+   "key": 30,
+   "len": 141,
+   "line": "Stick around, because by the end of this, it won't feel like one.",
+   "note": "End card on the void: STICK AROUND, BECAUSE BY THE END OF THIS, IT WON'T FEEL LIKE ONE.",
+   "size": "title, wide"
+  }
+ ],
+ "slug": "allergies-40s",
+ "title": "WHAT IF YOU COULD READ ANYONE'S ALLERGIES?",
+ "total": 1224
+}
