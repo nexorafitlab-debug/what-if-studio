@@ -1,0 +1,105 @@
+{
+  "slug": "read-thoughts",
+  "title": "WHAT IF YOU COULD READ ANYONE'S THOUGHTS?",
+  "fps": 30,
+  "total": 286,
+  "segments": [
+    {
+      "shot": "S1",
+      "a": 0,
+      "b": 92,
+      "t0": 0,
+      "t1": 92,
+      "line": "You look at a stranger, their thought hungry."
+    },
+    {
+      "shot": "S2",
+      "a": 92,
+      "b": 151,
+      "t0": 0,
+      "t1": 59,
+      "line": "You look at your boss, their thought"
+    },
+    {
+      "shot": "S3",
+      "a": 151,
+      "b": 188,
+      "t0": 0,
+      "t1": 37,
+      "line": "fire me."
+    },
+    {
+      "shot": "S4",
+      "a": 188,
+      "b": 286,
+      "t0": 0,
+      "t1": 98,
+      "line": "What if you could read anyone's thoughts?"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "medium",
+      "key": 46,
+      "len": 92,
+      "first": 0,
+      "line": "You look at a stranger, their thought hungry.",
+      "note": "Pip at a cafe counter; looks at stranger; amber thought panel pops in above stranger's head reading 'hungry'"
+    },
+    {
+      "id": "S2",
+      "size": "medium wide",
+      "key": 40,
+      "len": 59,
+      "first": 92,
+      "line": "You look at your boss, their thought",
+      "note": "Pip at desk; looks at boss; amber thought panel pops in above boss's head reading 'fire me' in bold; boss stares back"
+    },
+    {
+      "id": "S3",
+      "size": "extreme close-up",
+      "key": 8,
+      "len": 37,
+      "first": 151,
+      "line": "fire me.",
+      "note": "Pip's eye in close-up; the 'fire me' panel flickers; boss's gaze shifts away"
+    },
+    {
+      "id": "S4",
+      "size": "title, wide",
+      "key": 40,
+      "len": 98,
+      "first": 188,
+      "line": "What if you could read anyone's thoughts?",
+      "note": "the premise over the city at dusk; Pip on the roof; thought panels visible on distant figures"
+    }
+  ],
+  "fx": [
+    {
+      "at": "f:46",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:137",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:188",
+      "color": "#FFD700",
+      "kind": "flash",
+      "o": 0.4
+    }
+  ],
+  "audio": {
+    "musicVol": 0,
+    "sfxVol": 0,
+    "voice": "read-thoughts/voice.wav",
+    "sfx": "read-thoughts/sfx.mp3",
+    "music": "read-thoughts/music.mp3"
+  }
+}
