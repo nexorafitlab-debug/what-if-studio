@@ -38,6 +38,8 @@ export * from './sets/taxi';
 export * from './sets/gallery';
 export * from './sets/train';
 export * from './sets/hallway';
+export * from './sets/pl-hallway';
+export * from './sets/pl-bedroom';
 export * from './sets/garden';
 export * from './sets/gym';
 export * from './sets/laundromat';
