@@ -1,0 +1,312 @@
+{
+ "id": "AllergiesFirst2min",
+ "slug": "allergies-first-2min",
+ "title": [
+  "WHAT IF YOU COULD READ ANYONE'S",
+  "ALLERGIES?"
+ ],
+ "topic": "What if you could read anyone's allergies?",
+ "tail": 1.0,
+ "cast": [
+  "alex"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "key": 30,
+   "note": "Hero wakes up in bed, looking around the room in morning light.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S2",
+   "key": 30,
+   "note": "Hero looks out apartment window, seeing green stamp above neighbor.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S3",
+   "key": 30,
+   "note": "Close-up on window view showing glowing green label stamp.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S4",
+   "key": 30,
+   "note": "Construction worker on scaffolding with PEANUTS label above head.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S5",
+   "key": 30,
+   "note": "Jogger on street below with POLLEN label.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S6",
+   "key": 30,
+   "note": "Woman with stroller on sidewalk with CATS label.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S7",
+   "key": 30,
+   "note": "Hero in orange hoodie touches head, looking puzzled.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S8",
+   "key": 30,
+   "note": "Mirror shot: hero's reflection shows bare head with no label.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S9",
+   "key": 30,
+   "note": "Medium shot of hero standing alone in apartment.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S10",
+   "key": 30,
+   "note": "Street view panning across multiple pedestrians with different labels.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S11",
+   "key": 30,
+   "note": "Close-up of varying stamp sizes and font weights.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S12",
+   "key": 30,
+   "note": "Hero looking out at the crowded street below.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S13",
+   "key": 30,
+   "note": "Sunrise gradient over city skyline.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S14",
+   "key": 30,
+   "note": "Morning commuters walking on sidewalk.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S15",
+   "key": 30,
+   "note": "Construction worker and jogger passing by with labels.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S16",
+   "key": 30,
+   "note": "Woman with stroller passing by with CATS label.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S17",
+   "key": 30,
+   "note": "Interior of bus: big guy sitting with PEANUTS label above head.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S18",
+   "key": 30,
+   "note": "Girl looking out bus window with POLLEN label.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S19",
+   "key": 30,
+   "note": "Bus driver at wheel with CATS label.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S20",
+   "key": 30,
+   "note": "Hero watching passengers through bus window.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S21",
+   "key": 30,
+   "note": "Passenger next to hero looks oblivious, no reaction to labels.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S22",
+   "key": 30,
+   "note": "Wide shot of bus interior showing multiple glowing green stamps.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S23",
+   "key": 30,
+   "note": "Hero's thoughtful expression in close-up.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S24",
+   "key": 30,
+   "note": "Hero pulls hood tighter as bus moves down street.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S25",
+   "key": 30,
+   "note": "Title card screen: dark gradient background, glowing text.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S26",
+   "key": 30,
+   "note": "Rapid montage of various label close-ups.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S27",
+   "key": 30,
+   "note": "Hero walking down bustling city sidewalk.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S28",
+   "key": 30,
+   "note": "Hero looking up at crowd of glowing green labels.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S29",
+   "key": 30,
+   "note": "Hero turning to face camera directly.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S30",
+   "key": 30,
+   "note": "Serious close-up on hero's face as camera pushes in slightly.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S31",
+   "key": 30,
+   "note": "Hero sitting on park bench, notebook in lap.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S32",
+   "key": 30,
+   "note": "Detailed close-up of a green stamp label floating in air.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S33",
+   "key": 30,
+   "note": "Pedestrian walking past bench with PEANUTS label.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S34",
+   "key": 30,
+   "note": "Hero writing notes in notebook.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S35",
+   "key": 30,
+   "note": "Another person walks by, ignoring the label completely.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S36",
+   "key": 30,
+   "note": "Hero touches head in reflection of shop window.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S37",
+   "key": 30,
+   "note": "Warning sign icon flash in graphic insert style.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S38",
+   "key": 30,
+   "note": "Person scratching arm with red hive marks.",
+   "set": "void",
+   "size": "medium"
+  },
+  {
+   "id": "S39",
+   "key": 30,
+   "note": "EpiPen device graphic illustration on screen.",
+   "set": "void",
+   "size": "medium"
+  }
+ ],
+ "script": [
+  {
+   "beat": "1 cold open",
+   "text": "You wake up and the world has changed. Above every head, a little green label. Everyone's biggest allergy, written where only you can see it. The labels glow softly in the morning light. Peanuts on the construction worker three buildings over. Pollen on the jogger running past the window. Cats on the woman with the baby stroller two doors down. You pull your hoodie up, checking your own head. No label, just skin. You're the only one who doesn't have a tag. The labels are different for everyone. Some are small, some are bold, but they're all there above every head while yours stands alone. It's a quiet morning. The sun is just coming up. People are starting their day, but the labels are already there. Peanuts on the construction worker, pollen on the jogger, cats on the woman with the baby stroller. On the bus, the big guy's label says peanuts. The girl by the window, pollen. Even the driver, cats. The labels never lie. They don't change. And nobody else can see them. Only you. You watch the labels float above the crowd. Each one, a secret you now hold. A responsibility you never asked for."
+  },
+  {
+   "beat": "2 title card",
+   "text": "What if you could read anyone's allergies? Not just the big ones, not just the obvious ones. Every single one. All day, every day. Labels above every head. Sounds like a superpower, right? Stick around, because by the end of this, it won't feel like one."
+  },
+  {
+   "beat": "3 rules",
+   "text": "First, the rules. The labels appear above every head. Green, rounded rectangle stamps with white, bold caps. They show each person's biggest allergy. They never lie. They don't change. And nobody else can see them. Only you. Your own head has no label. You can't see your own allergy. The labels are about big allergies, the ones that cause real reactions, not mild sensitivities. The ones that make you break out in hives, that make you gasp for air, that make you carry an EpiPen."
+  }
+ ],
+ "sound": {
+  "music": {
+   "clip": "music",
+   "until": "f:3447"
+  },
+  "levels": {
+   "music_lu": -10.0,
+   "sfx_lu": -0.5
+  }
+ }
+}

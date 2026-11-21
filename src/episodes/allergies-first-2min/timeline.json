@@ -1,0 +1,681 @@
+{
+ "audio": {
+  "music": "allergies-first-2min/music.mp3",
+  "musicVol": 0,
+  "sfx": "allergies-first-2min/sfx.mp3",
+  "sfxVol": 0,
+  "voice": "allergies-first-2min/voice.wav"
+ },
+ "fps": 30,
+ "fx": [],
+ "segments": [
+  {
+   "a": 0,
+   "b": 82,
+   "line": "You wake up and the world has changed.",
+   "shot": "S1",
+   "t0": 0,
+   "t1": 82
+  },
+  {
+   "a": 82,
+   "b": 170,
+   "line": "Above every head, a little green label.",
+   "shot": "S2",
+   "t0": 0,
+   "t1": 88
+  },
+  {
+   "a": 170,
+   "b": 287,
+   "line": "Everyone's biggest allergy, written where only you can see it.",
+   "shot": "S3",
+   "t0": 0,
+   "t1": 117
+  },
+  {
+   "a": 287,
+   "b": 453,
+   "line": "The labels glow softly in the morning light. Peanuts on the construction worker three buildings over.",
+   "shot": "S4",
+   "t0": 0,
+   "t1": 166
+  },
+  {
+   "a": 453,
+   "b": 531,
+   "line": "Pollen on the jogger running past the window.",
+   "shot": "S5",
+   "t0": 0,
+   "t1": 78
+  },
+  {
+   "a": 531,
+   "b": 620,
+   "line": "Cats on the woman with the baby stroller two doors down.",
+   "shot": "S6",
+   "t0": 0,
+   "t1": 89
+  },
+  {
+   "a": 620,
+   "b": 691,
+   "line": "You pull your hoodie up, checking your own head.",
+   "shot": "S7",
+   "t0": 0,
+   "t1": 71
+  },
+  {
+   "a": 691,
+   "b": 746,
+   "line": "No label, just skin.",
+   "shot": "S8",
+   "t0": 0,
+   "t1": 55
+  },
+  {
+   "a": 746,
+   "b": 810,
+   "line": "You're the only one who doesn't have a tag.",
+   "shot": "S9",
+   "t0": 0,
+   "t1": 64
+  },
+  {
+   "a": 810,
+   "b": 862,
+   "line": "The labels are different for everyone.",
+   "shot": "S10",
+   "t0": 0,
+   "t1": 52
+  },
+  {
+   "a": 862,
+   "b": 923,
+   "line": "Some are small, some are bold,",
+   "shot": "S11",
+   "t0": 0,
+   "t1": 61
+  },
+  {
+   "a": 923,
+   "b": 1046,
+   "line": "but they're all there above every head while yours stands alone.",
+   "shot": "S12",
+   "t0": 0,
+   "t1": 123
+  },
+  {
+   "a": 1046,
+   "b": 1135,
+   "line": "It's a quiet morning. The sun is just coming up.",
+   "shot": "S13",
+   "t0": 0,
+   "t1": 89
+  },
+  {
+   "a": 1135,
+   "b": 1225,
+   "line": "People are starting their day, but the labels are already there.",
+   "shot": "S14",
+   "t0": 0,
+   "t1": 90
+  },
+  {
+   "a": 1225,
+   "b": 1325,
+   "line": "Peanuts on the construction worker, pollen on the jogger,",
+   "shot": "S15",
+   "t0": 0,
+   "t1": 100
+  },
+  {
+   "a": 1325,
+   "b": 1395,
+   "line": "cats on the woman with the baby stroller.",
+   "shot": "S16",
+   "t0": 0,
+   "t1": 70
+  },
+  {
+   "a": 1395,
+   "b": 1490,
+   "line": "On the bus, the big guy's label says peanuts.",
+   "shot": "S17",
+   "t0": 0,
+   "t1": 95
+  },
+  {
+   "a": 1490,
+   "b": 1556,
+   "line": "The girl by the window, pollen.",
+   "shot": "S18",
+   "t0": 0,
+   "t1": 66
+  },
+  {
+   "a": 1556,
+   "b": 1624,
+   "line": "Even the driver, cats.",
+   "shot": "S19",
+   "t0": 0,
+   "t1": 68
+  },
+  {
+   "a": 1624,
+   "b": 1694,
+   "line": "The labels never lie. They don't change.",
+   "shot": "S20",
+   "t0": 0,
+   "t1": 70
+  },
+  {
+   "a": 1694,
+   "b": 1798,
+   "line": "And nobody else can see them. Only you.",
+   "shot": "S21",
+   "t0": 0,
+   "t1": 104
+  },
+  {
+   "a": 1798,
+   "b": 1869,
+   "line": "You watch the labels float above the crowd.",
+   "shot": "S22",
+   "t0": 0,
+   "t1": 71
+  },
+  {
+   "a": 1869,
+   "b": 1951,
+   "line": "Each one, a secret you now hold.",
+   "shot": "S23",
+   "t0": 0,
+   "t1": 82
+  },
+  {
+   "a": 1951,
+   "b": 2032,
+   "line": "A responsibility you never asked for.",
+   "shot": "S24",
+   "t0": 0,
+   "t1": 81
+  },
+  {
+   "a": 2032,
+   "b": 2110,
+   "line": "What if you could read anyone's allergies?",
+   "shot": "S25",
+   "t0": 0,
+   "t1": 78
+  },
+  {
+   "a": 2110,
+   "b": 2206,
+   "line": "Not just the big ones, not just the obvious ones.",
+   "shot": "S26",
+   "t0": 0,
+   "t1": 96
+  },
+  {
+   "a": 2206,
+   "b": 2327,
+   "line": "Every single one. All day, every day.",
+   "shot": "S27",
+   "t0": 0,
+   "t1": 121
+  },
+  {
+   "a": 2327,
+   "b": 2450,
+   "line": "Labels above every head. Sounds like a superpower, right?",
+   "shot": "S28",
+   "t0": 0,
+   "t1": 123
+  },
+  {
+   "a": 2450,
+   "b": 2516,
+   "line": "Stick around, because by the end of this,",
+   "shot": "S29",
+   "t0": 0,
+   "t1": 66
+  },
+  {
+   "a": 2516,
+   "b": 2566,
+   "line": "it won't feel like one.",
+   "shot": "S30",
+   "t0": 0,
+   "t1": 50
+  },
+  {
+   "a": 2566,
+   "b": 2614,
+   "line": "First, the rules.",
+   "shot": "S31",
+   "t0": 0,
+   "t1": 48
+  },
+  {
+   "a": 2614,
+   "b": 2776,
+   "line": "The labels appear above every head. Green, rounded rectangle stamps with white, bold caps.",
+   "shot": "S32",
+   "t0": 0,
+   "t1": 162
+  },
+  {
+   "a": 2776,
+   "b": 2847,
+   "line": "They show each person's biggest allergy.",
+   "shot": "S33",
+   "t0": 0,
+   "t1": 71
+  },
+  {
+   "a": 2847,
+   "b": 2919,
+   "line": "They never lie. They don't change.",
+   "shot": "S34",
+   "t0": 0,
+   "t1": 72
+  },
+  {
+   "a": 2919,
+   "b": 2999,
+   "line": "And nobody else can see them. Only you.",
+   "shot": "S35",
+   "t0": 0,
+   "t1": 80
+  },
+  {
+   "a": 2999,
+   "b": 3107,
+   "line": "Your own head has no label. You can't see your own allergy.",
+   "shot": "S36",
+   "t0": 0,
+   "t1": 108
+  },
+  {
+   "a": 3107,
+   "b": 3228,
+   "line": "The labels are about big allergies, the ones that cause real reactions,",
+   "shot": "S37",
+   "t0": 0,
+   "t1": 121
+  },
+  {
+   "a": 3228,
+   "b": 3342,
+   "line": "not mild sensitivities. The ones that make you break out in hives,",
+   "shot": "S38",
+   "t0": 0,
+   "t1": 114
+  },
+  {
+   "a": 3342,
+   "b": 3447,
+   "line": "that make you gasp for air, that make you carry an EpiPen.",
+   "shot": "S39",
+   "t0": 0,
+   "t1": 105
+  }
+ ],
+ "shots": [
+  {
+   "first": 0,
+   "id": "S1",
+   "key": 30,
+   "len": 82,
+   "line": "You wake up and the world has changed.",
+   "note": "Hero wakes up in bed, looking around the room in morning light.",
+   "size": "medium"
+  },
+  {
+   "first": 82,
+   "id": "S2",
+   "key": 30,
+   "len": 88,
+   "line": "Above every head, a little green label.",
+   "note": "Hero looks out apartment window, seeing green stamp above neighbor.",
+   "size": "medium"
+  },
+  {
+   "first": 170,
+   "id": "S3",
+   "key": 30,
+   "len": 117,
+   "line": "Everyone's biggest allergy, written where only you can see it.",
+   "note": "Close-up on window view showing glowing green label stamp.",
+   "size": "medium"
+  },
+  {
+   "first": 287,
+   "id": "S4",
+   "key": 30,
+   "len": 166,
+   "line": "The labels glow softly in the morning light. Peanuts on the construction worker three buildings over.",
+   "note": "Construction worker on scaffolding with PEANUTS label above head.",
+   "size": "medium"
+  },
+  {
+   "first": 453,
+   "id": "S5",
+   "key": 30,
+   "len": 78,
+   "line": "Pollen on the jogger running past the window.",
+   "note": "Jogger on street below with POLLEN label.",
+   "size": "medium"
+  },
+  {
+   "first": 531,
+   "id": "S6",
+   "key": 30,
+   "len": 89,
+   "line": "Cats on the woman with the baby stroller two doors down.",
+   "note": "Woman with stroller on sidewalk with CATS label.",
+   "size": "medium"
+  },
+  {
+   "first": 620,
+   "id": "S7",
+   "key": 30,
+   "len": 71,
+   "line": "You pull your hoodie up, checking your own head.",
+   "note": "Hero in orange hoodie touches head, looking puzzled.",
+   "size": "medium"
+  },
+  {
+   "first": 691,
+   "id": "S8",
+   "key": 30,
+   "len": 55,
+   "line": "No label, just skin.",
+   "note": "Mirror shot: hero's reflection shows bare head with no label.",
+   "size": "medium"
+  },
+  {
+   "first": 746,
+   "id": "S9",
+   "key": 30,
+   "len": 64,
+   "line": "You're the only one who doesn't have a tag.",
+   "note": "Medium shot of hero standing alone in apartment.",
+   "size": "medium"
+  },
+  {
+   "first": 810,
+   "id": "S10",
+   "key": 30,
+   "len": 52,
+   "line": "The labels are different for everyone.",
+   "note": "Street view panning across multiple pedestrians with different labels.",
+   "size": "medium"
+  },
+  {
+   "first": 862,
+   "id": "S11",
+   "key": 30,
+   "len": 61,
+   "line": "Some are small, some are bold,",
+   "note": "Close-up of varying stamp sizes and font weights.",
+   "size": "medium"
+  },
+  {
+   "first": 923,
+   "id": "S12",
+   "key": 30,
+   "len": 123,
+   "line": "but they're all there above every head while yours stands alone.",
+   "note": "Hero looking out at the crowded street below.",
+   "size": "medium"
+  },
+  {
+   "first": 1046,
+   "id": "S13",
+   "key": 30,
+   "len": 89,
+   "line": "It's a quiet morning. The sun is just coming up.",
+   "note": "Sunrise gradient over city skyline.",
+   "size": "medium"
+  },
+  {
+   "first": 1135,
+   "id": "S14",
+   "key": 30,
+   "len": 90,
+   "line": "People are starting their day, but the labels are already there.",
+   "note": "Morning commuters walking on sidewalk.",
+   "size": "medium"
+  },
+  {
+   "first": 1225,
+   "id": "S15",
+   "key": 30,
+   "len": 100,
+   "line": "Peanuts on the construction worker, pollen on the jogger,",
+   "note": "Construction worker and jogger passing by with labels.",
+   "size": "medium"
+  },
+  {
+   "first": 1325,
+   "id": "S16",
+   "key": 30,
+   "len": 70,
+   "line": "cats on the woman with the baby stroller.",
+   "note": "Woman with stroller passing by with CATS label.",
+   "size": "medium"
+  },
+  {
+   "first": 1395,
+   "id": "S17",
+   "key": 30,
+   "len": 95,
+   "line": "On the bus, the big guy's label says peanuts.",
+   "note": "Interior of bus: big guy sitting with PEANUTS label above head.",
+   "size": "medium"
+  },
+  {
+   "first": 1490,
+   "id": "S18",
+   "key": 30,
+   "len": 66,
+   "line": "The girl by the window, pollen.",
+   "note": "Girl looking out bus window with POLLEN label.",
+   "size": "medium"
+  },
+  {
+   "first": 1556,
+   "id": "S19",
+   "key": 30,
+   "len": 68,
+   "line": "Even the driver, cats.",
+   "note": "Bus driver at wheel with CATS label.",
+   "size": "medium"
+  },
+  {
+   "first": 1624,
+   "id": "S20",
+   "key": 30,
+   "len": 70,
+   "line": "The labels never lie. They don't change.",
+   "note": "Hero watching passengers through bus window.",
+   "size": "medium"
+  },
+  {
+   "first": 1694,
+   "id": "S21",
+   "key": 30,
+   "len": 104,
+   "line": "And nobody else can see them. Only you.",
+   "note": "Passenger next to hero looks oblivious, no reaction to labels.",
+   "size": "medium"
+  },
+  {
+   "first": 1798,
+   "id": "S22",
+   "key": 30,
+   "len": 71,
+   "line": "You watch the labels float above the crowd.",
+   "note": "Wide shot of bus interior showing multiple glowing green stamps.",
+   "size": "medium"
+  },
+  {
+   "first": 1869,
+   "id": "S23",
+   "key": 30,
+   "len": 82,
+   "line": "Each one, a secret you now hold.",
+   "note": "Hero's thoughtful expression in close-up.",
+   "size": "medium"
+  },
+  {
+   "first": 1951,
+   "id": "S24",
+   "key": 30,
+   "len": 81,
+   "line": "A responsibility you never asked for.",
+   "note": "Hero pulls hood tighter as bus moves down street.",
+   "size": "medium"
+  },
+  {
+   "first": 2032,
+   "id": "S25",
+   "key": 30,
+   "len": 78,
+   "line": "What if you could read anyone's allergies?",
+   "note": "Title card screen: dark gradient background, glowing text.",
+   "size": "medium"
+  },
+  {
+   "first": 2110,
+   "id": "S26",
+   "key": 30,
+   "len": 96,
+   "line": "Not just the big ones, not just the obvious ones.",
+   "note": "Rapid montage of various label close-ups.",
+   "size": "medium"
+  },
+  {
+   "first": 2206,
+   "id": "S27",
+   "key": 30,
+   "len": 121,
+   "line": "Every single one. All day, every day.",
+   "note": "Hero walking down bustling city sidewalk.",
+   "size": "medium"
+  },
+  {
+   "first": 2327,
+   "id": "S28",
+   "key": 30,
+   "len": 123,
+   "line": "Labels above every head. Sounds like a superpower, right?",
+   "note": "Hero looking up at crowd of glowing green labels.",
+   "size": "medium"
+  },
+  {
+   "first": 2450,
+   "id": "S29",
+   "key": 30,
+   "len": 66,
+   "line": "Stick around, because by the end of this,",
+   "note": "Hero turning to face camera directly.",
+   "size": "medium"
+  },
+  {
+   "first": 2516,
+   "id": "S30",
+   "key": 30,
+   "len": 50,
+   "line": "it won't feel like one.",
+   "note": "Serious close-up on hero's face as camera pushes in slightly.",
+   "size": "medium"
+  },
+  {
+   "first": 2566,
+   "id": "S31",
+   "key": 30,
+   "len": 48,
+   "line": "First, the rules.",
+   "note": "Hero sitting on park bench, notebook in lap.",
+   "size": "medium"
+  },
+  {
+   "first": 2614,
+   "id": "S32",
+   "key": 30,
+   "len": 162,
+   "line": "The labels appear above every head. Green, rounded rectangle stamps with white, bold caps.",
+   "note": "Detailed close-up of a green stamp label floating in air.",
+   "size": "medium"
+  },
+  {
+   "first": 2776,
+   "id": "S33",
+   "key": 30,
+   "len": 71,
+   "line": "They show each person's biggest allergy.",
+   "note": "Pedestrian walking past bench with PEANUTS label.",
+   "size": "medium"
+  },
+  {
+   "first": 2847,
+   "id": "S34",
+   "key": 30,
+   "len": 72,
+   "line": "They never lie. They don't change.",
+   "note": "Hero writing notes in notebook.",
+   "size": "medium"
+  },
+  {
+   "first": 2919,
+   "id": "S35",
+   "key": 30,
+   "len": 80,
+   "line": "And nobody else can see them. Only you.",
+   "note": "Another person walks by, ignoring the label completely.",
+   "size": "medium"
+  },
+  {
+   "first": 2999,
+   "id": "S36",
+   "key": 30,
+   "len": 108,
+   "line": "Your own head has no label. You can't see your own allergy.",
+   "note": "Hero touches head in reflection of shop window.",
+   "size": "medium"
+  },
+  {
+   "first": 3107,
+   "id": "S37",
+   "key": 30,
+   "len": 121,
+   "line": "The labels are about big allergies, the ones that cause real reactions,",
+   "note": "Warning sign icon flash in graphic insert style.",
+   "size": "medium"
+  },
+  {
+   "first": 3228,
+   "id": "S38",
+   "key": 30,
+   "len": 114,
+   "line": "not mild sensitivities. The ones that make you break out in hives,",
+   "note": "Person scratching arm with red hive marks.",
+   "size": "medium"
+  },
+  {
+   "first": 3342,
+   "id": "S39",
+   "key": 30,
+   "len": 105,
+   "line": "that make you gasp for air, that make you carry an EpiPen.",
+   "note": "EpiPen device graphic illustration on screen.",
+   "size": "medium"
+  }
+ ],
+ "slug": "allergies-first-2min",
+ "title": "WHAT IF YOU COULD READ ANYONE'S ALLERGIES?",
+ "total": 3447
+}
