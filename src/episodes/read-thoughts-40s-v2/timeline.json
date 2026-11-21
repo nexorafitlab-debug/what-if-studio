@@ -1,0 +1,410 @@
+{
+  "slug": "read-thoughts-40s-v2",
+  "title": "WHAT IF YOU COULD READ ANYONE'S THOUGHTS?",
+  "fps": 30,
+  "total": 1180,
+  "segments": [
+    {
+      "shot": "S1",
+      "a": 0,
+      "b": 110,
+      "t0": 0,
+      "t1": 110,
+      "line": "You look at a stranger. Their thought: hungry."
+    },
+    {
+      "shot": "S2",
+      "a": 110,
+      "b": 173,
+      "t0": 0,
+      "t1": 63,
+      "line": "You look at your boss. Their thought:"
+    },
+    {
+      "shot": "S3",
+      "a": 173,
+      "b": 221,
+      "t0": 0,
+      "t1": 48,
+      "line": "fire me."
+    },
+    {
+      "shot": "S4",
+      "a": 221,
+      "b": 335,
+      "t0": 0,
+      "t1": 114,
+      "line": "You look at your best friend. Their thought: coffee."
+    },
+    {
+      "shot": "S5",
+      "a": 335,
+      "b": 377,
+      "t0": 0,
+      "t1": 42,
+      "line": "Always coffee."
+    },
+    {
+      "shot": "S6",
+      "a": 377,
+      "b": 455,
+      "t0": 0,
+      "t1": 78,
+      "line": "You look at the bus driver. Their thought:"
+    },
+    {
+      "shot": "S7",
+      "a": 455,
+      "b": 497,
+      "t0": 0,
+      "t1": 42,
+      "line": "five more minutes."
+    },
+    {
+      "shot": "S8",
+      "a": 497,
+      "b": 535,
+      "t0": 0,
+      "t1": 38,
+      "line": "Everywhere you look, the"
+    },
+    {
+      "shot": "S9",
+      "a": 535,
+      "b": 620,
+      "t0": 0,
+      "t1": 85,
+      "line": "truth is just there. No more guessing."
+    },
+    {
+      "shot": "S10",
+      "a": 620,
+      "b": 675,
+      "t0": 0,
+      "t1": 55,
+      "line": "You look at your teacher. Their thought:"
+    },
+    {
+      "shot": "S11",
+      "a": 675,
+      "b": 722,
+      "t0": 0,
+      "t1": 47,
+      "line": "don't ask me."
+    },
+    {
+      "shot": "S12",
+      "a": 722,
+      "b": 790,
+      "t0": 0,
+      "t1": 68,
+      "line": "What if you could read anyone's thoughts?"
+    },
+    {
+      "shot": "S13",
+      "a": 790,
+      "b": 872,
+      "t0": 0,
+      "t1": 82,
+      "line": "But here's the catch. The thoughts only show what people are"
+    },
+    {
+      "shot": "S14",
+      "a": 872,
+      "b": 973,
+      "t0": 0,
+      "t1": 101,
+      "line": "consciously hiding from you, every single day. And the"
+    },
+    {
+      "shot": "S15",
+      "a": 973,
+      "b": 1020,
+      "t0": 0,
+      "t1": 47,
+      "line": "person hiding the most is"
+    },
+    {
+      "shot": "S16",
+      "a": 1020,
+      "b": 1128,
+      "t0": 0,
+      "t1": 108,
+      "line": "standing right in front of you right now, smiling."
+    },
+    {
+      "shot": "S17",
+      "a": 1128,
+      "b": 1180,
+      "t0": 0,
+      "t1": 52,
+      "line": "Part one."
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "medium",
+      "key": 57,
+      "len": 110,
+      "first": 0,
+      "line": "You look at a stranger. Their thought: hungry.",
+      "note": "Pip between library shelves; turns to a stranger; amber 'hungry' panel pops with burst"
+    },
+    {
+      "id": "S2",
+      "size": "medium wide",
+      "key": 45,
+      "len": 63,
+      "first": 110,
+      "line": "You look at your boss. Their thought:",
+      "note": "Pip in the office lobby; boss points at him; red 'fire me' panel pops"
+    },
+    {
+      "id": "S3",
+      "size": "extreme close-up",
+      "key": 0,
+      "len": 48,
+      "first": 173,
+      "line": "fire me.",
+      "note": "Boss face fills frame; 'fire me' panel flickers; his hand chops the air"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 60,
+      "len": 114,
+      "first": 221,
+      "line": "You look at your best friend. Their thought: coffee.",
+      "note": "Pip at the market stall; best friend raises a coffee cup; amber 'coffee' panel pops"
+    },
+    {
+      "id": "S5",
+      "size": "close-up",
+      "key": 0,
+      "len": 42,
+      "first": 335,
+      "line": "Always coffee.",
+      "note": "Friend grins and sips; 'coffee' panel flickers"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "key": 52,
+      "len": 78,
+      "first": 377,
+      "line": "You look at the bus driver. Their thought:",
+      "note": "Pip in the back of a taxi; driver stretches at the wheel; amber 'five more minutes' panel pops"
+    },
+    {
+      "id": "S7",
+      "size": "close-up",
+      "key": 0,
+      "len": 42,
+      "first": 455,
+      "line": "five more minutes.",
+      "note": "Driver's tired face; panel flickers; he rubs his eyes"
+    },
+    {
+      "id": "S8",
+      "size": "wide",
+      "key": 8,
+      "len": 38,
+      "first": 497,
+      "line": "Everywhere you look, the",
+      "note": "Pip walks the gallery; distant visitors each wear a tiny amber panel"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "key": 0,
+      "len": 85,
+      "first": 535,
+      "line": "truth is just there. No more guessing.",
+      "note": "Pip in the train compartment, pointing at passengers' panels, smug"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 44,
+      "len": 55,
+      "first": 620,
+      "line": "You look at your teacher. Their thought:",
+      "note": "Pip in the school corridor; teacher holds books, hand up; amber \"don't ask me\" panel pops"
+    },
+    {
+      "id": "S11",
+      "size": "close-up",
+      "key": 0,
+      "len": 47,
+      "first": 675,
+      "line": "don't ask me.",
+      "note": "Teacher's face; panel flickers; she looks away"
+    },
+    {
+      "id": "S12",
+      "size": "title, wide",
+      "key": 8,
+      "len": 68,
+      "first": 722,
+      "line": "What if you could read anyone's thoughts?",
+      "note": "Title over the rooftop garden at dusk; slow push-in; Pip points up"
+    },
+    {
+      "id": "S13",
+      "size": "medium",
+      "key": 0,
+      "len": 82,
+      "first": 790,
+      "line": "But here's the catch. The thoughts only show what people are",
+      "note": "FREEZE insert: eye -> beam -> panel diagram draws on; gold ring; Pip frozen mid-gesture"
+    },
+    {
+      "id": "S14",
+      "size": "medium",
+      "key": 0,
+      "len": 101,
+      "first": 872,
+      "line": "consciously hiding from you, every single day. And the",
+      "note": "Said-vs-thought split: 'I'M FINE' bubble vs red 'exhausted' panel; hero leans in"
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "key": 31,
+      "len": 47,
+      "first": 973,
+      "line": "person hiding the most is",
+      "note": "Pip turns at the laundromat; Mom folds laundry, smiling; red \"don't tell him\" panel pops"
+    },
+    {
+      "id": "S16",
+      "size": "close-up",
+      "key": 0,
+      "len": 108,
+      "first": 1020,
+      "line": "standing right in front of you right now, smiling.",
+      "note": "Mom's smiling face; red panel flickers; starburst shock"
+    },
+    {
+      "id": "S17",
+      "size": "title, wide",
+      "key": 0,
+      "len": 52,
+      "first": 1128,
+      "line": "Part one.",
+      "note": "End card on the starry void: gold PART ONE"
+    }
+  ],
+  "fx": [
+    {
+      "at": "f:57",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:155",
+      "color": "#FF3344",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:173",
+      "color": "#FF3344",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:281",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:335",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:429",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:455",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:505",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:543",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:664",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:675",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:730",
+      "color": "#FFD700",
+      "kind": "flash",
+      "o": 0.4
+    },
+    {
+      "at": "f:790",
+      "color": "#FFD700",
+      "kind": "flash",
+      "o": 0.4
+    },
+    {
+      "at": "f:880",
+      "color": "#FFBF00",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:1004",
+      "color": "#FF3344",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:1020",
+      "color": "#FF3344",
+      "kind": "flash",
+      "o": 0.3
+    },
+    {
+      "at": "f:1128",
+      "color": "#FFD700",
+      "kind": "flash",
+      "o": 0.4
+    }
+  ],
+  "audio": {
+    "musicVol": 0,
+    "sfxVol": 0,
+    "voice": "read-thoughts-40s-v2/voice.wav",
+    "sfx": "read-thoughts-40s-v2/sfx.mp3",
+    "music": "read-thoughts-40s-v2/music.mp3"
+  }
+}
