@@ -12,5 +12,6 @@ import { moneyCount30sV2 } from './money-count-30s-v2';
 import { moneyCount } from './money-count';
 import { setsTest } from './sets-test';
 import { readThoughts } from './read-thoughts';
+import { readThoughts40s } from './read-thoughts-40s';
 
-export const EPISODES = [rewind, copyPaste, sleep, deathCount, deathCountFull, deathCountV2, deathCount2Min, deathCount30sNew, moneyCount30s, moneyCount30sV2, moneyCount, setsTest, readThoughts];
+export const EPISODES = [rewind, copyPaste, sleep, deathCount, deathCountFull, deathCountV2, deathCount2Min, deathCount30sNew, moneyCount30s, moneyCount30sV2, moneyCount, setsTest, readThoughts, readThoughts40s];
