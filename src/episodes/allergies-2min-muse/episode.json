@@ -1,0 +1,306 @@
+{
+ "id": "Allergies2minMuse",
+ "slug": "allergies-2min-muse",
+ "title": [
+  "WHAT IF YOU COULD READ ANYONE'S",
+  "ALLERGIES?"
+ ],
+ "topic": "What if you could read anyone's allergies?",
+ "tail": 1.0,
+ "cast": [
+  "alex"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "key": 30,
+   "note": "Bedroom wide; hero wakes up, sits up, rubs eyes",
+   "set": "Bedroom",
+   "size": "wide"
+  },
+  {
+   "id": "S2",
+   "key": 30,
+   "note": "Hero at window; green glow pulses outside",
+   "set": "Bedroom (window framing)",
+   "size": "medium"
+  },
+  {
+   "id": "S3",
+   "key": 30,
+   "note": "Street below; 3 labels pop in sequence: POLLEN, CATS, PEANUTS",
+   "set": "Street wide",
+   "size": "wide"
+  },
+  {
+   "id": "S4",
+   "key": 30,
+   "note": "Postman WALKS left to right; POLLEN pops at t=8; counter appears: 1",
+   "set": "Street",
+   "size": "medium"
+  },
+  {
+   "id": "S5",
+   "key": 30,
+   "note": "Woman pours coffee; CATS pops at t=8; counter 2",
+   "set": "Cafe (exterior)",
+   "size": "medium"
+  },
+  {
+   "id": "S6",
+   "key": 30,
+   "note": "Kid kicks ball; PEANUTS pops at t=8; counter 3",
+   "set": "Park",
+   "size": "medium"
+  },
+  {
+   "id": "S7",
+   "key": 30,
+   "note": "Hero rubs eyes with both hands; labels still glow in window",
+   "set": "Bedroom (mirror)",
+   "size": "medium"
+  },
+  {
+   "id": "S8",
+   "key": 30,
+   "note": "Hero close-up, hand to head, no label; '?' pops and pulses",
+   "set": "Bathroom (mirror close-up)",
+   "size": "close-up"
+  },
+  {
+   "id": "S9",
+   "key": 30,
+   "note": "Hero touches head, shakes head slowly; '?' fades",
+   "set": "Bathroom",
+   "size": "medium"
+  },
+  {
+   "id": "S10",
+   "key": 30,
+   "note": "Hero walks out the front door; crowd behind with labels; hero has none",
+   "set": "pl2-street",
+   "size": "wide"
+  },
+  {
+   "id": "S11",
+   "key": 30,
+   "note": "Hero WALKS; two passersby labels pop (POLLEN t=10, CATS t=30); counter 4, then 5",
+   "set": "Street",
+   "size": "wide"
+  },
+  {
+   "id": "S12",
+   "key": 30,
+   "note": "Crowd of 4 shoppers; labels pop staggered; counter 6, 7, 8, 9",
+   "set": "Market",
+   "size": "wide"
+  },
+  {
+   "id": "S13",
+   "key": 30,
+   "note": "Driver at the wheel, head turns; PEANUTS pops at t=10; counter 10",
+   "set": "Taxi",
+   "size": "medium"
+  },
+  {
+   "id": "S14",
+   "key": 30,
+   "note": "Teacher WALKS through the gate; POLLEN pops at t=10; counter 11",
+   "set": "pl2-gate (school gate)",
+   "size": "medium"
+  },
+  {
+   "id": "S15",
+   "key": 30,
+   "note": "Old man scatters seed; pigeons hop; CATS pops at t=10; counter 12",
+   "set": "Garden",
+   "size": "medium"
+  },
+  {
+   "id": "S16",
+   "key": 30,
+   "note": "Hero POINTS at the CATS label; old man shrugs",
+   "set": "Garden",
+   "size": "medium"
+  },
+  {
+   "id": "S17",
+   "key": 30,
+   "note": "Gold lines: WHAT IF YOU COULD / READ ANYONE'S / ALLERGIES?",
+   "set": "Void (title card 1)",
+   "size": "title, wide"
+  },
+  {
+   "id": "S18",
+   "key": 30,
+   "note": "White + gold lines; three labels pop in a row below",
+   "set": "Void (title card 2)",
+   "size": "title, wide"
+  },
+  {
+   "id": "S19",
+   "key": 30,
+   "note": "Gold lines: ALL DAY. EVERY DAY. / EVERY HEAD YOU PASS.",
+   "set": "Void (title card 3)",
+   "size": "title, wide"
+  },
+  {
+   "id": "S20",
+   "key": 30,
+   "note": "White + gold + white lines",
+   "set": "Void (title card 4)",
+   "size": "title, wide"
+  },
+  {
+   "id": "S21",
+   "key": 30,
+   "note": "Gold lines: BECAUSE BY THE END OF THIS, / YOU WON'T WANT IT.",
+   "set": "Void (title card 5)",
+   "size": "title, wide"
+  },
+  {
+   "id": "S22",
+   "key": 30,
+   "note": "Hero raises a hand; RULE 1 card pops; classmates PEANUTS, POLLEN",
+   "set": "Classroom",
+   "size": "medium"
+  },
+  {
+   "id": "S23",
+   "key": 30,
+   "note": "Patient PEANUTS; red cross pulses; EpiPen graphic pops",
+   "set": "Hospital (corridor)",
+   "size": "medium"
+  },
+  {
+   "id": "S24",
+   "key": 30,
+   "note": "Hero POINTS at shopper's POLLEN label; shopkeeper shrugs",
+   "set": "Market",
+   "size": "medium"
+  },
+  {
+   "id": "S25",
+   "key": 30,
+   "note": "Hero points again; POLLEN label blinks; shopkeeper shakes head",
+   "set": "Market",
+   "size": "medium"
+  },
+  {
+   "id": "S26",
+   "key": 30,
+   "note": "Hero at mirror, blank head; '?' pops and pulses",
+   "set": "Bathroom (mirror)",
+   "size": "medium"
+  },
+  {
+   "id": "S27",
+   "key": 30,
+   "note": "Hero shrugs; '?' fades",
+   "set": "Bathroom",
+   "size": "medium"
+  },
+  {
+   "id": "S28",
+   "key": 30,
+   "note": "Runner sneezes; RULE 4 card pops",
+   "set": "Gym",
+   "size": "medium"
+  },
+  {
+   "id": "S29",
+   "key": 30,
+   "note": "Runner holds his throat, gasps; red warning triangle pulses",
+   "set": "Gym",
+   "size": "medium"
+  },
+  {
+   "id": "S30",
+   "key": 30,
+   "note": "Hero boards the bus (walkCyclePose)",
+   "set": "Bus",
+   "size": "medium"
+  },
+  {
+   "id": "S31",
+   "key": 30,
+   "note": "Hero sits; stranger PEANUTS pops at t=20; counter 13",
+   "set": "Bus",
+   "size": "medium"
+  },
+  {
+   "id": "S32",
+   "key": 30,
+   "note": "Hero extends arm holding a biscuit; stranger turns to look",
+   "set": "Bus",
+   "size": "medium"
+  },
+  {
+   "id": "S33",
+   "key": 30,
+   "note": "Stranger pushes hero's arm away; hero recoils",
+   "set": "Bus",
+   "size": "medium"
+  },
+  {
+   "id": "S34",
+   "key": 30,
+   "note": "Stranger holds a hand up in warning; PEANUTS label pulses red",
+   "set": "Bus",
+   "size": "medium"
+  },
+  {
+   "id": "S35",
+   "key": 30,
+   "note": "Hero nods; green checkmark pops over the PEANUTS label",
+   "set": "Bus",
+   "size": "medium"
+  },
+  {
+   "id": "S36",
+   "key": 30,
+   "note": "Hero steps off the bus (walkCyclePose); heart icon pulses",
+   "set": "Street (bus stop)",
+   "size": "medium"
+  },
+  {
+   "id": "S37",
+   "key": 30,
+   "note": "Hero WALKS, worried, glancing side to side; crowd labels around",
+   "set": "Street",
+   "size": "wide"
+  },
+  {
+   "id": "S38",
+   "key": 30,
+   "note": "Hero looks over the city; distant labels twinkle; turns to camera",
+   "set": "Rooftop (dusk)",
+   "size": "wide"
+  },
+  {
+   "id": "S39",
+   "key": 30,
+   "note": "Gold: WHAT WOULD YOUR / LABEL SAY? then white TELL ME IN THE COMMENTS",
+   "set": "Void (end card)",
+   "size": "title, wide"
+  }
+ ],
+ "script": [
+  {
+   "beat": "1 cold open",
+   "text": "Morning. You open your eyes, and something is wrong with the world. Above every head, a little label. Floating. Glowing. Telling you something you were never supposed to know. The postman at your gate \u2014 POLLEN. The woman pouring coffee across the street \u2014 CATS. The kid kicking a ball in the park \u2014 PEANUTS. You rub your eyes. The labels don't go away. You check the mirror. Your head is empty. No label. No word. Just you, the only person in the whole street with nothing written above them. You step outside, and the street is full of secrets. Every person you pass is wearing their allergy like a name tag. The taxi driver: PEANUTS. The teacher on her way to school: POLLEN. The old man feeding pigeons: CATS. They can't see them. Nobody can. Only you."
+  },
+  {
+   "beat": "2 title card",
+   "text": "What if you could read anyone's allergies? Not just the worst ones. Every one of them. All day. Every day. Every head you pass. Sounds like a superpower, doesn't it? Stay with me. Because by the end of this, you won't want it."
+  },
+  {
+   "beat": "3 rules",
+   "text": "First, the rules. Rule one: the labels never lie. If it says PEANUTS, peanuts will put that person in hospital. Rule two: nobody else can see them. You can point at the label all day \u2014 to everyone else, there's nothing there. Rule three: your own head stays blank. You will never know your own allergy. And rule four: the labels only show the big ones. The ones that close throats and stop breathing. Not the mild stuff. The real stuff."
+  },
+  {
+   "beat": "4 first test",
+   "text": "So you test it. On the bus, you sit next to a stranger. His label says PEANUTS. You offer him a biscuit from your bag \u2014 the peanut kind. He goes pale. He pushes your hand away. He tells you one bite could kill him. The label was right. It is always right. You get off the bus with your heart hammering, because now you know something nobody else knows. And knowing is the easy part. Wait until you see what it costs. What would your label say? Tell me in the comments."
+  }
+ ]
+}

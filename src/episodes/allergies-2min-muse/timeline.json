@@ -1,0 +1,681 @@
+{
+ "audio": {
+  "music": "allergies-2min-muse/music.mp3",
+  "musicVol": 0,
+  "sfx": "allergies-2min-muse/sfx.mp3",
+  "sfxVol": 0,
+  "voice": "allergies-2min-muse/voice.wav"
+ },
+ "fps": 30,
+ "fx": [],
+ "segments": [
+  {
+   "a": 0,
+   "b": 120,
+   "line": "Morning. You open your eyes, and something is wrong with the world.",
+   "shot": "S1",
+   "t0": 0,
+   "t1": 120
+  },
+  {
+   "a": 120,
+   "b": 189,
+   "line": "Above every head, a little label.",
+   "shot": "S2",
+   "t0": 0,
+   "t1": 69
+  },
+  {
+   "a": 189,
+   "b": 323,
+   "line": "Floating. Glowing. Telling you something you were never supposed to know.",
+   "shot": "S3",
+   "t0": 0,
+   "t1": 134
+  },
+  {
+   "a": 323,
+   "b": 397,
+   "line": "The postman at your gate \u2014 POLLEN.",
+   "shot": "S4",
+   "t0": 0,
+   "t1": 74
+  },
+  {
+   "a": 397,
+   "b": 498,
+   "line": "The woman pouring coffee across the street \u2014 CATS.",
+   "shot": "S5",
+   "t0": 0,
+   "t1": 101
+  },
+  {
+   "a": 498,
+   "b": 599,
+   "line": "The kid kicking a ball in the park \u2014 PEANUTS.",
+   "shot": "S6",
+   "t0": 0,
+   "t1": 101
+  },
+  {
+   "a": 599,
+   "b": 693,
+   "line": "You rub your eyes. The labels don't go away.",
+   "shot": "S7",
+   "t0": 0,
+   "t1": 94
+  },
+  {
+   "a": 693,
+   "b": 778,
+   "line": "You check the mirror. Your head is empty.",
+   "shot": "S8",
+   "t0": 0,
+   "t1": 85
+  },
+  {
+   "a": 778,
+   "b": 832,
+   "line": "No label. No word.",
+   "shot": "S9",
+   "t0": 0,
+   "t1": 54
+  },
+  {
+   "a": 832,
+   "b": 965,
+   "line": "Just you, the only person in the whole street with nothing written above them.",
+   "shot": "S10",
+   "t0": 0,
+   "t1": 133
+  },
+  {
+   "a": 965,
+   "b": 1073,
+   "line": "You step outside, and the street is full of secrets.",
+   "shot": "S11",
+   "t0": 0,
+   "t1": 108
+  },
+  {
+   "a": 1073,
+   "b": 1192,
+   "line": "Every person you pass is wearing their allergy like a name tag.",
+   "shot": "S12",
+   "t0": 0,
+   "t1": 119
+  },
+  {
+   "a": 1192,
+   "b": 1254,
+   "line": "The taxi driver: PEANUTS.",
+   "shot": "S13",
+   "t0": 0,
+   "t1": 62
+  },
+  {
+   "a": 1254,
+   "b": 1331,
+   "line": "The teacher on her way to school: POLLEN.",
+   "shot": "S14",
+   "t0": 0,
+   "t1": 77
+  },
+  {
+   "a": 1331,
+   "b": 1414,
+   "line": "The old man feeding pigeons: CATS.",
+   "shot": "S15",
+   "t0": 0,
+   "t1": 83
+  },
+  {
+   "a": 1414,
+   "b": 1516,
+   "line": "They can't see them. Nobody can. Only you.",
+   "shot": "S16",
+   "t0": 0,
+   "t1": 102
+  },
+  {
+   "a": 1516,
+   "b": 1579,
+   "line": "What if you could read anyone's allergies?",
+   "shot": "S17",
+   "t0": 0,
+   "t1": 63
+  },
+  {
+   "a": 1579,
+   "b": 1647,
+   "line": "Not just the worst ones. Every one of them.",
+   "shot": "S18",
+   "t0": 0,
+   "t1": 68
+  },
+  {
+   "a": 1647,
+   "b": 1765,
+   "line": "All day. Every day. Every head you pass.",
+   "shot": "S19",
+   "t0": 0,
+   "t1": 118
+  },
+  {
+   "a": 1765,
+   "b": 1874,
+   "line": "Sounds like a superpower, doesn't it? Stay with me.",
+   "shot": "S20",
+   "t0": 0,
+   "t1": 109
+  },
+  {
+   "a": 1874,
+   "b": 1960,
+   "line": "Because by the end of this, you won't want it.",
+   "shot": "S21",
+   "t0": 0,
+   "t1": 86
+  },
+  {
+   "a": 1960,
+   "b": 2090,
+   "line": "First, the rules. Rule one: the labels never lie.",
+   "shot": "S22",
+   "t0": 0,
+   "t1": 130
+  },
+  {
+   "a": 2090,
+   "b": 2206,
+   "line": "If it says PEANUTS, peanuts will put that person in hospital.",
+   "shot": "S23",
+   "t0": 0,
+   "t1": 116
+  },
+  {
+   "a": 2206,
+   "b": 2287,
+   "line": "Rule two: nobody else can see them.",
+   "shot": "S24",
+   "t0": 0,
+   "t1": 81
+  },
+  {
+   "a": 2287,
+   "b": 2434,
+   "line": "You can point at the label all day \u2014 to everyone else, there's nothing there.",
+   "shot": "S25",
+   "t0": 0,
+   "t1": 147
+  },
+  {
+   "a": 2434,
+   "b": 2516,
+   "line": "Rule three: your own head stays blank.",
+   "shot": "S26",
+   "t0": 0,
+   "t1": 82
+  },
+  {
+   "a": 2516,
+   "b": 2572,
+   "line": "You will never know your own allergy.",
+   "shot": "S27",
+   "t0": 0,
+   "t1": 56
+  },
+  {
+   "a": 2572,
+   "b": 2672,
+   "line": "And rule four: the labels only show the big ones.",
+   "shot": "S28",
+   "t0": 0,
+   "t1": 100
+  },
+  {
+   "a": 2672,
+   "b": 2846,
+   "line": "The ones that close throats and stop breathing. Not the mild stuff. The real stuff.",
+   "shot": "S29",
+   "t0": 0,
+   "t1": 174
+  },
+  {
+   "a": 2846,
+   "b": 2883,
+   "line": "So you test it.",
+   "shot": "S30",
+   "t0": 0,
+   "t1": 37
+  },
+  {
+   "a": 2883,
+   "b": 3022,
+   "line": "On the bus, you sit next to a stranger. His label says PEANUTS.",
+   "shot": "S31",
+   "t0": 0,
+   "t1": 139
+  },
+  {
+   "a": 3022,
+   "b": 3119,
+   "line": "You offer him a biscuit from your bag \u2014 the peanut kind.",
+   "shot": "S32",
+   "t0": 0,
+   "t1": 97
+  },
+  {
+   "a": 3119,
+   "b": 3211,
+   "line": "He goes pale. He pushes your hand away.",
+   "shot": "S33",
+   "t0": 0,
+   "t1": 92
+  },
+  {
+   "a": 3211,
+   "b": 3284,
+   "line": "He tells you one bite could kill him.",
+   "shot": "S34",
+   "t0": 0,
+   "t1": 73
+  },
+  {
+   "a": 3284,
+   "b": 3375,
+   "line": "The label was right. It is always right.",
+   "shot": "S35",
+   "t0": 0,
+   "t1": 91
+  },
+  {
+   "a": 3375,
+   "b": 3437,
+   "line": "You get off the bus with your heart hammering,",
+   "shot": "S36",
+   "t0": 0,
+   "t1": 62
+  },
+  {
+   "a": 3437,
+   "b": 3527,
+   "line": "because now you know something nobody else knows.",
+   "shot": "S37",
+   "t0": 0,
+   "t1": 90
+  },
+  {
+   "a": 3527,
+   "b": 3644,
+   "line": "And knowing is the easy part. Wait until you see what it costs.",
+   "shot": "S38",
+   "t0": 0,
+   "t1": 117
+  },
+  {
+   "a": 3644,
+   "b": 3750,
+   "line": "What would your label say? Tell me in the comments.",
+   "shot": "S39",
+   "t0": 0,
+   "t1": 106
+  }
+ ],
+ "shots": [
+  {
+   "first": 0,
+   "id": "S1",
+   "key": 30,
+   "len": 120,
+   "line": "Morning. You open your eyes, and something is wrong with the world.",
+   "note": "Hero wakes, sits up, rubs eyes.",
+   "size": "wide"
+  },
+  {
+   "first": 120,
+   "id": "S2",
+   "key": 30,
+   "len": 69,
+   "line": "Above every head, a little label.",
+   "note": "Hero at window; glow pulses outside.",
+   "size": "medium"
+  },
+  {
+   "first": 189,
+   "id": "S3",
+   "key": 30,
+   "len": 134,
+   "line": "Floating. Glowing. Telling you something you were never supposed to know.",
+   "note": "Street below; labels pop in sequence.",
+   "size": "wide"
+  },
+  {
+   "first": 323,
+   "id": "S4",
+   "key": 30,
+   "len": 74,
+   "line": "The postman at your gate \u2014 POLLEN.",
+   "note": "Postman walks across; POLLEN pops.",
+   "size": "medium"
+  },
+  {
+   "first": 397,
+   "id": "S5",
+   "key": 30,
+   "len": 101,
+   "line": "The woman pouring coffee across the street \u2014 CATS.",
+   "note": "Woman pours coffee; CATS pops.",
+   "size": "medium"
+  },
+  {
+   "first": 498,
+   "id": "S6",
+   "key": 30,
+   "len": 101,
+   "line": "The kid kicking a ball in the park \u2014 PEANUTS.",
+   "note": "Kid kicks ball; PEANUTS pops.",
+   "size": "medium"
+  },
+  {
+   "first": 599,
+   "id": "S7",
+   "key": 30,
+   "len": 94,
+   "line": "You rub your eyes. The labels don't go away.",
+   "note": "Hero rubs eyes; labels still glow.",
+   "size": "medium"
+  },
+  {
+   "first": 693,
+   "id": "S8",
+   "key": 30,
+   "len": 85,
+   "line": "You check the mirror. Your head is empty.",
+   "note": "Mirror close-up; bare head, ? pulses.",
+   "size": "close-up"
+  },
+  {
+   "first": 778,
+   "id": "S9",
+   "key": 30,
+   "len": 54,
+   "line": "No label. No word.",
+   "note": "Hero touches head, shakes head.",
+   "size": "medium"
+  },
+  {
+   "first": 832,
+   "id": "S10",
+   "key": 30,
+   "len": 133,
+   "line": "Just you, the only person in the whole street with nothing written above them.",
+   "note": "Hero steps out the door; crowd labelled.",
+   "size": "medium"
+  },
+  {
+   "first": 965,
+   "id": "S11",
+   "key": 30,
+   "len": 108,
+   "line": "You step outside, and the street is full of secrets.",
+   "note": "Hero walks; two labels pop as he passes.",
+   "size": "medium"
+  },
+  {
+   "first": 1073,
+   "id": "S12",
+   "key": 30,
+   "len": 119,
+   "line": "Every person you pass is wearing their allergy like a name tag.",
+   "note": "Crowd of 4; labels pop staggered.",
+   "size": "wide"
+  },
+  {
+   "first": 1192,
+   "id": "S13",
+   "key": 30,
+   "len": 62,
+   "line": "The taxi driver: PEANUTS.",
+   "note": "Driver at wheel; PEANUTS pops.",
+   "size": "medium"
+  },
+  {
+   "first": 1254,
+   "id": "S14",
+   "key": 30,
+   "len": 77,
+   "line": "The teacher on her way to school: POLLEN.",
+   "note": "Teacher walks through gate; POLLEN pops.",
+   "size": "medium"
+  },
+  {
+   "first": 1331,
+   "id": "S15",
+   "key": 30,
+   "len": 83,
+   "line": "The old man feeding pigeons: CATS.",
+   "note": "Old man scatters seed; pigeons hop; CATS pops.",
+   "size": "medium"
+  },
+  {
+   "first": 1414,
+   "id": "S16",
+   "key": 30,
+   "len": 102,
+   "line": "They can't see them. Nobody can. Only you.",
+   "note": "Hero points at CATS label; old man shrugs.",
+   "size": "medium"
+  },
+  {
+   "first": 1516,
+   "id": "S17",
+   "key": 30,
+   "len": 63,
+   "line": "What if you could read anyone's allergies?",
+   "note": "Title card 1: WHAT IF YOU COULD READ ANYONE'S ALLERGIES?",
+   "size": "title, wide"
+  },
+  {
+   "first": 1579,
+   "id": "S18",
+   "key": 30,
+   "len": 68,
+   "line": "Not just the worst ones. Every one of them.",
+   "note": "Title card 2: NOT JUST THE WORST ONES. EVERY ONE OF THEM.",
+   "size": "title, wide"
+  },
+  {
+   "first": 1647,
+   "id": "S19",
+   "key": 30,
+   "len": 118,
+   "line": "All day. Every day. Every head you pass.",
+   "note": "Title card 3: ALL DAY. EVERY DAY. EVERY HEAD YOU PASS.",
+   "size": "title, wide"
+  },
+  {
+   "first": 1765,
+   "id": "S20",
+   "key": 30,
+   "len": 109,
+   "line": "Sounds like a superpower, doesn't it? Stay with me.",
+   "note": "Title card 4: SOUNDS LIKE A SUPERPOWER, DOESN'T IT? STAY WITH ME.",
+   "size": "title, wide"
+  },
+  {
+   "first": 1874,
+   "id": "S21",
+   "key": 30,
+   "len": 86,
+   "line": "Because by the end of this, you won't want it.",
+   "note": "Title card 5: BECAUSE BY THE END OF THIS, YOU WON'T WANT IT.",
+   "size": "title, wide"
+  },
+  {
+   "first": 1960,
+   "id": "S22",
+   "key": 30,
+   "len": 130,
+   "line": "First, the rules. Rule one: the labels never lie.",
+   "note": "Hero at desk; RULE 1 card; two labels pop.",
+   "size": "medium"
+  },
+  {
+   "first": 2090,
+   "id": "S23",
+   "key": 30,
+   "len": 116,
+   "line": "If it says PEANUTS, peanuts will put that person in hospital.",
+   "note": "Patient with PEANUTS; red cross; EpiPen pops.",
+   "size": "medium"
+  },
+  {
+   "first": 2206,
+   "id": "S24",
+   "key": 30,
+   "len": 81,
+   "line": "Rule two: nobody else can see them.",
+   "note": "Hero points at POLLEN label; shopkeeper shrugs.",
+   "size": "medium"
+  },
+  {
+   "first": 2287,
+   "id": "S25",
+   "key": 30,
+   "len": 147,
+   "line": "You can point at the label all day \u2014 to everyone else, there's nothing there.",
+   "note": "Hero points again; label blinks; shopkeeper shakes head.",
+   "size": "medium"
+  },
+  {
+   "first": 2434,
+   "id": "S26",
+   "key": 30,
+   "len": 82,
+   "line": "Rule three: your own head stays blank.",
+   "note": "Hero at mirror; blank head; ? pulses.",
+   "size": "medium"
+  },
+  {
+   "first": 2516,
+   "id": "S27",
+   "key": 30,
+   "len": 56,
+   "line": "You will never know your own allergy.",
+   "note": "Hero shrugs; worried face.",
+   "size": "medium"
+  },
+  {
+   "first": 2572,
+   "id": "S28",
+   "key": 30,
+   "len": 100,
+   "line": "And rule four: the labels only show the big ones.",
+   "note": "Runner sneezes; RULE 4 card pops.",
+   "size": "medium"
+  },
+  {
+   "first": 2672,
+   "id": "S29",
+   "key": 30,
+   "len": 174,
+   "line": "The ones that close throats and stop breathing. Not the mild stuff. The real stuff.",
+   "note": "Runner holds throat; warning triangle pulses.",
+   "size": "medium"
+  },
+  {
+   "first": 2846,
+   "id": "S30",
+   "key": 30,
+   "len": 37,
+   "line": "So you test it.",
+   "note": "Hero boards the bus.",
+   "size": "medium"
+  },
+  {
+   "first": 2883,
+   "id": "S31",
+   "key": 30,
+   "len": 139,
+   "line": "On the bus, you sit next to a stranger. His label says PEANUTS.",
+   "note": "Hero sits; stranger's PEANUTS pops.",
+   "size": "medium"
+  },
+  {
+   "first": 3022,
+   "id": "S32",
+   "key": 30,
+   "len": 97,
+   "line": "You offer him a biscuit from your bag \u2014 the peanut kind.",
+   "note": "Hero offers a biscuit; stranger turns.",
+   "size": "medium"
+  },
+  {
+   "first": 3119,
+   "id": "S33",
+   "key": 30,
+   "len": 92,
+   "line": "He goes pale. He pushes your hand away.",
+   "note": "Stranger pushes hero's arm away.",
+   "size": "medium"
+  },
+  {
+   "first": 3211,
+   "id": "S34",
+   "key": 30,
+   "len": 73,
+   "line": "He tells you one bite could kill him.",
+   "note": "Stranger warns; PEANUTS label pulses red.",
+   "size": "medium"
+  },
+  {
+   "first": 3284,
+   "id": "S35",
+   "key": 30,
+   "len": 91,
+   "line": "The label was right. It is always right.",
+   "note": "Hero nods; green checkmark pops.",
+   "size": "medium"
+  },
+  {
+   "first": 3375,
+   "id": "S36",
+   "key": 30,
+   "len": 62,
+   "line": "You get off the bus with your heart hammering,",
+   "note": "Hero steps off bus; heart pulses.",
+   "size": "medium"
+  },
+  {
+   "first": 3437,
+   "id": "S37",
+   "key": 30,
+   "len": 90,
+   "line": "because now you know something nobody else knows.",
+   "note": "Hero walks; crowd labels; worried.",
+   "size": "medium"
+  },
+  {
+   "first": 3527,
+   "id": "S38",
+   "key": 30,
+   "len": 117,
+   "line": "And knowing is the easy part. Wait until you see what it costs.",
+   "note": "Hero over the city; labels twinkle; turns to camera.",
+   "size": "wide"
+  },
+  {
+   "first": 3644,
+   "id": "S39",
+   "key": 30,
+   "len": 106,
+   "line": "What would your label say? Tell me in the comments.",
+   "note": "End card: WHAT WOULD YOUR LABEL SAY? TELL ME IN THE COMMENTS.",
+   "size": "title, wide"
+  }
+ ],
+ "slug": "allergies-2min-muse",
+ "title": "WHAT IF YOU COULD READ ANYONE'S ALLERGIES?",
+ "total": 3750
+}
