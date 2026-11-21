@@ -1,0 +1,647 @@
+{
+ "audio": {
+  "music": "allergies-2min-claude/music.mp3",
+  "musicVol": 0,
+  "sfx": "allergies-2min-claude/sfx.mp3",
+  "sfxVol": 0,
+  "voice": "allergies-2min-claude/voice.wav"
+ },
+ "fps": 30,
+ "fx": [],
+ "segments": [
+  {
+   "a": 0,
+   "b": 103,
+   "line": "You stir awake, and the room snaps into sharper focus.",
+   "shot": "S1",
+   "t0": 0,
+   "t1": 103
+  },
+  {
+   "a": 103,
+   "b": 191,
+   "line": "Above each person's head, a small label floats,",
+   "shot": "S2",
+   "t0": 0,
+   "t1": 88
+  },
+  {
+   "a": 191,
+   "b": 291,
+   "line": "a single word naming what sets off their allergies.",
+   "shot": "S3",
+   "t0": 0,
+   "t1": 100
+  },
+  {
+   "a": 291,
+   "b": 368,
+   "line": "You notice a girl with pollen tagged above her,",
+   "shot": "S4",
+   "t0": 0,
+   "t1": 77
+  },
+  {
+   "a": 368,
+   "b": 486,
+   "line": "the bus driver with cats, a construction worker with peanuts,",
+   "shot": "S5",
+   "t0": 0,
+   "t1": 118
+  },
+  {
+   "a": 486,
+   "b": 576,
+   "line": "a jogger with pollen, a mother with dust.",
+   "shot": "S6",
+   "t0": 0,
+   "t1": 90
+  },
+  {
+   "a": 576,
+   "b": 686,
+   "line": "You carry no label at all, just empty space above your own head.",
+   "shot": "S7",
+   "t0": 0,
+   "t1": 110
+  },
+  {
+   "a": 686,
+   "b": 791,
+   "line": "The labels work on a simple rule. They appear the moment you notice a person",
+   "shot": "S8",
+   "t0": 0,
+   "t1": 105
+  },
+  {
+   "a": 791,
+   "b": 883,
+   "line": "and hold steady while you look, then fade when you look away.",
+   "shot": "S9",
+   "t0": 0,
+   "t1": 92
+  },
+  {
+   "a": 883,
+   "b": 985,
+   "line": "The label does not tell you how a person feels.",
+   "shot": "S10",
+   "t0": 0,
+   "t1": 102
+  },
+  {
+   "a": 985,
+   "b": 1063,
+   "line": "It only marks what triggers a reaction.",
+   "shot": "S11",
+   "t0": 0,
+   "t1": 78
+  },
+  {
+   "a": 1063,
+   "b": 1136,
+   "line": "A pollen cloud, a cat's whisker,",
+   "shot": "S12",
+   "t0": 0,
+   "t1": 73
+  },
+  {
+   "a": 1136,
+   "b": 1205,
+   "line": "a peanuts crumb, a dust moat,",
+   "shot": "S13",
+   "t0": 0,
+   "t1": 69
+  },
+  {
+   "a": 1205,
+   "b": 1318,
+   "line": "each is a quiet identifier, not a judgment.",
+   "shot": "S14",
+   "t0": 0,
+   "t1": 113
+  },
+  {
+   "a": 1318,
+   "b": 1439,
+   "line": "Seeing comes with a cost. Each label adds a faint pressure,",
+   "shot": "S15",
+   "t0": 0,
+   "t1": 121
+  },
+  {
+   "a": 1439,
+   "b": 1499,
+   "line": "a soft whisper in your thoughts.",
+   "shot": "S16",
+   "t0": 0,
+   "t1": 60
+  },
+  {
+   "a": 1499,
+   "b": 1588,
+   "line": "The more you read, the louder the hum grows.",
+   "shot": "S17",
+   "t0": 0,
+   "t1": 89
+  },
+  {
+   "a": 1588,
+   "b": 1679,
+   "line": "You find yourself noticing the pollen drifting in the air.",
+   "shot": "S18",
+   "t0": 0,
+   "t1": 91
+  },
+  {
+   "a": 1679,
+   "b": 1734,
+   "line": "The cats settled on the chair.",
+   "shot": "S19",
+   "t0": 0,
+   "t1": 55
+  },
+  {
+   "a": 1734,
+   "b": 1799,
+   "line": "The peanuts left on the counter.",
+   "shot": "S20",
+   "t0": 0,
+   "t1": 65
+  },
+  {
+   "a": 1799,
+   "b": 1859,
+   "line": "The dust settling in corners.",
+   "shot": "S21",
+   "t0": 0,
+   "t1": 60
+  },
+  {
+   "a": 1859,
+   "b": 1975,
+   "line": "The world feels less open, more mapped with hidden prompts,",
+   "shot": "S22",
+   "t0": 0,
+   "t1": 116
+  },
+  {
+   "a": 1975,
+   "b": 2100,
+   "line": "and yet you find yourself wondering. If you know what triggers someone,",
+   "shot": "S23",
+   "t0": 0,
+   "t1": 125
+  },
+  {
+   "a": 2100,
+   "b": 2197,
+   "line": "can you protect them? Can you make different choices?",
+   "shot": "S24",
+   "t0": 0,
+   "t1": 97
+  },
+  {
+   "a": 2197,
+   "b": 2320,
+   "line": "The tags are small, but they reshape how you move through any room.",
+   "shot": "S25",
+   "t0": 0,
+   "t1": 123
+  },
+  {
+   "a": 2320,
+   "b": 2399,
+   "line": "You notice that friendships shift when you suddenly understand",
+   "shot": "S26",
+   "t0": 0,
+   "t1": 79
+  },
+  {
+   "a": 2399,
+   "b": 2490,
+   "line": "why a colleague steps away from the office cat,",
+   "shot": "S27",
+   "t0": 0,
+   "t1": 91
+  },
+  {
+   "a": 2490,
+   "b": 2563,
+   "line": "why a date chooses a peanut -free dessert,",
+   "shot": "S28",
+   "t0": 0,
+   "t1": 73
+  },
+  {
+   "a": 2563,
+   "b": 2640,
+   "line": "why a classmate keeps tissue stocked.",
+   "shot": "S29",
+   "t0": 0,
+   "t1": 77
+  },
+  {
+   "a": 2640,
+   "b": 2802,
+   "line": "The knowledge is quiet, but constant, a background hum that colors every interaction.",
+   "shot": "S30",
+   "t0": 0,
+   "t1": 162
+  },
+  {
+   "a": 2802,
+   "b": 2906,
+   "line": "You find yourself glancing twice at the pollen in the spring air.",
+   "shot": "S31",
+   "t0": 0,
+   "t1": 104
+  },
+  {
+   "a": 2906,
+   "b": 2969,
+   "line": "Twice at the cats on the sofa.",
+   "shot": "S32",
+   "t0": 0,
+   "t1": 63
+  },
+  {
+   "a": 2969,
+   "b": 3037,
+   "line": "Twice at the peanuts at the potluck.",
+   "shot": "S33",
+   "t0": 0,
+   "t1": 68
+  },
+  {
+   "a": 3037,
+   "b": 3101,
+   "line": "Twice at the dust in old books.",
+   "shot": "S34",
+   "t0": 0,
+   "t1": 64
+  },
+  {
+   "a": 3101,
+   "b": 3155,
+   "line": "Each second look sharpens the sense",
+   "shot": "S35",
+   "t0": 0,
+   "t1": 54
+  },
+  {
+   "a": 3155,
+   "b": 3242,
+   "line": "that the world is alive with hidden triggers.",
+   "shot": "S36",
+   "t0": 0,
+   "t1": 87
+  },
+  {
+   "a": 3242,
+   "b": 3313,
+   "line": "What would your labels say?",
+   "shot": "S37",
+   "t0": 0,
+   "t1": 71
+  }
+ ],
+ "shots": [
+  {
+   "first": 0,
+   "id": "S1",
+   "key": 30,
+   "len": 103,
+   "line": "You stir awake, and the room snaps into sharper focus.",
+   "note": "Hero stirs in bed, morning light cutting through curtains, room coming into focus.",
+   "size": "medium"
+  },
+  {
+   "first": 103,
+   "id": "S2",
+   "key": 30,
+   "len": 88,
+   "line": "Above each person's head, a small label floats,",
+   "note": "Hero lifts head, gaze sweeping across the room, labels briefly materializing above each person's head.",
+   "size": "medium"
+  },
+  {
+   "first": 191,
+   "id": "S3",
+   "key": 30,
+   "len": 100,
+   "line": "a single word naming what sets off their allergies.",
+   "note": "Close-up: one label reads POLLEN, another CATS, another PEANUTS, each a single word hovering above a head.",
+   "size": "medium"
+  },
+  {
+   "first": 291,
+   "id": "S4",
+   "key": 30,
+   "len": 77,
+   "line": "You notice a girl with pollen tagged above her,",
+   "note": "Hero glances toward the window, a girl in a yellow dress with POLLEN floating above her head.",
+   "size": "medium"
+  },
+  {
+   "first": 368,
+   "id": "S5",
+   "key": 30,
+   "len": 118,
+   "line": "the bus driver with cats, a construction worker with peanuts,",
+   "note": "Through the window, the bus driver tagged CATS and a worker below tagged PEANUTS.",
+   "size": "medium"
+  },
+  {
+   "first": 486,
+   "id": "S6",
+   "key": 30,
+   "len": 90,
+   "line": "a jogger with pollen, a mother with dust.",
+   "note": "A jogger passing below tagged POLLEN, a mother on the sidewalk tagged dust.",
+   "size": "medium"
+  },
+  {
+   "first": 576,
+   "id": "S7",
+   "key": 30,
+   "len": 110,
+   "line": "You carry no label at all, just empty space above your own head.",
+   "note": "Hero touches the space above their own head, no label present \u2014 just empty air.",
+   "size": "medium"
+  },
+  {
+   "first": 686,
+   "id": "S8",
+   "key": 30,
+   "len": 105,
+   "line": "The labels work on a simple rule. They appear the moment you notice a person",
+   "note": "Graphic overlay: a simple rule icon, then a person appearing and a label fading in above their head.",
+   "size": "medium"
+  },
+  {
+   "first": 791,
+   "id": "S9",
+   "key": 30,
+   "len": 92,
+   "line": "and hold steady while you look, then fade when you look away.",
+   "note": "Hero watches a labeled person, the label staying fixed; Hero looks away and the label dissolves.",
+   "size": "medium"
+  },
+  {
+   "first": 883,
+   "id": "S10",
+   "key": 30,
+   "len": 102,
+   "line": "The label does not tell you how a person feels.",
+   "note": "Side-by-side: a labeled person and an unlabeled person, emphasis on the distinction.",
+   "size": "medium"
+  },
+  {
+   "first": 985,
+   "id": "S11",
+   "key": 30,
+   "len": 78,
+   "line": "It only marks what triggers a reaction.",
+   "note": "A small icon of a trigger symbol (pollen grain, peanut, cat hair, dust mote) connects to the label.",
+   "size": "medium"
+  },
+  {
+   "first": 1063,
+   "id": "S12",
+   "key": 30,
+   "len": 73,
+   "line": "A pollen cloud, a cat's whisker,",
+   "note": "Visual poem: POLLEN drifts in a sunbeam, CATS settles on a chair, each as a delicate whisker-like pattern.",
+   "size": "medium"
+  },
+  {
+   "first": 1136,
+   "id": "S13",
+   "key": 30,
+   "len": 69,
+   "line": "a peanuts crumb, a dust moat,",
+   "note": "A single PEANUT visible on a surface, a dust mote dancing in light.",
+   "size": "medium"
+  },
+  {
+   "first": 1205,
+   "id": "S14",
+   "key": 30,
+   "len": 113,
+   "line": "each is a quiet identifier, not a judgment.",
+   "note": "Labels remain neutral, unobtrusive \u2014 no scoring, no ranking, just identification.",
+   "size": "medium"
+  },
+  {
+   "first": 1318,
+   "id": "S15",
+   "key": 30,
+   "len": 121,
+   "line": "Seeing comes with a cost. Each label adds a faint pressure,",
+   "note": "Hero looks overwhelmed, the room full of labels, a visual representation of mounting pressure.",
+   "size": "medium"
+  },
+  {
+   "first": 1439,
+   "id": "S16",
+   "key": 30,
+   "len": 60,
+   "line": "a soft whisper in your thoughts.",
+   "note": "Thought bubble above Hero's head with faint whisper lines, representing the internal cost.",
+   "size": "medium"
+  },
+  {
+   "first": 1499,
+   "id": "S17",
+   "key": 30,
+   "len": 89,
+   "line": "The more you read, the louder the hum grows.",
+   "note": "As Hero reads more labels, the hum grows visually \u2014 a waveform or amplitude visual growing louder.",
+   "size": "medium"
+  },
+  {
+   "first": 1588,
+   "id": "S18",
+   "key": 30,
+   "len": 91,
+   "line": "You find yourself noticing the pollen drifting in the air.",
+   "note": "Hero gazes upward, tracking POLLEN particles in the air around them.",
+   "size": "medium"
+  },
+  {
+   "first": 1679,
+   "id": "S19",
+   "key": 30,
+   "len": 55,
+   "line": "The cats settled on the chair.",
+   "note": "The CATS label lingers on a chair, the cat settled comfortably.",
+   "size": "medium"
+  },
+  {
+   "first": 1734,
+   "id": "S20",
+   "key": 30,
+   "len": 65,
+   "line": "The peanuts left on the counter.",
+   "note": "A peanut left on a counter, the label still visible.",
+   "size": "medium"
+  },
+  {
+   "first": 1799,
+   "id": "S21",
+   "key": 30,
+   "len": 60,
+   "line": "The dust settling in corners.",
+   "note": "Dust motes accumulating in corners of the room.",
+   "size": "medium"
+  },
+  {
+   "first": 1859,
+   "id": "S22",
+   "key": 30,
+   "len": 116,
+   "line": "The world feels less open, more mapped with hidden prompts,",
+   "note": "The room is now filled with a grid of labels, a visual map of hidden triggers everywhere.",
+   "size": "medium"
+  },
+  {
+   "first": 1975,
+   "id": "S23",
+   "key": 30,
+   "len": 125,
+   "line": "and yet you find yourself wondering. If you know what triggers someone,",
+   "note": "Hero pausing, thoughtful, the weight of the knowledge settling in.",
+   "size": "medium"
+  },
+  {
+   "first": 2100,
+   "id": "S24",
+   "key": 30,
+   "len": 97,
+   "line": "can you protect them? Can you make different choices?",
+   "note": "Two scenarios: Hero choosing a different path, avoiding a trigger; Hero approaching someone cautiously.",
+   "size": "medium"
+  },
+  {
+   "first": 2197,
+   "id": "S25",
+   "key": 30,
+   "len": 123,
+   "line": "The tags are small, but they reshape how you move through any room.",
+   "note": "Hero moving through a space, the labels shifting and influencing direction, the room reoriented around triggers.",
+   "size": "medium"
+  },
+  {
+   "first": 2320,
+   "id": "S26",
+   "key": 30,
+   "len": 79,
+   "line": "You notice that friendships shift when you suddenly understand",
+   "note": "Two friends talking, one's label becoming a factor in their interaction, dynamics subtly changing.",
+   "size": "medium"
+  },
+  {
+   "first": 2399,
+   "id": "S27",
+   "key": 30,
+   "len": 91,
+   "line": "why a colleague steps away from the office cat,",
+   "note": "A colleague moving away from an office cat, the CATS label visible.",
+   "size": "medium"
+  },
+  {
+   "first": 2490,
+   "id": "S28",
+   "key": 30,
+   "len": 73,
+   "line": "why a date chooses a peanut -free dessert,",
+   "note": "A date menu with options highlighted, a peanut-free choice marked.",
+   "size": "medium"
+  },
+  {
+   "first": 2563,
+   "id": "S29",
+   "key": 30,
+   "len": 77,
+   "line": "why a classmate keeps tissue stocked.",
+   "note": "A classroom setting, a classmate reaching for tissues, the label system influencing behavior.",
+   "size": "medium"
+  },
+  {
+   "first": 2640,
+   "id": "S30",
+   "key": 30,
+   "len": 162,
+   "line": "The knowledge is quiet, but constant, a background hum that colors every interaction.",
+   "note": "A series of interactions where the background hum is visible, coloring each exchange.",
+   "size": "medium"
+  },
+  {
+   "first": 2802,
+   "id": "S31",
+   "key": 30,
+   "len": 104,
+   "line": "You find yourself glancing twice at the pollen in the spring air.",
+   "note": "Hero looks twice at POLLEN drifting by, the second look deliberate.",
+   "size": "medium"
+  },
+  {
+   "first": 2906,
+   "id": "S32",
+   "key": 30,
+   "len": 63,
+   "line": "Twice at the cats on the sofa.",
+   "note": "A second look at CATS on the sofa, the label still present.",
+   "size": "medium"
+  },
+  {
+   "first": 2969,
+   "id": "S33",
+   "key": 30,
+   "len": 68,
+   "line": "Twice at the peanuts at the potluck.",
+   "note": "A second look at PEANUTS at a potluck spread.",
+   "size": "medium"
+  },
+  {
+   "first": 3037,
+   "id": "S34",
+   "key": 30,
+   "len": 64,
+   "line": "Twice at the dust in old books.",
+   "note": "A second look at dust in old bookstacks.",
+   "size": "medium"
+  },
+  {
+   "first": 3101,
+   "id": "S35",
+   "key": 30,
+   "len": 54,
+   "line": "Each second look sharpens the sense",
+   "note": "The world feeling more alive, more aware with each look.",
+   "size": "medium"
+  },
+  {
+   "first": 3155,
+   "id": "S36",
+   "key": 30,
+   "len": 87,
+   "line": "that the world is alive with hidden triggers.",
+   "note": "The full room of labels, the sense that everything has a hidden trigger beneath the surface.",
+   "size": "medium"
+  },
+  {
+   "first": 3242,
+   "id": "S37",
+   "key": 30,
+   "len": 71,
+   "line": "What would your labels say?",
+   "note": "Hero looks directly at the viewer, the space above their head empty, the question hanging: What would YOUR label say?",
+   "size": "medium"
+  }
+ ],
+ "slug": "allergies-2min-claude",
+ "title": "WHAT IF YOU COULD READ ANYONE'S ALLERGIES?",
+ "total": 3313
+}
