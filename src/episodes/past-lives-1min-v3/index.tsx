@@ -10,7 +10,7 @@ import { S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, 
 // Beat 3 -> Beat 4 Stevenson), Helio + Sam (Kokoro af_heart) + Jordan
 // (am_adam), gaps between lines 0.20-0.50s, every chunk whisper-verified,
 // full voice 171/171 tokens in order. Plus: a number or graphic in EVERY
-// shot, a gold dotted beam from Alex's eyes to every pill, shot sizes
+// shot, a solid gold arrow from Alex's glowing eyes to every pill, shot sizes
 // changing every 1-2s (~27 cuts/min), 10 places, motion tied to words
 // only, FREEZE diagram + 12 LIVES dots + tick-down kept, cliffhanger end
 // card "PART ONE / WHAT HAPPENS AT ZERO?".

@@ -19,17 +19,26 @@ import {
      Stevenson), gaps between lines 0.20-0.50s, longest inter-line gap
      0.50s. Helio narration + Sam (Kokoro af_heart) + Jordan (am_adam).
      Every chunk whisper-verified; full voice 171/171 tokens in order.
-   - A NUMBER OR GRAPHIC IN EVERY SHOT: a pill pops, ticks, or flickers
-     in every shot — or a graphic (FREEZE diagram, 12 LIVES dots,
-     Stevenson citation, 2,500 counter, end card). Something new appears
-     every 1-2s.
-   - THE BEAM: a gold dotted beam runs from Alex's glowing eyes (or the
-     detector) to the pill every time a number appears — the past-lives
-     version of the read-thoughts dotted beam. In close-ups the beam comes
-     from the frame corner where Alex stands off-screen.
+   - A NUMBER OR GRAPHIC IN EVERY SHOT (more than the file's true rule:
+     SOMETHING NEW every 1-2s — a new place, a face change, or a panel
+     pop; f02 and f34 have no panel. v3 meets the rule with margin: a
+     pill pops, ticks, or flickers in every shot — or a graphic (FREEZE
+     diagram, 12 LIVES dots, Stevenson citation, 2,500 counter, end
+     card). Something new appears every 1-2s.
+   - THE BEAM (CORRECTED from the file study, study-rt-v2/): the
+     benchmark file shows NO dotted beam line anywhere. The device is
+     Alex's GLOWING GOLD EYES (f21: gold irises when reading) + a SOLID
+     GOLD ARROW when a number appears (f29 FREEZE diagram: solid arrow
+     from the eye icon to the pill). So: gold eye-glint on Alex + the
+     GoldArrow component, never a dotted line. In close-ups the arrow
+     comes from the frame corner where Alex stands off-screen.
    - SHOT SIZES CHANGE EVERY 1-2s: wide -> medium -> close-up -> extreme
      close-up, constantly. 27 shots in 60.6s (~27 cuts/min), longest shot
      3.8s, shortest 1.1s.
+   - CLOSE-UP PILLS ARE HUGE (measured f07: the "fire me" pill is
+     ~30-40% of frame width). Short numbers need a big scale to match,
+     so ECU/CU pills use s=2.4-2.8 with bigPillY (pill bottom 14px above
+     the head top, pointer nearly touching — never overlapping the face).
    - 10 PLACES (v2's set, reused): gate, classroom, stairwell, corridor,
      cafeteria, art room, bedroom, bathroom, evening street + starry void.
    - MOTION TIED TO WORDS ONLY: one purposeful action per shot, keyed to
@@ -97,19 +106,49 @@ const Actor: React.FC<{
     hip - 238*scale; the pill hangs 10px below it, nearly touching. */
 const pillY = (hipY: number, scale: number, s = 1) => hipY - 238 * scale - 10 - 26 * s;
 
+/** Pill centre y for a BIG close-up pill (s >= 2): the pill's bottom edge
+    sits 14px above the head top, so the pointer nearly touches the head
+    exactly like the benchmark's f07 ("fire me", ~30% frame width). With
+    pillY the pointer would stab into the face at big scales. */
+const bigPillY = (hipY: number, scale: number, s: number) => hipY - 238 * scale - 14 - 26 * s;
+
 /** The eye position of a character (for the beam): head centre + facing. */
 const headPos = (p: { x: number; y: number; scale: number }, facing: 1 | -1) => ({
   x: p.x + facing * 22 * p.scale, y: p.y - 185 * p.scale,
 });
 
-/** The gold dotted beam: from Alex's glowing eye (or the frame corner
-    where he stands off-screen in close-ups) to the pill. Draws on over
-    5 frames when the number appears, then fades after ~22 frames. */
-const EyeBeam: React.FC<{ x0: number; y0: number; x1: number; y1: number; t: number; from: number }> = ({ x0, y0, x1, y1, t, from }) => {
+/** The gold arrow: a SOLID gold arrow from Alex's glowing eye (or the
+    frame corner where he stands off-screen in close-ups) to the pill.
+    MEASURED from the benchmark file (study-rt-v2/f21, f29): there is NO
+    dotted beam line in the file — the device is the hero's GLOWING
+    AMBER/GOLD EYES (f21) plus a SOLID GOLD ARROW in the FREEZE diagram
+    (f29). So: gold eye-glint on Alex + this solid arrow, never a dotted
+    line. Fades in over 5 frames when the number appears, fades out
+    after ~22 frames. */
+const GoldArrow: React.FC<{ x0: number; y0: number; x1: number; y1: number; t: number; from: number }> = ({ x0, y0, x1, y1, t, from }) => {
   const k = clamp((t - from) / 5);
   if (k <= 0) return null;
   const fade = t > from + 22 ? clamp(1 - (t - from - 22) / 8) : 1;
-  return <line x1={x0} y1={y0} x2={x1} y2={y1} stroke={GOLD} strokeWidth={4} opacity={0.8 * k * fade} strokeDasharray="12 8" />;
+  const dx = x1 - x0;
+  const dy = y1 - y0;
+  const len = Math.hypot(dx, dy) || 1;
+  const ux = dx / len;
+  const uy = dy / len;
+  const ah = 26;
+  const aw = 11;
+  const ex = x1 - ux * 6;
+  const ey = y1 - uy * 6;
+  const bx = ex - ux * ah;
+  const by = ey - uy * ah;
+  const px = -uy;
+  const py = ux;
+  return (
+    <g opacity={0.9 * k * fade}>
+      <circle cx={x0} cy={y0} r={7} fill={GOLD} />
+      <line x1={x0} y1={y0} x2={bx} y2={by} stroke={GOLD} strokeWidth={6} strokeLinecap="round" />
+      <polygon points={`${ex},${ey} ${bx + px * aw},${by + py * aw} ${bx - px * aw},${by - py * aw}`} fill={GOLD} />
+    </g>
+  );
 };
 
 /** The number pill: small dark pill, coloured outline, tiny downward
@@ -212,7 +251,7 @@ export const S2: React.FC<ShotProps> = ({ t }) => (
         { f: 25, p: { headTilt: -4, tilt: -2 } },
         { f: 55, p: { headTilt: 5, tilt: 2, armR: { a: 30, b: -10 } } },
       ]} />
-    <EyeBeam x0={headPos(S2_ALEX, 1).x} y0={headPos(S2_ALEX, 1).y} x1={S2_MATE.x} y1={pillY(S2_MATE.y, S2_MATE.scale, 0.9) + 30} t={t} from={20} />
+    <GoldArrow x0={headPos(S2_ALEX, 1).x} y0={headPos(S2_ALEX, 1).y} x1={S2_MATE.x} y1={pillY(S2_MATE.y, S2_MATE.scale, 0.9) + 30} t={t} from={20} />
   </g>
 );
 
@@ -229,7 +268,7 @@ export const S3: React.FC<ShotProps> = ({ t, len }) => {
       <Pl2Corridor t={t} />
       <Actor look="sam" x={S3_SAM.x} y={S3_SAM.y} scale={S3_SAM.scale} facing={1} t={t} keys={[]} exprs={[[0, 'neutral']]} />
       <NumberPill x={S3_SAM.x} y={pillY(S3_SAM.y, S3_SAM.scale, 0.9)} num="12" t={t} from={12} outline={GOLD} s={0.9} />
-      <EyeBeam x0={eye.x} y0={eye.y} x1={S3_SAM.x} y1={pillY(S3_SAM.y, S3_SAM.scale, 0.9) + 30} t={t} from={12} />
+      <GoldArrow x0={eye.x} y0={eye.y} x1={S3_SAM.x} y1={pillY(S3_SAM.y, S3_SAM.scale, 0.9) + 30} t={t} from={12} />
       <Hero look={ALEX} pose={{ ...walk, ...faceAt(t, [[0, 'neutral'], [30, 'happy']]), glint: t >= 12 ? 1 : 0, glintColor: '#FFD700' }} shadow={0} rimId="rimR" />
     </g>
   );
@@ -247,8 +286,8 @@ export const S4: React.FC<ShotProps> = ({ t }) => (
         { f: 8, p: { headTilt: -6, armR: { a: -50, b: -20 }, armL: { a: -40, b: -16 }, tilt: -3 }, ease: easeOut },
         { f: 22, p: { headTilt: 2, armR: { a: -20, b: -10 }, tilt: 0 } },
       ]} exprs={[[0, 'neutral'], [8, 'shock']]} />
-    <NumberPill x={960} y={pillY(1020, 1.9, 1.2)} num="12" t={t} from={0} outline={GOLD} s={1.2} />
-    <EyeBeam x0={80} y0={980} x1={960} y1={pillY(1020, 1.9, 1.2) + 40} t={t} from={6} />
+    <NumberPill x={960} y={bigPillY(1020, 1.9, 2.4)} num="12" t={t} from={0} outline={GOLD} s={2.4} />
+    <GoldArrow x0={80} y0={980} x1={960} y1={bigPillY(1020, 1.9, 2.4) + 40} t={t} from={6} />
   </g>
 );
 
@@ -319,8 +358,8 @@ export const S7: React.FC<ShotProps> = ({ t }) => (
         { f: 20, p: { headTilt: 4, tilt: 2 } },
         { f: 60, p: { headTilt: -2, tilt: 0 } },
       ]} exprs={[[0, 'happy'], [20, 'happy']]} />
-    <NumberPill x={960} y={pillY(1020, 1.9, 1.4)} num="12" t={t} from={15} outline={GOLD} s={1.4} />
-    <EyeBeam x0={120} y0={980} x1={960} y1={pillY(1020, 1.9, 1.4) + 40} t={t} from={15} />
+    <NumberPill x={960} y={bigPillY(1020, 1.9, 2.6)} num="12" t={t} from={15} outline={GOLD} s={2.6} />
+    <GoldArrow x0={120} y0={980} x1={960} y1={bigPillY(1020, 1.9, 2.6) + 40} t={t} from={15} />
   </g>
 );
 
@@ -371,8 +410,8 @@ export const S9: React.FC<ShotProps> = ({ t }) => {
       <Pl2Corridor t={t} />
       <Actor look="sam" x={600} y={1010} scale={1.6} facing={1} t={t}
         keys={[{ f: 25, p: { headTilt: 4 } }]} exprs={[[0, 'happy']]} />
-      <NumberPill x={600} y={pillY(1010, 1.6, 1.0)} num="12" t={t} from={10} outline={GOLD} s={1.0} />
-      <EyeBeam x0={headPos(alexP, -1).x} y0={headPos(alexP, -1).y} x1={600} y1={pillY(1010, 1.6, 1.0) + 30} t={t} from={10} />
+      <NumberPill x={600} y={pillY(1010, 1.6, 1.0)} num="12" t={t} from={10} outline={GOLD} s={1.6} />
+      <GoldArrow x0={headPos(alexP, -1).x} y0={headPos(alexP, -1).y} x1={600} y1={pillY(1010, 1.6, 1.0) + 30} t={t} from={10} />
       <Actor look="alex" x={alexP.x} y={alexP.y} scale={alexP.scale} facing={-1} t={t} glintFrom={10}
         keys={[
           { f: 15, p: { armR: { a: -70, b: -8 }, handR: 'point', headTilt: -3, tilt: 3 }, ease: easeOut },
@@ -470,15 +509,15 @@ export const S12: React.FC<ShotProps> = ({ t, len }) => {
           { f: 15, p: { headTilt: -4, tilt: -2 } },
           { f: 45, p: { headTilt: 3, tilt: 1 } },
         ]} />
-      <NumberPill x={660} y={pillY(687, 0.95, 1.2)} num="12" t={t} from={6} outline={GOLD} s={1.2} tickTo="11" tickAt={25} />
-      {t >= 25 && t < 41 ? <FocusRings x={660} y={pillY(687, 0.95, 1.2)} t={t - 25} r0={90} color={GOLD} /> : null}
+      <NumberPill x={660} y={bigPillY(687, 0.95, 2.4)} num="12" t={t} from={6} outline={GOLD} s={2.4} tickTo="11" tickAt={25} />
+      {t >= 25 && t < 41 ? <FocusRings x={660} y={bigPillY(687, 0.95, 2.4)} t={t - 25} r0={90} color={GOLD} /> : null}
       <Actor look="alex" x={1050} y={687} scale={0.95} facing={-1} t={t} glintFrom={25}
         keys={[
           { f: 12, p: { headTilt: -4, tilt: -2 } },
           { f: 25, p: { headTilt: 4, tilt: 2, armR: { a: -50, b: -10 }, handR: 'point' } },
         ]} exprs={[[0, 'neutral'], [25, 'shock'], [55, 'worried']]} />
       <HeadDetector ax={1050} hy={687} sc={0.95} t={t} />
-      <EyeBeam x0={headPos({ x: 1050, y: 687, scale: 0.95 }, -1).x} y0={headPos({ x: 1050, y: 687, scale: 0.95 }, -1).y} x1={660} y1={pillY(687, 0.95, 1.2) + 30} t={t} from={25} />
+      <GoldArrow x0={headPos({ x: 1050, y: 687, scale: 0.95 }, -1).x} y0={headPos({ x: 1050, y: 687, scale: 0.95 }, -1).y} x1={660} y1={bigPillY(687, 0.95, 2.4) + 30} t={t} from={25} />
     </g>
   );
 };
@@ -513,7 +552,7 @@ export const S14: React.FC<ShotProps> = ({ t }) => (
         { f: 60, p: { armR: { a: -20, b: -10 }, headTilt: 3 } },
       ]} exprs={[[0, 'neutral'], [20, 'smug']]} />
     <NumberPill x={S14_HAR.x} y={pillY(S14_HAR.y, S14_HAR.scale, 0.9)} num="7" t={t} from={20} outline={SOFT} s={0.9} />
-    <EyeBeam x0={headPos(S14_ALEX, 1).x} y0={headPos(S14_ALEX, 1).y} x1={S14_HAR.x} y1={pillY(S14_HAR.y, S14_HAR.scale, 0.9) + 30} t={t} from={20} />
+    <GoldArrow x0={headPos(S14_ALEX, 1).x} y0={headPos(S14_ALEX, 1).y} x1={S14_HAR.x} y1={pillY(S14_HAR.y, S14_HAR.scale, 0.9) + 30} t={t} from={20} />
     <Actor look="alex" x={S14_ALEX.x} y={S14_ALEX.y} scale={S14_ALEX.scale} facing={1} t={t} glintFrom={20}
       keys={[
         { f: 20, p: { armR: { a: -80, b: -6 }, handR: 'point', headTilt: -4, tilt: -4 } },
@@ -533,8 +572,8 @@ export const S15: React.FC<ShotProps> = ({ t }) => (
         { f: 16, p: { headTilt: -6, armR: { a: -60, b: -20 } } },
         { f: 40, p: { headTilt: 5, armR: { a: -20, b: -10 } } },
       ]} exprs={[[0, 'neutral'], [18, 'smug']]} />
-    <NumberPill x={960} y={pillY(1020, 1.9, 1.2)} num="7" t={t} from={0} outline={SOFT} s={1.2} />
-    <EyeBeam x0={140} y0={960} x1={960} y1={pillY(1020, 1.9, 1.2) + 40} t={t} from={8} />
+    <NumberPill x={960} y={bigPillY(1020, 1.9, 2.8)} num="7" t={t} from={0} outline={SOFT} s={2.8} />
+    <GoldArrow x0={140} y0={960} x1={960} y1={bigPillY(1020, 1.9, 2.8) + 40} t={t} from={8} />
   </g>
 );
 
@@ -548,8 +587,8 @@ export const S16: React.FC<ShotProps> = ({ t }) => {
       <Pl2Corridor t={t} />
       <Actor look="sam" x={600} y={1010} scale={1.6} facing={1} t={t}
         keys={[{ f: 30, p: { headTilt: 9 } }]} />
-      <NumberPill x={600} y={pillY(1010, 1.6, 1.0)} num="12" t={t} from={8} outline={GOLD} s={1.0} />
-      <EyeBeam x0={headPos(alexP, -1).x} y0={headPos(alexP, -1).y} x1={600} y1={pillY(1010, 1.6, 1.0) + 30} t={t} from={8} />
+      <NumberPill x={600} y={pillY(1010, 1.6, 1.0)} num="12" t={t} from={8} outline={GOLD} s={1.6} />
+      <GoldArrow x0={headPos(alexP, -1).x} y0={headPos(alexP, -1).y} x1={600} y1={pillY(1010, 1.6, 1.0) + 30} t={t} from={8} />
       <Actor look="alex" x={alexP.x} y={alexP.y} scale={alexP.scale} facing={-1} t={t} glintFrom={8}
         keys={[
           { f: 25, p: { armR: { a: -70, b: -8 }, handR: 'open', headTilt: -3, tilt: 3 }, ease: easeOut },
@@ -571,8 +610,8 @@ export const S17: React.FC<ShotProps> = ({ t }) => (
         { f: 15, p: { headTilt: 4, armR: { a: -110, b: -30 }, tilt: 2 } },
         { f: 30, p: { headTilt: -2, armR: { a: -110, b: -30 }, tilt: 0 } },
       ]} exprs={[[0, 'shock'], [10, 'happy']]} />
-    <NumberPill x={960} y={pillY(1020, 1.9, 1.2)} num="12" t={t} from={0} outline={GOLD} s={1.2} />
-    <EyeBeam x0={120} y0={980} x1={960} y1={pillY(1020, 1.9, 1.2) + 40} t={t} from={4} />
+    <NumberPill x={960} y={bigPillY(1020, 1.9, 2.6)} num="12" t={t} from={0} outline={GOLD} s={2.6} />
+    <GoldArrow x0={120} y0={980} x1={960} y1={bigPillY(1020, 1.9, 2.6) + 40} t={t} from={4} />
   </g>
 );
 
@@ -592,7 +631,7 @@ export const S18: React.FC<ShotProps> = ({ t, len }) => {
           { f: 25, p: { armR: { a: -50, b: -20 }, headTilt: -4 } },
         ]} />
       <NumberPill x={S18_JOR.x} y={pillY(S18_JOR.y, S18_JOR.scale, 0.9)} num="3" t={t} from={25} outline={SOFT} s={0.9} />
-      <EyeBeam x0={eye.x} y0={eye.y} x1={S18_JOR.x} y1={pillY(S18_JOR.y, S18_JOR.scale, 0.9) + 30} t={t} from={25} />
+      <GoldArrow x0={eye.x} y0={eye.y} x1={S18_JOR.x} y1={pillY(S18_JOR.y, S18_JOR.scale, 0.9) + 30} t={t} from={25} />
       <Hero look={ALEX} pose={{ ...walk, ...faceAt(t, [[0, 'neutral'], [25, 'smug']]), glint: t >= 25 ? 1 : 0, glintColor: '#FFD700' }} shadow={0} rimId="rimR" />
     </g>
   );
@@ -608,8 +647,8 @@ export const S19: React.FC<ShotProps> = ({ t }) => (
         { f: 12, p: { headTilt: -4, armR: { a: -60, b: -20 }, tilt: -3 } },
         { f: 35, p: { headTilt: 4, armR: { a: -20, b: -10 }, tilt: 3 } },
       ]} exprs={[[0, 'happy'], [12, 'happy']]} />
-    <NumberPill x={960} y={pillY(1020, 1.9, 1.2)} num="3" t={t} from={0} outline={SOFT} s={1.2} />
-    <EyeBeam x0={140} y0={960} x1={960} y1={pillY(1020, 1.9, 1.2) + 40} t={t} from={6} />
+    <NumberPill x={960} y={bigPillY(1020, 1.9, 2.8)} num="3" t={t} from={0} outline={SOFT} s={2.8} />
+    <GoldArrow x0={140} y0={960} x1={960} y1={bigPillY(1020, 1.9, 2.8) + 40} t={t} from={6} />
   </g>
 );
 
@@ -804,7 +843,9 @@ export const S26: React.FC<ShotProps> = ({ t }) => {
 };
 
 /* S27: cliffhanger end card on the starry void — gold PART ONE, white
-   WHAT HAPPENS AT ZERO?, and a small red "0" pill below, pulsing. */
+   WHAT HAPPENS AT ZERO?, and a small wide red "0" pill below. Matches
+   the benchmark's f39 exactly (PART ONE / WHAT IS SHE HIDING? / small
+   red "don't tell him" pill): no extra CTA line on the card. */
 export const S27: React.FC<ShotProps> = ({ t }) => {
   const k = clamp(t / 6);
   return (
@@ -820,10 +861,12 @@ export const S27: React.FC<ShotProps> = ({ t }) => {
           WHAT HAPPENS AT ZERO?
         </text>
       </g>
-      <NumberPill x={960} y={700} num="0" t={t} from={16} outline={RED} s={0.9} />
-      <text x={960} y={830} fontFamily={FONT.title} fontWeight={600} fontSize={28} fill={WHITE} textAnchor="middle" letterSpacing={5} opacity={clamp((t - 24) / 8)}>
-        TELL ME IN THE COMMENTS
-      </text>
+      {/* wide red pill like f39's "don't tell him": wide shape, modest text */}
+      <g transform={`translate(960 700) scale(${0.55 + 0.45 * backOut(clamp((t - 16) / 6))})`} opacity={clamp((t - 16) / 6)}>
+        <rect x={-150} y={-32} width={300} height={64} rx={32} fill="#0E0C1E" opacity={0.94} stroke={RED} strokeWidth={3} style={{ filter: 'drop-shadow(0 0 14px rgba(255,51,68,0.8))' }} />
+        <polygon points="-9,28 9,28 0,42" fill="#0E0C1E" stroke={RED} strokeWidth={3} strokeLinejoin="round" />
+        <text x={0} y={12} fontFamily={FONT.title} fontWeight={700} fontSize={36} fill="#FFFFFF" textAnchor="middle">0</text>
+      </g>
     </g>
   );
 };
