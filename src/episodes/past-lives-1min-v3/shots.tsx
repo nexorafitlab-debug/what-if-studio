@@ -528,7 +528,7 @@ export const S12: React.FC<ShotProps> = ({ t, len }) => {
 export const S13: React.FC<ShotProps> = ({ t }) => (
   <g transform={camT(960, 540, 1.45)}>
     <Pl2Street t={t} />
-    <NumberPill x={1620} y={200} num="11" t={t} from={5} outline={GOLD} s={0.7} />
+    <NumberPill x={1480} y={200} num="11" t={t} from={5} outline={GOLD} s={0.7} />
     <Actor look="alex" x={960} y={1020} scale={1.9} facing={1} t={t}
       keys={[
         { f: 15, p: { headTilt: -4, tilt: -2 } },
