@@ -21,7 +21,7 @@ import { S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, 
 // toward -50 dB (chimes NOT shortened — they already decay in 0.35s).
 // Voice: public/past-lives-1min-v4/voice.wav (reused v3 voice, 169 words, verified).
 // grain: false. No blur16. Letterbox applied in stitch.sh.
-export const pastLives1minV3 = defineEpisode('PastLives1MinV4', {
+export const pastLives1minV4 = defineEpisode('PastLives1MinV4', {
   timeline: timeline as Timeline,
   shots: { S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S20, S21, S22, S23, S24, S25, S26, S27 },
   grain: false,
