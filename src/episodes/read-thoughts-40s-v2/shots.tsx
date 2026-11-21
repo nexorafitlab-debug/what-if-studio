@@ -249,14 +249,14 @@ export const S6: React.FC<ShotProps> = ({ t }) => (
 
 /* S7: taxi, close-up — the driver's tired face; the panel flickers; he rubs his eyes. */
 export const S7: React.FC<ShotProps> = ({ t }) => (
-  <g transform={camT(960, 540, 1.5)}>
+  <g transform={camT(640, 540, 1.5)}>
     <Taxi t={t} />
-    <Actor look="driver" x={960} y={1020} scale={1.9} facing={1} t={t}
+    <Actor look="driver" x={640} y={1020} scale={1.9} facing={1} t={t}
       keys={[
         { f: 14, p: { armR: { a: -110, b: -60 }, headTilt: -6 } },
         { f: 30, p: { armR: { a: -60, b: -30 }, headTilt: 4 } },
       ]} exprs={[[0, 'tired'], [16, 'tired']]} />
-    <ThoughtPanel x={960} y={1020 - 295 * 1.9} word="five more minutes" t={t} from={0} outline={AMBER} s={1.1} flicker burst={false} />
+    <ThoughtPanel x={640} y={1020 - 295 * 1.9} word="five more minutes" t={t} from={0} outline={AMBER} s={1.1} flicker burst={false} />
   </g>
 );
 

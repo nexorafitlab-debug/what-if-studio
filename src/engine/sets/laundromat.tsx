@@ -34,8 +34,8 @@ export const Laundromat: React.FC<{ t: number }> = ({ t }) => {
       <RoomShell r={R} id="laund" floor="tiles" wall="#3A3448" side="#2E2838" floorC="#28242E" ceiling="#1E1822" />
       {/* neon sign in the window */}
       <g opacity={neon}>
-        <text x={960} y={240} fontFamily="sans-serif" fontWeight={700} fontSize={64} fill="#FF6A9A" textAnchor="middle" style={{ filter: 'drop-shadow(0 0 18px #FF6A9A)' }}>WASH &amp; DRY</text>
-        <Glow x={960} y={220} r={220} o={0.4} />
+        <text x={960} y={300} fontFamily="sans-serif" fontWeight={700} fontSize={64} fill="#FF6A9A" textAnchor="middle" style={{ filter: 'drop-shadow(0 0 18px #FF6A9A)' }}>WASH &amp; DRY</text>
+        <Glow x={960} y={280} r={220} o={0.4} />
       </g>
       {/* washer rows */}
       {[300, 460, 620].map((x, i) => (
