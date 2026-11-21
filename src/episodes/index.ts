@@ -16,5 +16,6 @@ import { readThoughts40s } from './read-thoughts-40s';
 import { readThoughts40sV2 } from './read-thoughts-40s-v2';
 import { pastLives1Min } from './past-lives-1min';
 import { pastLives1minV2 } from './past-lives-1min-v2';
+import { pastLives1minV3 } from './past-lives-1min-v3';
 
-export const EPISODES = [rewind, copyPaste, sleep, deathCount, deathCountFull, deathCountV2, deathCount2Min, deathCount30sNew, moneyCount30s, moneyCount30sV2, moneyCount, setsTest, readThoughts, readThoughts40s, readThoughts40sV2, pastLives1Min, pastLives1minV2];
+export const EPISODES = [rewind, copyPaste, sleep, deathCount, deathCountFull, deathCountV2, deathCount2Min, deathCount30sNew, moneyCount30s, moneyCount30sV2, moneyCount, setsTest, readThoughts, readThoughts40s, readThoughts40sV2, pastLives1Min, pastLives1minV2, pastLives1minV3];

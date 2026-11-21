@@ -1,0 +1,1 @@
+The number ticks down when a life is spent. Used up. Passed.
