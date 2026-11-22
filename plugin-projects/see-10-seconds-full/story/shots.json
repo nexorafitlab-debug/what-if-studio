@@ -1,0 +1,4032 @@
+{
+ "title": "What If You Could See 10 Seconds Ahead?",
+ "duration": 463.8,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 4.0,
+   "line": "",
+   "scene": "Chapter 1 card: THE FAN",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "s002",
+   "start": 4.0,
+   "end": 6.69,
+   "line": "You wake up. The ceiling fan spins.",
+   "scene": "BEDROOM - DAWN \u2014 act: You wake up. The ceiling fan spins.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 0.5,
+     "name": "hum",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s003",
+   "start": 6.69,
+   "end": 10.54,
+   "line": "One blade wobbles. Ten Nine Eight.",
+   "scene": "BEDROOM - DAWN \u2014 countdown: One blade wobbles. Ten Nine Eight.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.39,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.21,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 3.03,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s004",
+   "start": 10.54,
+   "end": 14.41,
+   "line": "You reach up. You catch the falling blade before it hits your pillow.",
+   "scene": "BEDROOM - DAWN \u2014 catch: You reach up. You catch the falling blade before it hits you",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.94,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s005",
+   "start": 14.41,
+   "end": 17.23,
+   "line": "Silence. Your heart slows.",
+   "scene": "BEDROOM - DAWN \u2014 act: Silence. Your heart slows.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.69,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s006",
+   "start": 17.23,
+   "end": 19.6,
+   "line": "The blade is metal. It is",
+   "scene": "BEDROOM - DAWN \u2014 act: The blade is metal. It is",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.42,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s007",
+   "start": 19.6,
+   "end": 21.83,
+   "line": "heavy. It falls fast.",
+   "scene": "BEDROOM - DAWN \u2014 act: heavy. It falls fast.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.34,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s008",
+   "start": 21.83,
+   "end": 25.24,
+   "line": "You knew it would fall. You knew before it moved.",
+   "scene": "BEDROOM - DAWN \u2014 act: You knew it would fall. You knew before it moved.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.05,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s009",
+   "start": 25.24,
+   "end": 28.45,
+   "line": "You sit back. You wait for the next wobble.",
+   "scene": "BEDROOM - DAWN \u2014 sit: You sit back. You wait for the next wobble.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.93,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s010",
+   "start": 28.45,
+   "end": 32.4,
+   "line": "None comes. You lie down. You stare at the ceiling.",
+   "scene": "BEDROOM - DAWN \u2014 look: None comes. You lie down. You stare at the ceiling.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.37,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s011",
+   "start": 32.4,
+   "end": 35.64,
+   "line": "The fan turns. The room is still.",
+   "scene": "BEDROOM - DAWN \u2014 act: The fan turns. The room is still.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hum",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s012",
+   "start": 35.64,
+   "end": 39.64,
+   "line": "",
+   "scene": "Chapter 2 card: THE RULE",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "s013",
+   "start": 39.64,
+   "end": 42.44,
+   "line": "Kian. That's your name. Seventeen.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: Kian. That's your name. Seventeen.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 1.68,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s014",
+   "start": 42.44,
+   "end": 45.55,
+   "line": "You see everything ten seconds before it happens.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 look: You see everything ten seconds before it happens.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.87,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s015",
+   "start": 45.55,
+   "end": 47.82,
+   "line": "Exactly ten. Only your own",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: Exactly ten. Only your own",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.36,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s016",
+   "start": 47.82,
+   "end": 49.77,
+   "line": "future. Never off.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: future. Never off.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.17,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s017",
+   "start": 49.77,
+   "end": 51.8,
+   "line": "You walk. You turn.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 walk: You walk. You turn.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.1,
+     "name": "footstep",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s018",
+   "start": 51.8,
+   "end": 54.04,
+   "line": "You open your locker before the bell rings.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: You open your locker before the bell rings.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.34,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s019",
+   "start": 54.04,
+   "end": 57.53,
+   "line": "You catch a flyer before it hits the floor. No one saw.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 catch: You catch a flyer before it hits the floor. No one saw.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.75,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s020",
+   "start": 57.53,
+   "end": 61.48,
+   "line": "You count the seconds. One. Two. Ten.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: You count the seconds. One. Two. Ten.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.37,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s021",
+   "start": 61.48,
+   "end": 64.88,
+   "line": "You know the shape of the next ten seconds before they exist.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: You know the shape of the next ten seconds before they exist",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.04,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s022",
+   "start": 64.88,
+   "end": 67.34,
+   "line": "You walk to homeroom. The bell has not",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 walk: You walk to homeroom. The bell has not",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.1,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.9,
+     "name": "footstep",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s023",
+   "start": 67.34,
+   "end": 69.36,
+   "line": "rung. You already hear it.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: rung. You already hear it.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.21,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s024",
+   "start": 69.36,
+   "end": 72.5,
+   "line": "You sit. You wait. The bell rings.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 sit: You sit. You wait. The bell rings.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.88,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s025",
+   "start": 72.5,
+   "end": 76.08,
+   "line": "Your books slip from your arm. Three Two One.",
+   "scene": "LOCKER BAY - B WING \u2014 countdown: Your books slip from your arm. Three Two One.",
+   "set": "locker_bay",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 2.2,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.56,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.86,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s026",
+   "start": 76.08,
+   "end": 77.71,
+   "line": "Your hand is already there.",
+   "scene": "LOCKER BAY - B WING \u2014 act: Your hand is already there.",
+   "set": "locker_bay",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.98,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s027",
+   "start": 77.71,
+   "end": 80.08,
+   "line": "You hear the clatter. You do not hear",
+   "scene": "LOCKER BAY - B WING \u2014 act: You hear the clatter. You do not hear",
+   "set": "locker_bay",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.42,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s028",
+   "start": 80.08,
+   "end": 83.57,
+   "line": "it. You already caught it. You slide them into the locker.",
+   "scene": "LOCKER BAY - B WING \u2014 catch: it. You already caught it. You slide them into the locker.",
+   "set": "locker_bay",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.74,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s029",
+   "start": 83.57,
+   "end": 86.32,
+   "line": "You close the door. You walk on.",
+   "scene": "LOCKER BAY - B WING \u2014 walk: You close the door. You walk on.",
+   "set": "locker_bay",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.1,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.9,
+     "name": "footstep",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s030",
+   "start": 86.32,
+   "end": 90.32,
+   "line": "",
+   "scene": "Chapter 3 card: THE GAMES",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "s031",
+   "start": 90.32,
+   "end": 91.85,
+   "line": "Jada sits across from you.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 sit: Jada sits across from you.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 0.92,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s032",
+   "start": 91.85,
+   "end": 94.77,
+   "line": "Jada has never dropped a tray in three years.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 act: Jada has never dropped a tray in three years.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.75,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s033",
+   "start": 94.77,
+   "end": 98.14,
+   "line": "Lunch tray slips. Five Four Three.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 countdown: Lunch tray slips. Five Four Three.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.15,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 1.89,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.63,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s034",
+   "start": 98.14,
+   "end": 101.49,
+   "line": "Your hand snags it mid-air. No spill. No stares.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 catch: Your hand snags it mid-air. No spill. No stares.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.67,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s035",
+   "start": 101.49,
+   "end": 103.17,
+   "line": "She does not even look up.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 look: She does not even look up.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.01,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s036",
+   "start": 103.17,
+   "end": 105.82,
+   "line": "She stirs her soup. She reads her book.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 act: She stirs her soup. She reads her book.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.59,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s037",
+   "start": 105.82,
+   "end": 108.65,
+   "line": "You breathe out. You saved her lunch.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 act: You breathe out. You saved her lunch.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.7,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s038",
+   "start": 108.65,
+   "end": 110.65,
+   "line": "You saved nothing at all.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 act: You saved nothing at all.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s039",
+   "start": 110.65,
+   "end": 112.31,
+   "line": "Mr. Harlow proctors.",
+   "scene": "EXAM HALL - ROW C \u2014 act: Mr. Harlow proctors.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 1.0,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s040",
+   "start": 112.31,
+   "end": 116.18,
+   "line": "He hasn't missed a cheater in twenty years. Pencil snaps.",
+   "scene": "EXAM HALL - ROW C \u2014 act: He hasn't missed a cheater in twenty years. Pencil snaps.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.32,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s041",
+   "start": 116.18,
+   "end": 119.14,
+   "line": "Two One. Spare appears in your grip.",
+   "scene": "EXAM HALL - ROW C \u2014 countdown: Two One. Spare appears in your grip.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 0.48,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s042",
+   "start": 119.14,
+   "end": 120.74,
+   "line": "Teacher never notices.",
+   "scene": "EXAM HALL - ROW C \u2014 act: Teacher never notices.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.96,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s043",
+   "start": 120.74,
+   "end": 123.86,
+   "line": "The room is silent. Scratching pens.",
+   "scene": "EXAM HALL - ROW C \u2014 act: The room is silent. Scratching pens.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.87,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s044",
+   "start": 123.86,
+   "end": 127.03,
+   "line": "You already know the answer. You fill the bubble.",
+   "scene": "EXAM HALL - ROW C \u2014 act: You already know the answer. You fill the bubble.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s045",
+   "start": 127.03,
+   "end": 129.82,
+   "line": "You look at Harlow. He looks at the clock.",
+   "scene": "EXAM HALL - ROW C \u2014 look: You look at Harlow. He looks at the clock.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.67,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s046",
+   "start": 129.82,
+   "end": 133.58,
+   "line": "You feel ten feet tall. You feel ten seconds alone.",
+   "scene": "EXAM HALL - ROW C \u2014 act: You feel ten feet tall. You feel ten seconds alone.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.26,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s047",
+   "start": 133.58,
+   "end": 137.53,
+   "line": "Bus brakes. Doors hiss. You're already stepping on.",
+   "scene": "BUSY STREET - 5TH & MAIN \u2014 act: Bus brakes. Doors hiss. You're already stepping on.",
+   "set": "street_bus",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s048",
+   "start": 137.53,
+   "end": 140.87,
+   "line": "The crowd surges behind you. Three seconds late.",
+   "scene": "BUSY STREET - 5TH & MAIN \u2014 act: The crowd surges behind you. Three seconds late.",
+   "set": "street_bus",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s049",
+   "start": 140.87,
+   "end": 143.12,
+   "line": "You take a seat. The doors close.",
+   "scene": "BUSY STREET - 5TH & MAIN \u2014 act: You take a seat. The doors close.",
+   "set": "street_bus",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s050",
+   "start": 143.12,
+   "end": 145.34,
+   "line": "You breathe. You made it.",
+   "scene": "BUSY STREET - 5TH & MAIN \u2014 act: You breathe. You made it.",
+   "set": "street_bus",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s051",
+   "start": 145.34,
+   "end": 147.83,
+   "line": "The crowd pushes. You are inside.",
+   "scene": "BUSY STREET - 5TH & MAIN \u2014 act: The crowd pushes. You are inside.",
+   "set": "street_bus",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s052",
+   "start": 147.83,
+   "end": 150.26,
+   "line": "You watch them through the glass. They",
+   "scene": "BUSY STREET - 5TH & MAIN \u2014 look: You watch them through the glass. They",
+   "set": "street_bus",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s053",
+   "start": 150.26,
+   "end": 152.52,
+   "line": "wave. You do not wave back.",
+   "scene": "BUSY STREET - 5TH & MAIN \u2014 act: wave. You do not wave back.",
+   "set": "street_bus",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s054",
+   "start": 152.52,
+   "end": 156.01,
+   "line": "The beaker tips. Acid runs toward your sleeve.",
+   "scene": "CHEMISTRY LAB - STATION 4 \u2014 act: The beaker tips. Acid runs toward your sleeve.",
+   "set": "chemlab",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 2.09,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s055",
+   "start": 156.01,
+   "end": 159.23,
+   "line": "Four Three Two. You catch it.",
+   "scene": "CHEMISTRY LAB - STATION 4 \u2014 countdown: Four Three Two. You catch it.",
+   "set": "chemlab",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.43,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 0.81,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 1.39,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s056",
+   "start": 159.23,
+   "end": 163.08,
+   "line": "You set it down. The smell is sharp. You breathe out.",
+   "scene": "CHEMISTRY LAB - STATION 4 \u2014 act: You set it down. The smell is sharp. You breathe out.",
+   "set": "chemlab",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.31,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s057",
+   "start": 163.08,
+   "end": 165.7,
+   "line": "Your temples throb. First headache.",
+   "scene": "CHEMISTRY LAB - STATION 4 \u2014 act: Your temples throb. First headache.",
+   "set": "chemlab",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.57,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s058",
+   "start": 165.7,
+   "end": 169.1,
+   "line": "You rub your eyes. You blink. The room stops spinning.",
+   "scene": "CHEMISTRY LAB - STATION 4 \u2014 act: You rub your eyes. You blink. The room stops spinning.",
+   "set": "chemlab",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.04,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s059",
+   "start": 169.1,
+   "end": 171.66,
+   "line": "The acid sits still. You saved",
+   "scene": "CHEMISTRY LAB - STATION 4 \u2014 sit: The acid sits still. You saved",
+   "set": "chemlab",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.54,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s060",
+   "start": 171.66,
+   "end": 173.69,
+   "line": "your shirt. You lost a minute.",
+   "scene": "CHEMISTRY LAB - STATION 4 \u2014 act: your shirt. You lost a minute.",
+   "set": "chemlab",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.22,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s061",
+   "start": 173.69,
+   "end": 177.16,
+   "line": "A pass flies toward a teammate's face. One.",
+   "scene": "GYM - COURT 2 \u2014 countdown: A pass flies toward a teammate's face. One.",
+   "set": "gym",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 2.71,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s062",
+   "start": 177.16,
+   "end": 179.55,
+   "line": "You swat it away. The ball hits the floor.",
+   "scene": "GYM - COURT 2 \u2014 catch: You swat it away. The ball hits the floor.",
+   "set": "gym",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s063",
+   "start": 179.55,
+   "end": 181.3,
+   "line": "The coach yells. You shrug.",
+   "scene": "GYM - COURT 2 \u2014 act: The coach yells. You shrug.",
+   "set": "gym",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.05,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s064",
+   "start": 181.3,
+   "end": 184.55,
+   "line": "Three people stop playing. They watch you.",
+   "scene": "GYM - COURT 2 \u2014 look: Three people stop playing. They watch you.",
+   "set": "gym",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.95,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s065",
+   "start": 184.55,
+   "end": 186.63,
+   "line": "You pretend you did not see it coming.",
+   "scene": "GYM - COURT 2 \u2014 look: You pretend you did not see it coming.",
+   "set": "gym",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.25,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s066",
+   "start": 186.63,
+   "end": 188.82,
+   "line": "You pretend you were lucky. You were",
+   "scene": "GYM - COURT 2 \u2014 act: You pretend you were lucky. You were",
+   "set": "gym",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.31,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s067",
+   "start": 188.82,
+   "end": 190.76,
+   "line": "not lucky. You were early.",
+   "scene": "GYM - COURT 2 \u2014 act: not lucky. You were early.",
+   "set": "gym",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.16,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s068",
+   "start": 190.76,
+   "end": 192.48,
+   "line": "Your phone slips down the stairs.",
+   "scene": "STAIRWELL - C WING \u2014 act: Your phone slips down the stairs.",
+   "set": "stairwell",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 1.03,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s069",
+   "start": 192.48,
+   "end": 196.1,
+   "line": "Seven Six Five. You catch it on the third step.",
+   "scene": "STAIRWELL - C WING \u2014 countdown: Seven Six Five. You catch it on the third step.",
+   "set": "stairwell",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 0.71,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 1.41,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s070",
+   "start": 196.1,
+   "end": 198.96,
+   "line": "A girl freezes at the landing. She saw.",
+   "scene": "STAIRWELL - C WING \u2014 act: A girl freezes at the landing. She saw.",
+   "set": "stairwell",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.72,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s071",
+   "start": 198.96,
+   "end": 201.58,
+   "line": "You keep walking. You do not run.",
+   "scene": "STAIRWELL - C WING \u2014 walk: You keep walking. You do not run.",
+   "set": "stairwell",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.1,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.9,
+     "name": "footstep",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s072",
+   "start": 201.58,
+   "end": 204.75,
+   "line": "Her name is Mira. You do not know her name yet.",
+   "scene": "STAIRWELL - C WING \u2014 act: Her name is Mira. You do not know her name yet.",
+   "set": "stairwell",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s073",
+   "start": 204.75,
+   "end": 207.51,
+   "line": "You will learn it. You will learn it too late.",
+   "scene": "STAIRWELL - C WING \u2014 act: You will learn it. You will learn it too late.",
+   "set": "stairwell",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.66,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s074",
+   "start": 207.51,
+   "end": 210.18,
+   "line": "Chalk snaps. Dust falls toward your shirt.",
+   "scene": "CLASSROOM 12 - MATH \u2014 act: Chalk snaps. Dust falls toward your shirt.",
+   "set": "classroom",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 1.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s075",
+   "start": 210.18,
+   "end": 213.7,
+   "line": "Three Two One. You catch it.",
+   "scene": "CLASSROOM 12 - MATH \u2014 countdown: Three Two One. You catch it.",
+   "set": "classroom",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 0.8,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 1.38,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s076",
+   "start": 213.7,
+   "end": 215.38,
+   "line": "Harlow stares from the front row.",
+   "scene": "CLASSROOM 12 - MATH \u2014 look: Harlow stares from the front row.",
+   "set": "classroom",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.01,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s077",
+   "start": 215.38,
+   "end": 218.26,
+   "line": "He writes something down. You look straight ahead.",
+   "scene": "CLASSROOM 12 - MATH \u2014 look: He writes something down. You look straight ahead.",
+   "set": "classroom",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.73,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s078",
+   "start": 218.26,
+   "end": 222.05,
+   "line": "You feel his eyes. You feel ten seconds of his eyes.",
+   "scene": "CLASSROOM 12 - MATH \u2014 act: You feel his eyes. You feel ten seconds of his eyes.",
+   "set": "classroom",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.27,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s079",
+   "start": 222.05,
+   "end": 225.26,
+   "line": "You do not look up. You cannot look up.",
+   "scene": "CLASSROOM 12 - MATH \u2014 look: You do not look up. You cannot look up.",
+   "set": "classroom",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.93,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s080",
+   "start": 225.26,
+   "end": 228.13,
+   "line": "A suitcase tips off the rack. You catch it.",
+   "scene": "BUS STOP - NORTH PLATFORM \u2014 catch: A suitcase tips off the rack. You catch it.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.44,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s081",
+   "start": 228.13,
+   "end": 230.19,
+   "line": "A stranger films you with his phone.",
+   "scene": "BUS STOP - NORTH PLATFORM \u2014 act: A stranger films you with his phone.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.24,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s082",
+   "start": 230.19,
+   "end": 233.42,
+   "line": "The world is watching. You look away.",
+   "scene": "BUS STOP - NORTH PLATFORM \u2014 look: The world is watching. You look away.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.94,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s083",
+   "start": 233.42,
+   "end": 235.96,
+   "line": "You board the next bus. You look at",
+   "scene": "BUS STOP - NORTH PLATFORM \u2014 catch: You board the next bus. You look at",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.27,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s084",
+   "start": 235.96,
+   "end": 238.46,
+   "line": "the glass. You see yourself.",
+   "scene": "BUS STOP - NORTH PLATFORM \u2014 look: the glass. You see yourself.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s085",
+   "start": 238.46,
+   "end": 240.75,
+   "line": "You see a boy who catches everything.",
+   "scene": "BUS STOP - NORTH PLATFORM \u2014 catch: You see a boy who catches everything.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.14,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s086",
+   "start": 240.75,
+   "end": 243.16,
+   "line": "You see a boy who holds nothing.",
+   "scene": "BUS STOP - NORTH PLATFORM \u2014 look: You see a boy who holds nothing.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.45,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s087",
+   "start": 243.16,
+   "end": 247.16,
+   "line": "",
+   "scene": "Chapter 4 card: THE COST",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "s088",
+   "start": 247.16,
+   "end": 250.13,
+   "line": "Your mother's vase slides off the counter. Six Five.",
+   "scene": "KITCHEN - MORNING \u2014 countdown: Your mother's vase slides off the counter. Six Five.",
+   "set": "kitchen",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 2.38,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.54,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s089",
+   "start": 250.13,
+   "end": 253.64,
+   "line": "You catch it. She doesn't see. She never sees.",
+   "scene": "KITCHEN - MORNING \u2014 catch: You catch it. She doesn't see. She never sees.",
+   "set": "kitchen",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.75,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s090",
+   "start": 253.64,
+   "end": 257.59,
+   "line": "You set the vase down. You sit. You taste nothing.",
+   "scene": "KITCHEN - MORNING \u2014 sit: You set the vase down. You sit. You taste nothing.",
+   "set": "kitchen",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.37,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s091",
+   "start": 257.59,
+   "end": 261.54,
+   "line": "Your head pounds. You are ten seconds ahead of your own breakfast.",
+   "scene": "KITCHEN - MORNING \u2014 act: Your head pounds. You are ten seconds ahead of your own brea",
+   "set": "kitchen",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.37,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s092",
+   "start": 261.54,
+   "end": 265.15,
+   "line": "You miss the taste of the toast. You miss her smile.",
+   "scene": "KITCHEN - MORNING \u2014 act: You miss the taste of the toast. You miss her smile.",
+   "set": "kitchen",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.17,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s093",
+   "start": 265.15,
+   "end": 267.94,
+   "line": "She pours coffee. She says your name.",
+   "scene": "KITCHEN - MORNING \u2014 act: She pours coffee. She says your name.",
+   "set": "kitchen",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.67,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s094",
+   "start": 267.94,
+   "end": 269.55,
+   "line": "You do not answer.",
+   "scene": "KITCHEN - MORNING \u2014 act: You do not answer.",
+   "set": "kitchen",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.97,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s095",
+   "start": 269.55,
+   "end": 273.5,
+   "line": "You are already at the next ten seconds. You are never here.",
+   "scene": "KITCHEN - MORNING \u2014 act: You are already at the next ten seconds. You are never here.",
+   "set": "kitchen",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.37,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s096",
+   "start": 273.5,
+   "end": 276.65,
+   "line": "Mr. Harlow hasn't missed a cheater in twenty years.",
+   "scene": "EXAM HALL - ROW C \u2014 imagine: Mr. Harlow hasn't missed a cheater in twenty years.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 1.89,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s097",
+   "start": 276.65,
+   "end": 279.39,
+   "line": "Today he stares at your desk for ten seconds.",
+   "scene": "EXAM HALL - ROW C \u2014 look: Today he stares at your desk for ten seconds.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.64,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s098",
+   "start": 279.39,
+   "end": 283.12,
+   "line": "He looks away. He taps his pen. He starts watching.",
+   "scene": "EXAM HALL - ROW C \u2014 look: He looks away. He taps his pen. He starts watching.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.24,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s099",
+   "start": 283.12,
+   "end": 284.38,
+   "line": "People notice.",
+   "scene": "EXAM HALL - ROW C \u2014 act: People notice.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.76,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s100",
+   "start": 284.38,
+   "end": 287.91,
+   "line": "You feel the eyes of the room. You feel exposed.",
+   "scene": "EXAM HALL - ROW C \u2014 act: You feel the eyes of the room. You feel exposed.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.12,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s101",
+   "start": 287.91,
+   "end": 291.32,
+   "line": "You keep your head down. You keep your saves quiet.",
+   "scene": "EXAM HALL - ROW C \u2014 act: You keep your head down. You keep your saves quiet.",
+   "set": "examhall",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.05,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s102",
+   "start": 291.32,
+   "end": 294.69,
+   "line": "Jada's tray slips again. You move to catch it.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 catch: Jada's tray slips again. You move to catch it.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.69,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s103",
+   "start": 294.69,
+   "end": 298.64,
+   "line": "You see only your future, not hers. You knock it yourself.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 catch: You see only your future, not hers. You knock it yourself.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.97,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s104",
+   "start": 298.64,
+   "end": 301.73,
+   "line": "Juice on her blouse. Laughter at the table.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 act: Juice on her blouse. Laughter at the table.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.85,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s105",
+   "start": 301.73,
+   "end": 305.68,
+   "line": "You apologize. She walks away. The tray cracks.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 walk: You apologize. She walks away. The tray cracks.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.1,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.9,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 2.7,
+     "name": "footstep",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s106",
+   "start": 305.68,
+   "end": 308.72,
+   "line": "Jada has never dropped a tray in three years.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 act: Jada has never dropped a tray in three years.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.82,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s107",
+   "start": 308.72,
+   "end": 312.11,
+   "line": "Today she drops two. She hasn't spoken to you since.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 act: Today she drops two. She hasn't spoken to you since.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.03,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s108",
+   "start": 312.11,
+   "end": 314.44,
+   "line": "You caused it. You tried to save",
+   "scene": "CAFETERIA - TABLE 7 \u2014 act: You caused it. You tried to save",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s109",
+   "start": 314.44,
+   "end": 316.55,
+   "line": "her. You broke her day.",
+   "scene": "CAFETERIA - TABLE 7 \u2014 act: her. You broke her day.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.27,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s110",
+   "start": 316.55,
+   "end": 318.27,
+   "line": "Mira sits across from you.",
+   "scene": "LIBRARY - QUIET ROOM \u2014 sit: Mira sits across from you.",
+   "set": "library",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 1.03,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s111",
+   "start": 318.27,
+   "end": 321.18,
+   "line": "She turns a page. You do not look up.",
+   "scene": "LIBRARY - QUIET ROOM \u2014 look: She turns a page. You do not look up.",
+   "set": "library",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.75,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s112",
+   "start": 321.18,
+   "end": 324.02,
+   "line": "You see a ceiling tile cracking in ten seconds.",
+   "scene": "LIBRARY - QUIET ROOM \u2014 look: You see a ceiling tile cracking in ten seconds.",
+   "set": "library",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.7,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s113",
+   "start": 324.02,
+   "end": 327.0,
+   "line": "You watch the tile. You miss her face.",
+   "scene": "LIBRARY - QUIET ROOM \u2014 look: You watch the tile. You miss her face.",
+   "set": "library",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.79,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s114",
+   "start": 327.0,
+   "end": 329.44,
+   "line": "Headache number twelve. The visions do",
+   "scene": "LIBRARY - QUIET ROOM \u2014 act: Headache number twelve. The visions do",
+   "set": "library",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.46,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s115",
+   "start": 329.44,
+   "end": 331.66,
+   "line": "not stop. They never stop.",
+   "scene": "LIBRARY - QUIET ROOM \u2014 act: not stop. They never stop.",
+   "set": "library",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.33,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s116",
+   "start": 331.66,
+   "end": 335.59,
+   "line": "You see cracks. You see spills. You see falls.",
+   "scene": "LIBRARY - QUIET ROOM \u2014 look: You see cracks. You see spills. You see falls.",
+   "set": "library",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.36,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s117",
+   "start": 335.59,
+   "end": 339.22,
+   "line": "You do not see her smile. You do not see her at all.",
+   "scene": "LIBRARY - QUIET ROOM \u2014 look: You do not see her smile. You do not see her at all.",
+   "set": "library",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.18,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s118",
+   "start": 339.22,
+   "end": 342.18,
+   "line": "A coffee cup flies off the table. You catch it.",
+   "scene": "PARK BENCH - OAK TREE \u2014 imagine: A coffee cup flies off the table. You catch it.",
+   "set": "park",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 1.78,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s119",
+   "start": 342.18,
+   "end": 344.68,
+   "line": "No one thanks you. You do not hear them.",
+   "scene": "PARK BENCH - OAK TREE \u2014 act: No one thanks you. You do not hear them.",
+   "set": "park",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s120",
+   "start": 344.68,
+   "end": 347.93,
+   "line": "You are already watching the next ten seconds. And the next.",
+   "scene": "PARK BENCH - OAK TREE \u2014 look: You are already watching the next ten seconds. And the next.",
+   "set": "park",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.95,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s121",
+   "start": 347.93,
+   "end": 350.61,
+   "line": "You save coffee. You lose the now.",
+   "scene": "PARK BENCH - OAK TREE \u2014 act: You save coffee. You lose the now.",
+   "set": "park",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.61,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s122",
+   "start": 350.61,
+   "end": 352.58,
+   "line": "A bike skids on wet pavement.",
+   "scene": "STREET - ALLEY BEHIND SCHOOL \u2014 act: A bike skids on wet pavement.",
+   "set": "alley",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s123",
+   "start": 352.58,
+   "end": 355.63,
+   "line": "You see the fall. It is not your future.",
+   "scene": "STREET - ALLEY BEHIND SCHOOL \u2014 look: You see the fall. It is not your future.",
+   "set": "alley",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s124",
+   "start": 355.63,
+   "end": 359.58,
+   "line": "You do not move. You watch it happen. You hate yourself.",
+   "scene": "STREET - ALLEY BEHIND SCHOOL \u2014 look: You do not move. You watch it happen. You hate yourself.",
+   "set": "alley",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s125",
+   "start": 359.58,
+   "end": 362.52,
+   "line": "You saw it. You could not stop it.",
+   "scene": "STREET - ALLEY BEHIND SCHOOL \u2014 act: You saw it. You could not stop it.",
+   "set": "alley",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s126",
+   "start": 362.52,
+   "end": 364.52,
+   "line": "It was not yours to stop.",
+   "scene": "STREET - ALLEY BEHIND SCHOOL \u2014 act: It was not yours to stop.",
+   "set": "alley",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s127",
+   "start": 364.52,
+   "end": 368.52,
+   "line": "",
+   "scene": "Chapter 5 card: THE MIRROR",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "s128",
+   "start": 368.52,
+   "end": 372.34,
+   "line": "Wind gusts. Your phone slips. Ten Nine Eight.",
+   "scene": "ROOFTOP - SUNSET \u2014 countdown: Wind gusts. Your phone slips. Ten Nine Eight.",
+   "set": "rooftop",
+   "bars": 40,
+   "in": {
+    "type": "dissolve"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 2.58,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 3.02,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 3.4,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s129",
+   "start": 372.34,
+   "end": 376.21,
+   "line": "You watch it fall. You could catch it. You do not.",
+   "scene": "ROOFTOP - SUNSET \u2014 catch: You watch it fall. You could catch it. You do not.",
+   "set": "rooftop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.94,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s130",
+   "start": 376.21,
+   "end": 378.62,
+   "line": "But the vision shows the girl behind you.",
+   "scene": "ROOFTOP - SUNSET \u2014 act: But the vision shows the girl behind you.",
+   "set": "rooftop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.45,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s131",
+   "start": 378.62,
+   "end": 381.94,
+   "line": "She reaches. She catches it. She smiles.",
+   "scene": "ROOFTOP - SUNSET \u2014 catch: She reaches. She catches it. She smiles.",
+   "set": "rooftop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.66,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s132",
+   "start": 381.94,
+   "end": 384.54,
+   "line": "Mira never smiles at anyone at this school.",
+   "scene": "ROOFTOP - SUNSET \u2014 act: Mira never smiles at anyone at this school.",
+   "set": "rooftop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.56,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s133",
+   "start": 384.54,
+   "end": 387.68,
+   "line": "Today she smiles at you. You turn the power on her.",
+   "scene": "ROOFTOP - SUNSET \u2014 act: Today she smiles at you. You turn the power on her.",
+   "set": "rooftop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.88,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s134",
+   "start": 387.68,
+   "end": 391.27,
+   "line": "Ten seconds of Mira: blank. Nothing.",
+   "scene": "ROOFTOP - SUNSET \u2014 act: Ten seconds of Mira: blank. Nothing.",
+   "set": "rooftop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.15,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s135",
+   "start": 391.27,
+   "end": 394.13,
+   "line": "You cannot see her future. Only your own.",
+   "scene": "ROOFTOP - SUNSET \u2014 look: You cannot see her future. Only your own.",
+   "set": "rooftop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.72,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s136",
+   "start": 394.13,
+   "end": 397.48,
+   "line": "You are blind to her. She is clear to you.",
+   "scene": "ROOFTOP - SUNSET \u2014 act: You are blind to her. She is clear to you.",
+   "set": "rooftop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.01,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s137",
+   "start": 397.48,
+   "end": 401.48,
+   "line": "",
+   "scene": "Chapter 6 card: THE TWIST",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "s138",
+   "start": 401.48,
+   "end": 404.04,
+   "line": "Three weeks later. Mira opens her notebook.",
+   "scene": "ROOFTOP - TWILIGHT \u2014 act: Three weeks later. Mira opens her notebook.",
+   "set": "rooftop_twilight",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 1.54,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s139",
+   "start": 404.04,
+   "end": 407.81,
+   "line": "Page after page of your catches. Written before they happened.",
+   "scene": "ROOFTOP - TWILIGHT \u2014 catch: Page after page of your catches. Written before they happene",
+   "set": "rooftop_twilight",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.88,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s140",
+   "start": 407.81,
+   "end": 411.75,
+   "line": "The tray. The pencil. The bus. She saw them all.",
+   "scene": "ROOFTOP - TWILIGHT \u2014 act: The tray. The pencil. The bus. She saw them all.",
+   "set": "rooftop_twilight",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s141",
+   "start": 411.75,
+   "end": 414.98,
+   "line": "She does not have the power. She has you.",
+   "scene": "ROOFTOP - TWILIGHT \u2014 act: She does not have the power. She has you.",
+   "set": "rooftop_twilight",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.94,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s142",
+   "start": 414.98,
+   "end": 418.38,
+   "line": "She watched you. She learned your ten seconds.",
+   "scene": "ROOFTOP - TWILIGHT \u2014 look: She watched you. She learned your ten seconds.",
+   "set": "rooftop_twilight",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.04,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s143",
+   "start": 418.38,
+   "end": 422.23,
+   "line": "She flips the page. Tomorrow's catch. The day after.",
+   "scene": "ROOFTOP - TWILIGHT \u2014 catch: She flips the page. Tomorrow's catch. The day after.",
+   "set": "rooftop_twilight",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.93,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s144",
+   "start": 422.23,
+   "end": 425.01,
+   "line": "She has seen more of your future than you have.",
+   "scene": "ROOFTOP - TWILIGHT \u2014 act: She has seen more of your future than you have.",
+   "set": "rooftop_twilight",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.67,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s145",
+   "start": 425.01,
+   "end": 428.12,
+   "line": "You are not a secret. You are a show.",
+   "scene": "ROOFTOP - TWILIGHT \u2014 act: You are not a secret. You are a show.",
+   "set": "rooftop_twilight",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.87,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s146",
+   "start": 428.12,
+   "end": 432.12,
+   "line": "",
+   "scene": "Chapter 7 card: THE CHOICE",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "s147",
+   "start": 432.12,
+   "end": 435.28,
+   "line": "The fan wobbles. Ten Nine Eight.",
+   "scene": "BEDROOM - NIGHT \u2014 countdown: The fan wobbles. Ten Nine Eight.",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "dissolve"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 1.65,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.41,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s148",
+   "start": 435.28,
+   "end": 437.65,
+   "line": "You do not reach. You let it fall.",
+   "scene": "BEDROOM - NIGHT \u2014 act: You do not reach. You let it fall.",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.42,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s149",
+   "start": 437.65,
+   "end": 439.84,
+   "line": "It misses your pillow by an inch.",
+   "scene": "BEDROOM - NIGHT \u2014 act: It misses your pillow by an inch.",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.31,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s150",
+   "start": 439.84,
+   "end": 442.1,
+   "line": "You breathe. The room is quiet.",
+   "scene": "BEDROOM - NIGHT \u2014 act: You breathe. The room is quiet.",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.36,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s151",
+   "start": 442.1,
+   "end": 444.5,
+   "line": "You are late for nothing. You are early",
+   "scene": "BEDROOM - NIGHT \u2014 act: You are late for nothing. You are early",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.44,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s152",
+   "start": 444.5,
+   "end": 446.41,
+   "line": "for nothing. You are here.",
+   "scene": "BEDROOM - NIGHT \u2014 act: for nothing. You are here.",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.15,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s153",
+   "start": 446.41,
+   "end": 448.82,
+   "line": "You turn the power off. You choose",
+   "scene": "BEDROOM - NIGHT \u2014 act: You turn the power off. You choose",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.45,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s154",
+   "start": 448.82,
+   "end": 451.24,
+   "line": "the present. You choose her.",
+   "scene": "BEDROOM - NIGHT \u2014 act: the present. You choose her.",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.45,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s155",
+   "start": 451.24,
+   "end": 455.04,
+   "line": "What happens when you stop preventing... and start choosing?",
+   "scene": "BEDROOM - NIGHT \u2014 act: What happens when you stop preventing... and start choosing?",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.28,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s156",
+   "start": 455.04,
+   "end": 457.39,
+   "line": "Comment ONE: Catch it.",
+   "scene": "BEDROOM - NIGHT \u2014 catch: Comment ONE: Catch it.",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.17,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s157",
+   "start": 457.39,
+   "end": 459.8,
+   "line": "Comment TWO: Let it fall.",
+   "scene": "BEDROOM - NIGHT \u2014 act: Comment TWO: Let it fall.",
+   "set": "bedroom_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.45,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s158",
+   "start": 459.8,
+   "end": 463.8,
+   "line": "",
+   "scene": "Choice ending card",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0.0,
+   "end": 35.64,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 35.64,
+   "end": 86.32,
+   "mood": "mystery",
+   "intensity": 0.55
+  },
+  {
+   "start": 86.32,
+   "end": 243.16,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 243.16,
+   "end": 364.52,
+   "mood": "sad",
+   "intensity": 0.5
+  },
+  {
+   "start": 364.52,
+   "end": 397.48,
+   "mood": "wonder",
+   "intensity": 0.55
+  },
+  {
+   "start": 397.48,
+   "end": 428.12,
+   "mood": "mystery",
+   "intensity": 0.55
+  },
+  {
+   "start": 428.12,
+   "end": 463.8,
+   "mood": "wonder",
+   "intensity": 0.5
+  }
+ ]
+}
