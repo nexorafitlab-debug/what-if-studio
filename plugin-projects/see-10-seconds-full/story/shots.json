@@ -13,13 +13,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.1,
-     "name": "ding",
-     "gain": -10
-    }
-   ]
+   "sfx": []
   },
   {
    "id": "s002",
@@ -75,6 +69,11 @@
      "at": 3.03,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 1.39,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -121,13 +120,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.69,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -144,13 +137,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.42,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -167,13 +154,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.34,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -190,13 +171,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.05,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -213,13 +188,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.93,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -236,13 +205,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.37,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -264,6 +227,11 @@
      "at": 0.5,
      "name": "hum",
      "gain": -14
+    },
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -282,13 +250,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.1,
-     "name": "ding",
-     "gain": -10
-    }
-   ]
+   "sfx": []
   },
   {
    "id": "s013",
@@ -306,11 +268,6 @@
      "at": 0.1,
      "name": "pop",
      "gain": -8
-    },
-    {
-     "at": 1.68,
-     "name": "ding",
-     "gain": -12
     }
    ],
    "amb": {
@@ -329,13 +286,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.87,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -352,13 +303,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.36,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -375,13 +320,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.17,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -426,13 +365,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.34,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -477,13 +410,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.37,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -500,13 +427,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.04,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -556,13 +477,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.21,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -581,9 +496,9 @@
    },
    "sfx": [
     {
-     "at": 1.88,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -622,6 +537,11 @@
      "at": 2.86,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 2.2,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -640,13 +560,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.98,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -663,13 +577,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.42,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -729,6 +637,11 @@
      "at": 1.9,
      "name": "footstep",
      "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -747,13 +660,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.1,
-     "name": "ding",
-     "gain": -10
-    }
-   ]
+   "sfx": []
   },
   {
    "id": "s031",
@@ -771,11 +678,6 @@
      "at": 0.1,
      "name": "pop",
      "gain": -8
-    },
-    {
-     "at": 0.92,
-     "name": "ding",
-     "gain": -12
     }
    ],
    "amb": {
@@ -794,13 +696,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.75,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -832,6 +728,11 @@
      "at": 2.63,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 1.15,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -878,13 +779,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.01,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -901,13 +796,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.59,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -924,13 +813,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.7,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -949,9 +832,9 @@
    },
    "sfx": [
     {
-     "at": 1.2,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -975,11 +858,6 @@
      "at": 0.1,
      "name": "pop",
      "gain": -8
-    },
-    {
-     "at": 1.0,
-     "name": "ding",
-     "gain": -12
     }
    ],
    "amb": {
@@ -998,13 +876,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.32,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1031,6 +903,11 @@
      "at": 0.48,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -1049,13 +926,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.96,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1072,13 +943,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.87,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1095,13 +960,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.9,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1118,13 +977,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.67,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1143,9 +996,9 @@
    },
    "sfx": [
     {
-     "at": 2.26,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -1347,6 +1200,11 @@
      "at": 1.3,
      "name": "whoosh",
      "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -1370,11 +1228,6 @@
      "at": 0.1,
      "name": "pop",
      "gain": -8
-    },
-    {
-     "at": 2.09,
-     "name": "ding",
-     "gain": -12
     }
    ],
    "amb": {
@@ -1408,6 +1261,11 @@
      "at": 1.39,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 0.43,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -1426,13 +1284,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.31,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1449,13 +1301,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.57,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1472,13 +1318,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.04,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1495,13 +1335,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.54,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1520,9 +1354,9 @@
    },
    "sfx": [
     {
-     "at": 1.22,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -1551,6 +1385,11 @@
      "at": 2.71,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 2.71,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -1597,13 +1436,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.05,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -1620,13 +1453,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.95,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -1643,13 +1470,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.25,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -1666,13 +1487,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.31,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -1691,9 +1506,9 @@
    },
    "sfx": [
     {
-     "at": 1.16,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -1717,11 +1532,6 @@
      "at": 0.1,
      "name": "pop",
      "gain": -8
-    },
-    {
-     "at": 1.03,
-     "name": "ding",
-     "gain": -12
     }
    ],
    "amb": {
@@ -1755,6 +1565,11 @@
      "at": 1.41,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 0.0,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -1773,13 +1588,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.72,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1829,13 +1638,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.9,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1854,9 +1657,9 @@
    },
    "sfx": [
     {
-     "at": 1.66,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -1880,11 +1683,6 @@
      "at": 0.1,
      "name": "pop",
      "gain": -8
-    },
-    {
-     "at": 1.6,
-     "name": "ding",
-     "gain": -12
     }
    ],
    "amb": {
@@ -1918,6 +1716,11 @@
      "at": 1.38,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -1936,13 +1739,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.01,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1959,13 +1756,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.73,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1982,13 +1773,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.27,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2007,9 +1792,9 @@
    },
    "sfx": [
     {
-     "at": 1.93,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -2061,13 +1846,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.24,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "city",
     "gain": -22
@@ -2084,13 +1863,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.94,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "city",
     "gain": -22
@@ -2135,13 +1908,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.5,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "city",
     "gain": -22
@@ -2188,9 +1955,9 @@
    },
    "sfx": [
     {
-     "at": 1.45,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -2209,13 +1976,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.1,
-     "name": "ding",
-     "gain": -10
-    }
-   ]
+   "sfx": []
   },
   {
    "id": "s088",
@@ -2243,6 +2004,11 @@
      "at": 2.54,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 2.38,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -2289,13 +2055,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.37,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2312,13 +2072,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.37,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2335,13 +2089,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.17,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2358,13 +2106,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.67,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2381,13 +2123,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.97,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2406,9 +2142,9 @@
    },
    "sfx": [
     {
-     "at": 2.37,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -2432,11 +2168,6 @@
      "at": 0.1,
      "name": "pop",
      "gain": -8
-    },
-    {
-     "at": 1.89,
-     "name": "ding",
-     "gain": -12
     }
    ],
    "amb": {
@@ -2455,13 +2186,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.64,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2478,13 +2203,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.24,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2501,13 +2220,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.76,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2524,13 +2237,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.12,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2549,9 +2256,9 @@
    },
    "sfx": [
     {
-     "at": 2.05,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -2631,13 +2338,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.85,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -2692,13 +2393,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.82,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -2715,13 +2410,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.03,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -2738,13 +2427,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.4,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -2763,9 +2446,9 @@
    },
    "sfx": [
     {
-     "at": 1.27,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -2789,11 +2472,6 @@
      "at": 0.1,
      "name": "pop",
      "gain": -8
-    },
-    {
-     "at": 1.03,
-     "name": "ding",
-     "gain": -12
     }
    ],
    "amb": {
@@ -2812,13 +2490,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.75,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2835,13 +2507,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.7,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2858,13 +2524,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.79,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2881,13 +2541,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.46,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2904,13 +2558,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.33,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2927,13 +2575,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.36,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2952,9 +2594,9 @@
    },
    "sfx": [
     {
-     "at": 2.18,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -2978,11 +2620,6 @@
      "at": 0.1,
      "name": "pop",
      "gain": -8
-    },
-    {
-     "at": 1.78,
-     "name": "ding",
-     "gain": -12
     }
    ],
    "amb": {
@@ -3001,13 +2638,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.5,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "wind",
     "gain": -22
@@ -3024,13 +2655,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.95,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "wind",
     "gain": -22
@@ -3049,9 +2674,9 @@
    },
    "sfx": [
     {
-     "at": 1.61,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -3197,6 +2822,11 @@
      "at": 1.3,
      "name": "whoosh",
      "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -3215,13 +2845,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.1,
-     "name": "ding",
-     "gain": -10
-    }
-   ]
+   "sfx": []
   },
   {
    "id": "s128",
@@ -3254,6 +2878,11 @@
      "at": 3.4,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 2.58,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -3300,13 +2929,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.45,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "wind",
     "gain": -22
@@ -3351,13 +2974,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.56,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "wind",
     "gain": -22
@@ -3374,13 +2991,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.88,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "wind",
     "gain": -22
@@ -3397,13 +3008,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.15,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "wind",
     "gain": -22
@@ -3420,13 +3025,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.72,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "wind",
     "gain": -22
@@ -3445,9 +3044,9 @@
    },
    "sfx": [
     {
-     "at": 2.01,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -3466,13 +3065,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.1,
-     "name": "ding",
-     "gain": -10
-    }
-   ]
+   "sfx": []
   },
   {
    "id": "s138",
@@ -3490,11 +3083,6 @@
      "at": 0.1,
      "name": "pop",
      "gain": -8
-    },
-    {
-     "at": 1.54,
-     "name": "ding",
-     "gain": -12
     }
    ],
    "amb": {
@@ -3569,13 +3157,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.94,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "wind",
     "gain": -22
@@ -3592,13 +3174,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.04,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "wind",
     "gain": -22
@@ -3643,13 +3219,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.67,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "wind",
     "gain": -22
@@ -3668,9 +3238,9 @@
    },
    "sfx": [
     {
-     "at": 1.87,
+     "at": 0.2,
      "name": "ding",
-     "gain": -12
+     "gain": -20
     }
    ],
    "amb": {
@@ -3689,13 +3259,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.1,
-     "name": "ding",
-     "gain": -10
-    }
-   ]
+   "sfx": []
   },
   {
    "id": "s147",
@@ -3723,6 +3287,11 @@
      "at": 2.41,
      "name": "tick",
      "gain": -6
+    },
+    {
+     "at": 0.9,
+     "name": "ding",
+     "gain": -20
     }
    ],
    "amb": {
@@ -3741,13 +3310,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.42,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -3764,13 +3327,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.31,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -3787,13 +3344,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.36,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -3810,13 +3361,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.44,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -3833,13 +3378,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.15,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -3856,13 +3395,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.45,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -3879,13 +3412,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.45,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -3902,13 +3429,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 2.28,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -3953,13 +3474,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 1.45,
-     "name": "ding",
-     "gain": -12
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -3976,13 +3491,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "at": 0.1,
-     "name": "ding",
-     "gain": -10
-    }
-   ]
+   "sfx": []
   }
  ],
  "music": [
