@@ -9,12 +9,25 @@ same sound, just faster). This is a separate setup from the old Remotion workflo
 
 | Piece | Location |
 |---|---|
-| Workflow | `.github/workflows/render-plugin-episode.yml` (this repo) |
-| Chunk splitter | `.github/scripts/split-chunks.mjs` |
-| Stitch script | `.github/scripts/stitch.mjs` |
-| Projects | `plugin-projects/<name>/` (config.json, story/shots.json, scenes/, input/, build/mix_final.wav) |
+| Workflow | `.github/workflows/render-plugin-episode.yml` in the **private** repo `nexorafitlab-debug/what-if-plugin-engine` (see "Why the workflow lives in the private repo" below) |
+| Chunk splitter | `.github/scripts/split-chunks.mjs` (public repo) |
+| Stitch script | `.github/scripts/stitch.mjs` (public repo) |
+| Projects | `plugin-projects/<name>/` (public repo: config.json, story/shots.json, scenes/, input/, build/mix_final.wav) |
 | Render image | `ghcr.io/nexorafitlab-debug/plugin-render:latest` (PRIVATE) |
 | Engine + Dockerfile | private repo `nexorafitlab-debug/what-if-plugin-engine` (engine is unlicensed upstream code, kept private; the image build workflow there rebuilds it on push) |
+
+## Why the workflow lives in the private repo
+
+The render image is a PRIVATE package owned by the private repo. A workflow in the
+public repo cannot pull it — GitHub returns 403 Forbidden — unless the public repo is
+granted access in the package settings ("Manage Actions access" → Add Repository).
+Keeping the workflow in the private repo (which published the image) means the
+built-in `GITHUB_TOKEN` can pull the image with no extra setup. The project files stay
+in the public repo (it is public, so the private workflow can check it out freely).
+If you ever want the workflow in the public repo instead, do that one settings click
+(https://github.com/users/nexorafitlab-debug/packages/container/plugin-render/settings
+→ Manage Actions access → Add Repository → `nexorafitlab-debug/what-if-studio`, role
+Read) and move the workflow YAML back — nothing else changes.
 
 ## How to trigger it (for a new project)
 
@@ -27,7 +40,7 @@ same sound, just faster). This is a separate setup from the old Remotion workflo
      then the loudnorm passes, and copy the final mix here.)
 2. Note the ranges the **local** build encoded as separate x264 passes (e.g. the local
    build rendered 0–29s and 29–57.73s as two passes). Those are the `encode_ranges`.
-3. GitHub → Actions → **Render plugin episode** → Run workflow → set:
+3. GitHub → **what-if-plugin-engine** (private repo) → Actions → **Render plugin episode** → Run workflow → set:
    - `project`: the folder name (e.g. `see-10-seconds-1min-muse`)
    - `chunks`: `10` (default)
    - `encode_ranges`: e.g. `[[0,29],[29,57.73]]` (must match the local build's passes)
