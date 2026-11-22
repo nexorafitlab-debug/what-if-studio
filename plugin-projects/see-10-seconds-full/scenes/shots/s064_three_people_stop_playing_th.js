@@ -1,6 +1,6 @@
 // s064 — "Three people stop playing. They watch you." [GYM - COURT 2] · look
 import { E, V, registerShot, layer, clamp, prog, slowCam } from '/engine/core.js';
-import { drawFigure, POSES, posesAt, walkLocked, exprAt, headPos } from '/engine/rig2d.js';
+import { drawFigure, POSES, posesAt, walkLocked, headPos } from '/engine/rig2d.js';
 import { gym } from '../sets/gym.js';
 import { CAST } from '../cast.js';
 import { dualCounter } from '/engine/counters.js';
@@ -12,9 +12,9 @@ registerShot('s064', { draw(g, t, info) {
     const { GY, M } = gym(g, t, info);
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };
     const pose = posesAt(t, [[0, 'point'], [D * 0.35, 'think'], [D * 0.7, 'stand']]);
-    drawFigure(g, { x: E.W * 0.5, y: GY, s: V(1.9, 2.0), facing: 1, outfit: CAST.KIAN.outfit, pose: pose, expr: exprAt(t, [[0, 'determined'], [D * 0.35, 'thinking'], [D * 0.7, 'worried']]), rim });
+    drawFigure(g, { x: E.W * 0.5, y: GY, s: V(1.9, 2.0), facing: 1, outfit: CAST.KIAN.outfit, pose: pose, expr: 'worried', rim });
     const pose2 = posesAt(t, [[0, 'stand'], [D * 0.5, 'talk']]);
-    drawFigure(g, { x: E.W * 0.76, y: GY, s: V(1.0, 1.1), facing: -1, outfit: CAST.STUDENT1.outfit, pose: pose2, expr: exprAt(t, [[0, 'neutral'], [D * 0.5, 'surprised']]), rim });
+    drawFigure(g, { x: E.W * 0.76, y: GY, s: V(1.0, 1.1), facing: -1, outfit: CAST.STUDENT1.outfit, pose: pose2, expr: 'neutral', rim });
   });
   dualCounter(g, info.globalT, { chapterStart: 90.32, left: { label: 'YOU', from: 0, rate: 1 }, right: { label: 'WORLD', from: 0, rate: 0 }, format: 'clock', x: 70, y: 130 });
   hudScore(g, t, { items: [{ label: 'SAVES', value: 6 }] });

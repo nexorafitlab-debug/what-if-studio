@@ -1,6 +1,6 @@
 // s110 — "Mira sits across from you." [LIBRARY - QUIET ROOM] · sit
 import { E, V, registerShot, layer, clamp, prog, slowCam } from '/engine/core.js';
-import { drawFigure, POSES, posesAt, walkLocked, exprAt, headPos } from '/engine/rig2d.js';
+import { drawFigure, POSES, posesAt, walkLocked, headPos } from '/engine/rig2d.js';
 import { library } from '../sets/library.js';
 import { CAST } from '../cast.js';
 import { dualCounter } from '/engine/counters.js';
@@ -12,9 +12,9 @@ registerShot('s110', { draw(g, t, info) {
     const { GY, M } = library(g, t, info);
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };
     const pose = posesAt(t, [[0, 'stand'], [D * 0.25, 'sit'], [D * 0.6, 'sitBack']]);
-    drawFigure(g, { x: E.W * 0.40, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose: pose, expr: exprAt(t, [[0, 'neutral'], [D * 0.3, 'thinking'], [D * 0.65, 'sad']]), rim });
+    drawFigure(g, { x: E.W * 0.40, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose: pose, expr: 'thinking', rim });
     const pose2 = posesAt(t, [[0, 'sit'], [D * 0.45, 'sitBack'], [D * 0.8, 'sit']]);
-    drawFigure(g, { x: E.W * 0.74, y: GY, s: V(1.15, 1.25), facing: -1, outfit: CAST.MIRA.outfit, pose: pose2, expr: exprAt(t, [[0, 'neutral'], [D * 0.5, 'smile']]), rim });
+    drawFigure(g, { x: E.W * 0.74, y: GY, s: V(1.15, 1.25), facing: -1, outfit: CAST.MIRA.outfit, pose: pose2, expr: 'neutral', rim });
   });
   dualCounter(g, info.globalT, { chapterStart: 247.16, left: { label: 'YOU', from: 0, rate: 1 }, right: { label: 'WORLD', from: 0, rate: 0 }, format: 'clock', x: 70, y: 250 });
   hudScore(g, t, { items: [{ label: 'SAVES', value: 7 }, { label: 'MISSES', value: 1 }] });
