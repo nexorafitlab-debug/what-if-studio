@@ -1,0 +1,1945 @@
+{
+ "s007": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['6']",
+   "prio": 1,
+   "pitch": 0.9
+  },
+  {
+   "name": "tick",
+   "at": 0.7,
+   "gain": -17.5,
+   "rule": "drop -> 6",
+   "prio": 0,
+   "seed": 1,
+   "pitch": 0.9
+  }
+ ],
+ "s011": [
+  {
+   "name": "tick",
+   "at": 0.45,
+   "gain": -17.5,
+   "rule": "drop -> 6",
+   "prio": 0,
+   "seed": 2,
+   "pitch": 0.95
+  },
+  {
+   "name": "footstep",
+   "at": 0.73,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 1
+  }
+ ],
+ "s012": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['5']",
+   "prio": 1,
+   "pitch": 0.95
+  }
+ ],
+ "s015": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['4']",
+   "prio": 1,
+   "pitch": 1.0
+  },
+  {
+   "name": "tick",
+   "at": 1.33,
+   "gain": -17.5,
+   "rule": "drop -> 4",
+   "prio": 0,
+   "seed": 3,
+   "pitch": 1.0
+  }
+ ],
+ "s018": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['1', '2', '3']",
+   "prio": 1,
+   "pitch": 1.05
+  },
+  {
+   "name": "tick",
+   "at": 0.99,
+   "gain": -17.5,
+   "rule": "drop -> 3",
+   "prio": 0,
+   "seed": 4,
+   "pitch": 1.05
+  },
+  {
+   "name": "tick",
+   "at": 1.41,
+   "gain": -17.5,
+   "rule": "drop -> 2",
+   "prio": 0,
+   "seed": 5,
+   "pitch": 1.1
+  }
+ ],
+ "s019": [
+  {
+   "name": "tick",
+   "at": 0.33,
+   "gain": -17.5,
+   "rule": "drop -> 1",
+   "prio": 0,
+   "seed": 1,
+   "pitch": 0.9
+  }
+ ],
+ "s036": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['7']",
+   "prio": 1,
+   "pitch": 1.1
+  }
+ ],
+ "s040": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['8', '9']",
+   "prio": 1,
+   "pitch": 0.9
+  }
+ ],
+ "s053": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['6', '7']",
+   "prio": 1,
+   "pitch": 0.95
+  },
+  {
+   "name": "tick",
+   "at": 1.0,
+   "gain": -17.5,
+   "rule": "drop -> 6",
+   "prio": 0,
+   "seed": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s057": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['8']",
+   "prio": 1,
+   "pitch": 1.0
+  }
+ ],
+ "s059": [
+  {
+   "name": "tick",
+   "at": 0.14,
+   "gain": -17.5,
+   "rule": "drop -> 7",
+   "prio": 0,
+   "seed": 3,
+   "pitch": 1.0
+  }
+ ],
+ "s063": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['6', '7']",
+   "prio": 1,
+   "pitch": 1.05
+  }
+ ],
+ "s102": [
+  {
+   "name": "glitch",
+   "at": 0.2,
+   "gain": -17.5,
+   "rule": "zero \u2014 Jay hits 0",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "blip",
+   "at": 1.4,
+   "gain": -15.5,
+   "rule": "text: 'ZERO.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s118": [
+  {
+   "name": "glitch",
+   "at": 0.2,
+   "gain": -17.5,
+   "rule": "zero \u2014 old man hits 0",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s131": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['3']",
+   "prio": 1,
+   "pitch": 1.1
+  }
+ ],
+ "s142": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['4']",
+   "prio": 1,
+   "pitch": 0.9
+  }
+ ],
+ "s148": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['2']",
+   "prio": 1,
+   "pitch": 0.95
+  }
+ ],
+ "s003": [
+  {
+   "name": "pop",
+   "at": 0.3,
+   "gain": -19.5,
+   "rule": "new pill value ['9']",
+   "prio": 1,
+   "pitch": 1.0
+  }
+ ],
+ "s004": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['8']",
+   "prio": 1,
+   "pitch": 1.05
+  },
+  {
+   "name": "footstep",
+   "at": 0.75,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 2
+  }
+ ],
+ "s006": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['7']",
+   "prio": 1,
+   "pitch": 1.1
+  }
+ ],
+ "s010": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['6', '7']",
+   "prio": 1,
+   "pitch": 0.9
+  },
+  {
+   "name": "footstep",
+   "at": 0.52,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 3
+  }
+ ],
+ "s017": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['4']",
+   "prio": 1,
+   "pitch": 0.95
+  },
+  {
+   "name": "footstep",
+   "at": 0.36,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 4
+  }
+ ],
+ "s023": [
+  {
+   "name": "pop",
+   "at": 0.4,
+   "gain": -19.5,
+   "rule": "new pill value ['5']",
+   "prio": 1,
+   "pitch": 1.0
+  }
+ ],
+ "s025": [
+  {
+   "name": "blip",
+   "at": 1.6,
+   "gain": -15.5,
+   "rule": "text: 'THREE.'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s034": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['8']",
+   "prio": 1,
+   "pitch": 1.05
+  },
+  {
+   "name": "clatter",
+   "at": 0.5,
+   "gain": -19.5,
+   "rule": "cafeteria tray clatter",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s041": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['6']",
+   "prio": 1,
+   "pitch": 1.1
+  },
+  {
+   "name": "footstep",
+   "at": 0.4,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 5
+  }
+ ],
+ "s044": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['7']",
+   "prio": 1,
+   "pitch": 0.9
+  }
+ ],
+ "s045": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['8']",
+   "prio": 1,
+   "pitch": 0.95
+  }
+ ],
+ "s046": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['9']",
+   "prio": 1,
+   "pitch": 1.0
+  }
+ ],
+ "s055": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'MIA  \u00b7  9'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s058": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['7']",
+   "prio": 1,
+   "pitch": 1.05
+  },
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'DO NOT TOUCH \u2014 MIA'",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s072": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['6']",
+   "prio": 1,
+   "pitch": 1.1
+  }
+ ],
+ "s079": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['3']",
+   "prio": 1,
+   "pitch": 0.9
+  }
+ ],
+ "s080": [
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 1
+  }
+ ],
+ "s085": [
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 2
+  }
+ ],
+ "s086": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['3']",
+   "prio": 1,
+   "pitch": 0.95
+  }
+ ],
+ "s088": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['6']",
+   "prio": 1,
+   "pitch": 1.0
+  },
+  {
+   "name": "clatter",
+   "at": 0.5,
+   "gain": -19.5,
+   "rule": "cafeteria clatter",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s091": [
+  {
+   "name": "footstep",
+   "at": 0.82,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 3
+  }
+ ],
+ "s094": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['6', '7']",
+   "prio": 1,
+   "pitch": 1.05
+  }
+ ],
+ "s095": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['1']",
+   "prio": 1,
+   "pitch": 1.1
+  },
+  {
+   "name": "blip",
+   "at": 1.0,
+   "gain": -15.5,
+   "rule": "text: 'IN CONFIDENCE.'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s099": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['1']",
+   "prio": 1,
+   "pitch": 0.9
+  },
+  {
+   "name": "applause",
+   "at": 0.4,
+   "gain": -19.5,
+   "rule": "crowd, Friday game",
+   "prio": 2,
+   "dur": 2.5,
+   "pitch": 1.0
+  }
+ ],
+ "s115": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['1']",
+   "prio": 1,
+   "pitch": 0.95
+  },
+  {
+   "name": "footstep",
+   "at": 0.86,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 4
+  }
+ ],
+ "s135": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['8']",
+   "prio": 1,
+   "pitch": 1.0
+  },
+  {
+   "name": "footstep",
+   "at": 0.67,
+   "gain": -17.5,
+   "rule": "walk 3rd step",
+   "prio": 2,
+   "seed": 1
+  },
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 5
+  }
+ ],
+ "s136": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['5']",
+   "prio": 1,
+   "pitch": 1.05
+  },
+  {
+   "name": "footstep",
+   "at": 0.63,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 2
+  },
+  {
+   "name": "footstep",
+   "at": 1.12,
+   "gain": -17.5,
+   "rule": "walk 2nd step",
+   "prio": 2,
+   "seed": 3
+  }
+ ],
+ "s146": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['3']",
+   "prio": 1,
+   "pitch": 1.1
+  }
+ ],
+ "s170": [
+  {
+   "name": "doorbell",
+   "at": 0.5,
+   "gain": -19.5,
+   "rule": "doorbell",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s184": [
+  {
+   "name": "doorbell",
+   "at": 0.5,
+   "gain": -19.5,
+   "rule": "doorbell, day twelve",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s208": [
+  {
+   "name": "swish",
+   "at": 0.05,
+   "gain": -20.5,
+   "rule": "scene change kitchen_evening->street_morning",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 4
+  }
+ ],
+ "s209": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['2']",
+   "prio": 1,
+   "pitch": 0.9
+  },
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 5
+  }
+ ],
+ "s210": [
+  {
+   "name": "pop",
+   "at": 0.15,
+   "gain": -19.5,
+   "rule": "new pill value ['4']",
+   "prio": 1,
+   "pitch": 0.95
+  }
+ ],
+ "s009": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'SORRY CHANGES NOTHING.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s016": [
+  {
+   "name": "blip",
+   "at": 2.0,
+   "gain": -15.5,
+   "rule": "text: '5 GOOD MOMENTS'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s020": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'ONE CHANCE LEFT.'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s024": [
+  {
+   "name": "blip",
+   "at": 0.6,
+   "gain": -15.5,
+   "rule": "text: 'EVERYONE HAS ONE FOR YOU TOO'",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s027": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'CHANCES DO NOT GROW BACK.'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s029": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'STILL THREE.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s030": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'SORRY IS JUST A WORD.'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s042": [
+  {
+   "name": "blip",
+   "at": 0.6,
+   "gain": -15.5,
+   "rule": "text: 'EVERY SMALL THING COUNTS.'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s049": [
+  {
+   "name": "blip",
+   "at": 0.2,
+   "gain": -15.5,
+   "rule": "text: 'NOT ONE.'",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s050": [
+  {
+   "name": "blip",
+   "at": 0.7,
+   "gain": -15.5,
+   "rule": "text: 'GOOD DOES NOT UNDO BAD.'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s051": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'GOOD JUST WAITS.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s052": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'THAT IS THE RULE.'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s054": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'GOOD TAKES FOREVER TO MATTER'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s066": [
+  {
+   "name": "blip",
+   "at": 0.6,
+   "gain": -15.5,
+   "rule": "text: 'GUARDS THEM LIKE GOLD.'",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s067": [
+  {
+   "name": "blip",
+   "at": 0.5,
+   "gain": -15.5,
+   "rule": "text: 'LIKE A CLOCK.'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s068": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'EVERY MISTAKE TICKS IT DOWN.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s071": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'YOUR PATIENCE IS RUNNING OUT'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s073": [
+  {
+   "name": "blip",
+   "at": 2.0,
+   "gain": -15.5,
+   "rule": "text: '66 DAYS'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s074": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'DAY 1 OF 66.'",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s075": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: '1 SECOND'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s076": [
+  {
+   "name": "blip",
+   "at": 1.0,
+   "gain": -15.5,
+   "rule": "text: '1 SECOND'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s077": [
+  {
+   "name": "blip",
+   "at": 1.0,
+   "gain": -15.5,
+   "rule": "text: '66 DAYS'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s078": [
+  {
+   "name": "blip",
+   "at": 0.5,
+   "gain": -15.5,
+   "rule": "text: 'DAY ONE.'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s081": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'HER NUMBER STAYS SIX.'",
+   "prio": 2,
+   "pitch": 1.05
+  },
+  {
+   "name": "footstep",
+   "at": 0.55,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 1
+  }
+ ],
+ "s083": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'HEY.'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s090": [
+  {
+   "name": "blip",
+   "at": 0.8,
+   "gain": -15.5,
+   "rule": "text: 'SEEN.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s105": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'GONE.'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s108": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'NO REPLY.'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s109": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'HE LOOKS THROUGH YOU.'",
+   "prio": 2,
+   "pitch": 1.05
+  },
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 2
+  }
+ ],
+ "s110": [
+  {
+   "name": "blip",
+   "at": 0.5,
+   "gain": -15.5,
+   "rule": "text: 'LIKE GLASS.'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s111": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'ZERO DOES NOT MEAN ANGRY.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s112": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'ZERO MEANS DONE.'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s113": [
+  {
+   "name": "blip",
+   "at": 0.5,
+   "gain": -15.5,
+   "rule": "text: 'DONE IS QUIET.'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s122": [
+  {
+   "name": "blip",
+   "at": 0.6,
+   "gain": -15.5,
+   "rule": "text: 'THE WORST PART.'",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s134": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'BUT SOMETHING LEFT ANYWAY.'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s143": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'FOUR CHANCES LEFT.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s151": [
+  {
+   "name": "blip",
+   "at": 0.8,
+   "gain": -15.5,
+   "rule": "text: 'TWO.'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s153": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'SORRY. SORRY. SORRY.'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s154": [
+  {
+   "name": "blip",
+   "at": 0.6,
+   "gain": -15.5,
+   "rule": "text: 'IT NEVER MOVES UP.'",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s158": [
+  {
+   "name": "blip",
+   "at": 0.2,
+   "gain": -15.5,
+   "rule": "text: 'THEY WILL NOT.'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s160": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'EVERY NUMBER IS FALLING.'",
+   "prio": 2,
+   "pitch": 0.9
+  },
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 3
+  },
+  {
+   "name": "footstep",
+   "at": 1.6,
+   "gain": -17.5,
+   "rule": "walk 2nd step",
+   "prio": 2,
+   "seed": 4
+  }
+ ],
+ "s161": [
+  {
+   "name": "swish",
+   "at": 0.05,
+   "gain": -20.5,
+   "rule": "scene change street_morning->jays_house",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 5
+  },
+  {
+   "name": "footstep",
+   "at": 1.6,
+   "gain": -17.5,
+   "rule": "walk 2nd step",
+   "prio": 2,
+   "seed": 1
+  }
+ ],
+ "s169": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'SOAKED.'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s173": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'FOUR WORDS.'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s175": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'DAY TEN.'",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s178": [
+  {
+   "name": "footstep",
+   "at": 0.67,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 2
+  }
+ ],
+ "s180": [
+  {
+   "name": "blip",
+   "at": 0.5,
+   "gain": -15.5,
+   "rule": "text: 'NOT A TRICK.'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s181": [
+  {
+   "name": "blip",
+   "at": 0.5,
+   "gain": -15.5,
+   "rule": "text: 'IT IS JUST SHOWING UP.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s183": [
+  {
+   "name": "blip",
+   "at": 0.5,
+   "gain": -15.5,
+   "rule": "text: 'YOU JUST SHOW UP.'",
+   "prio": 2,
+   "pitch": 0.95
+  },
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 3
+  }
+ ],
+ "s195": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'JUST A BALL.'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s196": [
+  {
+   "name": "shimmer",
+   "at": 0.3,
+   "gain": -26.6,
+   "rule": "the twist \u2014 zero was not the end",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "blip",
+   "at": 1.0,
+   "gain": -15.5,
+   "rule": "text: 'ZERO WAS NOT THE END.'",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s197": [
+  {
+   "name": "riser",
+   "at": 0.2,
+   "gain": -21.5,
+   "rule": "build into the twist",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s199": [
+  {
+   "name": "riser",
+   "at": 0.2,
+   "gain": -21.5,
+   "rule": "build into the moral",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "blip",
+   "at": 1.2,
+   "gain": -15.5,
+   "rule": "text: 'HIS CHOICE. NOT YOURS.'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s203": [
+  {
+   "name": "slowmo",
+   "at": 0.3,
+   "gain": -21.5,
+   "rule": "slow realisation",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "blip",
+   "at": 0.8,
+   "gain": -15.5,
+   "rule": "text: 'REAL.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s205": [
+  {
+   "name": "blip",
+   "at": 0.8,
+   "gain": -15.5,
+   "rule": "text: 'NO ONE HAS TO.'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s207": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'FIRST.'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s211": [
+  {
+   "name": "blip",
+   "at": 0.6,
+   "gain": -15.5,
+   "rule": "text: 'STAYS FOUR.'",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s213": [
+  {
+   "name": "swish",
+   "at": 0.05,
+   "gain": -20.5,
+   "rule": "scene change bathroom_mirror->void",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'YOU CANNOT EARN'",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s214": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'EARN THE NEXT ONE.'",
+   "prio": 2,
+   "pitch": 0.9
+  }
+ ],
+ "s215": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "text: 'SPEND EVERY CHANCE'",
+   "prio": 2,
+   "pitch": 0.95
+  }
+ ],
+ "s216": [
+  {
+   "name": "blip",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "text: 'BECAUSE ONE DAY, IT IS.'",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s013": [
+  {
+   "name": "footstep",
+   "at": 0.36,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 4
+  }
+ ],
+ "s022": [
+  {
+   "name": "footstep",
+   "at": 0.49,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 5
+  }
+ ],
+ "s032": [
+  {
+   "name": "schoolbell",
+   "at": 0.3,
+   "gain": -19.5,
+   "rule": "school bell",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s037": [
+  {
+   "name": "footstep",
+   "at": 0.55,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 1
+  }
+ ],
+ "s039": [
+  {
+   "name": "footstep",
+   "at": 0.58,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 2
+  }
+ ],
+ "s043": [
+  {
+   "name": "footstep",
+   "at": 0.54,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 3
+  }
+ ],
+ "s061": [
+  {
+   "name": "schoolbell",
+   "at": 0.3,
+   "gain": -19.5,
+   "rule": "school bell",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "footstep",
+   "at": 0.85,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 4
+  }
+ ],
+ "s064": [
+  {
+   "name": "footstep",
+   "at": 0.71,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 5
+  }
+ ],
+ "s065": [
+  {
+   "name": "footstep",
+   "at": 0.66,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 1
+  }
+ ],
+ "s084": [
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 2
+  }
+ ],
+ "s092": [
+  {
+   "name": "footstep",
+   "at": 0.54,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 3
+  }
+ ],
+ "s106": [
+  {
+   "name": "footstep",
+   "at": 0.42,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 4
+  }
+ ],
+ "s107": [
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 5
+  }
+ ],
+ "s117": [
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 1
+  }
+ ],
+ "s125": [
+  {
+   "name": "paper",
+   "at": 0.4,
+   "gain": -15.5,
+   "rule": "calendar page",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 2
+  }
+ ],
+ "s126": [
+  {
+   "name": "counter",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "counting the days",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s127": [
+  {
+   "name": "swish",
+   "at": 0.05,
+   "gain": -20.5,
+   "rule": "scene change bus_stop->street_night",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "footstep",
+   "at": 0.63,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 3
+  },
+  {
+   "name": "footstep",
+   "at": 1.12,
+   "gain": -17.5,
+   "rule": "walk 2nd step",
+   "prio": 2,
+   "seed": 4
+  }
+ ],
+ "s137": [
+  {
+   "name": "footstep",
+   "at": 0.85,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 5
+  }
+ ],
+ "s138": [
+  {
+   "name": "footstep",
+   "at": 0.6,
+   "gain": -17.5,
+   "rule": "walk 3rd step",
+   "prio": 2,
+   "seed": 2
+  },
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 1
+  }
+ ],
+ "s139": [
+  {
+   "name": "footstep",
+   "at": 0.56,
+   "gain": -17.5,
+   "rule": "walk 3rd step",
+   "prio": 2,
+   "seed": 4
+  },
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 3
+  }
+ ],
+ "s166": [
+  {
+   "name": "footstep",
+   "at": 0.9,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 5
+  },
+  {
+   "name": "footstep",
+   "at": 1.6,
+   "gain": -17.5,
+   "rule": "walk 2nd step",
+   "prio": 2,
+   "seed": 1
+  }
+ ],
+ "s179": [
+  {
+   "name": "footstep",
+   "at": 0.36,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 2
+  }
+ ],
+ "s188": [
+  {
+   "name": "footstep",
+   "at": 0.68,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 3
+  }
+ ],
+ "s204": [
+  {
+   "name": "footstep",
+   "at": 0.52,
+   "gain": -17.5,
+   "rule": "walk",
+   "prio": 2,
+   "seed": 4
+  }
+ ],
+ "s001": [
+  {
+   "name": "alarm",
+   "at": 0.1,
+   "gain": -15.5,
+   "rule": "wake-up alarm",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s097": [
+  {
+   "name": "whistle",
+   "at": 0.2,
+   "gain": -17.5,
+   "rule": "gym whistle",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s171": [
+  {
+   "name": "doorbell",
+   "at": 0.5,
+   "gain": -19.5,
+   "rule": "doorbell",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s174": [
+  {
+   "name": "doorknock",
+   "at": 0.4,
+   "gain": -19.5,
+   "rule": "knock",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s189": [
+  {
+   "name": "kick",
+   "at": 0.6,
+   "gain": -21.5,
+   "rule": "ball kick",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s192": [
+  {
+   "name": "thud",
+   "at": 0.5,
+   "gain": -19.5,
+   "rule": "ball bounce",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s172": [
+  {
+   "name": "paper",
+   "at": 0.5,
+   "gain": -15.5,
+   "rule": "leaving a note",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s176": [
+  {
+   "name": "clatter",
+   "at": 0.3,
+   "gain": -19.5,
+   "rule": "rusted gate, metallic",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s177": [
+  {
+   "name": "thud",
+   "at": 0.6,
+   "gain": -19.5,
+   "rule": "setting it down by the gate",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s182": [
+  {
+   "name": "footstep",
+   "at": 0.5,
+   "gain": -17.5,
+   "rule": "standing at the door, shifting weight",
+   "prio": 2,
+   "seed": 5
+  }
+ ],
+ "s185": [
+  {
+   "name": "swish",
+   "at": 0.3,
+   "gain": -20.5,
+   "rule": "door opens \u2014 it is Jay's mom",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s186": [
+  {
+   "name": "heartbeat",
+   "at": 0.5,
+   "gain": -20.5,
+   "rule": "long look, tension",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s187": [
+  {
+   "name": "footstep",
+   "at": 0.8,
+   "gain": -17.5,
+   "rule": "turning toward the backyard",
+   "prio": 2,
+   "seed": 1
+  }
+ ],
+ "s190": [
+  {
+   "name": "heartbeat",
+   "at": 0.5,
+   "gain": -20.5,
+   "rule": "he sees you, tension",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s191": [
+  {
+   "name": "footstep",
+   "at": 0.5,
+   "gain": -17.5,
+   "rule": "he does not walk away",
+   "prio": 2,
+   "seed": 2
+  }
+ ],
+ "s193": [
+  {
+   "name": "thud",
+   "at": 0.5,
+   "gain": -19.5,
+   "rule": "one bounce",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s198": [
+  {
+   "name": "blip",
+   "at": 0.3,
+   "gain": -15.5,
+   "rule": "the idea landing",
+   "prio": 2,
+   "pitch": 1.05
+  }
+ ],
+ "s200": [
+  {
+   "name": "thud",
+   "at": 0.5,
+   "gain": -19.5,
+   "rule": "picking up the ball",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s201": [
+  {
+   "name": "swish",
+   "at": 0.4,
+   "gain": -20.5,
+   "rule": "the shot through the air",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "thud",
+   "at": 1.2,
+   "gain": -19.5,
+   "rule": "the miss, ball bouncing away",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s202": [
+  {
+   "name": "blip",
+   "at": 0.5,
+   "gain": -15.5,
+   "rule": "he laughs, just once",
+   "prio": 2,
+   "pitch": 1.1
+  }
+ ],
+ "s212": [
+  {
+   "name": "flash",
+   "at": 0.3,
+   "gain": -17.5,
+   "rule": "the turn \u2014 but that is not the point",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s069": [
+  {
+   "name": "swish",
+   "at": 0.05,
+   "gain": -20.5,
+   "rule": "scene change bedroom_morning->hallway",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s155": [
+  {
+   "name": "swish",
+   "at": 0.05,
+   "gain": -20.5,
+   "rule": "scene change kitchen_evening->bedroom_morning",
+   "prio": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s159": [
+  {
+   "name": "swish",
+   "at": 0.05,
+   "gain": -20.5,
+   "rule": "scene change bedroom_morning->street_morning",
+   "prio": 2,
+   "pitch": 1.0
+  },
+  {
+   "name": "footstep",
+   "at": 0.82,
+   "gain": -17.5,
+   "rule": "walk 2nd step",
+   "prio": 2,
+   "seed": 3
+  }
+ ]
+}

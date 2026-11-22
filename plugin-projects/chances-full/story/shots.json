@@ -1,0 +1,5461 @@
+{
+ "title": "What If You Could See How Many Chances You Have Left?",
+ "duration": 469.34,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 0.89,
+   "line": "You wake up.",
+   "scene": "You wake up.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "alarm",
+     "at": 0.1,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s002",
+   "start": 0.91,
+   "end": 2.07,
+   "line": "And you see it.",
+   "scene": "And you see it.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s003",
+   "start": 2.29,
+   "end": 4.33,
+   "line": "A number. Above every head.",
+   "scene": "A number. Above every head.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.3,
+     "gain": -19.5,
+     "pitch": 1.0
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s004",
+   "start": 4.75,
+   "end": 6.41,
+   "line": "Kian. That's your name.",
+   "scene": "Kian. That's your name.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.05
+    },
+    {
+     "name": "footstep",
+     "at": 0.75,
+     "gain": -17.5,
+     "seed": 2
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s005",
+   "start": 6.43,
+   "end": 8.55,
+   "line": "Seventeen.",
+   "scene": "Seventeen.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s006",
+   "start": 8.57,
+   "end": 10.01,
+   "line": "The number is your chances.",
+   "scene": "The number is your chances.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.1
+    },
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s007",
+   "start": 10.53,
+   "end": 12.79,
+   "line": "Every mistake, it drops by one.",
+   "scene": "Every mistake, it drops by one.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.9
+    },
+    {
+     "name": "tick",
+     "at": 0.7,
+     "gain": -17.5,
+     "seed": 1,
+     "pitch": 0.9
+    },
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -22.5
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s008",
+   "start": 13.15,
+   "end": 14.51,
+   "line": "It never goes back up.",
+   "scene": "It never goes back up.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s009",
+   "start": 14.81,
+   "end": 16.25,
+   "line": "Not even if you say sorry.",
+   "scene": "Not even if you say sorry.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.9
+    },
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s010",
+   "start": 16.75,
+   "end": 17.91,
+   "line": "So you test it.",
+   "scene": "So you test it.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.9
+    },
+    {
+     "name": "footstep",
+     "at": 0.52,
+     "gain": -17.5,
+     "seed": 3
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s011",
+   "start": 18.17,
+   "end": 19.79,
+   "line": "You snap at Jay, your best friend.",
+   "scene": "You snap at Jay, your best friend.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "tick",
+     "at": 0.45,
+     "gain": -17.5,
+     "seed": 2,
+     "pitch": 0.95
+    },
+    {
+     "name": "footstep",
+     "at": 0.73,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s012",
+   "start": 19.81,
+   "end": 21.81,
+   "line": "Six. Five.",
+   "scene": "Six. Five.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.95
+    },
+    {
+     "at": 1.11,
+     "name": "tick",
+     "gain": -17.5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s013",
+   "start": 21.83,
+   "end": 22.63,
+   "line": "You laugh.",
+   "scene": "You laugh.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.36,
+     "gain": -17.5,
+     "seed": 4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s014",
+   "start": 22.99,
+   "end": 23.93,
+   "line": "Then you forget his birthday.",
+   "scene": "Then you forget his birthday.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s015",
+   "start": 23.95,
+   "end": 26.39,
+   "line": "Five. Four.",
+   "scene": "Five. Four.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.0
+    },
+    {
+     "name": "tick",
+     "at": 1.33,
+     "gain": -17.5,
+     "seed": 3,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s016",
+   "start": 26.41,
+   "end": 29.69,
+   "line": "Science says it takes five good moments to undo one bad one.",
+   "scene": "Science says it takes five good moments to undo one bad one.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -28.6
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -26.6
+    },
+    {
+     "name": "blip",
+     "at": 2.0,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s017",
+   "start": 30.07,
+   "end": 30.87,
+   "line": "You miss his game.",
+   "scene": "You miss his game.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.95
+    },
+    {
+     "name": "footstep",
+     "at": 0.36,
+     "gain": -17.5,
+     "seed": 4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s018",
+   "start": 30.89,
+   "end": 32.69,
+   "line": "Four. Three.",
+   "scene": "Four. Three.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.05
+    },
+    {
+     "name": "tick",
+     "at": 0.99,
+     "gain": -17.5,
+     "seed": 4,
+     "pitch": 1.05
+    },
+    {
+     "name": "tick",
+     "at": 1.41,
+     "gain": -17.5,
+     "seed": 5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s019",
+   "start": 32.71,
+   "end": 34.55,
+   "line": "Two. One.",
+   "scene": "Two. One.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "tick",
+     "at": 0.33,
+     "gain": -17.5,
+     "seed": 1,
+     "pitch": 0.9
+    },
+    {
+     "at": 1.03,
+     "name": "tick",
+     "gain": -17.5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s020",
+   "start": 34.57,
+   "end": 35.57,
+   "line": "One chance left.",
+   "scene": "One chance left.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s021",
+   "start": 36.35,
+   "end": 37.89,
+   "line": "He is almost done with you.",
+   "scene": "He is almost done with you.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s022",
+   "start": 38.21,
+   "end": 39.29,
+   "line": "Then you look in a mirror.",
+   "scene": "Then you look in a mirror.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.49,
+     "gain": -17.5,
+     "seed": 5
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s023",
+   "start": 39.53,
+   "end": 41.71,
+   "line": "Your own number. Above your own head.",
+   "scene": "Your own number. Above your own head.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.4,
+     "gain": -19.5,
+     "pitch": 1.0
+    },
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s024",
+   "start": 42.13,
+   "end": 43.59,
+   "line": "Everyone has one for you too.",
+   "scene": "Everyone has one for you too.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.6,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s025",
+   "start": 43.95,
+   "end": 45.39,
+   "line": "Your mom's number? Three.",
+   "scene": "Your mom's number? Three.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19.5
+    },
+    {
+     "name": "blip",
+     "at": 1.6,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s026",
+   "start": 45.87,
+   "end": 47.49,
+   "line": "So tonight, you call her first.",
+   "scene": "So tonight, you call her first.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s027",
+   "start": 47.51,
+   "end": 49.95,
+   "line": "Because chances do not grow back.",
+   "scene": "Because chances do not grow back.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 1.1
+    },
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s028",
+   "start": 50.37,
+   "end": 52.87,
+   "line": "She picks up. You say sorry.",
+   "scene": "She picks up. You say sorry.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "phonebuzz",
+     "gain": -15.5
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s029",
+   "start": 53.15,
+   "end": 55.75,
+   "line": "Her number does not move. Still three.",
+   "scene": "Her number does not move. Still three.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 0.9
+    },
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s030",
+   "start": 56.07,
+   "end": 57.61,
+   "line": "Sorry is just a word.",
+   "scene": "Sorry is just a word.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s031",
+   "start": 58.05,
+   "end": 59.85,
+   "line": "The number does not listen to words.",
+   "scene": "The number does not listen to words.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s032",
+   "start": 60.29,
+   "end": 61.49,
+   "line": "So you run a test.",
+   "scene": "So you run a test.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "schoolbell",
+     "at": 0.3,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s033",
+   "start": 61.79,
+   "end": 62.71,
+   "line": "A real one.",
+   "scene": "A real one.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s034",
+   "start": 63.11,
+   "end": 64.31,
+   "line": "You cut in line at lunch.",
+   "scene": "You cut in line at lunch.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.05
+    },
+    {
+     "name": "clatter",
+     "at": 0.5,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s035",
+   "start": 64.61,
+   "end": 65.47,
+   "line": "The boy behind you?",
+   "scene": "The boy behind you?",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s036",
+   "start": 65.49,
+   "end": 66.97,
+   "line": "Eight. Seven.",
+   "scene": "Eight. Seven.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.1
+    },
+    {
+     "at": 0.85,
+     "name": "tick",
+     "gain": -17.5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s037",
+   "start": 66.99,
+   "end": 68.21,
+   "line": "You do not even know his name.",
+   "scene": "You do not even know his name.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.55,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s038",
+   "start": 68.33,
+   "end": 69.13,
+   "line": "It still counts.",
+   "scene": "It still counts.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s039",
+   "start": 69.15,
+   "end": 70.44,
+   "line": "You leave your sister on read.",
+   "scene": "You leave your sister on read.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.58,
+     "gain": -17.5,
+     "seed": 2
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s040",
+   "start": 70.46,
+   "end": 71.49,
+   "line": "Nine. Eight.",
+   "scene": "Nine. Eight.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.9
+    },
+    {
+     "at": 0.62,
+     "name": "tick",
+     "gain": -17.5
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s041",
+   "start": 71.51,
+   "end": 72.39,
+   "line": "You are late to class.",
+   "scene": "You are late to class.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.1
+    },
+    {
+     "name": "footstep",
+     "at": 0.4,
+     "gain": -17.5,
+     "seed": 5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s042",
+   "start": 72.63,
+   "end": 74.81,
+   "line": "Every small thing counts. Every single one.",
+   "scene": "Every small thing counts. Every single one.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.6,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s043",
+   "start": 74.89,
+   "end": 76.09,
+   "line": "So you try the other way.",
+   "scene": "So you try the other way.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.54,
+     "gain": -17.5,
+     "seed": 3
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s044",
+   "start": 76.17,
+   "end": 77.01,
+   "line": "You hold a door.",
+   "scene": "You hold a door.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s045",
+   "start": 77.59,
+   "end": 79.33,
+   "line": "You help a stranger with his books.",
+   "scene": "You help a stranger with his books.",
+   "set": "park",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s046",
+   "start": 79.57,
+   "end": 80.99,
+   "line": "You smile at the lunch lady.",
+   "scene": "You smile at the lunch lady.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s047",
+   "start": 81.43,
+   "end": 82.73,
+   "line": "You wait. Nothing.",
+   "scene": "You wait. Nothing.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s048",
+   "start": 82.75,
+   "end": 84.73,
+   "line": "The numbers do not move.",
+   "scene": "The numbers do not move.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s049",
+   "start": 84.99,
+   "end": 85.81,
+   "line": "Not one.",
+   "scene": "Not one.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.2,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s050",
+   "start": 86.25,
+   "end": 87.93,
+   "line": "Good does not undo bad.",
+   "scene": "Good does not undo bad.",
+   "set": "park",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.7,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s051",
+   "start": 88.33,
+   "end": 89.43,
+   "line": "Good just waits.",
+   "scene": "Good just waits.",
+   "set": "park",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s052",
+   "start": 89.79,
+   "end": 90.69,
+   "line": "That is the rule.",
+   "scene": "That is the rule.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s053",
+   "start": 90.99,
+   "end": 92.51,
+   "line": "Bad drops it in a second.",
+   "scene": "Bad drops it in a second.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.95
+    },
+    {
+     "name": "tick",
+     "at": 1.0,
+     "gain": -17.5,
+     "seed": 2,
+     "pitch": 0.95
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s054",
+   "start": 93.29,
+   "end": 94.89,
+   "line": "Good takes forever to matter.",
+   "scene": "Good takes forever to matter.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s055",
+   "start": 95.21,
+   "end": 97.85,
+   "line": "Your sister Mia has nine. Nine chances.",
+   "scene": "Your sister Mia has nine. Nine chances.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19.5
+    },
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s056",
+   "start": 97.87,
+   "end": 99.25,
+   "line": "You borrow her charger.",
+   "scene": "You borrow her charger.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s057",
+   "start": 99.57,
+   "end": 102.33,
+   "line": "You snap it in half. Nine. Eight.",
+   "scene": "You snap it in half. Nine. Eight.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.0
+    },
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -22.5
+    },
+    {
+     "at": 2.4,
+     "name": "tick",
+     "gain": -17.5
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s058",
+   "start": 102.65,
+   "end": 103.75,
+   "line": "You eat her leftovers.",
+   "scene": "You eat her leftovers.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.05
+    },
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s059",
+   "start": 104.11,
+   "end": 105.57,
+   "line": "The ones with her name on them.",
+   "scene": "The ones with her name on them.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "tick",
+     "at": 0.14,
+     "gain": -17.5,
+     "seed": 3,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s060",
+   "start": 105.83,
+   "end": 107.17,
+   "line": "Eight. Seven.",
+   "scene": "Eight. Seven.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s061",
+   "start": 107.51,
+   "end": 109.39,
+   "line": "You promise to pick her up after practice.",
+   "scene": "You promise to pick her up after practice.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "schoolbell",
+     "at": 0.3,
+     "gain": -19.5,
+     "pitch": 1.0
+    },
+    {
+     "name": "footstep",
+     "at": 0.85,
+     "gain": -17.5,
+     "seed": 4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s062",
+   "start": 109.93,
+   "end": 112.15,
+   "line": "You forget. You are playing a game.",
+   "scene": "You forget. You are playing a game.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s063",
+   "start": 112.47,
+   "end": 113.91,
+   "line": "Seven. Six.",
+   "scene": "Seven. Six.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.05
+    },
+    {
+     "at": 0.98,
+     "name": "tick",
+     "gain": -17.5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s064",
+   "start": 114.13,
+   "end": 115.71,
+   "line": "She stops asking you for things.",
+   "scene": "She stops asking you for things.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.71,
+     "gain": -17.5,
+     "seed": 5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s065",
+   "start": 115.95,
+   "end": 117.41,
+   "line": "She stops telling you things.",
+   "scene": "She stops telling you things.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.66,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s066",
+   "start": 117.85,
+   "end": 120.75,
+   "line": "Six chances, and she already guards them like gold.",
+   "scene": "Six chances, and she already guards them like gold.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.6,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s067",
+   "start": 121.19,
+   "end": 122.73,
+   "line": "You watch her number like a clock.",
+   "scene": "You watch her number like a clock.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.5,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s068",
+   "start": 123.01,
+   "end": 124.71,
+   "line": "Every mistake ticks it down.",
+   "scene": "Every mistake ticks it down.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s069",
+   "start": 125.19,
+   "end": 127.83,
+   "line": "You want to tell her. You want to warn her.",
+   "scene": "You want to tell her. You want to warn her.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "swish",
+     "at": 0.05,
+     "gain": -20.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s070",
+   "start": 128.01,
+   "end": 129.49,
+   "line": "But what would you say?",
+   "scene": "But what would you say?",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s071",
+   "start": 129.93,
+   "end": 131.79,
+   "line": "I can see your patience running out?",
+   "scene": "I can see your patience running out?",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s072",
+   "start": 132.23,
+   "end": 134.51,
+   "line": "She would laugh. Then it would drop again.",
+   "scene": "She would laugh. Then it would drop again.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s073",
+   "start": 134.99,
+   "end": 137.43,
+   "line": "Science says a new habit takes sixty-six days.",
+   "scene": "Science says a new habit takes sixty-six days.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -28.6
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -26.6
+    },
+    {
+     "name": "blip",
+     "at": 2.0,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s074",
+   "start": 137.45,
+   "end": 140.59,
+   "line": "Sixty-six days to build one good habit.",
+   "scene": "Sixty-six days to build one good habit.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s075",
+   "start": 141.01,
+   "end": 143.29,
+   "line": "One bad moment takes one second.",
+   "scene": "One bad moment takes one second.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s076",
+   "start": 143.63,
+   "end": 145.91,
+   "line": "That is the math. One second to break it.",
+   "scene": "That is the math. One second to break it.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 1.0,
+     "gain": -15.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s077",
+   "start": 145.93,
+   "end": 148.23,
+   "line": "Sixty-six days to rebuild it.",
+   "scene": "Sixty-six days to rebuild it.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 1.0,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s078",
+   "start": 148.53,
+   "end": 150.09,
+   "line": "You start counting your own days.",
+   "scene": "You start counting your own days.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.5,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s079",
+   "start": 150.51,
+   "end": 153.35,
+   "line": "Day one: you do the dishes. No one notices.",
+   "scene": "Day one: you do the dishes. No one notices.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s080",
+   "start": 153.85,
+   "end": 156.19,
+   "line": "Day two: you walk your sister home.",
+   "scene": "Day two: you walk your sister home.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s081",
+   "start": 156.93,
+   "end": 158.15,
+   "line": "Her number stays six.",
+   "scene": "Her number stays six.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.05
+    },
+    {
+     "name": "footstep",
+     "at": 0.55,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s082",
+   "start": 158.53,
+   "end": 160.57,
+   "line": "Day three: you text Jay.",
+   "scene": "Day three: you text Jay.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "phonebuzz",
+     "gain": -15.5
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s083",
+   "start": 160.59,
+   "end": 161.99,
+   "line": "Just hey. No answer.",
+   "scene": "Just hey. No answer.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s084",
+   "start": 162.35,
+   "end": 164.93,
+   "line": "Day four. Day five. Day six.",
+   "scene": "Day four. Day five. Day six.",
+   "set": "schoolyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 2
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s085",
+   "start": 165.13,
+   "end": 167.89,
+   "line": "You keep showing up. The numbers do not move.",
+   "scene": "You keep showing up. The numbers do not move.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 2
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s086",
+   "start": 168.03,
+   "end": 169.01,
+   "line": "But something else does.",
+   "scene": "But something else does.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s087",
+   "start": 169.03,
+   "end": 171.41,
+   "line": "Your mom smiles when you come home.",
+   "scene": "Your mom smiles when you come home.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s088",
+   "start": 171.67,
+   "end": 173.11,
+   "line": "Your sister saves you a seat.",
+   "scene": "Your sister saves you a seat.",
+   "set": "cafeteria",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.0
+    },
+    {
+     "name": "clatter",
+     "at": 0.5,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s089",
+   "start": 173.93,
+   "end": 175.17,
+   "line": "Jay reads your text.",
+   "scene": "Jay reads your text.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s090",
+   "start": 175.53,
+   "end": 177.89,
+   "line": "He does not reply. But he reads it.",
+   "scene": "He does not reply. But he reads it.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.8,
+     "gain": -15.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s091",
+   "start": 178.41,
+   "end": 180.23,
+   "line": "Friday. The big game.",
+   "scene": "Friday. The big game.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.82,
+     "gain": -17.5,
+     "seed": 3
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s092",
+   "start": 180.61,
+   "end": 181.81,
+   "line": "The whole school is there.",
+   "scene": "The whole school is there.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.54,
+     "gain": -17.5,
+     "seed": 3
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s093",
+   "start": 182.21,
+   "end": 184.63,
+   "line": "Jay is starting. And you want to look cool.",
+   "scene": "Jay is starting. And you want to look cool.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s094",
+   "start": 184.83,
+   "end": 186.57,
+   "line": "So you tell the team his secret.",
+   "scene": "So you tell the team his secret.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s095",
+   "start": 186.87,
+   "end": 188.35,
+   "line": "The one he told you in confidence.",
+   "scene": "The one he told you in confidence.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.1
+    },
+    {
+     "name": "blip",
+     "at": 1.0,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s096",
+   "start": 188.89,
+   "end": 190.37,
+   "line": "The one about his dad leaving.",
+   "scene": "The one about his dad leaving.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s097",
+   "start": 190.77,
+   "end": 192.15,
+   "line": "You say it like a joke.",
+   "scene": "You say it like a joke.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "whistle",
+     "at": 0.2,
+     "gain": -17.5,
+     "pitch": 1.0
+    },
+    {
+     "at": 0.8,
+     "name": "cheer",
+     "gain": -20.5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s098",
+   "start": 192.81,
+   "end": 193.93,
+   "line": "The team laughs.",
+   "scene": "The team laughs.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s099",
+   "start": 194.19,
+   "end": 195.17,
+   "line": "Jay hears it.",
+   "scene": "Jay hears it.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.9
+    },
+    {
+     "name": "applause",
+     "at": 0.4,
+     "gain": -19.5,
+     "pitch": 1.0,
+     "dur": 2.5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s100",
+   "start": 195.49,
+   "end": 197.05,
+   "line": "He is standing right behind you.",
+   "scene": "He is standing right behind you.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s101",
+   "start": 197.25,
+   "end": 199.99,
+   "line": "His number is one. One chance left.",
+   "scene": "His number is one. One chance left.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19.5
+    },
+    {
+     "at": 0.4,
+     "name": "heartbeat",
+     "gain": -20.5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s102",
+   "start": 200.83,
+   "end": 203.47,
+   "line": "You watch it happen. One. Zero.",
+   "scene": "You watch it happen. One. Zero.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "glitch",
+     "at": 0.2,
+     "gain": -17.5,
+     "pitch": 1.0
+    },
+    {
+     "name": "blip",
+     "at": 1.4,
+     "gain": -15.5,
+     "pitch": 0.9
+    },
+    {
+     "at": 2.2,
+     "name": "tick",
+     "gain": -17.5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s103",
+   "start": 203.85,
+   "end": 205.25,
+   "line": "The pill does not turn red.",
+   "scene": "The pill does not turn red.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s104",
+   "start": 205.47,
+   "end": 208.33,
+   "line": "It does not flash. It just disappears.",
+   "scene": "It does not flash. It just disappears.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s105",
+   "start": 208.87,
+   "end": 210.69,
+   "line": "Gone. Like he is gone.",
+   "scene": "Gone. Like he is gone.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s106",
+   "start": 211.19,
+   "end": 212.13,
+   "line": "He does not yell.",
+   "scene": "He does not yell.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.42,
+     "gain": -17.5,
+     "seed": 4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s107",
+   "start": 212.41,
+   "end": 214.99,
+   "line": "He does not hit you. He just walks away.",
+   "scene": "He does not hit you. He just walks away.",
+   "set": "gym_court",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 5
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s108",
+   "start": 215.43,
+   "end": 216.65,
+   "line": "He does not answer your texts.",
+   "scene": "He does not answer your texts.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s109",
+   "start": 216.67,
+   "end": 218.77,
+   "line": "At school, he looks through you.",
+   "scene": "At school, he looks through you.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 1.05
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 2
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s110",
+   "start": 218.79,
+   "end": 221.57,
+   "line": "Like glass. Like you are not there.",
+   "scene": "Like glass. Like you are not there.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.5,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s111",
+   "start": 222.09,
+   "end": 223.75,
+   "line": "Zero does not mean angry.",
+   "scene": "Zero does not mean angry.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s112",
+   "start": 224.41,
+   "end": 225.45,
+   "line": "Zero means done.",
+   "scene": "Zero means done.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s113",
+   "start": 225.47,
+   "end": 229.01,
+   "line": "Done is quiet. Done does not slam doors.",
+   "scene": "Done is quiet. Done does not slam doors.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.5,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s114",
+   "start": 229.43,
+   "end": 231.07,
+   "line": "Done just stops opening them.",
+   "scene": "Done just stops opening them.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s115",
+   "start": 231.31,
+   "end": 233.23,
+   "line": "Saturday. You are on the bus.",
+   "scene": "Saturday. You are on the bus.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.95
+    },
+    {
+     "name": "footstep",
+     "at": 0.86,
+     "gain": -17.5,
+     "seed": 4
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s116",
+   "start": 233.61,
+   "end": 236.23,
+   "line": "An old man gets on. His number is one.",
+   "scene": "An old man gets on. His number is one.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19.5
+    },
+    {
+     "at": 0.4,
+     "name": "heartbeat",
+     "gain": -20.5
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s117",
+   "start": 236.55,
+   "end": 239.03,
+   "line": "A kid bumps into him. Spills his coffee.",
+   "scene": "A kid bumps into him. Spills his coffee.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s118",
+   "start": 239.27,
+   "end": 240.87,
+   "line": "One. Zero.",
+   "scene": "One. Zero.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "glitch",
+     "at": 0.2,
+     "gain": -17.5,
+     "pitch": 1.0
+    },
+    {
+     "at": 1.24,
+     "name": "tick",
+     "gain": -17.5
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s119",
+   "start": 241.31,
+   "end": 242.15,
+   "line": "The pill is gone.",
+   "scene": "The pill is gone.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s120",
+   "start": 242.71,
+   "end": 244.29,
+   "line": "The old man does not shout.",
+   "scene": "The old man does not shout.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s121",
+   "start": 244.67,
+   "end": 247.49,
+   "line": "He just sits down. He looks out the window.",
+   "scene": "He just sits down. He looks out the window.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s122",
+   "start": 247.77,
+   "end": 249.41,
+   "line": "He is used to it. That is the worst part.",
+   "scene": "He is used to it. That is the worst part.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.6,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s123",
+   "start": 249.43,
+   "end": 251.47,
+   "line": "He is used to being done with.",
+   "scene": "He is used to being done with.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s124",
+   "start": 251.89,
+   "end": 254.41,
+   "line": "You want to say something. You want to help him up.",
+   "scene": "You want to say something. You want to help him up.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s125",
+   "start": 254.57,
+   "end": 257.47,
+   "line": "But you are the reason someone else looks like that now.",
+   "scene": "But you are the reason someone else looks like that now.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "paper",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 1.0
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 2
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s126",
+   "start": 257.99,
+   "end": 259.27,
+   "line": "You get off the bus.",
+   "scene": "You get off the bus.",
+   "set": "bus_stop",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "counter",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s127",
+   "start": 259.69,
+   "end": 261.09,
+   "line": "You walk home. Slow.",
+   "scene": "You walk home. Slow.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "swish",
+     "at": 0.05,
+     "gain": -20.5,
+     "pitch": 1.0
+    },
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.63,
+     "gain": -17.5,
+     "seed": 3
+    },
+    {
+     "name": "footstep",
+     "at": 1.12,
+     "gain": -17.5,
+     "seed": 4
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s128",
+   "start": 261.59,
+   "end": 263.75,
+   "line": "On your street, a couple argues on a porch.",
+   "scene": "On your street, a couple argues on a porch.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19.5
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s129",
+   "start": 264.27,
+   "end": 265.29,
+   "line": "Her number is four.",
+   "scene": "Her number is four.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s130",
+   "start": 265.63,
+   "end": 266.99,
+   "line": "He says one more thing.",
+   "scene": "He says one more thing.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s131",
+   "start": 267.37,
+   "end": 269.95,
+   "line": "Four. Three. She turns away.",
+   "scene": "Four. Three. She turns away.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.1
+    },
+    {
+     "at": 0.88,
+     "name": "tick",
+     "gain": -17.5
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s132",
+   "start": 270.47,
+   "end": 272.41,
+   "line": "He stands there, hands in his pockets.",
+   "scene": "He stands there, hands in his pockets.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s133",
+   "start": 273.29,
+   "end": 274.27,
+   "line": "Nobody yells.",
+   "scene": "Nobody yells.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s134",
+   "start": 274.43,
+   "end": 276.97,
+   "line": "Nobody leaves. But something left anyway.",
+   "scene": "Nobody leaves. But something left anyway.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s135",
+   "start": 277.53,
+   "end": 280.89,
+   "line": "You keep walking. Every street has a number falling somewhere.",
+   "scene": "You keep walking. Every street has a number falling somewhere.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.0
+    },
+    {
+     "name": "footstep",
+     "at": 0.67,
+     "gain": -17.5,
+     "seed": 1
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 5
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s136",
+   "start": 281.17,
+   "end": 282.57,
+   "line": "Every house. Every room.",
+   "scene": "Every house. Every room.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.05
+    },
+    {
+     "name": "footstep",
+     "at": 0.63,
+     "gain": -17.5,
+     "seed": 2
+    },
+    {
+     "name": "footstep",
+     "at": 1.12,
+     "gain": -17.5,
+     "seed": 3
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s137",
+   "start": 282.59,
+   "end": 284.47,
+   "line": "You count them as you pass.",
+   "scene": "You count them as you pass.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.85,
+     "gain": -17.5,
+     "seed": 5
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s138",
+   "start": 284.83,
+   "end": 287.85,
+   "line": "Eight. Six. Five. Three.",
+   "scene": "Eight. Six. Five. Three.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.6,
+     "gain": -17.5,
+     "seed": 2
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s139",
+   "start": 288.31,
+   "end": 291.11,
+   "line": "You stop counting. You run the rest of the way home.",
+   "scene": "You stop counting. You run the rest of the way home.",
+   "set": "street_night",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.56,
+     "gain": -17.5,
+     "seed": 4
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 3
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s140",
+   "start": 291.35,
+   "end": 292.45,
+   "line": "You check the mirror.",
+   "scene": "You check the mirror.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19.5
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s141",
+   "start": 293.07,
+   "end": 294.29,
+   "line": "Your number was five.",
+   "scene": "Your number was five.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s142",
+   "start": 294.65,
+   "end": 295.87,
+   "line": "Now it is four.",
+   "scene": "Now it is four.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.9
+    },
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    },
+    {
+     "at": 0.8,
+     "name": "tick",
+     "gain": -17.5
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s143",
+   "start": 296.39,
+   "end": 298.51,
+   "line": "Four chances left with the people who matter.",
+   "scene": "Four chances left with the people who matter.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s144",
+   "start": 298.89,
+   "end": 300.59,
+   "line": "You did not lose Jay's number.",
+   "scene": "You did not lose Jay's number.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s145",
+   "start": 300.81,
+   "end": 302.37,
+   "line": "You lost a piece of your own.",
+   "scene": "You lost a piece of your own.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s146",
+   "start": 302.83,
+   "end": 303.79,
+   "line": "Then dinner.",
+   "scene": "Then dinner.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s147",
+   "start": 304.17,
+   "end": 305.75,
+   "line": "Your mom asks about your day.",
+   "scene": "Your mom asks about your day.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s148",
+   "start": 306.09,
+   "end": 307.11,
+   "line": "You snap at her.",
+   "scene": "You snap at her.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.95
+    },
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -22.5
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s149",
+   "start": 307.49,
+   "end": 310.05,
+   "line": "You are tired. You are scared.",
+   "scene": "You are tired. You are scared.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s150",
+   "start": 310.51,
+   "end": 313.21,
+   "line": "She goes quiet. Her number was three.",
+   "scene": "She goes quiet. Her number was three.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s151",
+   "start": 313.51,
+   "end": 315.79,
+   "line": "Now it is two. Two.",
+   "scene": "Now it is two. Two.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.8,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s152",
+   "start": 316.39,
+   "end": 318.83,
+   "line": "You watch it drop and you cannot stop it.",
+   "scene": "You watch it drop and you cannot stop it.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s153",
+   "start": 319.07,
+   "end": 322.09,
+   "line": "You say sorry. Sorry. Sorry.",
+   "scene": "You say sorry. Sorry. Sorry.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s154",
+   "start": 322.67,
+   "end": 325.69,
+   "line": "The number does not move. It never moves up.",
+   "scene": "The number does not move. It never moves up.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.6,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s155",
+   "start": 326.07,
+   "end": 327.21,
+   "line": "You go to your room.",
+   "scene": "You go to your room.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "swish",
+     "at": 0.05,
+     "gain": -20.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s156",
+   "start": 327.67,
+   "end": 328.97,
+   "line": "You stare at the ceiling.",
+   "scene": "You stare at the ceiling.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s157",
+   "start": 329.45,
+   "end": 332.39,
+   "line": "You have spent your whole life thinking people would always be there.",
+   "scene": "You have spent your whole life thinking people would always be there.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s158",
+   "start": 332.73,
+   "end": 333.53,
+   "line": "They will not.",
+   "scene": "They will not.",
+   "set": "bedroom_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.2,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s159",
+   "start": 333.97,
+   "end": 334.99,
+   "line": "Everyone has a number.",
+   "scene": "Everyone has a number.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "swish",
+     "at": 0.05,
+     "gain": -20.5,
+     "pitch": 1.0
+    },
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.82,
+     "gain": -17.5,
+     "seed": 3
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s160",
+   "start": 335.01,
+   "end": 337.03,
+   "line": "And every number is falling.",
+   "scene": "And every number is falling.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.08,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.9
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 3
+    },
+    {
+     "name": "footstep",
+     "at": 1.6,
+     "gain": -17.5,
+     "seed": 4
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s161",
+   "start": 337.51,
+   "end": 339.75,
+   "line": "Monday. You go to Jay's house.",
+   "scene": "Monday. You go to Jay's house.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "swish",
+     "at": 0.05,
+     "gain": -20.5,
+     "pitch": 1.0
+    },
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 5
+    },
+    {
+     "name": "footstep",
+     "at": 1.6,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s162",
+   "start": 339.98,
+   "end": 341.61,
+   "line": "You knock. Nothing.",
+   "scene": "You knock. Nothing.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "doorknock",
+     "gain": -19.5
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s163",
+   "start": 342.01,
+   "end": 342.81,
+   "line": "Tuesday.",
+   "scene": "Tuesday.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "doorknock",
+     "gain": -19.5
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s164",
+   "start": 343.17,
+   "end": 345.33,
+   "line": "You knock again. Nothing.",
+   "scene": "You knock again. Nothing.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s165",
+   "start": 345.67,
+   "end": 347.99,
+   "line": "Wednesday. Thursday. Friday.",
+   "scene": "Wednesday. Thursday. Friday.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "doorknock",
+     "gain": -19.5
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s166",
+   "start": 348.43,
+   "end": 350.55,
+   "line": "You keep going. You bring his homework.",
+   "scene": "You keep going. You bring his homework.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 5
+    },
+    {
+     "name": "footstep",
+     "at": 1.6,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s167",
+   "start": 350.83,
+   "end": 351.97,
+   "line": "You leave it at the door.",
+   "scene": "You leave it at the door.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s168",
+   "start": 352.47,
+   "end": 353.93,
+   "line": "Day seven: rain.",
+   "scene": "Day seven: rain.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "rain",
+     "gain": -15.5
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s169",
+   "start": 354.29,
+   "end": 356.23,
+   "line": "You stand there anyway. Soaked.",
+   "scene": "You stand there anyway. Soaked.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s170",
+   "start": 356.69,
+   "end": 359.17,
+   "line": "Day eight: his little brother opens the door.",
+   "scene": "Day eight: his little brother opens the door.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19.5
+    },
+    {
+     "name": "doorbell",
+     "at": 0.5,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s171",
+   "start": 359.57,
+   "end": 360.89,
+   "line": "He just shakes his head.",
+   "scene": "He just shakes his head.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "doorbell",
+     "at": 0.5,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s172",
+   "start": 361.29,
+   "end": 363.19,
+   "line": "Day nine: you leave a note.",
+   "scene": "Day nine: you leave a note.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "paper",
+     "at": 0.5,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s173",
+   "start": 363.69,
+   "end": 364.77,
+   "line": "Four words.",
+   "scene": "Four words.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s174",
+   "start": 365.13,
+   "end": 367.43,
+   "line": "I was wrong. Forgive me later.",
+   "scene": "I was wrong. Forgive me later.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "doorknock",
+     "at": 0.4,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s175",
+   "start": 367.79,
+   "end": 370.49,
+   "line": "Day ten: you fix his bike chain.",
+   "scene": "Day ten: you fix his bike chain.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s176",
+   "start": 370.85,
+   "end": 371.77,
+   "line": "It was rusted.",
+   "scene": "It was rusted.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "clatter",
+     "at": 0.3,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s177",
+   "start": 372.11,
+   "end": 373.61,
+   "line": "You leave it shining by the gate.",
+   "scene": "You leave it shining by the gate.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "thud",
+     "at": 0.6,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s178",
+   "start": 374.25,
+   "end": 375.73,
+   "line": "Day eleven: nothing.",
+   "scene": "Day eleven: nothing.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.67,
+     "gain": -17.5,
+     "seed": 2
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s179",
+   "start": 376.35,
+   "end": 377.15,
+   "line": "You go anyway.",
+   "scene": "You go anyway.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.36,
+     "gain": -17.5,
+     "seed": 2
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s180",
+   "start": 377.55,
+   "end": 378.87,
+   "line": "Showing up is not a trick.",
+   "scene": "Showing up is not a trick.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.5,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s181",
+   "start": 379.25,
+   "end": 382.01,
+   "line": "It is not a key. It is just showing up.",
+   "scene": "It is not a key. It is just showing up.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.5,
+     "gain": -15.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s182",
+   "start": 382.43,
+   "end": 384.27,
+   "line": "You do not ask for a chance.",
+   "scene": "You do not ask for a chance.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.5,
+     "gain": -17.5,
+     "seed": 5
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s183",
+   "start": 384.59,
+   "end": 387.47,
+   "line": "You do not say sorry. You just show up.",
+   "scene": "You do not say sorry. You just show up.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.5,
+     "gain": -15.5,
+     "pitch": 0.95
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 3
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s184",
+   "start": 387.79,
+   "end": 389.83,
+   "line": "Day twelve. The door opens.",
+   "scene": "Day twelve. The door opens.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19.5
+    },
+    {
+     "name": "doorbell",
+     "at": 0.5,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s185",
+   "start": 390.37,
+   "end": 391.41,
+   "line": "It is Jay's mom.",
+   "scene": "It is Jay's mom.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "swish",
+     "at": 0.3,
+     "gain": -20.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s186",
+   "start": 391.91,
+   "end": 393.85,
+   "line": "She looks at you for a long time.",
+   "scene": "She looks at you for a long time.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0.5,
+     "gain": -20.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s187",
+   "start": 394.13,
+   "end": 396.69,
+   "line": "Then she says: he is in the backyard.",
+   "scene": "Then she says: he is in the backyard.",
+   "set": "jays_house",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.8,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s188",
+   "start": 397.41,
+   "end": 398.91,
+   "line": "You walk around the side.",
+   "scene": "You walk around the side.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.68,
+     "gain": -17.5,
+     "seed": 3
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s189",
+   "start": 399.25,
+   "end": 401.19,
+   "line": "Jay is shooting hoops. Alone.",
+   "scene": "Jay is shooting hoops. Alone.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "kick",
+     "at": 0.6,
+     "gain": -21.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s190",
+   "start": 401.55,
+   "end": 403.69,
+   "line": "He sees you. He does not smile.",
+   "scene": "He sees you. He does not smile.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0.5,
+     "gain": -20.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s191",
+   "start": 404.03,
+   "end": 405.57,
+   "line": "He does not walk away either.",
+   "scene": "He does not walk away either.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.5,
+     "gain": -17.5,
+     "seed": 2
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s192",
+   "start": 405.79,
+   "end": 407.47,
+   "line": "He bounces the ball to you.",
+   "scene": "He bounces the ball to you.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "thud",
+     "at": 0.5,
+     "gain": -19.5,
+     "pitch": 1.0
+    },
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -22.5
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s193",
+   "start": 407.73,
+   "end": 409.63,
+   "line": "One bounce. That is all.",
+   "scene": "One bounce. That is all.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "thud",
+     "at": 0.5,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s194",
+   "start": 410.17,
+   "end": 412.45,
+   "line": "No number above his head. No pill.",
+   "scene": "No number above his head. No pill.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s195",
+   "start": 412.93,
+   "end": 415.53,
+   "line": "Just a ball. Rolling to your feet.",
+   "scene": "Just a ball. Rolling to your feet.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s196",
+   "start": 415.73,
+   "end": 418.73,
+   "line": "And you understand. Zero was not the end.",
+   "scene": "And you understand. Zero was not the end.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "shimmer",
+     "at": 0.3,
+     "gain": -26.6,
+     "pitch": 1.0
+    },
+    {
+     "name": "blip",
+     "at": 1.0,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s197",
+   "start": 419.11,
+   "end": 420.71,
+   "line": "Zero was the end of counting.",
+   "scene": "Zero was the end of counting.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "riser",
+     "at": 0.2,
+     "gain": -21.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s198",
+   "start": 421.11,
+   "end": 423.25,
+   "line": "What comes after zero is not a number.",
+   "scene": "What comes after zero is not a number.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s199",
+   "start": 423.63,
+   "end": 426.97,
+   "line": "It is a choice. His choice. Not yours.",
+   "scene": "It is a choice. His choice. Not yours.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "riser",
+     "at": 0.2,
+     "gain": -21.5,
+     "pitch": 1.0
+    },
+    {
+     "name": "blip",
+     "at": 1.2,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s200",
+   "start": 427.39,
+   "end": 428.45,
+   "line": "You pick up the ball.",
+   "scene": "You pick up the ball.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "thud",
+     "at": 0.5,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s201",
+   "start": 428.95,
+   "end": 430.73,
+   "line": "You shoot. You miss.",
+   "scene": "You shoot. You miss.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "swish",
+     "at": 0.4,
+     "gain": -20.5,
+     "pitch": 1.0
+    },
+    {
+     "name": "thud",
+     "at": 1.2,
+     "gain": -19.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s202",
+   "start": 431.07,
+   "end": 432.69,
+   "line": "He laughs. Just once.",
+   "scene": "He laughs. Just once.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.5,
+     "gain": -15.5,
+     "pitch": 1.1
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s203",
+   "start": 432.93,
+   "end": 434.77,
+   "line": "Short. But it is real.",
+   "scene": "Short. But it is real.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "slowmo",
+     "at": 0.3,
+     "gain": -21.5,
+     "pitch": 1.0
+    },
+    {
+     "name": "blip",
+     "at": 0.8,
+     "gain": -15.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s204",
+   "start": 435.21,
+   "end": 436.37,
+   "line": "You play for an hour.",
+   "scene": "You play for an hour.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 0.52,
+     "gain": -17.5,
+     "seed": 4
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s205",
+   "start": 436.77,
+   "end": 439.09,
+   "line": "No one says sorry. No one has to.",
+   "scene": "No one says sorry. No one has to.",
+   "set": "backyard",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.8,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s206",
+   "start": 439.49,
+   "end": 441.09,
+   "line": "That night you call your mom.",
+   "scene": "That night you call your mom.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "phonebuzz",
+     "gain": -15.5
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s207",
+   "start": 441.33,
+   "end": 443.21,
+   "line": "First. Every night now.",
+   "scene": "First. Every night now.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s208",
+   "start": 443.67,
+   "end": 445.89,
+   "line": "You walk your sister home. Every day.",
+   "scene": "You walk your sister home. Every day.",
+   "set": "street_morning",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "swish",
+     "at": 0.05,
+     "gain": -20.5,
+     "pitch": 1.0
+    },
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -17.5
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 4
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s209",
+   "start": 446.35,
+   "end": 448.57,
+   "line": "You do the dishes. You show up.",
+   "scene": "You do the dishes. You show up.",
+   "set": "kitchen_evening",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.9
+    },
+    {
+     "name": "footstep",
+     "at": 0.9,
+     "gain": -17.5,
+     "seed": 5
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s210",
+   "start": 448.83,
+   "end": 450.85,
+   "line": "Your number never goes back up.",
+   "scene": "Your number never goes back up.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "pop",
+     "at": 0.15,
+     "gain": -19.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s211",
+   "start": 451.11,
+   "end": 454.11,
+   "line": "It stays four. It will always stay four.",
+   "scene": "It stays four. It will always stay four.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.6,
+     "gain": -15.5,
+     "pitch": 1.05
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s212",
+   "start": 454.13,
+   "end": 455.21,
+   "line": "But that is not the point.",
+   "scene": "But that is not the point.",
+   "set": "bathroom_mirror",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "flash",
+     "at": 0.3,
+     "gain": -17.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s213",
+   "start": 455.51,
+   "end": 457.83,
+   "line": "The point is: you cannot earn a chance back.",
+   "scene": "The point is: you cannot earn a chance back.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "swish",
+     "at": 0.05,
+     "gain": -20.5,
+     "pitch": 1.0
+    },
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 1.1
+    },
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s214",
+   "start": 458.13,
+   "end": 459.63,
+   "line": "You can only earn the next one.",
+   "scene": "You can only earn the next one.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 0.9
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s215",
+   "start": 459.89,
+   "end": 462.31,
+   "line": "So spend every chance like it is your last.",
+   "scene": "So spend every chance like it is your last.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.3,
+     "gain": -15.5,
+     "pitch": 0.95
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s216",
+   "start": 462.89,
+   "end": 464.95,
+   "line": "Because one day, it is.",
+   "scene": "Because one day, it is.",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 0.4,
+     "gain": -15.5,
+     "pitch": 1.0
+    }
+   ],
+   "amb": null
+  },
+  {
+   "id": "s217",
+   "start": 465.39,
+   "end": 468.03,
+   "line": "Tell me in the comments. Who would you call first?",
+   "scene": "Tell me in the comments. Who would you call first?",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.5
+    },
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.6
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -26.6
+    }
+   ],
+   "amb": null
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 15.2,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 15.2,
+   "end": 25.6,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 25.6,
+   "end": 29.9,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 29.9,
+   "end": 37.6,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 37.6,
+   "end": 60,
+   "mood": "wonder",
+   "intensity": 0.5
+  },
+  {
+   "start": 60,
+   "end": 120,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 120,
+   "end": 180,
+   "mood": "sad",
+   "intensity": 0.5
+  },
+  {
+   "start": 180,
+   "end": 240,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 240,
+   "end": 300,
+   "mood": "tension",
+   "intensity": 0.6
+  },
+  {
+   "start": 300,
+   "end": 360,
+   "mood": "dark",
+   "intensity": 0.55
+  },
+  {
+   "start": 360,
+   "end": 420,
+   "mood": "sad",
+   "intensity": 0.5
+  },
+  {
+   "start": 420,
+   "end": 9999,
+   "mood": "hopeful",
+   "intensity": 0.55
+  }
+ ]
+}

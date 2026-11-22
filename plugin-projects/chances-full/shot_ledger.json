@@ -1,0 +1,1304 @@
+[
+ {
+  "id": "s001",
+  "file": "01_wake.js",
+  "line": "You wake up.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s002",
+  "file": "02_see_it.js",
+  "line": "And you see it.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s003",
+  "file": "03_number.js",
+  "line": "A number. Above every head.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s004",
+  "file": "04_walk_street.js",
+  "line": "Kian. That's your name.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s005",
+  "file": "05_seventeen.js",
+  "line": "Seventeen.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s006",
+  "file": "06_chances.js",
+  "line": "The number is your chances.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s007",
+  "file": "07_drops.js",
+  "line": "Every mistake, it drops by one.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s008",
+  "file": "08_never_back.js",
+  "line": "It never goes back up.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s009",
+  "file": "09_sorry.js",
+  "line": "Not even if you say sorry.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s010",
+  "file": "10_snap.js",
+  "line": "So you test it.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s011",
+  "file": "s010b_snap.js",
+  "line": "You snap at Jay, your best friend.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s012",
+  "file": "11_six_five.js",
+  "line": "Six. Five.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s013",
+  "file": "12_laugh.js",
+  "line": "You laugh.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s014",
+  "file": "13_forgot.js",
+  "line": "Then you forget his birthday.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s015",
+  "file": "14_five_four.js",
+  "line": "Five. Four.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s016",
+  "file": "15_freeze.js",
+  "line": "",
+  "set": "void"
+ },
+ {
+  "id": "s017",
+  "file": "16_miss_game.js",
+  "line": "You miss his game.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s018",
+  "file": "17_countdown.js",
+  "line": "Four. Three.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s019",
+  "file": "s017b_countdown.js",
+  "line": "Two. One.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s020",
+  "file": "18_one_left.js",
+  "line": "One chance left.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s021",
+  "file": "19_almost_done.js",
+  "line": "He is almost done with you.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s022",
+  "file": "20_mirror_walk.js",
+  "line": "Then you look in a mirror.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s023",
+  "file": "21_own_number.js",
+  "line": "Your own number. Above your own head.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s024",
+  "file": "22_everyone.js",
+  "line": "Everyone has one for you too.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s025",
+  "file": "23_mom_three.js",
+  "line": "Your mom's number? Three.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s026",
+  "file": "24_call_her.js",
+  "line": "So tonight, you call her first.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s027",
+  "file": "25_grow_back.js",
+  "line": "Because chances do not grow back.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s028",
+  "file": "26_call_answers.js",
+  "line": "She picks up. You say sorry.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s029",
+  "file": "27_sorry_words.js",
+  "line": "Her number does not move. Still three.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s030",
+  "file": "s027b_sorry.js",
+  "line": "Sorry is just a word.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s031",
+  "file": "s027c_words.js",
+  "line": "The number does not listen to words.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s032",
+  "file": "s028_test.js",
+  "line": "So you run a test.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s033",
+  "file": "s029_real_one.js",
+  "line": "A real one.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s034",
+  "file": "s030_cut_line.js",
+  "line": "You cut in line at lunch.",
+  "set": "cafeteria"
+ },
+ {
+  "id": "s035",
+  "file": "s031_boy_behind.js",
+  "line": "The boy behind you?",
+  "set": "cafeteria"
+ },
+ {
+  "id": "s036",
+  "file": "s032_eight_seven.js",
+  "line": "Eight. Seven.",
+  "set": "cafeteria"
+ },
+ {
+  "id": "s037",
+  "file": "s033_no_name.js",
+  "line": "You do not even know his name.",
+  "set": "cafeteria"
+ },
+ {
+  "id": "s038",
+  "file": "s034_still_counts.js",
+  "line": "It still counts.",
+  "set": "cafeteria"
+ },
+ {
+  "id": "s039",
+  "file": "s035_left_read.js",
+  "line": "You leave your sister on read.",
+  "set": "hallway"
+ },
+ {
+  "id": "s040",
+  "file": "s036_nine_eight.js",
+  "line": "Nine. Eight.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s041",
+  "file": "s037_late_class.js",
+  "line": "You are late to class.",
+  "set": "hallway"
+ },
+ {
+  "id": "s042",
+  "file": "s038_small_things.js",
+  "line": "Every small thing counts. Every single one.",
+  "set": "hallway"
+ },
+ {
+  "id": "s043",
+  "file": "s039_other_way.js",
+  "line": "So you try the other way.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s044",
+  "file": "s040_hold_door.js",
+  "line": "You hold a door.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s045",
+  "file": "s041_help_books.js",
+  "line": "You help a stranger with his books.",
+  "set": "park"
+ },
+ {
+  "id": "s046",
+  "file": "s042_smile_lunch.js",
+  "line": "You smile at the lunch lady.",
+  "set": "cafeteria"
+ },
+ {
+  "id": "s047",
+  "file": "s043_wait_nothing.js",
+  "line": "You wait. Nothing.",
+  "set": "cafeteria"
+ },
+ {
+  "id": "s048",
+  "file": "s044_numbers_not_move.js",
+  "line": "The numbers do not move.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s049",
+  "file": "s044b_not_one.js",
+  "line": "Not one.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s050",
+  "file": "s045_good_not_undo.js",
+  "line": "Good does not undo bad.",
+  "set": "park"
+ },
+ {
+  "id": "s051",
+  "file": "s045b_waits.js",
+  "line": "Good just waits.",
+  "set": "park"
+ },
+ {
+  "id": "s052",
+  "file": "s046_the_rule.js",
+  "line": "That is the rule.",
+  "set": "void"
+ },
+ {
+  "id": "s053",
+  "file": "s047_bad_second.js",
+  "line": "Bad drops it in a second.",
+  "set": "void"
+ },
+ {
+  "id": "s054",
+  "file": "s048_good_forever.js",
+  "line": "Good takes forever to matter.",
+  "set": "void"
+ },
+ {
+  "id": "s055",
+  "file": "s049_mia_nine.js",
+  "line": "Your sister Mia has nine. Nine chances.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s056",
+  "file": "s050_borrow_charger.js",
+  "line": "You borrow her charger.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s057",
+  "file": "s051_snap_half.js",
+  "line": "You snap it in half. Nine. Eight.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s058",
+  "file": "s052_leftovers.js",
+  "line": "You eat her leftovers.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s059",
+  "file": "s052b_leftovers.js",
+  "line": "The ones with her name on them.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s060",
+  "file": "s053_eight_seven.js",
+  "line": "Eight. Seven.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s061",
+  "file": "s054_promise_pickup.js",
+  "line": "You promise to pick her up after practice.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s062",
+  "file": "s055_forget_game.js",
+  "line": "You forget. You are playing a game.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s063",
+  "file": "s056_seven_six.js",
+  "line": "Seven. Six.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s064",
+  "file": "s057_stops_asking.js",
+  "line": "She stops asking you for things.",
+  "set": "hallway"
+ },
+ {
+  "id": "s065",
+  "file": "s057b_stops_telling.js",
+  "line": "She stops telling you things.",
+  "set": "hallway"
+ },
+ {
+  "id": "s066",
+  "file": "s058_guards_gold.js",
+  "line": "Six chances, and she already guards them like gold.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s067",
+  "file": "s059_watch_clock.js",
+  "line": "You watch her number like a clock.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s068",
+  "file": "s059b_ticks_down.js",
+  "line": "Every mistake ticks it down.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s069",
+  "file": "s060_want_tell.js",
+  "line": "You want to tell her. You want to warn her.",
+  "set": "hallway"
+ },
+ {
+  "id": "s070",
+  "file": "s061_what_say.js",
+  "line": "But what would you say?",
+  "set": "hallway"
+ },
+ {
+  "id": "s071",
+  "file": "s061b_patience.js",
+  "line": "I can see your patience running out?",
+  "set": "hallway"
+ },
+ {
+  "id": "s072",
+  "file": "s062_would_laugh.js",
+  "line": "She would laugh. Then it would drop again.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s073",
+  "file": "s063_freeze66.js",
+  "line": "Science says a new habit takes sixty-six days.",
+  "set": "void"
+ },
+ {
+  "id": "s074",
+  "file": "s063b_habit_calendar.js",
+  "line": "Sixty-six days to build one good habit.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s075",
+  "file": "s064_one_second.js",
+  "line": "One bad moment takes one second.",
+  "set": "void"
+ },
+ {
+  "id": "s076",
+  "file": "s064b_break_it.js",
+  "line": "That is the math. One second to break it.",
+  "set": "void"
+ },
+ {
+  "id": "s077",
+  "file": "s064c_rebuild_it.js",
+  "line": "Sixty-six days to rebuild it.",
+  "set": "void"
+ },
+ {
+  "id": "s078",
+  "file": "s065_count_days.js",
+  "line": "You start counting your own days.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s079",
+  "file": "s066_day_one.js",
+  "line": "Day one: you do the dishes. No one notices.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s080",
+  "file": "s067_day_two.js",
+  "line": "Day two: you walk your sister home.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s081",
+  "file": "s067b_stays_six.js",
+  "line": "Her number stays six.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s082",
+  "file": "s068_day_three.js",
+  "line": "Day three: you text Jay.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s083",
+  "file": "s068b_no_answer.js",
+  "line": "Just hey. No answer.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s084",
+  "file": "s069_day456.js",
+  "line": "Day four. Day five. Day six.",
+  "set": "schoolyard"
+ },
+ {
+  "id": "s085",
+  "file": "s070_keep_showing.js",
+  "line": "You keep showing up. The numbers do not move.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s086",
+  "file": "s071_something_else.js",
+  "line": "But something else does.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s087",
+  "file": "s071b_mom_smiles.js",
+  "line": "Your mom smiles when you come home.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s088",
+  "file": "s072_saves_seat.js",
+  "line": "Your sister saves you a seat.",
+  "set": "cafeteria"
+ },
+ {
+  "id": "s089",
+  "file": "s073_jay_reads.js",
+  "line": "Jay reads your text.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s090",
+  "file": "s073b_reads_it.js",
+  "line": "He does not reply. But he reads it.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s091",
+  "file": "s074_friday.js",
+  "line": "Friday. The big game.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s092",
+  "file": "s074b_whole_school.js",
+  "line": "The whole school is there.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s093",
+  "file": "s075_jay_starting.js",
+  "line": "Jay is starting. And you want to look cool.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s094",
+  "file": "s076_tell_secret.js",
+  "line": "So you tell the team his secret.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s095",
+  "file": "s077_confidence.js",
+  "line": "The one he told you in confidence.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s096",
+  "file": "s077b_dad_leaving.js",
+  "line": "The one about his dad leaving.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s097",
+  "file": "s078_like_joke.js",
+  "line": "You say it like a joke.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s098",
+  "file": "s078b_team_laughs.js",
+  "line": "The team laughs.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s099",
+  "file": "s079_jay_hears.js",
+  "line": "Jay hears it.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s100",
+  "file": "s079b_behind_you.js",
+  "line": "He is standing right behind you.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s101",
+  "file": "s080_one_left.js",
+  "line": "His number is one. One chance left.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s102",
+  "file": "s081_one_zero.js",
+  "line": "You watch it happen. One. Zero.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s103",
+  "file": "s082_pill_gone.js",
+  "line": "The pill does not turn red.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s104",
+  "file": "s082b_flash.js",
+  "line": "It does not flash. It just disappears.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s105",
+  "file": "s082c_gone.js",
+  "line": "Gone. Like he is gone.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s106",
+  "file": "s083_walks_away.js",
+  "line": "He does not yell.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s107",
+  "file": "s083b_walks_off.js",
+  "line": "He does not hit you. He just walks away.",
+  "set": "gym_court"
+ },
+ {
+  "id": "s108",
+  "file": "s084_no_answer.js",
+  "line": "He does not answer your texts.",
+  "set": "hallway"
+ },
+ {
+  "id": "s109",
+  "file": "s084b_looks_through.js",
+  "line": "At school, he looks through you.",
+  "set": "hallway"
+ },
+ {
+  "id": "s110",
+  "file": "s085_like_glass.js",
+  "line": "Like glass. Like you are not there.",
+  "set": "hallway"
+ },
+ {
+  "id": "s111",
+  "file": "s086_zero_done.js",
+  "line": "Zero does not mean angry.",
+  "set": "void"
+ },
+ {
+  "id": "s112",
+  "file": "s086b_means_done.js",
+  "line": "Zero means done.",
+  "set": "void"
+ },
+ {
+  "id": "s113",
+  "file": "s087_done_quiet.js",
+  "line": "Done is quiet. Done does not slam doors.",
+  "set": "hallway"
+ },
+ {
+  "id": "s114",
+  "file": "s087b_stops_opening.js",
+  "line": "Done just stops opening them.",
+  "set": "hallway"
+ },
+ {
+  "id": "s115",
+  "file": "s088_bus_saturday.js",
+  "line": "Saturday. You are on the bus.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s116",
+  "file": "s089_old_one.js",
+  "line": "An old man gets on. His number is one.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s117",
+  "file": "s090_kid_bump.js",
+  "line": "A kid bumps into him. Spills his coffee.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s118",
+  "file": "s091_bus_zero.js",
+  "line": "One. Zero.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s119",
+  "file": "s091b_pill_gone.js",
+  "line": "The pill is gone.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s120",
+  "file": "s092_old_sits.js",
+  "line": "The old man does not shout.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s121",
+  "file": "s092b_looks_window.js",
+  "line": "He just sits down. He looks out the window.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s122",
+  "file": "s093_used_to_it.js",
+  "line": "He is used to it. That is the worst part.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s123",
+  "file": "s093b_done_with.js",
+  "line": "He is used to being done with.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s124",
+  "file": "s094_help_him.js",
+  "line": "You want to say something. You want to help him up.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s125",
+  "file": "s095_reason.js",
+  "line": "But you are the reason someone else looks like that now.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s126",
+  "file": "s095b_get_off_bus.js",
+  "line": "You get off the bus.",
+  "set": "bus_stop"
+ },
+ {
+  "id": "s127",
+  "file": "s096_walk_slow.js",
+  "line": "You walk home. Slow.",
+  "set": "street_night"
+ },
+ {
+  "id": "s128",
+  "file": "s097_couple.js",
+  "line": "On your street, a couple argues on a porch.",
+  "set": "street_night"
+ },
+ {
+  "id": "s129",
+  "file": "s097b_her_four.js",
+  "line": "Her number is four.",
+  "set": "street_night"
+ },
+ {
+  "id": "s130",
+  "file": "s098_four_three.js",
+  "line": "He says one more thing.",
+  "set": "street_night"
+ },
+ {
+  "id": "s131",
+  "file": "s098b_four_three.js",
+  "line": "Four. Three. She turns away.",
+  "set": "street_night"
+ },
+ {
+  "id": "s132",
+  "file": "s099_something_left.js",
+  "line": "He stands there, hands in his pockets.",
+  "set": "street_night"
+ },
+ {
+  "id": "s133",
+  "file": "s099b_nobody_yells.js",
+  "line": "Nobody yells.",
+  "set": "street_night"
+ },
+ {
+  "id": "s134",
+  "file": "s099c_left_anyway.js",
+  "line": "Nobody leaves. But something left anyway.",
+  "set": "street_night"
+ },
+ {
+  "id": "s135",
+  "file": "s100_count_them.js",
+  "line": "You keep walking. Every street has a number falling somewhere.",
+  "set": "street_night"
+ },
+ {
+  "id": "s136",
+  "file": "s100b_every_house.js",
+  "line": "Every house. Every room.",
+  "set": "street_night"
+ },
+ {
+  "id": "s137",
+  "file": "s101_count_pass.js",
+  "line": "You count them as you pass.",
+  "set": "street_night"
+ },
+ {
+  "id": "s138",
+  "file": "s101b_count_pass.js",
+  "line": "Eight. Six. Five. Three.",
+  "set": "street_night"
+ },
+ {
+  "id": "s139",
+  "file": "s102_stop_run.js",
+  "line": "You stop counting. You run the rest of the way home.",
+  "set": "street_night"
+ },
+ {
+  "id": "s140",
+  "file": "s103_mirror_check.js",
+  "line": "You check the mirror.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s141",
+  "file": "s103b_was_five.js",
+  "line": "Your number was five.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s142",
+  "file": "s104_now_four.js",
+  "line": "Now it is four.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s143",
+  "file": "s104b_four_chances.js",
+  "line": "Four chances left with the people who matter.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s144",
+  "file": "s105_lost_piece.js",
+  "line": "You did not lose Jay's number.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s145",
+  "file": "s105b_piece_own.js",
+  "line": "You lost a piece of your own.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s146",
+  "file": "s106_dinner.js",
+  "line": "Then dinner.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s147",
+  "file": "s106b_asks_day.js",
+  "line": "Your mom asks about your day.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s148",
+  "file": "s107_snap_mom.js",
+  "line": "You snap at her.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s149",
+  "file": "s107b_tired_scared.js",
+  "line": "You are tired. You are scared.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s150",
+  "file": "s108_she_quiet.js",
+  "line": "She goes quiet. Her number was three.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s151",
+  "file": "s108b_now_two.js",
+  "line": "Now it is two. Two.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s152",
+  "file": "s109_sorry3.js",
+  "line": "You watch it drop and you cannot stop it.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s153",
+  "file": "s109b_sorry3.js",
+  "line": "You say sorry. Sorry. Sorry.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s154",
+  "file": "s109c_never_moves.js",
+  "line": "The number does not move. It never moves up.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s155",
+  "file": "s110_room_ceiling.js",
+  "line": "You go to your room.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s156",
+  "file": "s110b_ceiling.js",
+  "line": "You stare at the ceiling.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s157",
+  "file": "s111_always_there.js",
+  "line": "You have spent your whole life thinking people would always be there.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s158",
+  "file": "s111b_will_not.js",
+  "line": "They will not.",
+  "set": "bedroom_morning"
+ },
+ {
+  "id": "s159",
+  "file": "s112_every_number.js",
+  "line": "Everyone has a number.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s160",
+  "file": "s112b_falling.js",
+  "line": "And every number is falling.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s161",
+  "file": "s113_monday.js",
+  "line": "Monday. You go to Jay's house.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s162",
+  "file": "s114_knock_nothing.js",
+  "line": "You knock. Nothing.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s163",
+  "file": "s115_tuesday.js",
+  "line": "Tuesday.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s164",
+  "file": "s115b_knock_nothing.js",
+  "line": "You knock again. Nothing.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s165",
+  "file": "s116_wed_fri.js",
+  "line": "Wednesday. Thursday. Friday.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s166",
+  "file": "s117_keep_going.js",
+  "line": "You keep going. You bring his homework.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s167",
+  "file": "s117b_leave_door.js",
+  "line": "You leave it at the door.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s168",
+  "file": "s118_day_seven.js",
+  "line": "Day seven: rain.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s169",
+  "file": "s118b_soaked.js",
+  "line": "You stand there anyway. Soaked.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s170",
+  "file": "s119_day_eight.js",
+  "line": "Day eight: his little brother opens the door.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s171",
+  "file": "s119b_shakes_head.js",
+  "line": "He just shakes his head.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s172",
+  "file": "s120_day_nine.js",
+  "line": "Day nine: you leave a note.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s173",
+  "file": "s120b_four_words.js",
+  "line": "Four words.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s174",
+  "file": "s120c_was_wrong.js",
+  "line": "I was wrong. Forgive me later.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s175",
+  "file": "s121_day_ten.js",
+  "line": "Day ten: you fix his bike chain.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s176",
+  "file": "s121b_rusted.js",
+  "line": "It was rusted.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s177",
+  "file": "s122_shining.js",
+  "line": "You leave it shining by the gate.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s178",
+  "file": "s123_day_eleven.js",
+  "line": "Day eleven: nothing.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s179",
+  "file": "s123b_go_anyway.js",
+  "line": "You go anyway.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s180",
+  "file": "s124_not_trick.js",
+  "line": "Showing up is not a trick.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s181",
+  "file": "s124b2_not_key.js",
+  "line": "It is not a key. It is just showing up.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s182",
+  "file": "s124b_ask_chance.js",
+  "line": "You do not ask for a chance.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s183",
+  "file": "s124b3_show_up.js",
+  "line": "You do not say sorry. You just show up.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s184",
+  "file": "s125_day_twelve.js",
+  "line": "Day twelve. The door opens.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s185",
+  "file": "s126_jays_mom.js",
+  "line": "It is Jay's mom.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s186",
+  "file": "s126b_looks_long.js",
+  "line": "She looks at you for a long time.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s187",
+  "file": "s126c_backyard.js",
+  "line": "Then she says: he is in the backyard.",
+  "set": "jays_house"
+ },
+ {
+  "id": "s188",
+  "file": "s127_around_side.js",
+  "line": "You walk around the side.",
+  "set": "backyard"
+ },
+ {
+  "id": "s189",
+  "file": "s128_shooting_hoops.js",
+  "line": "Jay is shooting hoops. Alone.",
+  "set": "backyard"
+ },
+ {
+  "id": "s190",
+  "file": "s129_he_sees.js",
+  "line": "He sees you. He does not smile.",
+  "set": "backyard"
+ },
+ {
+  "id": "s191",
+  "file": "s129b_not_walk_away.js",
+  "line": "He does not walk away either.",
+  "set": "backyard"
+ },
+ {
+  "id": "s192",
+  "file": "s130_bounce.js",
+  "line": "He bounces the ball to you.",
+  "set": "backyard"
+ },
+ {
+  "id": "s193",
+  "file": "s130b_one_bounce.js",
+  "line": "One bounce. That is all.",
+  "set": "backyard"
+ },
+ {
+  "id": "s194",
+  "file": "s131_no_number.js",
+  "line": "No number above his head. No pill.",
+  "set": "backyard"
+ },
+ {
+  "id": "s195",
+  "file": "s131b_just_ball.js",
+  "line": "Just a ball. Rolling to your feet.",
+  "set": "backyard"
+ },
+ {
+  "id": "s196",
+  "file": "s132_understand.js",
+  "line": "And you understand. Zero was not the end.",
+  "set": "backyard"
+ },
+ {
+  "id": "s197",
+  "file": "s132b_end_counting.js",
+  "line": "Zero was the end of counting.",
+  "set": "backyard"
+ },
+ {
+  "id": "s198",
+  "file": "s133_choice.js",
+  "line": "What comes after zero is not a number.",
+  "set": "backyard"
+ },
+ {
+  "id": "s199",
+  "file": "s133b_his_choice.js",
+  "line": "It is a choice. His choice. Not yours.",
+  "set": "backyard"
+ },
+ {
+  "id": "s200",
+  "file": "s134_pick_ball.js",
+  "line": "You pick up the ball.",
+  "set": "backyard"
+ },
+ {
+  "id": "s201",
+  "file": "s134b_shoot_miss.js",
+  "line": "You shoot. You miss.",
+  "set": "backyard"
+ },
+ {
+  "id": "s202",
+  "file": "s135_he_laughs.js",
+  "line": "He laughs. Just once.",
+  "set": "backyard"
+ },
+ {
+  "id": "s203",
+  "file": "s135b_it_is_real.js",
+  "line": "Short. But it is real.",
+  "set": "backyard"
+ },
+ {
+  "id": "s204",
+  "file": "s136_play_hour.js",
+  "line": "You play for an hour.",
+  "set": "backyard"
+ },
+ {
+  "id": "s205",
+  "file": "s136b_no_one_has_to.js",
+  "line": "No one says sorry. No one has to.",
+  "set": "backyard"
+ },
+ {
+  "id": "s206",
+  "file": "s137_call_mom.js",
+  "line": "That night you call your mom.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s207",
+  "file": "s137b_first_every.js",
+  "line": "First. Every night now.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s208",
+  "file": "s138_walk_sister.js",
+  "line": "You walk your sister home. Every day.",
+  "set": "street_morning"
+ },
+ {
+  "id": "s209",
+  "file": "s139_dishes_showup.js",
+  "line": "You do the dishes. You show up.",
+  "set": "kitchen_evening"
+ },
+ {
+  "id": "s210",
+  "file": "s140_mirror_four.js",
+  "line": "Your number never goes back up.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s211",
+  "file": "s140b_stays_four.js",
+  "line": "It stays four. It will always stay four.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s212",
+  "file": "s141_not_point.js",
+  "line": "But that is not the point.",
+  "set": "bathroom_mirror"
+ },
+ {
+  "id": "s213",
+  "file": "s142_cannot_earn.js",
+  "line": "The point is: you cannot earn a chance back.",
+  "set": "void"
+ },
+ {
+  "id": "s214",
+  "file": "s142b_earn_next.js",
+  "line": "You can only earn the next one.",
+  "set": "void"
+ },
+ {
+  "id": "s215",
+  "file": "s143_spend_every.js",
+  "line": "So spend every chance like it is your last.",
+  "set": "void"
+ },
+ {
+  "id": "s216",
+  "file": "s143b_one_day.js",
+  "line": "Because one day, it is.",
+  "set": "void"
+ },
+ {
+  "id": "s217",
+  "file": "s144_cta.js",
+  "line": "Tell me in the comments. Who would you call first?",
+  "set": "void"
+ }
+]

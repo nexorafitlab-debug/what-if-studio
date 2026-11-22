@@ -1,0 +1,598 @@
+{
+ "s010": {
+  "dur": 3.04,
+  "n": 2,
+  "parts": [
+   "So you test it.",
+   "You snap at Jay, your best friend."
+  ],
+  "set": "schoolyard"
+ },
+ "s017": {
+  "dur": 3.66,
+  "n": 2,
+  "parts": [
+   "Four. Three.",
+   "Two. One."
+  ],
+  "set": "gym_court"
+ },
+ "s027": {
+  "dur": 6.7,
+  "n": 3,
+  "parts": [
+   "Her number does not move. Still three.",
+   "Sorry is just a word.",
+   "The number does not listen to words."
+  ],
+  "set": "kitchen_evening"
+ },
+ "s044": {
+  "dur": 3.06,
+  "n": 2,
+  "parts": [
+   "The numbers do not move.",
+   "Not one."
+  ],
+  "set": "street_morning"
+ },
+ "s045": {
+  "dur": 3.18,
+  "n": 2,
+  "parts": [
+   "Good does not undo bad.",
+   "Good just waits."
+  ],
+  "set": "park"
+ },
+ "s052": {
+  "dur": 2.92,
+  "n": 2,
+  "parts": [
+   "You eat her leftovers.",
+   "The ones with her name on them."
+  ],
+  "set": "kitchen_evening"
+ },
+ "s057": {
+  "dur": 3.28,
+  "n": 2,
+  "parts": [
+   "She stops asking you for things.",
+   "She stops telling you things."
+  ],
+  "set": "hallway"
+ },
+ "s059": {
+  "dur": 3.52,
+  "n": 2,
+  "parts": [
+   "You watch her number like a clock.",
+   "Every mistake ticks it down."
+  ],
+  "set": "bedroom_morning"
+ },
+ "s061": {
+  "dur": 3.78,
+  "n": 2,
+  "parts": [
+   "But what would you say?",
+   "I can see your patience running out?"
+  ],
+  "set": "hallway"
+ },
+ "s063": {
+  "dur": 5.6,
+  "n": 2,
+  "parts": [
+   "Science says a new habit takes sixty-six days.",
+   "Sixty-six days to build one good habit."
+  ],
+  "set": "void",
+  "part_sets": {
+   "1": "bedroom_morning"
+  }
+ },
+ "s064": {
+  "dur": 6.66,
+  "n": 3,
+  "parts": [
+   "One bad moment takes one second.",
+   "That is the math. One second to break it.",
+   "Sixty-six days to rebuild it."
+  ],
+  "set": "void"
+ },
+ "s067": {
+  "dur": 4.3,
+  "n": 2,
+  "parts": [
+   "Day two: you walk your sister home.",
+   "Her number stays six."
+  ],
+  "set": "street_morning"
+ },
+ "s068": {
+  "dur": 3.46,
+  "n": 2,
+  "parts": [
+   "Day three: you text Jay.",
+   "Just hey. No answer."
+  ],
+  "set": "bedroom_morning"
+ },
+ "s071": {
+  "dur": 3.38,
+  "n": 2,
+  "parts": [
+   "But something else does.",
+   "Your mom smiles when you come home."
+  ],
+  "set": "kitchen_evening"
+ },
+ "s073": {
+  "dur": 3.96,
+  "n": 2,
+  "parts": [
+   "Jay reads your text.",
+   "He does not reply. But he reads it."
+  ],
+  "set": "bedroom_morning"
+ },
+ "s074": {
+  "dur": 3.4,
+  "n": 2,
+  "parts": [
+   "Friday. The big game.",
+   "The whole school is there."
+  ],
+  "set": "gym_court"
+ },
+ "s077": {
+  "dur": 3.5,
+  "n": 2,
+  "parts": [
+   "The one he told you in confidence.",
+   "The one about his dad leaving."
+  ],
+  "set": "gym_court"
+ },
+ "s078": {
+  "dur": 3.16,
+  "n": 2,
+  "parts": [
+   "You say it like a joke.",
+   "The team laughs."
+  ],
+  "set": "gym_court"
+ },
+ "s079": {
+  "dur": 2.86,
+  "n": 2,
+  "parts": [
+   "Jay hears it.",
+   "He is standing right behind you."
+  ],
+  "set": "gym_court"
+ },
+ "s082": {
+  "dur": 6.42,
+  "n": 3,
+  "parts": [
+   "The pill does not turn red.",
+   "It does not flash. It just disappears.",
+   "Gone. Like he is gone."
+  ],
+  "set": "gym_court"
+ },
+ "s083": {
+  "dur": 3.8,
+  "n": 2,
+  "parts": [
+   "He does not yell.",
+   "He does not hit you. He just walks away."
+  ],
+  "set": "gym_court"
+ },
+ "s084": {
+  "dur": 3.34,
+  "n": 2,
+  "parts": [
+   "He does not answer your texts.",
+   "At school, he looks through you."
+  ],
+  "set": "hallway"
+ },
+ "s086": {
+  "dur": 3.36,
+  "n": 2,
+  "parts": [
+   "Zero does not mean angry.",
+   "Zero means done."
+  ],
+  "set": "void"
+ },
+ "s087": {
+  "dur": 5.6,
+  "n": 2,
+  "parts": [
+   "Done is quiet. Done does not slam doors.",
+   "Done just stops opening them."
+  ],
+  "set": "hallway"
+ },
+ "s091": {
+  "dur": 2.88,
+  "n": 2,
+  "parts": [
+   "One. Zero.",
+   "The pill is gone."
+  ],
+  "set": "bus_stop"
+ },
+ "s092": {
+  "dur": 4.78,
+  "n": 2,
+  "parts": [
+   "The old man does not shout.",
+   "He just sits down. He looks out the window."
+  ],
+  "set": "bus_stop"
+ },
+ "s093": {
+  "dur": 3.7,
+  "n": 2,
+  "parts": [
+   "He is used to it. That is the worst part.",
+   "He is used to being done with."
+  ],
+  "set": "bus_stop"
+ },
+ "s095": {
+  "dur": 4.7,
+  "n": 2,
+  "parts": [
+   "But you are the reason someone else looks like that now.",
+   "You get off the bus."
+  ],
+  "set": "bus_stop"
+ },
+ "s097": {
+  "dur": 3.7,
+  "n": 2,
+  "parts": [
+   "On your street, a couple argues on a porch.",
+   "Her number is four."
+  ],
+  "set": "street_night"
+ },
+ "s098": {
+  "dur": 4.32,
+  "n": 2,
+  "parts": [
+   "He says one more thing.",
+   "Four. Three. She turns away."
+  ],
+  "set": "street_night"
+ },
+ "s099": {
+  "dur": 6.5,
+  "n": 3,
+  "parts": [
+   "He stands there, hands in his pockets.",
+   "Nobody yells.",
+   "Nobody leaves. But something left anyway."
+  ],
+  "set": "street_night"
+ },
+ "s100": {
+  "dur": 5.04,
+  "n": 2,
+  "parts": [
+   "You keep walking. Every street has a number falling somewhere.",
+   "Every house. Every room."
+  ],
+  "set": "street_night"
+ },
+ "s101": {
+  "dur": 5.26,
+  "n": 2,
+  "parts": [
+   "You count them as you pass.",
+   "Eight. Six. Five. Three."
+  ],
+  "set": "street_night"
+ },
+ "s103": {
+  "dur": 2.94,
+  "n": 2,
+  "parts": [
+   "You check the mirror.",
+   "Your number was five."
+  ],
+  "set": "bathroom_mirror"
+ },
+ "s104": {
+  "dur": 3.86,
+  "n": 2,
+  "parts": [
+   "Now it is four.",
+   "Four chances left with the people who matter."
+  ],
+  "set": "bathroom_mirror"
+ },
+ "s105": {
+  "dur": 3.48,
+  "n": 2,
+  "parts": [
+   "You did not lose Jay's number.",
+   "You lost a piece of your own."
+  ],
+  "set": "bathroom_mirror"
+ },
+ "s106": {
+  "dur": 2.92,
+  "n": 2,
+  "parts": [
+   "Then dinner.",
+   "Your mom asks about your day."
+  ],
+  "set": "kitchen_evening"
+ },
+ "s107": {
+  "dur": 3.96,
+  "n": 2,
+  "parts": [
+   "You snap at her.",
+   "You are tired. You are scared."
+  ],
+  "set": "kitchen_evening"
+ },
+ "s108": {
+  "dur": 5.28,
+  "n": 2,
+  "parts": [
+   "She goes quiet. Her number was three.",
+   "Now it is two. Two."
+  ],
+  "set": "kitchen_evening"
+ },
+ "s109": {
+  "dur": 8.48,
+  "n": 3,
+  "parts": [
+   "You watch it drop and you cannot stop it.",
+   "You say sorry. Sorry. Sorry.",
+   "The number does not move. It never moves up."
+  ],
+  "set": "kitchen_evening"
+ },
+ "s110": {
+  "dur": 2.9,
+  "n": 2,
+  "parts": [
+   "You go to your room.",
+   "You stare at the ceiling."
+  ],
+  "set": "bedroom_morning"
+ },
+ "s111": {
+  "dur": 4.04,
+  "n": 2,
+  "parts": [
+   "You have spent your whole life thinking people would always be there.",
+   "They will not."
+  ],
+  "set": "bedroom_morning"
+ },
+ "s112": {
+  "dur": 3.06,
+  "n": 2,
+  "parts": [
+   "Everyone has a number.",
+   "And every number is falling."
+  ],
+  "set": "street_morning"
+ },
+ "s115": {
+  "dur": 3.32,
+  "n": 2,
+  "parts": [
+   "Tuesday.",
+   "You knock again. Nothing."
+  ],
+  "set": "jays_house"
+ },
+ "s117": {
+  "dur": 3.54,
+  "n": 2,
+  "parts": [
+   "You keep going. You bring his homework.",
+   "You leave it at the door."
+  ],
+  "set": "jays_house"
+ },
+ "s118": {
+  "dur": 3.76,
+  "n": 2,
+  "parts": [
+   "Day seven: rain.",
+   "You stand there anyway. Soaked."
+  ],
+  "set": "jays_house"
+ },
+ "s119": {
+  "dur": 4.2,
+  "n": 2,
+  "parts": [
+   "Day eight: his little brother opens the door.",
+   "He just shakes his head."
+  ],
+  "set": "jays_house"
+ },
+ "s120": {
+  "dur": 6.14,
+  "n": 3,
+  "parts": [
+   "Day nine: you leave a note.",
+   "Four words.",
+   "I was wrong. Forgive me later."
+  ],
+  "set": "jays_house"
+ },
+ "s121": {
+  "dur": 3.98,
+  "n": 2,
+  "parts": [
+   "Day ten: you fix his bike chain.",
+   "It was rusted."
+  ],
+  "set": "jays_house"
+ },
+ "s123": {
+  "dur": 2.88,
+  "n": 2,
+  "parts": [
+   "Day eleven: nothing.",
+   "You go anyway."
+  ],
+  "set": "jays_house"
+ },
+ "s124": {
+  "dur": 4.46,
+  "n": 2,
+  "parts": [
+   "Showing up is not a trick.",
+   "It is not a key. It is just showing up."
+  ],
+  "set": "jays_house"
+ },
+ "s126": {
+  "dur": 6.32,
+  "n": 3,
+  "parts": [
+   "It is Jay's mom.",
+   "She looks at you for a long time.",
+   "Then she says: he is in the backyard."
+  ],
+  "set": "jays_house"
+ },
+ "s129": {
+  "dur": 4.02,
+  "n": 2,
+  "parts": [
+   "He sees you. He does not smile.",
+   "He does not walk away either."
+  ],
+  "set": "backyard"
+ },
+ "s130": {
+  "dur": 3.84,
+  "n": 2,
+  "parts": [
+   "He bounces the ball to you.",
+   "One bounce. That is all."
+  ],
+  "set": "backyard"
+ },
+ "s131": {
+  "dur": 5.36,
+  "n": 2,
+  "parts": [
+   "No number above his head. No pill.",
+   "Just a ball. Rolling to your feet."
+  ],
+  "set": "backyard"
+ },
+ "s132": {
+  "dur": 4.98,
+  "n": 2,
+  "parts": [
+   "And you understand. Zero was not the end.",
+   "Zero was the end of counting."
+  ],
+  "set": "backyard"
+ },
+ "s133": {
+  "dur": 5.86,
+  "n": 2,
+  "parts": [
+   "What comes after zero is not a number.",
+   "It is a choice. His choice. Not yours."
+  ],
+  "set": "backyard"
+ },
+ "s134": {
+  "dur": 3.34,
+  "n": 2,
+  "parts": [
+   "You pick up the ball.",
+   "You shoot. You miss."
+  ],
+  "set": "backyard"
+ },
+ "s135": {
+  "dur": 3.7,
+  "n": 2,
+  "parts": [
+   "He laughs. Just once.",
+   "Short. But it is real."
+  ],
+  "set": "backyard"
+ },
+ "s136": {
+  "dur": 3.88,
+  "n": 2,
+  "parts": [
+   "You play for an hour.",
+   "No one says sorry. No one has to."
+  ],
+  "set": "backyard"
+ },
+ "s137": {
+  "dur": 3.72,
+  "n": 2,
+  "parts": [
+   "That night you call your mom.",
+   "First. Every night now."
+  ],
+  "set": "kitchen_evening"
+ },
+ "s140": {
+  "dur": 5.28,
+  "n": 2,
+  "parts": [
+   "Your number never goes back up.",
+   "It stays four. It will always stay four."
+  ],
+  "set": "bathroom_mirror"
+ },
+ "s142": {
+  "dur": 4.12,
+  "n": 2,
+  "parts": [
+   "The point is: you cannot earn a chance back.",
+   "You can only earn the next one."
+  ],
+  "set": "void"
+ },
+ "s143": {
+  "dur": 5.06,
+  "n": 2,
+  "parts": [
+   "So spend every chance like it is your last.",
+   "Because one day, it is."
+  ],
+  "set": "void"
+ },
+ "s124b": {
+  "dur": 4.8,
+  "n": 2,
+  "parts": [
+   "You do not ask for a chance.",
+   "You do not say sorry. You just show up."
+  ],
+  "set": "jays_house",
+  "new": true
+ }
+}
