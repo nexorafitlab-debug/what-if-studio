@@ -1,7 +1,7 @@
 // s011 — "The fan turns. The room is still." [BEDROOM - DAWN] · act — FIXED:
 // was the stock act template at 0.70W + a recap banner whose text overflowed
 // its pill on both sides and covered the hero's feet. Now: points up at the
-// turning fan, then folds his arms and watches (pointUp→crossArms) at 0.30W;
+// turning fan, then folds his arms and watches (pointUp→ready, wide planted stance) at 0.30W;
 // the recap is shortened to 'You caught the blade.' and moved to y=0.90H,
 // below his feet and inside the letterbox-safe area.
 import { E, V, registerShot, layer } from '/engine/core.js';
@@ -16,7 +16,7 @@ registerShot('s011', { draw(g, t, info) {
   layer(g, cam, 1, (g) => {
     const { GY, M } = bedroomDawn(g, t, info, { fanSpeed: 2.2 });
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };
-    const pose = breathe(posesAt(t, [[0, 'pointUp'], [1.4, 'crossArms']]), t);
+    const pose = breathe(posesAt(t, [[0, 'pointUp'], [1.4, 'ready']]), t);
     drawFigure(g, { x: E.W * 0.30, y: GY, s: V(1.4, 1.5), facing: 1, outfit: CAST.KIAN.outfit, pose, expr: 'neutral', rim });
   });
   dualCounter(g, info.globalT, { chapterStart: 4.0, left: { label: 'YOU', from: 0, rate: 1 }, right: { label: 'WORLD', from: 0, rate: 0 }, format: 'clock', x: 70, y: 130 });
