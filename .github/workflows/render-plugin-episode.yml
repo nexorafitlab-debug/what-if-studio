@@ -1,0 +1,119 @@
+name: Render plugin episode
+
+# Renders an aiTrends 2D Studio plugin project in N PARALLEL chunks on free GitHub runners,
+# then stitches them into a video IDENTICAL to the local render. Separate from the old
+# Remotion workflow ("Render episode") — that workflow is untouched.
+#
+# How it stays identical:
+#  - Frames are drawn by the same plugin engine, in a pre-built Docker image
+#    (ghcr.io/nexorafitlab-debug/plugin-render, private) so no browser is installed per run.
+#  - render.mjs pins -threads 6 (the only encode setting that changes decoded pixels).
+#  - Chunk jobs output LOSSLESS libx264rgb (crf 0) — exact RGB pixels, no lossy step.
+#  - The stitch job re-encodes exactly the ranges the LOCAL build encoded as separate
+#    x264 passes (encode_ranges input, default [[0,29],[29,57.73]] for the test project),
+#    same settings (libx264, preset medium, crf 18, yuv420p, 24fps, threads 6), then
+#    concats with -c copy and muxes the COMMITTED final mix (build/mix_final.wav) to AAC 320k.
+#  - Audio is made locally and committed with the project — GitHub never synthesises audio,
+#    so the sound is identical by construction. The final loudnorms to -14 LUFS, TP < -1.0.
+#
+# Trigger: Actions tab -> "Render plugin episode" -> Run workflow -> pick the project folder
+# under plugin-projects/. The final MP4 downloads from the run's artifacts ("final-video").
+
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: "Project folder under plugin-projects (e.g. see-10-seconds-1min-muse)"
+        required: true
+        default: "see-10-seconds-1min-muse"
+      chunks:
+        description: "Number of parallel render chunks"
+        required: false
+        default: "10"
+      encode_ranges:
+        description: 'JSON [from,to] second-ranges the local build encoded as separate x264 passes, e.g. [[0,29],[29,57.73]]'
+        required: false
+        default: "[[0,29],[29,57.73]]"
+
+permissions:
+  contents: read
+  packages: read
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.split.outputs.matrix }}
+      duration: ${{ steps.split.outputs.duration }}
+      title: ${{ steps.split.outputs.title }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Split shots into chunks
+        id: split
+        run: node .github/scripts/split-chunks.mjs "plugin-projects/${{ inputs.project }}" "${{ inputs.chunks }}"
+
+  render:
+    needs: setup
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/nexorafitlab-debug/plugin-render:latest
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+    strategy:
+      matrix:
+        chunk: ${{ fromJson(needs.setup.outputs.matrix) }}
+      fail-fast: false
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render chunk (lossless)
+        env:
+          TMPDIR: ${{ github.workspace }}/.tmp
+        run: |
+          mkdir -p "$TMPDIR" "$GITHUB_WORKSPACE/build"
+          node /opt/plugin/render.mjs \
+            --project "$GITHUB_WORKSPACE/plugin-projects/${{ inputs.project }}" \
+            --workers 1 \
+            --from ${{ matrix.chunk.from }} --to ${{ matrix.chunk.to }} \
+            --vcodec libx264rgb --pix_fmt rgb24 --crf 0 --preset ultrafast --threads 6 \
+            --out "$GITHUB_WORKSPACE/build/chunk_${{ matrix.chunk.index }}.mp4"
+          ls -lh "$GITHUB_WORKSPACE/build/chunk_${{ matrix.chunk.index }}.mp4"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: chunk-${{ matrix.chunk.index }}
+          path: ${{ github.workspace }}/build/chunk_${{ matrix.chunk.index }}.mp4
+          retention-days: 7
+
+  stitch:
+    needs: [setup, render]
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/nexorafitlab-debug/plugin-render:latest
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: ${{ github.workspace }}/chunks
+          pattern: chunk-*
+          merge-multiple: true
+      - name: Stitch + mux + verify
+        env:
+          TMPDIR: ${{ github.workspace }}/.tmp
+        run: |
+          mkdir -p "$TMPDIR" "$GITHUB_WORKSPACE/build"
+          node .github/scripts/stitch.mjs \
+            --project "$GITHUB_WORKSPACE/plugin-projects/${{ inputs.project }}" \
+            --chunks "$GITHUB_WORKSPACE/chunks" \
+            --ranges '${{ inputs.encode_ranges }}' \
+            --fps 24 \
+            --mix "$GITHUB_WORKSPACE/plugin-projects/${{ inputs.project }}/build/mix_final.wav" \
+            --work "$GITHUB_WORKSPACE/build" \
+            --out "$GITHUB_WORKSPACE/build/final.mp4"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: final-video
+          path: ${{ github.workspace }}/build/final.mp4
+          retention-days: 30

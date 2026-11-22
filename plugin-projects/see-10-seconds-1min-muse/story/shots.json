@@ -1,0 +1,684 @@
+{
+ "title": "What If You Could See 10 Seconds Ahead?",
+ "duration": 57.73,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 2.85,
+   "line": "You wake up. The ceiling fan spins.",
+   "scene": "Bedroom dawn, Kian sits up, fan spinning",
+   "set": "bedroom_dawn",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hum",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s002",
+   "start": 2.85,
+   "end": 5.6,
+   "line": "Three seconds later \u2014 it wobbles.",
+   "scene": "Fan close-up, wobble grows",
+   "set": "bedroom_dawn",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 2.2,
+     "name": "tick",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s003",
+   "start": 5.6,
+   "end": 8.0,
+   "line": "Ten. Nine. Eight.",
+   "scene": "Countdown 10-9-8, blade detaches",
+   "set": "bedroom_dawn",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.43,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 1.11,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.19,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 1.7,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s004",
+   "start": 8.0,
+   "end": 10.75,
+   "line": "You catch the falling blade before it hits your pillow.",
+   "scene": "Hand snatches the blade mid-air",
+   "set": "bedroom_dawn",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -6
+    },
+    {
+     "at": 1.8,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s005",
+   "start": 10.75,
+   "end": 13.8,
+   "line": "Kian. That's your name. Seventeen.",
+   "scene": "Hallway wide, Kian walks in",
+   "set": "hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.1,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.9,
+     "name": "footstep",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "s006",
+   "start": 13.8,
+   "end": 17.3,
+   "line": "You see everything ten seconds before it happens. Exactly ten.",
+   "scene": "Kian close, points up",
+   "set": "hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -10
+    },
+    {
+     "at": 3.0,
+     "name": "ding",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "s007",
+   "start": 17.3,
+   "end": 19.97,
+   "line": "Only your own future. Never off.",
+   "scene": "Rule card: only your future, never off",
+   "set": "hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -8
+    },
+    {
+     "at": 1.4,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "s008",
+   "start": 19.97,
+   "end": 23.3,
+   "line": "Lunch tray slips. Five. Four. Three.",
+   "scene": "Tray tilts, countdown 5-4-3",
+   "set": "cafeteria",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -8
+    },
+    {
+     "at": 1.31,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.01,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.89,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s009",
+   "start": 23.3,
+   "end": 25.6,
+   "line": "Your hand snags it mid-air.",
+   "scene": "Hand snags the tray level",
+   "set": "cafeteria",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s010",
+   "start": 25.6,
+   "end": 27.79,
+   "line": "No spill. No stares.",
+   "scene": "Kian calm at the table, nobody looking",
+   "set": "cafeteria",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 1.2,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s011",
+   "start": 27.79,
+   "end": 30.6,
+   "line": "Pencil snaps. Two. One.",
+   "scene": "Pencil cracks, countdown 2-1",
+   "set": "examhall",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.25,
+     "name": "hit",
+     "gain": -8,
+     "pitch": 1.4
+    },
+    {
+     "at": 1.33,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 1.79,
+     "name": "tick",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s012",
+   "start": 30.6,
+   "end": 34.12,
+   "line": "Spare appears in your grip. Teacher never notices.",
+   "scene": "Spare pencil, Kian writes on",
+   "set": "examhall",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 2.2,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s013",
+   "start": 34.12,
+   "end": 37.1,
+   "line": "Bus brakes. Doors hiss. You're already stepping on.",
+   "scene": "Street wide, bus at the stop, Kian walks to the door",
+   "set": "street_bus",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "carpass",
+     "gain": -10
+    },
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -8
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 2.3,
+     "name": "footstep",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s014",
+   "start": 37.1,
+   "end": 40.34,
+   "line": "The crowd surges behind you \u2014 three seconds late.",
+   "scene": "Crowd rushes in late, Kian already aboard",
+   "set": "street_bus",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 0.9,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.6,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 0.5,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s015",
+   "start": 40.34,
+   "end": 42.77,
+   "line": "Wind gusts. Your phone slips.",
+   "scene": "Rooftop sunset, phone slips from his hand",
+   "set": "rooftop",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 1.3,
+     "name": "swish",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s016",
+   "start": 42.77,
+   "end": 45.9,
+   "line": "Ten. Nine. Eight.",
+   "scene": "Countdown 10-9-8, phone tumbling down",
+   "set": "rooftop",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 0.6,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 1.52,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s017",
+   "start": 45.9,
+   "end": 48.9,
+   "line": "You watch it fall. You could catch it.",
+   "scene": "Hand hovers, phone drifts down in slow motion",
+   "set": "rooftop",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "slowmo",
+     "gain": -8
+    },
+    {
+     "at": 2.2,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s018",
+   "start": 48.9,
+   "end": 51.0,
+   "line": "But the vision shows the girl behind you \u2014",
+   "scene": "FREEZE: phone mid-air, her hand reaching",
+   "set": "rooftop",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -6
+    },
+    {
+     "at": 1.5,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s019",
+   "start": 51.0,
+   "end": 53.56,
+   "line": "She reaches. She catches it. She smiles.",
+   "scene": "Girl catches the phone, both smile",
+   "set": "rooftop",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 1.0,
+     "name": "ding",
+     "gain": -10
+    },
+    {
+     "at": 1.7,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s020",
+   "start": 53.56,
+   "end": 55.48,
+   "line": "What happens when you stop preventing...",
+   "scene": "Black screen: title card",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "s021",
+   "start": 55.48,
+   "end": 57.73,
+   "line": "...and start choosing?",
+   "scene": "Black screen: the hook",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -10
+    },
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -10
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 10.75,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 10.75,
+   "end": 19.97,
+   "mood": "mystery",
+   "intensity": 0.55
+  },
+  {
+   "start": 19.97,
+   "end": 27.79,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 27.79,
+   "end": 34.12,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 34.12,
+   "end": 40.34,
+   "mood": "mystery",
+   "intensity": 0.6
+  },
+  {
+   "start": 40.34,
+   "end": 53.56,
+   "mood": "wonder",
+   "intensity": 0.55
+  },
+  {
+   "start": 53.56,
+   "end": 57.73,
+   "mood": "mystery",
+   "intensity": 0.5
+  }
+ ]
+}
