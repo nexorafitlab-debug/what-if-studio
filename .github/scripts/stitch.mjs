@@ -1,10 +1,14 @@
 // stitch.mjs — stitch lossless render chunks into the final video, exactly like the local build.
 // Usage: node .github/scripts/stitch.mjs --project <dir> --chunks <dir> --ranges '[[0,29],[29,57.73]]' --fps 24 --mix <wav> --out <mp4>
 // Steps:
-//  1. Concat the lossless libx264rgb chunks (exact RGB) into one lossless master.
+//  1. Build the concat list of the lossless libx264rgb chunks (exact RGB) in index order.
+//     NOTE: we do NOT write a concatenated lossless master. At 60fps the 9 chunks total
+//     ~6.7GB and a second full lossless copy fills the runner disk — ENOSPC killed run
+//     45046269163 at the concat step. Each range is re-encoded directly from the concat
+//     demuxer instead: same frames, same encoder settings, identical output.
 //  2. Re-encode each range in --ranges (the ranges the LOCAL build encoded as separate
 //     x264 passes) with the local settings: libx264, preset medium, crf 18, yuv420p, 24fps,
-//     -threads 6. Frame-accurate via trim on the lossless master.
+//     -threads 6. Frame-accurate via trim on the concat input.
 //  3. Concat the lossy ranges with -c copy -> video_silent.mp4 (same as local).
 //  4. Mux the committed final mix (build/mix_final.wav) -> AAC 320k, no -shortest
 //     (output duration = video duration, same as local). Faststart.
@@ -36,7 +40,8 @@ const outPath = arg('--out');
 const workDir = arg('--work', path.dirname(outPath));
 fs.mkdirSync(workDir, { recursive: true });
 
-// 1. Concat lossless chunks in index order.
+// 1. Concat list of the lossless chunks in index order (no intermediate master —
+//    see header note: a second full lossless copy overflows the runner disk at 60fps).
 const chunkFiles = fs.readdirSync(chunksDir)
   .filter((f) => /^chunk_\d+\.mp4$/.test(f))
   .sort((a, b) => parseInt(a.match(/\d+/)[0], 10) - parseInt(b.match(/\d+/)[0], 10));
@@ -44,10 +49,10 @@ if (chunkFiles.length === 0) throw new Error(`no chunk_*.mp4 found in ${chunksDi
 console.log(`found ${chunkFiles.length} lossless chunks: ${chunkFiles.join(', ')}`);
 const listPath = path.join(workDir, 'lossless_list.txt');
 fs.writeFileSync(listPath, chunkFiles.map((f) => `file '${path.join(chunksDir, f).replace(/'/g, "'\\''")}'`).join('\n'));
-const losslessPath = path.join(workDir, 'lossless_all.mp4');
-run('ffmpeg', ['-y', '-v', 'error', '-f', 'concat', '-safe', '0', '-i', listPath, '-c', 'copy', losslessPath]);
 
-// 2. Re-encode each range. Frame ranges are contiguous: frame(f) = round(t * fps).
+// 2. Re-encode each range directly from the concat list. Frame ranges are contiguous:
+//    frame(f) = round(t * fps). The concat demuxer presents the chunks as one continuous
+//    stream, so trim frame numbers match the lossless-master numbering exactly.
 //    Local chunk_a = frames [0,696) (0-29s), chunk_b = [696,1386) (29-57.73s).
 const rangeFiles = [];
 for (let i = 0; i < ranges.length; i++) {
@@ -56,7 +61,7 @@ for (let i = 0; i < ranges.length; i++) {
   const ef = Math.round(to * fps);
   const rf = path.join(workDir, `range_${i}.mp4`);
   run('ffmpeg', [
-    '-y', '-v', 'error', '-i', losslessPath,
+    '-y', '-v', 'error', '-f', 'concat', '-safe', '0', '-i', listPath,
     '-vf', `trim=start_frame=${sf}:end_frame=${ef},setpts=PTS-STARTPTS`,
     '-c:v', 'libx264', '-preset', 'medium', '-crf', '18',
     '-pix_fmt', 'yuv420p', '-r', String(fps), '-threads', '6',
@@ -64,6 +69,11 @@ for (let i = 0; i < ranges.length; i++) {
   ]);
   rangeFiles.push(rf);
 }
+// The lossy ranges are written — the lossless chunks (~6.7GB at 60fps) are no longer
+// needed. Delete them now so the mux/verify/upload steps have disk headroom. The chunk
+// artifacts persist on GitHub if a re-stitch is ever needed.
+fs.rmSync(chunksDir, { recursive: true, force: true });
+console.log('freed chunk dir:', chunksDir);
 
 // 3. Concat the lossy ranges -> video_silent.mp4 (same as local: -c copy + faststart).
 const rangeList = path.join(workDir, 'range_list.txt');
