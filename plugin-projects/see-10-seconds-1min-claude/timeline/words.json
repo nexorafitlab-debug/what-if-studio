@@ -1,0 +1,950 @@
+{
+ "source": "whisper:small+script",
+ "words": [
+  {
+   "word": "WHAT",
+   "start": 0.0,
+   "end": 0.001
+  },
+  {
+   "word": "IF",
+   "start": 0.001,
+   "end": 0.002
+  },
+  {
+   "word": "YOU",
+   "start": 0.002,
+   "end": 0.003
+  },
+  {
+   "word": "COULD",
+   "start": 0.003,
+   "end": 0.004
+  },
+  {
+   "word": "SEE",
+   "start": 0.004,
+   "end": 0.006
+  },
+  {
+   "word": "10",
+   "start": 0.006,
+   "end": 0.007
+  },
+  {
+   "word": "SECONDS",
+   "start": 0.007,
+   "end": 0.008
+  },
+  {
+   "word": "AHEAD?",
+   "start": 0.008,
+   "end": 0.009
+  },
+  {
+   "word": "—",
+   "start": 0.009,
+   "end": 0.01
+  },
+  {
+   "word": "1-MINUTE",
+   "start": 0.01,
+   "end": 0.011
+  },
+  {
+   "word": "SAMPLE",
+   "start": 0.011,
+   "end": 0.012
+  },
+  {
+   "word": "SCRIPT",
+   "start": 0.012,
+   "end": 0.013
+  },
+  {
+   "word": "Written",
+   "start": 0.013,
+   "end": 0.014
+  },
+  {
+   "word": "by",
+   "start": 0.014,
+   "end": 0.016
+  },
+  {
+   "word": "Claude",
+   "start": 0.016,
+   "end": 0.017
+  },
+  {
+   "word": "Code,",
+   "start": 0.017,
+   "end": 0.018
+  },
+  {
+   "word": "2026-11-22.",
+   "start": 0.018,
+   "end": 0.019
+  },
+  {
+   "word": "Hero:",
+   "start": 0.019,
+   "end": 0.02
+  },
+  {
+   "word": "Kian,",
+   "start": 0.02,
+   "end": 0.021
+  },
+  {
+   "word": "17.",
+   "start": 0.021,
+   "end": 0.022
+  },
+  {
+   "word": "Rule:",
+   "start": 0.022,
+   "end": 0.023
+  },
+  {
+   "word": "he",
+   "start": 0.023,
+   "end": 0.024
+  },
+  {
+   "word": "sees",
+   "start": 0.024,
+   "end": 0.026
+  },
+  {
+   "word": "exactly",
+   "start": 0.026,
+   "end": 0.027
+  },
+  {
+   "word": "10",
+   "start": 0.027,
+   "end": 0.028
+  },
+  {
+   "word": "seconds",
+   "start": 0.028,
+   "end": 0.029
+  },
+  {
+   "word": "ahead,",
+   "start": 0.029,
+   "end": 0.03
+  },
+  {
+   "word": "only",
+   "start": 0.03,
+   "end": 0.031
+  },
+  {
+   "word": "his",
+   "start": 0.031,
+   "end": 0.032
+  },
+  {
+   "word": "own",
+   "start": 0.032,
+   "end": 0.033
+  },
+  {
+   "word": "future,",
+   "start": 0.033,
+   "end": 0.034
+  },
+  {
+   "word": "never",
+   "start": 0.034,
+   "end": 0.036
+  },
+  {
+   "word": "off.",
+   "start": 0.036,
+   "end": 0.037
+  },
+  {
+   "word": "Spoken",
+   "start": 0.037,
+   "end": 0.038
+  },
+  {
+   "word": "words:",
+   "start": 0.038,
+   "end": 0.039
+  },
+  {
+   "word": "~130",
+   "start": 0.039,
+   "end": 0.04
+  },
+  {
+   "word": "(incl.",
+   "start": 0.04,
+   "end": 0.041
+  },
+  {
+   "word": "countdown",
+   "start": 0.041,
+   "end": 0.042
+  },
+  {
+   "word": "numbers).",
+   "start": 0.042,
+   "end": 0.043
+  },
+  {
+   "word": "Target:",
+   "start": 0.043,
+   "end": 0.044
+  },
+  {
+   "word": "~1",
+   "start": 0.044,
+   "end": 0.046
+  },
+  {
+   "word": "minute.",
+   "start": 0.046,
+   "end": 0.047
+  },
+  {
+   "word": "[BEDROOM",
+   "start": 0.047,
+   "end": 0.048
+  },
+  {
+   "word": "-",
+   "start": 0.048,
+   "end": 0.049
+  },
+  {
+   "word": "DAWN]",
+   "start": 0.049,
+   "end": 0.05
+  },
+  {
+   "word": "You",
+   "start": 0.0,
+   "end": 0.16
+  },
+  {
+   "word": "wake",
+   "start": 0.16,
+   "end": 0.34
+  },
+  {
+   "word": "up.",
+   "start": 0.34,
+   "end": 0.62
+  },
+  {
+   "word": "The",
+   "start": 0.94,
+   "end": 1.08
+  },
+  {
+   "word": "ceiling",
+   "start": 1.08,
+   "end": 1.3
+  },
+  {
+   "word": "fan",
+   "start": 1.3,
+   "end": 1.64
+  },
+  {
+   "word": "spins.",
+   "start": 1.64,
+   "end": 1.9
+  },
+  {
+   "word": "Three",
+   "start": 2.76,
+   "end": 2.96
+  },
+  {
+   "word": "seconds",
+   "start": 2.96,
+   "end": 3.22
+  },
+  {
+   "word": "later",
+   "start": 3.22,
+   "end": 3.5
+  },
+  {
+   "word": "—",
+   "start": 3.5,
+   "end": 4.12
+  },
+  {
+   "word": "it",
+   "start": 4.12,
+   "end": 4.22
+  },
+  {
+   "word": "wobbles.",
+   "start": 4.22,
+   "end": 4.6
+  },
+  {
+   "word": "[10...",
+   "start": 4.6,
+   "end": 4.867
+  },
+  {
+   "word": "9...",
+   "start": 4.867,
+   "end": 5.133
+  },
+  {
+   "word": "8...]",
+   "start": 5.133,
+   "end": 5.4
+  },
+  {
+   "word": "You",
+   "start": 5.4,
+   "end": 5.56
+  },
+  {
+   "word": "catch",
+   "start": 5.56,
+   "end": 5.72
+  },
+  {
+   "word": "the",
+   "start": 5.72,
+   "end": 5.9
+  },
+  {
+   "word": "falling",
+   "start": 5.9,
+   "end": 6.12
+  },
+  {
+   "word": "blade",
+   "start": 6.12,
+   "end": 6.46
+  },
+  {
+   "word": "before",
+   "start": 6.46,
+   "end": 6.72
+  },
+  {
+   "word": "it",
+   "start": 6.72,
+   "end": 6.88
+  },
+  {
+   "word": "hits",
+   "start": 6.88,
+   "end": 7.02
+  },
+  {
+   "word": "your",
+   "start": 7.02,
+   "end": 7.12
+  },
+  {
+   "word": "pillow.",
+   "start": 7.12,
+   "end": 7.36
+  },
+  {
+   "word": "[SCHOOL",
+   "start": 7.36,
+   "end": 7.67
+  },
+  {
+   "word": "HALLWAY]",
+   "start": 7.67,
+   "end": 7.98
+  },
+  {
+   "word": "Kian.",
+   "start": 7.98,
+   "end": 8.5
+  },
+  {
+   "word": "That's",
+   "start": 9.04,
+   "end": 9.34
+  },
+  {
+   "word": "your",
+   "start": 9.34,
+   "end": 9.44
+  },
+  {
+   "word": "name.",
+   "start": 9.44,
+   "end": 9.64
+  },
+  {
+   "word": "Seventeen.",
+   "start": 9.64,
+   "end": 11.54
+  },
+  {
+   "word": "You",
+   "start": 11.54,
+   "end": 11.7
+  },
+  {
+   "word": "see",
+   "start": 11.7,
+   "end": 11.84
+  },
+  {
+   "word": "everything",
+   "start": 11.84,
+   "end": 12.2
+  },
+  {
+   "word": "ten",
+   "start": 12.2,
+   "end": 12.54
+  },
+  {
+   "word": "seconds",
+   "start": 12.54,
+   "end": 12.86
+  },
+  {
+   "word": "before",
+   "start": 12.86,
+   "end": 13.14
+  },
+  {
+   "word": "it",
+   "start": 13.14,
+   "end": 13.32
+  },
+  {
+   "word": "happens.",
+   "start": 13.32,
+   "end": 13.62
+  },
+  {
+   "word": "Exactly",
+   "start": 14.22,
+   "end": 14.62
+  },
+  {
+   "word": "ten.",
+   "start": 14.62,
+   "end": 15.74
+  },
+  {
+   "word": "Only",
+   "start": 15.74,
+   "end": 15.96
+  },
+  {
+   "word": "your",
+   "start": 15.96,
+   "end": 16.14
+  },
+  {
+   "word": "own",
+   "start": 16.14,
+   "end": 16.36
+  },
+  {
+   "word": "future.",
+   "start": 16.36,
+   "end": 16.72
+  },
+  {
+   "word": "Never",
+   "start": 17.36,
+   "end": 17.54
+  },
+  {
+   "word": "off.",
+   "start": 17.54,
+   "end": 17.9
+  },
+  {
+   "word": "[CAFETERIA]",
+   "start": 17.9,
+   "end": 18.44
+  },
+  {
+   "word": "Lunch",
+   "start": 18.44,
+   "end": 18.6
+  },
+  {
+   "word": "tray",
+   "start": 18.6,
+   "end": 18.84
+  },
+  {
+   "word": "slips.",
+   "start": 18.84,
+   "end": 19.06
+  },
+  {
+   "word": "[5...",
+   "start": 19.06,
+   "end": 19.22
+  },
+  {
+   "word": "4...",
+   "start": 19.22,
+   "end": 19.38
+  },
+  {
+   "word": "3...]",
+   "start": 19.38,
+   "end": 19.54
+  },
+  {
+   "word": "Your",
+   "start": 19.54,
+   "end": 19.62
+  },
+  {
+   "word": "hand",
+   "start": 19.62,
+   "end": 19.86
+  },
+  {
+   "word": "snags",
+   "start": 19.86,
+   "end": 20.28
+  },
+  {
+   "word": "it",
+   "start": 20.28,
+   "end": 20.75
+  },
+  {
+   "word": "mid-air.",
+   "start": 20.75,
+   "end": 21.22
+  },
+  {
+   "word": "No",
+   "start": 21.22,
+   "end": 21.44
+  },
+  {
+   "word": "spill.",
+   "start": 21.44,
+   "end": 21.68
+  },
+  {
+   "word": "No",
+   "start": 22.1,
+   "end": 22.18
+  },
+  {
+   "word": "stares.",
+   "start": 22.18,
+   "end": 22.56
+  },
+  {
+   "word": "[EXAM",
+   "start": 22.56,
+   "end": 22.94
+  },
+  {
+   "word": "HALL]",
+   "start": 22.94,
+   "end": 23.32
+  },
+  {
+   "word": "Pencil",
+   "start": 23.32,
+   "end": 23.58
+  },
+  {
+   "word": "snaps.",
+   "start": 23.58,
+   "end": 23.8
+  },
+  {
+   "word": "[2...",
+   "start": 23.8,
+   "end": 24.15
+  },
+  {
+   "word": "1...]",
+   "start": 24.15,
+   "end": 24.5
+  },
+  {
+   "word": "Spare",
+   "start": 24.5,
+   "end": 24.8
+  },
+  {
+   "word": "appears",
+   "start": 24.8,
+   "end": 25.14
+  },
+  {
+   "word": "in",
+   "start": 25.14,
+   "end": 25.4
+  },
+  {
+   "word": "your",
+   "start": 25.4,
+   "end": 25.5
+  },
+  {
+   "word": "grip.",
+   "start": 25.5,
+   "end": 25.76
+  },
+  {
+   "word": "Teacher",
+   "start": 26.3,
+   "end": 26.56
+  },
+  {
+   "word": "never",
+   "start": 26.56,
+   "end": 26.8
+  },
+  {
+   "word": "notices.",
+   "start": 26.8,
+   "end": 27.2
+  },
+  {
+   "word": "[BUSY",
+   "start": 27.2,
+   "end": 27.53
+  },
+  {
+   "word": "STREET]",
+   "start": 27.53,
+   "end": 27.86
+  },
+  {
+   "word": "Bus",
+   "start": 27.86,
+   "end": 28.12
+  },
+  {
+   "word": "brakes.",
+   "start": 28.12,
+   "end": 28.86
+  },
+  {
+   "word": "Doors",
+   "start": 28.86,
+   "end": 29.14
+  },
+  {
+   "word": "hiss.",
+   "start": 29.14,
+   "end": 29.44
+  },
+  {
+   "word": "You're",
+   "start": 30.12,
+   "end": 30.2
+  },
+  {
+   "word": "already",
+   "start": 30.2,
+   "end": 30.56
+  },
+  {
+   "word": "stepping",
+   "start": 30.56,
+   "end": 30.86
+  },
+  {
+   "word": "on.",
+   "start": 30.86,
+   "end": 31.14
+  },
+  {
+   "word": "The",
+   "start": 31.8,
+   "end": 31.9
+  },
+  {
+   "word": "crowd",
+   "start": 31.9,
+   "end": 32.14
+  },
+  {
+   "word": "surges",
+   "start": 32.14,
+   "end": 32.54
+  },
+  {
+   "word": "behind",
+   "start": 32.54,
+   "end": 32.86
+  },
+  {
+   "word": "you",
+   "start": 32.86,
+   "end": 33.16
+  },
+  {
+   "word": "—",
+   "start": 33.16,
+   "end": 33.52
+  },
+  {
+   "word": "three",
+   "start": 33.52,
+   "end": 33.78
+  },
+  {
+   "word": "seconds",
+   "start": 33.78,
+   "end": 34.08
+  },
+  {
+   "word": "late.",
+   "start": 34.08,
+   "end": 34.42
+  },
+  {
+   "word": "[ROOFTOP",
+   "start": 34.42,
+   "end": 34.627
+  },
+  {
+   "word": "-",
+   "start": 34.627,
+   "end": 34.833
+  },
+  {
+   "word": "SUNSET]",
+   "start": 34.833,
+   "end": 35.04
+  },
+  {
+   "word": "Wind",
+   "start": 35.04,
+   "end": 35.18
+  },
+  {
+   "word": "gusts.",
+   "start": 35.18,
+   "end": 35.74
+  },
+  {
+   "word": "Your",
+   "start": 35.92,
+   "end": 35.98
+  },
+  {
+   "word": "phone",
+   "start": 35.98,
+   "end": 36.22
+  },
+  {
+   "word": "slips.",
+   "start": 36.22,
+   "end": 36.54
+  },
+  {
+   "word": "[10...",
+   "start": 36.54,
+   "end": 36.767
+  },
+  {
+   "word": "9...",
+   "start": 36.767,
+   "end": 36.993
+  },
+  {
+   "word": "8...]",
+   "start": 36.993,
+   "end": 37.22
+  },
+  {
+   "word": "You",
+   "start": 37.22,
+   "end": 37.32
+  },
+  {
+   "word": "watch",
+   "start": 37.32,
+   "end": 37.56
+  },
+  {
+   "word": "it",
+   "start": 37.56,
+   "end": 37.66
+  },
+  {
+   "word": "fall.",
+   "start": 37.66,
+   "end": 37.94
+  },
+  {
+   "word": "You",
+   "start": 41.94,
+   "end": 42.02
+  },
+  {
+   "word": "*could*",
+   "start": 42.02,
+   "end": 42.14
+  },
+  {
+   "word": "catch",
+   "start": 42.14,
+   "end": 42.4
+  },
+  {
+   "word": "it.",
+   "start": 42.4,
+   "end": 42.56
+  },
+  {
+   "word": "But",
+   "start": 43.02,
+   "end": 43.18
+  },
+  {
+   "word": "the",
+   "start": 43.18,
+   "end": 43.28
+  },
+  {
+   "word": "vision",
+   "start": 43.28,
+   "end": 43.5
+  },
+  {
+   "word": "shows",
+   "start": 43.5,
+   "end": 43.8
+  },
+  {
+   "word": "the",
+   "start": 43.8,
+   "end": 43.98
+  },
+  {
+   "word": "girl",
+   "start": 43.98,
+   "end": 44.16
+  },
+  {
+   "word": "behind",
+   "start": 44.16,
+   "end": 44.48
+  },
+  {
+   "word": "you",
+   "start": 44.48,
+   "end": 44.74
+  },
+  {
+   "word": "—",
+   "start": 44.74,
+   "end": 45.2
+  },
+  {
+   "word": "she",
+   "start": 45.2,
+   "end": 45.38
+  },
+  {
+   "word": "reaches.",
+   "start": 45.38,
+   "end": 45.66
+  },
+  {
+   "word": "She",
+   "start": 46.24,
+   "end": 46.52
+  },
+  {
+   "word": "catches",
+   "start": 46.52,
+   "end": 46.8
+  },
+  {
+   "word": "it.",
+   "start": 46.8,
+   "end": 47.02
+  },
+  {
+   "word": "She",
+   "start": 47.54,
+   "end": 47.7
+  },
+  {
+   "word": "smiles.",
+   "start": 47.7,
+   "end": 48.08
+  },
+  {
+   "word": "[BLACK",
+   "start": 48.08,
+   "end": 48.49
+  },
+  {
+   "word": "SCREEN]",
+   "start": 48.49,
+   "end": 48.9
+  },
+  {
+   "word": "What",
+   "start": 48.9,
+   "end": 49.1
+  },
+  {
+   "word": "happens",
+   "start": 49.1,
+   "end": 49.42
+  },
+  {
+   "word": "when",
+   "start": 49.42,
+   "end": 49.6
+  },
+  {
+   "word": "you",
+   "start": 49.6,
+   "end": 49.7
+  },
+  {
+   "word": "stop",
+   "start": 49.7,
+   "end": 49.92
+  },
+  {
+   "word": "preventing...",
+   "start": 49.92,
+   "end": 50.36
+  },
+  {
+   "word": "and",
+   "start": 50.36,
+   "end": 51.22
+  },
+  {
+   "word": "start",
+   "start": 51.22,
+   "end": 51.5
+  },
+  {
+   "word": "choosing?",
+   "start": 51.5,
+   "end": 51.84
+  }
+ ]
+}

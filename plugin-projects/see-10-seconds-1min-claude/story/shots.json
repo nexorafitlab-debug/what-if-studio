@@ -1,0 +1,487 @@
+{
+  "title": "What If You Could See 10 Seconds Ahead?",
+  "duration": 52.44,
+  "music": [
+    {"start": 0.0, "end": 7.5, "mood": "mystery", "intensity": 0.4},
+    {"start": 7.5, "end": 14.5, "mood": "tension", "intensity": 0.6},
+    {"start": 14.5, "end": 20.5, "mood": "action", "intensity": 0.5},
+    {"start": 20.5, "end": 25.5, "mood": "tension", "intensity": 0.5},
+    {"start": 25.5, "end": 31.5, "mood": "wonder", "intensity": 0.6},
+    {"start": 31.5, "end": 46.0, "mood": "tension", "intensity": 0.7},
+    {"start": 46.0, "end": 52.44, "mood": "calm", "intensity": 0.3}
+  ],
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 1.0,
+      "line": "You wake up.",
+      "scene": "Establishing wide of bedroom at dawn; Kian in blue hoodie lies in bed, ceiling fan above.",
+      "set": "bedroom",
+      "bars": "none",
+      "in": "fade in",
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "whoosh",
+          "gain": -12
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s002",
+      "start": 1.0,
+      "end": 3.0,
+      "line": "The ceiling fan spins.",
+      "scene": "Close-up of ceiling fan spinning; gentle dawn light through window.",
+      "set": "bedroom",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "swish",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s003",
+      "start": 3.0,
+      "end": 5.5,
+      "line": "Three seconds later — it wobbles. [10... 9... 8...]",
+      "scene": "Close-up fan blade wobbling; gold countdown numbers 10-9-8 appear blooming large on screen.",
+      "set": "bedroom",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "whoosh",
+          "gain": -8
+        },
+        {
+          "at": 0.6,
+          "name": "counter",
+          "gain": -6
+        },
+        {
+          "at": 1.2,
+          "name": "counter",
+          "gain": -6
+        },
+        {
+          "at": 1.8,
+          "name": "counter",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s004",
+      "start": 5.5,
+      "end": 7.5,
+      "line": "You catch the falling blade before it hits your pillow.",
+      "scene": "Kian's hand snatches the falling fan blade inches from his pillow; gold '8' freezes then fades.",
+      "set": "bedroom",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.3,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s005",
+      "start": 7.5,
+      "end": 9.5,
+      "line": "Kian. That's your name.",
+      "scene": "Medium shot Kian in school hallway, walking; he looks toward camera, gold '?' appears above head.",
+      "set": "school hallway",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "footstep",
+          "gain": -12
+        },
+        {
+          "at": 0.8,
+          "name": "pop",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s006",
+      "start": 9.5,
+      "end": 12.0,
+      "line": "Seventeen. You see everything ten seconds before it happens.",
+      "scene": "Close-up Kian's face; rim light on hoodie; gold text '10 SECONDS' labels his vision.",
+      "set": "school hallway",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [],
+      "amb": {
+        "name": "murmur",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s007",
+      "start": 12.0,
+      "end": 14.5,
+      "line": "Exactly ten. Only your own future. Never off.",
+      "scene": "Kian walks down corridor; other students have gold number pills; his shows '?' flickering.",
+      "set": "school hallway",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.5,
+          "name": "pop",
+          "gain": -12
+        },
+        {
+          "at": 1.0,
+          "name": "footstep",
+          "gain": -14
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s008",
+      "start": 14.5,
+      "end": 18.0,
+      "line": "Lunch tray slips. [5... 4... 3...]",
+      "scene": "Cafeteria wide; tray tilts off table edge; gold countdown 5-4-3 blooms above tray mid-air.",
+      "set": "cafeteria",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "whoosh",
+          "gain": -8
+        },
+        {
+          "at": 0.6,
+          "name": "counter",
+          "gain": -6
+        },
+        {
+          "at": 1.2,
+          "name": "counter",
+          "gain": -6
+        },
+        {
+          "at": 1.8,
+          "name": "counter",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s009",
+      "start": 18.0,
+      "end": 20.5,
+      "line": "Your hand snags it mid-air. No spill. No stares.",
+      "scene": "Kian's hand catches tray; gold '3' freezes; blurred lunch crowd behind unaware.",
+      "set": "cafeteria",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s010",
+      "start": 20.5,
+      "end": 23.0,
+      "line": "Pencil snaps. [2... 1...]",
+      "scene": "Exam hall close-up; pencil snaps in Kian's grip; gold countdown 2-1 appears above broken halves.",
+      "set": "exam hall",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "hit",
+          "gain": -6
+        },
+        {
+          "at": 0.6,
+          "name": "counter",
+          "gain": -6
+        },
+        {
+          "at": 1.2,
+          "name": "counter",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s011",
+      "start": 23.0,
+      "end": 25.5,
+      "line": "Spare appears in your grip. Teacher never notices.",
+      "scene": "Spare pencil materializes in Kian's hand; teacher at desk unaware; cool fluorescent ambience.",
+      "set": "exam hall",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "shimmer",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s012",
+      "start": 25.5,
+      "end": 28.5,
+      "line": "Bus brakes. Doors hiss.",
+      "scene": "Busy street establishing; bus brakes hard, doors fold open; Kian already stepping on.",
+      "set": "busy street",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "whoosh",
+          "gain": -8
+        },
+        {
+          "at": 1.0,
+          "name": "flash",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "city",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s013",
+      "start": 28.5,
+      "end": 31.5,
+      "line": "You're already stepping on. The crowd surges behind you — three seconds late.",
+      "scene": "Kian strides onto bus; gold '2-1' fades; crowd surges behind in motion blur; lamp posts, trees in BG.",
+      "set": "busy street",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.3,
+          "name": "murmur",
+          "gain": -10
+        },
+        {
+          "at": 1.5,
+          "name": "whoosh",
+          "gain": -12
+        }
+      ],
+      "amb": {
+        "name": "city",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s014",
+      "start": 31.5,
+      "end": 34.0,
+      "line": "Wind gusts. Your phone slips.",
+      "scene": "Rooftop sunset; wind rips through; phone slides off Kian's hand toward edge.",
+      "set": "rooftop",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "wind",
+          "gain": -8
+        },
+        {
+          "at": 1.2,
+          "name": "whoosh",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "wind",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s015",
+      "start": 34.0,
+      "end": 37.5,
+      "line": "[10... 9... 8...] You watch it fall.",
+      "scene": "Phone falls in slow motion; gold countdown 10-9-8 ticks huge; Kian watches, time-freeze particles hang.",
+      "set": "rooftop",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "counter",
+          "gain": -6
+        },
+        {
+          "at": 0.8,
+          "name": "counter",
+          "gain": -6
+        },
+        {
+          "at": 1.5,
+          "name": "freeze",
+          "gain": -10
+        },
+        {
+          "at": 2.0,
+          "name": "whoosh",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "wind",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s016",
+      "start": 37.5,
+      "end": 42.0,
+      "line": "You could catch it. But the vision shows the girl behind you — she reaches.",
+      "scene": "Freeze frame; Kian's vision shows girl behind reaching; split screen of choice vs. vision.",
+      "set": "rooftop",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.5,
+          "name": "ding",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "wind",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s017",
+      "start": 42.0,
+      "end": 46.0,
+      "line": "She catches it. She smiles.",
+      "scene": "Girl's hand catches phone; she smiles at Kian; particles drop; warm sunset glow on both faces.",
+      "set": "rooftop",
+      "bars": "none",
+      "in": "cut",
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "pop",
+          "gain": -6
+        },
+        {
+          "at": 1.0,
+          "name": "ding",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "wind",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s018",
+      "start": 46.0,
+      "end": 49.0,
+      "line": "What happens when you stop preventing...",
+      "scene": "Black screen; gold hook text 'What happens when you stop preventing...' fades in center.",
+      "set": "black screen",
+      "bars": "wide",
+      "in": "fade in",
+      "sfx": [
+        {
+          "at": 0.5,
+          "name": "whoosh",
+          "gain": -12
+        }
+      ],
+      "amb": {
+        "name": "wind",
+        "gain": -22
+      }
+    },
+    {
+      "id": "s019",
+      "start": 49.0,
+      "end": 52.44,
+      "line": "and start choosing?",
+      "scene": "Black screen continues; gold text 'and start choosing?' appears below; Kian's face slowly fades in close-up as he turns toward the 'choice'; ambient silence builds.",
+      "set": "black screen",
+      "bars": "wide",
+      "in": "cut",
+      "sfx": [],
+      "amb": {
+        "name": "wind",
+        "gain": -22
+      }
+    }
+  ]
+}
