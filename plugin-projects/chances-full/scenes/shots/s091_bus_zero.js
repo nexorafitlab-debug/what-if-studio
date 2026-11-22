@@ -5,7 +5,7 @@ import { busStop } from '../sets/bus_stop.js';
 import { CAST } from '../cast.js';
 import { chancePill, jumpValue } from '../_helpers.js';
 registerShot('s118', { draw(g, t, info) {
-  const cam = { z: 1.4, x: 100, y: 110 };
+  const cam = { z: 1.2, x: 0, y: 80 };
   layer(g, cam, 1, (g) => {
     const { GY, M } = busStop(g, t, info, {});
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };

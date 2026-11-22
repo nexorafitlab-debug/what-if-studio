@@ -6,7 +6,11 @@ import { counterPill } from '/engine/counters.js';
 // green 5+, orange 3-4, red 1-2 (pulses at 1). Gap ~1/6 head diameter, tiny
 // downward pointer — the Ifinite counter, via engine/counters.js.
 export function chancePill(g, hx, hy, hr, value, t = 0, o = {}) {
+  // A missing value must draw NOTHING — never the literal word "null"
+  // (jumpValue returns null before its first step, e.g. during a gap).
+  if (value === null || value === undefined || value === '') return;
   const v = Number(value);
+  if (Number.isNaN(v)) return;
   const urgency = v >= 5 ? 'green' : v >= 3 ? 'orange' : 'red';
   return counterPill(g, hx, hy, hr, String(value), { urgency, t, pulse: v === 1, ...o });
 }

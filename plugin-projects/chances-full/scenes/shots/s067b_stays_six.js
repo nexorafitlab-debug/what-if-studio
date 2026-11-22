@@ -5,11 +5,11 @@ import { streetMorning } from '../sets/street_morning.js';
 import { CAST } from '../cast.js';
 import { chancePill } from '../_helpers.js';
 registerShot('s081', { draw(g, t, info) {
-  const cam = { z: 1.1, x: -30, y: 30 };
+  const cam = { z: 1, x: 0, y: 0 };
   layer(g, cam, 1, (g) => {
     const { GY, M } = streetMorning(g, t, info, {});
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };
-    const mx = E.W * 0.52 + (t + 3.1) * 120;
+    const mx = E.W * 0.42 + (t + 3.1) * 120;
     const mia = { x: mx, y: GY, s: V(1.25, 1.35), facing: 1, outfit: CAST.SISTER.outfit, pose: walkPose((t + 3.1) * Math.PI * 2 * 0.9 + 1.2), expr: 'smile', rim: { color: M.rim, dir: [1, -1], w: 3 } };
     drawFigure(g, mia);
     const [hx, hy, hr] = headPos(mia);

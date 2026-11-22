@@ -16,6 +16,6 @@ registerShot('s131', { draw(g, t, info) {
     chancePill(g, hx, hy, hr, jumpValue(t, [[0, '4'], [0.88, '3']]), t);
     const him = { x: E.W * 0.82, y: GY, s: V(1.3, 1.4), facing: -1, outfit: CAST.PASSER1.outfit, pose: breathe(POSES.talk, t, 1, 2), expr: 'angry', rim: { color: M.rim, dir: [1, -1], w: 3 } };
     drawFigure(g, him);
-    drawFigure(g, { x: E.W * 0.22, y: GY, s: V(1.25, 1.35), facing: 1, outfit: CAST.KIAN.outfit, pose: breathe(POSES.sad, t), expr: 'sad', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
+    drawFigure(g, { x: E.W * 0.32, y: GY, s: V(1.25, 1.35), facing: 1, outfit: CAST.KIAN.outfit, pose: breathe(POSES.sad, t), expr: 'sad', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
   });
 } });

@@ -28,10 +28,13 @@ export function backyard(g, t, info, params = {}) {
   }
   // lawn
   fillRect(g, -E.W, GY, E.W * 3, E.H - GY, '#2a4a2a');
-  // basketball on the grass (left)
-  circle(g, E.W * 0.16, GY + 100, 26, '#e07856');
-  seg(g, [[E.W * 0.16 - 26, GY + 100], [E.W * 0.16 + 26, GY + 100]], 3, '#5a2a1a');
-  seg(g, [[E.W * 0.16, GY + 74], [E.W * 0.16, GY + 126]], 3, '#5a2a1a');
+  // basketball on the grass (left) — hidden when the shot animates the ball
+  // itself (s200/s201 pass { ball: false } so there is never a second ball)
+  if (params.ball !== false) {
+    circle(g, E.W * 0.16, GY + 100, 26, '#e07856');
+    seg(g, [[E.W * 0.16 - 26, GY + 100], [E.W * 0.16 + 26, GY + 100]], 3, '#5a2a1a');
+    seg(g, [[E.W * 0.16, GY + 74], [E.W * 0.16, GY + 126]], 3, '#5a2a1a');
+  }
   dust(g, t, { count: 10, seed: 67 });
   veil(g, '#000', 0.05);
   return { GY, CX, M: m };

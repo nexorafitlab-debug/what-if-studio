@@ -4,7 +4,7 @@ import { drawFigure, POSES, breathe, walkPose } from '/engine/rig2d.js';
 import { gymCourt } from '../sets/gym_court.js';
 import { CAST } from '../cast.js';
 registerShot('s107', { draw(g, t, info) {
-  const cam = { z: 1.1, x: -40, y: 40 };
+  const cam = { z: 1.1, x: -40, y: 0 };
   layer(g, cam, 1, (g) => {
     const { GY, M } = gymCourt(g, t, info, {});
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };

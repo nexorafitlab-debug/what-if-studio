@@ -5,7 +5,7 @@ import { gymCourt } from '../sets/gym_court.js';
 import { CAST } from '../cast.js';
 import { chancePill } from '../_helpers.js';
 registerShot('s096', { draw(g, t, info) {
-  const cam = { z: 1.15, x: -40, y: 60 };
+  const cam = { z: 1.15, x: -40, y: 0 };
   layer(g, cam, 1, (g) => {
     const { GY, M } = gymCourt(g, t, info, {});
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };

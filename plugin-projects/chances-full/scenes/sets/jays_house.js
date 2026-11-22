@@ -35,12 +35,29 @@ export function jaysHouse(g, t, info, params = {}) {
   circle(g, E.W * 0.1, GY - 240, 70, '#2a5a2a');
   circle(g, E.W * 0.1 - 50, GY - 196, 48, '#3a6a3a');
   circle(g, E.W * 0.1 + 50, GY - 196, 48, '#1e4a1e');
-  // bike leaning by the porch (right)
-  circle(g, E.W * 0.86, GY - 26, 26, 'rgba(0,0,0,0)');
-  g.strokeStyle = '#c8c8d0'; g.lineWidth = 4;
-  g.beginPath(); g.arc(E.W * 0.86, GY - 26, 26, 0, Math.PI * 2); g.stroke();
-  g.beginPath(); g.arc(E.W * 0.72, GY - 26, 26, 0, Math.PI * 2); g.stroke();
-  seg(g, [[E.W * 0.72, GY - 26], [E.W * 0.86, GY - 26]], 4, '#c8c8d0');
+  // bike leaning by the porch (right) — a real bicycle: two spoked wheels,
+  // frame triangle, fork, handlebars, seat and crank, not a line + circles
+  const bx = E.W * 0.79, by = GY - 34, br = 34; // rear-wheel centre / radius
+  const fx = E.W * 0.90, fy = GY - 34;           // front-wheel centre
+  const seat = [bx + 18, GY - 118], head = [fx - 22, GY - 100], crank = [bx + 52, GY - 40];
+  g.strokeStyle = '#d8d8e0'; g.lineWidth = 5;
+  for (const [wx, wy] of [[bx, by], [fx, fy]]) {
+    g.beginPath(); g.arc(wx, wy, br, 0, Math.PI * 2); g.stroke();
+    g.lineWidth = 2; g.strokeStyle = 'rgba(216,216,224,0.5)';
+    seg(g, [[wx - br, wy], [wx + br, wy]], 2, 'rgba(216,216,224,0.5)');
+    seg(g, [[wx, wy - br], [wx, wy + br]], 2, 'rgba(216,216,224,0.5)');
+    g.lineWidth = 5; g.strokeStyle = '#d8d8e0';
+  }
+  g.strokeStyle = '#e07856'; g.lineWidth = 6; // warm red frame
+  seg(g, [[bx, by], crank], 6, '#e07856');            // chain stay
+  seg(g, [[bx, by], seat], 6, '#e07856');             // seat stay
+  seg(g, [seat, head], 6, '#e07856');                 // top tube
+  seg(g, [head, crank], 6, '#e07856');                // down tube
+  seg(g, [head, [fx, fy]], 5, '#d8d8e0');             // fork
+  seg(g, [[head[0] - 16, head[1] - 18], [head[0] + 14, head[1] - 6]], 5, '#d8d8e0'); // handlebars
+  seg(g, [[seat[0] - 16, seat[1] - 4], [seat[0] + 16, seat[1] - 4]], 5, '#2a2a34');   // saddle
+  circle(g, crank[0], crank[1], 10, '#d8d8e0');
+  seg(g, [[crank[0], crank[1]], [crank[0] - 16, crank[1] + 18]], 4, '#d8d8e0');      // pedal crank
   dust(g, t, { count: 10, seed: 61 });
   veil(g, '#000', 0.05);
   return { GY, CX, M: m };

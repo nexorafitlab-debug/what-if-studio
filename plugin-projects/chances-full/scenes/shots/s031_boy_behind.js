@@ -14,6 +14,6 @@ registerShot('s035', { draw(g, t, info) {
     const [hx, hy, hr] = headPos(boy);
     chancePill(g, hx, hy, hr, '8', t);
     const pose = breathe(POSES.talk, t);
-    drawFigure(g, { x: E.W * 0.24, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose, expr: 'neutral', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
+    drawFigure(g, { x: E.W * 0.36, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose, expr: 'neutral', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
   });
 } });

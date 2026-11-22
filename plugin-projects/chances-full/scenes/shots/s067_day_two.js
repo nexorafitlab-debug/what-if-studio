@@ -9,7 +9,7 @@ registerShot('s080', { draw(g, t, info) {
   layer(g, cam, 1, (g) => {
     const { GY, M } = streetMorning(g, t, info, {});
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };
-    const mx = E.W * 0.52 + t * 120;
+    const mx = E.W * 0.42 + t * 120;
     const mia = { x: mx, y: GY, s: V(1.25, 1.35), facing: 1, outfit: CAST.SISTER.outfit, pose: walkPose(t * Math.PI * 2 * 0.9 + 1.2), expr: 'smile', rim: { color: M.rim, dir: [1, -1], w: 3 } };
     drawFigure(g, mia);
     const [hx, hy, hr] = headPos(mia);

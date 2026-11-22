@@ -1499,15 +1499,7 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [
-    {
-     "name": "tick",
-     "at": 0.14,
-     "gain": -17.5,
-     "seed": 3,
-     "pitch": 1.0
-    }
-   ],
+   "sfx": [],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -1524,7 +1516,15 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [],
+   "sfx": [
+    {
+     "name": "tick",
+     "at": 0.84,
+     "gain": -17.5,
+     "seed": 3,
+     "pitch": 1.0
+    }
+   ],
    "amb": {
     "name": "roomtone",
     "gain": -22
@@ -2583,7 +2583,14 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [],
+   "sfx": [
+    {
+     "name": "blip",
+     "at": 1.2,
+     "gain": -15.5,
+     "seed": 2
+    }
+   ],
    "amb": {
     "name": "murmur",
     "gain": -22
@@ -3677,7 +3684,14 @@
    "in": {
     "type": "cut"
    },
-   "sfx": [],
+   "sfx": [
+    {
+     "name": "footstep",
+     "at": 1.2,
+     "gain": -17.5,
+     "seed": 1
+    }
+   ],
    "amb": {
     "name": "roomtone",
     "gain": -22

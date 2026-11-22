@@ -12,7 +12,7 @@ registerShot('s059', { draw(g, t, info) {
     const mia = { x: E.W * 0.68, y: GY, s: V(1.3, 1.4), facing: -1, outfit: CAST.SISTER.outfit, pose: breathe(t > 0.14 ? POSES.sad : POSES.point, t, 1, 2), expr: t > 0.14 ? 'sad' : 'angry', rim: { color: M.rim, dir: [1, -1], w: 3 } };
     drawFigure(g, mia);
     const [hx, hy, hr] = headPos(mia);
-    chancePill(g, hx, hy, hr, jumpValue(t, [[0, '8'], [0.14, '7']]), t);
+    chancePill(g, hx, hy, hr, '8', t);
     const pose = breathe(POSES.shrug, t);
     drawFigure(g, { x: E.W * 0.3, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose, expr: 'smile', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
   });

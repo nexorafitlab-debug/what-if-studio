@@ -13,7 +13,7 @@ registerShot('s101', { draw(g, t, info) {
     drawFigure(g, jay);
     const [hx, hy, hr] = headPos(jay);
     chancePill(g, hx, hy, hr, '1', t);
-    drawFigure(g, { x: E.W * 0.22, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose: breathe(POSES.sad, t), expr: 'shocked', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
+    drawFigure(g, { x: E.W * 0.34, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose: breathe(POSES.sad, t), expr: 'shocked', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
   });
   const a = clamp(prog(t, 0.7, 1.0));
   text(g, 'ONE.', E.W / 2, E.H * 0.90, { size: V(64, 72), color: '#ff5a4a', glow: 30, glowColor: 'rgba(255,90,74,0.55)', spacing: 2, alpha: a });

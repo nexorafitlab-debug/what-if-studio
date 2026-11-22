@@ -9,6 +9,6 @@ registerShot('s121', { draw(g, t, info) {
     const { GY, M } = busStop(g, t, info, {});
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };
     drawFigure(g, { x: E.W * 0.56, y: GY + 30, s: V(1.35, 1.45), facing: -1, outfit: CAST.OLD.outfit, pose: breathe(POSES.sit, t), expr: 'sad', rim: { color: M.rim, dir: [1, -1], w: 3 } });
-    drawFigure(g, { x: E.W * 0.22, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose: breathe(POSES.sad, t), expr: 'sad', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
+    drawFigure(g, { x: E.W * 0.30, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose: breathe(POSES.sad, t), expr: 'sad', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
   });
 } });

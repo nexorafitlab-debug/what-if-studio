@@ -30,8 +30,10 @@ export function hallway(g, t, info, params = {}) {
   fillRect(g, -E.W, GY, E.W * 3, E.H - GY, '#8a8a92');
   g.strokeStyle = 'rgba(0,0,0,0.2)'; g.lineWidth = 2;
   for (let x = -E.W; x < E.W * 2; x += 120) { g.beginPath(); g.moveTo(x, GY); g.lineTo(x - 50, E.H); g.stroke(); }
-  seg(g, [[CX - 90, GY], [CX - 40, E.H]], 8, '#ffd76a');
-  seg(g, [[CX + 90, GY], [CX + 40, E.H]], 8, '#ffd76a');
+  // floor guide lines — kept WIDE (well clear of the 0.80H text zone) so they
+  // never cross through the on-screen words
+  seg(g, [[CX - 150, GY], [CX - 110, E.H]], 8, '#ffd76a');
+  seg(g, [[CX + 150, GY], [CX + 110, E.H]], 8, '#ffd76a');
   dust(g, t, { count: 10, seed: 23 });
   veil(g, '#000', 0.06);
   return { GY, CX, M: m };

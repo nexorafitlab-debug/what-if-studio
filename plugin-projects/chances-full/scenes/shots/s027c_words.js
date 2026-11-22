@@ -13,6 +13,6 @@ registerShot('s031', { draw(g, t, info) {
     drawFigure(g, mom);
     const [hx, hy, hr] = headPos(mom);
     chancePill(g, hx, hy, hr, '3', t);
-    drawFigure(g, { x: E.W * 0.2, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose: breathe(POSES.sad, t, 1, 4), expr: 'sad', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
+    drawFigure(g, { x: E.W * 0.32, y: GY, s: V(1.3, 1.4), facing: 1, outfit: CAST.KIAN.outfit, pose: breathe(POSES.sad, t, 1, 4), expr: 'sad', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
   });
 } });

@@ -4,7 +4,7 @@ import { drawFigure, POSES, posesAt, breathe } from '/engine/rig2d.js';
 import { busStop } from '../sets/bus_stop.js';
 import { CAST } from '../cast.js';
 registerShot('s122', { draw(g, t, info) {
-  const cam = { z: 1.5, x: 0, y: 140 };
+  const cam = { z: 1.3, x: -40, y: 100 };
   layer(g, cam, 1, (g) => {
     const { GY, M } = busStop(g, t, info, {});
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };

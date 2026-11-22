@@ -8,10 +8,14 @@ registerShot('s105', { draw(g, t, info) {
   layer(g, cam, 1, (g) => {
     const { GY, M } = gymCourt(g, t, info, {});
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };
-    const jay = { x: E.W * 0.58, y: GY, s: V(1.4, 1.5), facing: -1, outfit: CAST.JAY.outfit, pose: breathe(POSES.sad, t, 1, 2), expr: 'sad', rim: { color: M.rim, dir: [1, -1], w: 3 } };
+    // Jay straightens and drifts away as he goes
+    const jayX = E.W * 0.58 + prog(t, 1.0, 1.78) * 25;
+    const jay = { x: jayX, y: GY, s: V(1.4, 1.5), facing: -1, outfit: CAST.JAY.outfit, pose: breathe(posesAt(t, [[0, POSES.sad], [1.2, POSES.stand]]), t, 1, 2), expr: 'sad', rim: { color: M.rim, dir: [1, -1], w: 3 } };
     drawFigure(g, jay);
+    // Kian lowers his hand, then steps after him
+    const lx = E.W * 0.34 + prog(t, 1.0, 1.78) * 30;
     const pose = breathe(posesAt(t, [[0, POSES.reach], [0.9, POSES.sad]]), t);
-    drawFigure(g, { x: E.W * 0.24, y: GY, s: V(1.35, 1.45), facing: 1, outfit: CAST.KIAN.outfit, pose, expr: 'sad', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
+    drawFigure(g, { x: lx, y: GY, s: V(1.35, 1.45), facing: 1, outfit: CAST.KIAN.outfit, pose, expr: 'sad', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
   });
   const a = clamp(prog(t, 0.3, 0.6));
   text(g, 'GONE.', E.W / 2, E.H * 0.90, { size: V(64, 72), color: '#ffd76a', glow: 30, glowColor: 'rgba(255,215,106,0.55)', spacing: 2, alpha: a });

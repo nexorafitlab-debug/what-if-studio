@@ -154,17 +154,7 @@
    "pitch": 1.0
   }
  ],
- "s059": [
-  {
-   "name": "tick",
-   "at": 0.14,
-   "gain": -17.5,
-   "rule": "drop -> 7",
-   "prio": 0,
-   "seed": 3,
-   "pitch": 1.0
-  }
- ],
+ "s059": [],
  "s063": [
   {
    "name": "pop",
@@ -1940,6 +1930,38 @@
    "rule": "walk 2nd step",
    "prio": 2,
    "seed": 3
+  }
+ ],
+ "s060": [
+  {
+   "name": "tick",
+   "at": 0.84,
+   "gain": -17.5,
+   "rule": "drop -> 7",
+   "prio": 0,
+   "seed": 3,
+   "pitch": 1.0
+  }
+ ],
+ "s104": [
+  {
+   "name": "blip",
+   "at": 1.2,
+   "gain": -15.5,
+   "rule": "disappears",
+   "prio": 2,
+   "seed": 2,
+   "pitch": 1.0
+  }
+ ],
+ "s150": [
+  {
+   "name": "footstep",
+   "at": 1.2,
+   "gain": -17.5,
+   "rule": "she turns away",
+   "prio": 2,
+   "seed": 1
   }
  ]
 }

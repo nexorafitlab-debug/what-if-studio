@@ -5,7 +5,7 @@ import { cafeteria } from '../sets/cafeteria.js';
 import { CAST } from '../cast.js';
 import { chancePill } from '../_helpers.js';
 registerShot('s046', { draw(g, t, info) {
-  const cam = { z: 1.1, x: 60, y: 60 };
+  const cam = { z: 1.1, x: 60, y: -10 };
   layer(g, cam, 1, (g) => {
     const { GY, M } = cafeteria(g, t, info, {});
     const rim = { color: M.rim, dir: [-1, -1], w: 4 };

@@ -14,6 +14,8 @@ const data = JSON.parse(fs.readFileSync(shotsPath, 'utf8'));
 const shots = data.shots;
 const duration = data.duration ?? shots[shots.length - 1].end;
 const title = data.title ?? path.basename(projectDir);
+const cfg = (() => { try { return JSON.parse(fs.readFileSync(path.join(projectDir, 'config.json'), 'utf8')); } catch { return {}; } })();
+const fps = cfg.fps || 60;
 
 // Balanced greedy: add a shot to the current chunk only if it keeps the chunk
 // closer to the per-chunk target; otherwise close the chunk and start a new one.
@@ -37,7 +39,12 @@ if (cur.length) chunks.push(cur);
 const matrix = chunks.map((cs, i) => ({
   index: i,
   from: cs[0].start,
-  to: cs[cs.length - 1].end,
+  // CONTIGUOUS: each chunk runs to the NEXT chunk's first shot, and the last
+  // chunk runs to the audio duration rounded up to the frame grid. The gaps
+  // between shots (and the tail after the last shot) are then rendered as
+  // held frames instead of being dropped — dropping them made the video
+  // shorter than the audio and drifted it out of sync (~3.3s by the end).
+  to: i < chunks.length - 1 ? chunks[i + 1][0].start : Math.ceil(duration * fps) / fps,
   shots: `${cs[0].id}-${cs[cs.length - 1].id}`,
   count: cs.length,
 }));

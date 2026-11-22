@@ -12,13 +12,16 @@ export function gymCourt(g, t, info, params = {}) {
   for (let r = 0; r < 4; r++) {
     fillRect(g, -E.W, 150 + r * 92, E.W * 3, 60, r % 2 ? '#3a4a6a' : '#4a5a7a');
   }
-  // scoreboard (centre, clear of the letterbox; teams stacked — the board is
-  // too narrow for HOME and GUEST side by side)
-  rr(g, CX - 170, 92, 340, 140, 10); g.fillStyle = '#14141e'; g.fill();
+  // scoreboard (centre, mounted LOW so zoomed shots (cam y up to 80) keep it
+  // fully below the letterbox; teams stacked — the board is too narrow for
+  // HOME and GUEST side by side). Board top 230: even at cam z 1.3 / y 80
+  // its top lands at 540+1.3*(230-620)=33 — still clipped; zoomed gym shots
+  // now use cam y 0, which puts the top at 137, fully visible.
+  rr(g, CX - 170, 230, 340, 140, 10); g.fillStyle = '#14141e'; g.fill();
   g.strokeStyle = '#ffd76a'; g.lineWidth = 4; g.stroke();
-  text(g, 'HOME  24', CX, 142, { size: 32, color: '#ffd76a', font: FONTS.ui, weight: 900 });
-  text(g, 'GUEST  19', CX, 176, { size: 32, color: '#9fd8ff', font: FONTS.ui, weight: 900 });
-  text(g, 'Q3  04:12', CX, 212, { size: 28, color: '#f2ead8', font: FONTS.ui, weight: 900 });
+  text(g, 'HOME  24', CX, 280, { size: 32, color: '#ffd76a', font: FONTS.ui, weight: 900 });
+  text(g, 'GUEST  19', CX, 314, { size: 32, color: '#9fd8ff', font: FONTS.ui, weight: 900 });
+  text(g, 'Q3  04:12', CX, 350, { size: 28, color: '#f2ead8', font: FONTS.ui, weight: 900 });
   // wooden court floor
   fillRect(g, -E.W, GY, E.W * 3, E.H - GY, '#a8763e');
   g.strokeStyle = 'rgba(0,0,0,0.22)'; g.lineWidth = 2;

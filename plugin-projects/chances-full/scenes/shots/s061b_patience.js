@@ -12,5 +12,5 @@ registerShot('s071', { draw(g, t, info) {
     drawFigure(g, { x: E.W * 0.5, y: GY, s: V(1.45, 1.55), facing: 1, outfit: CAST.KIAN.outfit, pose, expr: 'confused', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
   });
   const a = clamp(prog(t, 0.3, 0.6));
-  text(g, 'YOUR PATIENCE IS RUNNING OUT.', E.W / 2, E.H * 0.90, { size: V(40, 46), color: '#ffd76a', glow: 26, glowColor: 'rgba(255,215,106,0.55)', spacing: 2, alpha: a });
+  text(g, 'YOUR PATIENCE IS RUNNING OUT.', E.W / 2, E.H * 0.80, { size: V(56, 64), color: '#ffe9a8', glow: 34, glowColor: 'rgba(255,215,106,0.55)', spacing: 2, alpha: a });
 } });

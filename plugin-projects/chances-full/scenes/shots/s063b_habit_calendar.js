@@ -19,14 +19,20 @@ registerShot('s074', { draw(g, t, info) {
     g.stroke();
     g.fillStyle = '#2e6ff0'; g.font = 'bold 20px sans-serif'; g.textAlign = 'center';
     g.fillText('66 DAYS', bx + bw / 2, by + 24);
-    g.strokeStyle = '#e5484d'; g.lineWidth = 4; g.beginPath();
-    g.moveTo(bx + 6, by + 40); g.lineTo(bx + bw / 7 - 6, by + 34 + (bh - 34) / 4 - 6);
-    g.moveTo(bx + bw / 7 - 6, by + 40); g.lineTo(bx + 6, by + 34 + (bh - 34) / 4 - 6);
-    g.stroke();
+    // a new red X every 0.7s — he is marking the days, not frozen
+    const marks = Math.min(5, 1 + Math.floor(t / 0.7));
+    g.strokeStyle = '#e5484d'; g.lineWidth = 4;
+    for (let d = 0; d < marks; d++) {
+      const cx0 = bx + d * bw / 7, cy0 = by + 34, cw = bw / 7, ch = (bh - 34) / 4;
+      g.beginPath();
+      g.moveTo(cx0 + 6, cy0 + 6); g.lineTo(cx0 + cw - 6, cy0 + ch - 6);
+      g.moveTo(cx0 + cw - 6, cy0 + 6); g.lineTo(cx0 + 6, cy0 + ch - 6);
+      g.stroke();
+    }
     g.restore();
-    const pose = breathe(posesAt(t, [[0, POSES.pointUp], [1.0, POSES.stand]]), t);
+    const pose = breathe(posesAt(t, [[0, POSES.pointUp], [0.7, POSES.stand], [1.4, POSES.pointUp], [2.1, POSES.stand], [2.8, POSES.pointUp]]), t);
     drawFigure(g, { x: E.W * 0.3, y: GY, s: V(1.35, 1.45), facing: 1, outfit: CAST.KIAN.outfit, pose, expr: 'determined', talk: talkAmount(info.globalT), blink: (t % 3.7) < 0.12, rim });
   });
   const a = clamp(prog(t, 0.3, 0.6));
-  text(g, 'DAY 1 OF 66.', E.W / 2, E.H * 0.90, { size: V(48, 54), color: '#ffd76a', glow: 26, glowColor: 'rgba(255,215,106,0.55)', spacing: 2, alpha: a });
+  text(g, `DAY ${Math.min(5, 1 + Math.floor(t / 0.7))} OF 66.`, E.W / 2, E.H * 0.90, { size: V(48, 54), color: '#ffd76a', glow: 26, glowColor: 'rgba(255,215,106,0.55)', spacing: 2, alpha: a });
 } });
