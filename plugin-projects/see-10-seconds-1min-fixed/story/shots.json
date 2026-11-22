@@ -1,0 +1,440 @@
+{
+ "title": "What If You Could See 10 Seconds Ahead?",
+ "duration": 60,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 4.0,
+   "line": "",
+   "scene": "Chapter 1 card: THE FAN",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s002",
+   "start": 4.0,
+   "end": 6.69,
+   "line": "You wake up. The ceiling fan spins.",
+   "scene": "BEDROOM - DAWN \u2014 act: You wake up. The ceiling fan spins.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 0.5,
+     "name": "hum",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s003",
+   "start": 6.69,
+   "end": 10.54,
+   "line": "One blade wobbles. Ten Nine Eight.",
+   "scene": "BEDROOM - DAWN \u2014 countdown: One blade wobbles. Ten Nine Eight.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.39,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 2.21,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 3.03,
+     "name": "tick",
+     "gain": -6
+    },
+    {
+     "at": 1.39,
+     "name": "ding",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s004",
+   "start": 10.54,
+   "end": 14.41,
+   "line": "You reach up. You catch the falling blade before it hits your pillow.",
+   "scene": "BEDROOM - DAWN \u2014 catch: You reach up. You catch the falling blade before it hits you",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.94,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s005",
+   "start": 14.41,
+   "end": 17.23,
+   "line": "Silence. Your heart slows.",
+   "scene": "BEDROOM - DAWN \u2014 act: Silence. Your heart slows.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s006",
+   "start": 17.23,
+   "end": 19.6,
+   "line": "The blade is metal. It is",
+   "scene": "BEDROOM - DAWN \u2014 act: The blade is metal. It is",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s007",
+   "start": 19.6,
+   "end": 21.83,
+   "line": "heavy. It falls fast.",
+   "scene": "BEDROOM - DAWN \u2014 act: heavy. It falls fast.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s008",
+   "start": 21.83,
+   "end": 25.24,
+   "line": "You knew it would fall. You knew before it moved.",
+   "scene": "BEDROOM - DAWN \u2014 act: You knew it would fall. You knew before it moved.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s009",
+   "start": 25.24,
+   "end": 28.45,
+   "line": "You sit back. You wait for the next wobble.",
+   "scene": "BEDROOM - DAWN \u2014 sit: You sit back. You wait for the next wobble.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s010",
+   "start": 28.45,
+   "end": 32.4,
+   "line": "None comes. You lie down. You stare at the ceiling.",
+   "scene": "BEDROOM - DAWN \u2014 look: None comes. You lie down. You stare at the ceiling.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s011",
+   "start": 32.4,
+   "end": 35.64,
+   "line": "The fan turns. The room is still.",
+   "scene": "BEDROOM - DAWN \u2014 act: The fan turns. The room is still.",
+   "set": "bedroom_dawn",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hum",
+     "gain": -14
+    },
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s012",
+   "start": 35.64,
+   "end": 39.64,
+   "line": "",
+   "scene": "Chapter 2 card: THE RULE",
+   "set": "void",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s013",
+   "start": 39.64,
+   "end": 42.44,
+   "line": "Kian. That's your name. Seventeen.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: Kian. That's your name. Seventeen.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s014",
+   "start": 42.44,
+   "end": 45.55,
+   "line": "You see everything ten seconds before it happens.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 look: You see everything ten seconds before it happens.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s015",
+   "start": 45.55,
+   "end": 47.82,
+   "line": "Exactly ten. Only your own",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: Exactly ten. Only your own",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s016",
+   "start": 47.82,
+   "end": 49.77,
+   "line": "future. Never off.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: future. Never off.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s017",
+   "start": 49.77,
+   "end": 51.8,
+   "line": "You walk. You turn.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 walk: You walk. You turn.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.1,
+     "name": "footstep",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s018",
+   "start": 51.8,
+   "end": 54.04,
+   "line": "You open your locker before the bell rings.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: You open your locker before the bell rings.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s019",
+   "start": 54.04,
+   "end": 57.53,
+   "line": "You catch a flyer before it hits the floor. No one saw.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 catch: You catch a flyer before it hits the floor. No one saw.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 1.75,
+     "name": "pop",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s020",
+   "start": 57.53,
+   "end": 60.0,
+   "line": "You count the seconds. One. Two. Ten.",
+   "scene": "SCHOOL HALLWAY - 3RD FLOOR \u2014 act: You count the seconds. One. Two. Ten.",
+   "set": "hallway",
+   "bars": 40,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  }
+ ],
+ "music": [
+  {
+   "start": 0.0,
+   "end": 35.64,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 35.64,
+   "end": 60.0,
+   "mood": "mystery",
+   "intensity": 0.55
+  }
+ ]
+}
