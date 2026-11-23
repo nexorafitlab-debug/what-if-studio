@@ -9,7 +9,7 @@
  "loudness": -14,
  "music": {
   "enabled": true,
-  "gainDb": -17
+  "gainDb": -21
  },
  "resolution": "720p",
  "script": "input/script.txt",

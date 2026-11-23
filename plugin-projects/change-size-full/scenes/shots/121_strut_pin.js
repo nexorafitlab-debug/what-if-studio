@@ -3,7 +3,7 @@ import { drawFigure, POSES, posesAt, breathe, walkPose, headPos, exprAt } from '
 import { CAST } from '../cast.js';
 import { gymquake } from '../sets/gymquake.js';
 registerShot('s121', { draw(g, t, info) {
-  const cam = { z: 1.35, x: 300, y: -60 };
+  const cam = { z: 1.35, x: 550, y: 250 };
   layer(g, cam, 1, (g) => {
     const { GY, M, beam, pin } = gymquake(g, t, info, {});
     const rim = { color: '#ffd76a', dir: [-1, -1], w: 4 };

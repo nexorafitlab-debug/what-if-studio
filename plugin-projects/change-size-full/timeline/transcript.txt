@@ -39,23 +39,23 @@
 [00:55.60 -> 00:58.50] At school, you grow to reach the top of the board.
 [00:58.50 -> 01:00.08] Your teacher sighs.
 [01:00.08 -> 01:00.96] Noah.
-[01:00.96 -> 01:01.84] Sit down.
-[01:01.84 -> 01:02.80] All of you.
+[01:00.96 -> 01:01.82] Sit down.
+[01:01.82 -> 01:02.80] All of you.
 [01:02.80 -> 01:04.92] Minus: everyone stares.
 [01:05.62 -> 01:07.76] At basketball, you grow to ten meters.
-[01:07.76 -> 01:09.20] You dunk the ball.
-[01:09.20 -> 01:11.02] It feels like a grape in your hand.
-[01:11.02 -> 01:11.86] Noah.
-[01:11.86 -> 01:12.64] That's cheating.
+[01:08.04 -> 01:09.18] You dunk the ball.
+[01:09.32 -> 01:11.02] It feels like a grape in your hand.
+[01:11.02 -> 01:11.84] Noah.
+[01:11.84 -> 01:12.64] That's cheating.
 [01:12.64 -> 01:15.88] Plus: you shrink to ten centimeters and walk across a map.
-[01:15.88 -> 01:17.66] You stand on a mountain range...
+[01:16.08 -> 01:17.68] You stand on a mountain range...
 [01:18.28 -> 01:20.28] You see the whole country in one glance.
 [01:20.28 -> 01:21.82] How did you do that?
-[01:22.24 -> 01:23.74] But where it gets really crazy...
-[01:23.74 -> 01:24.60] is the money.
-[01:24.60 -> 01:27.02] A plumber pays you to shrink under his sink.
-[01:27.02 -> 01:28.88] You fix the pipe in five minutes.
-[01:28.88 -> 01:29.80] A
+[01:25.28 -> 01:26.74] But where it gets really crazy...
+[01:26.74 -> 01:27.60] is the money.
+[01:27.60 -> 01:30.02] A plumber pays you to shrink under his sink.
+[01:30.02 -> 01:31.88] You fix the pipe in five minutes.
+[01:31.88 -> 01:32.16] A
 [01:33.00 -> 01:34.52] builder pays you to change a streetlight.
 [01:34.52 -> 01:35.48] No ladder.
 [01:35.48 -> 01:36.18] Easy money.
@@ -63,196 +63,196 @@
 [01:38.56 -> 01:39.94] Mia calls out.
 [01:39.94 -> 01:40.92] Show off.
 [01:40.92 -> 01:41.74] You grin.
-[01:41.74 -> 01:42.60] The catch?
-[01:42.60 -> 01:44.14] You come home starving.
+[01:41.74 -> 01:42.62] The catch?
+[01:42.62 -> 01:44.14] You come home starving.
 [01:44.14 -> 01:45.94] Every change burns fuel.
-[01:46.58 -> 01:48.56] Grow big, and you eat like a furnace.
-[01:48.56 -> 01:50.12] You eat four burgers.
-[01:50.12 -> 01:51.48] Your mom counts.
+[01:46.60 -> 01:48.56] Grow big, and you eat like a furnace.
+[01:48.56 -> 01:50.14] You eat four burgers.
+[01:50.14 -> 01:51.48] Your mom counts.
 [01:51.48 -> 01:52.46] Four?
-[01:52.46 -> 01:53.40] You nod.
-[01:53.70 -> 01:54.78] That's your eighth burger.
+[01:52.46 -> 01:53.42] You nod.
+[01:53.68 -> 01:54.78] That's your eighth burger.
 [01:54.78 -> 01:56.08] Then she stops.
 [01:56.08 -> 01:56.96] Noah.
 [01:56.96 -> 01:58.16] Are you okay?
-[01:58.16 -> 01:59.90] Your cat thinks you're a mouse.
-[01:59.90 -> 02:00.98] You shrink.
-[02:00.98 -> 02:01.88] She pounces.
+[01:58.64 -> 01:59.92] Your cat thinks you're a mouse.
+[01:59.92 -> 02:00.98] You shrink.
+[02:01.32 -> 02:01.88] She pounces.
 [02:01.88 -> 02:03.60] You grow in half a second.
 [02:04.22 -> 02:05.12] She runs.
 [02:05.12 -> 02:06.18] It rains.
 [02:06.18 -> 02:07.46] You shrink.
-[02:07.46 -> 02:09.20] A drop hits your shoulder.
+[02:07.46 -> 02:09.22] A drop hits your shoulder.
 [02:09.44 -> 02:10.86] It feels like a stone.
-[02:11.40 -> 02:13.04] You grow back, soaked.
-[02:13.04 -> 02:15.26] At ten meters, you cannot whisper.
-[02:16.00 -> 02:17.02] Everyone hears you.
+[02:11.40 -> 02:13.02] You grow back, soaked.
+[02:13.02 -> 02:15.26] At ten meters, you cannot whisper.
+[02:15.82 -> 02:17.02] Everyone hears you.
 [02:17.02 -> 02:18.52] And there's a cost.
-[02:18.52 -> 02:20.06] The bigger you get...
-[02:20.06 -> 02:22.02] the heavier the world gets.
-[02:22.02 -> 02:24.06] The smaller you get...
+[02:18.52 -> 02:20.08] The bigger you get...
+[02:20.08 -> 02:22.04] the heavier the world gets.
+[02:22.04 -> 02:24.06] The smaller you get...
 [02:24.06 -> 02:25.58] the sharper it gets.
-[02:25.58 -> 02:28.06] Then a man in a grey suit finds you.
-[02:28.06 -> 02:28.78] Mr.
-[02:28.84 -> 02:29.24] Vane.
-[02:29.24 -> 02:30.40] Talent scout.
+[02:25.58 -> 02:28.04] Then a man in a grey suit finds you.
+[02:28.04 -> 02:28.78] Mr.
+[02:28.84 -> 02:29.22] Vane.
+[02:29.72 -> 02:30.40] Talent scout.
 [02:30.40 -> 02:31.44] Kid.
-[02:31.50 -> 02:32.28] You're a show.
-[02:32.50 -> 02:33.62] He offers money.
+[02:31.54 -> 02:32.28] You're a show.
+[02:32.48 -> 02:33.62] He offers money.
 [02:33.62 -> 02:34.62] A stage.
-[02:34.62 -> 02:36.04] Your face on posters.
-[02:36.04 -> 02:37.62] All you have to do...
+[02:34.62 -> 02:36.02] Your face on posters.
+[02:36.02 -> 02:37.62] All you have to do...
 [02:37.62 -> 02:38.46] is grow.
-[02:38.90 -> 02:39.72] What do you say?
-[02:40.40 -> 02:41.30] You say yes.
-[02:41.48 -> 02:42.52] Of course you say yes.
+[02:38.92 -> 02:39.72] What do you say?
+[02:40.34 -> 02:41.28] You say yes.
+[02:41.46 -> 02:42.52] Of course you say yes.
 [02:42.52 -> 02:43.78] The money is real.
 [02:43.78 -> 02:45.30] But the secret is heavy.
-[02:45.30 -> 02:47.48] You can't tell anyone how it works.
-[02:47.64 -> 02:49.12] You lie to everyone.
-[02:49.12 -> 02:50.66] And your body pays.
-[02:50.66 -> 02:51.86] You eat.
+[02:45.30 -> 02:47.50] You can't tell anyone how it works.
+[02:47.70 -> 02:49.12] You lie to everyone.
+[02:49.12 -> 02:50.64] And your body pays.
+[02:50.64 -> 02:51.86] You eat.
 [02:51.86 -> 02:52.70] Still hungry.
 [02:52.70 -> 02:54.26] And the loneliest part?
-[02:54.92 -> 02:56.28] Nobody knows the real you.
-[02:56.90 -> 02:58.06] Not even Milo.
+[02:54.90 -> 02:56.30] Nobody knows the real you.
+[02:56.96 -> 02:58.06] Not even Milo.
 [02:58.06 -> 02:58.88] Your best friend.
 [02:58.88 -> 02:59.90] Not yet.
 [02:59.90 -> 03:01.82] Milo knows something is wrong.
-[03:01.82 -> 03:03.92] He finds you on the roof after school.
-[03:03.92 -> 03:05.20] You didn't laugh today.
-[03:05.40 -> 03:06.72] You almost tell him.
+[03:01.82 -> 03:03.90] He finds you on the roof after school.
+[03:03.94 -> 03:05.20] You didn't laugh today.
+[03:05.28 -> 03:06.72] You almost tell him.
 [03:06.72 -> 03:07.76] Then you don't.
-[03:07.76 -> 03:09.88] He teaches you a secret knock instead.
-[03:10.56 -> 03:11.52] Two taps.
-[03:11.52 -> 03:12.22] Pause.
+[03:07.76 -> 03:09.86] He teaches you a secret knock instead.
+[03:10.58 -> 03:11.56] Two taps.
+[03:11.56 -> 03:12.22] Pause.
 [03:12.22 -> 03:13.44] One tap.
 [03:13.44 -> 03:14.82] For the treehouse.
-[03:14.82 -> 03:16.52] He taps it on your shoulder.
-[03:16.52 -> 03:17.82] You tap it back.
+[03:14.82 -> 03:16.54] He taps it on your shoulder.
+[03:16.54 -> 03:17.82] You tap it back.
 [03:17.82 -> 03:18.96] And your mom?
 [03:18.96 -> 03:21.18] She watches you eat your fourth burger.
-[03:21.18 -> 03:22.54] She says it again.
-[03:22.54 -> 03:24.06] Small steps, Noah.
-[03:24.06 -> 03:25.44] Small steps.
-[03:25.44 -> 03:27.20] You don't know what it means.
-[03:27.20 -> 03:28.26] Not yet.
-[03:28.34 -> 03:29.74] Then the ground moves.
-[03:29.74 -> 03:30.74] An
-[03:33.94 -> 03:34.36] earthquake.
-[03:34.36 -> 03:35.16] At school.
-[03:35.16 -> 03:36.82] The gym roof groans.
-[03:36.82 -> 03:38.44] A steel beam falls.
-[03:38.44 -> 03:39.86] Milo is under it.
-[03:39.86 -> 03:40.24] Pinned.
-[03:40.24 -> 03:41.34] You grow.
-[03:41.34 -> 03:42.10] Ten meters.
-[03:42.10 -> 03:43.40] You grab the beam.
-[03:43.40 -> 03:43.90] You pull.
-[03:43.90 -> 03:45.12] It doesn't move.
-[03:45.12 -> 03:46.02] Your knees buckle.
-[03:46.02 -> 03:48.64] Your own weight cracks the floor under you.
-[03:48.64 -> 03:49.98] Ten meters tall.
-[03:49.98 -> 03:51.82] Ten times weaker.
-[03:51.82 -> 03:54.46] The beam weighs a thousand times more now.
-[03:54.46 -> 03:56.10] You hear Milo's voice.
-[03:56.10 -> 03:57.02] Noah.
-[03:57.02 -> 03:57.76] Don't.
-[03:57.76 -> 03:58.88] You'll bring it all down.
-[03:58.88 -> 04:00.52] The choice is simple.
-[04:00.52 -> 04:01.66] And terrible.
-[04:01.66 -> 04:02.70] Bigger...
-[04:02.70 -> 04:03.76] or smaller?
-[04:03.76 -> 04:05.04] You shrink.
-[04:05.04 -> 04:06.12] Ten centimeters.
-[04:06.12 -> 04:08.54] You slip through the gap under the beam.
-[04:09.30 -> 04:09.70] Dark.
-[04:09.70 -> 04:10.98] Dust everywhere.
-[04:10.98 -> 04:12.22] You can't see him.
-[04:12.22 -> 04:12.86] You tap.
-[04:12.86 -> 04:13.74] Two taps.
-[04:13.74 -> 04:14.38] Pause.
-[04:14.38 -> 04:15.40] One tap.
-[04:15.40 -> 04:16.16] Silence.
-[04:16.16 -> 04:17.00] Then...
-[04:17.00 -> 04:17.96] two taps.
-[04:17.96 -> 04:18.68] Pause.
-[04:18.68 -> 04:19.74] One tap.
-[04:19.82 -> 04:20.68] He's alive.
-[04:21.02 -> 04:21.78] You climb.
-[04:21.78 -> 04:24.06] The beam rests on one bent strut.
-[04:24.06 -> 04:25.74] One pin holds it all.
-[04:26.30 -> 04:27.16] You push.
-[04:27.16 -> 04:30.54] At ten centimeters, you are ten times stronger for your weight.
-[04:30.54 -> 04:31.60] The pin slides.
-[04:31.60 -> 04:32.44] It drops.
-[04:32.44 -> 04:33.66] The beam shifts.
-[04:33.66 -> 04:34.56] Just enough.
-[04:35.18 -> 04:36.56] Milo pulls his leg free.
-[04:36.56 -> 04:37.72] You grow back.
-[04:37.72 -> 04:38.90] You carry him out.
-[04:38.90 -> 04:41.04] The building groans behind you.
-[04:41.04 -> 04:43.20] Outside, the crowd is waiting.
-[04:43.82 -> 04:44.98] The whole school.
-[04:44.98 -> 04:45.68] Mr.
-[04:45.76 -> 04:46.64] Vane pushes through.
-[04:46.64 -> 04:47.90] He holds a contract.
-[04:47.90 -> 04:48.78] Kid.
-[04:48.78 -> 04:49.76] Sign this.
-[04:49.76 -> 04:50.68] You'll be famous.
-[04:50.68 -> 04:52.34] You look at Milo.
-[04:52.34 -> 04:53.44] You look at your mom.
-[04:53.44 -> 04:55.06] You tear the contract...
-[04:55.06 -> 04:56.18] in half.
-[04:56.34 -> 04:57.40] I'm not a show.
-[04:57.40 -> 04:58.80] The crowd cheers.
-[04:59.48 -> 05:01.28] He taps the knock on your arm.
-[05:01.28 -> 05:02.32] Two taps.
-[05:02.32 -> 05:02.96] Pause.
-[05:02.96 -> 05:04.08] One tap.
-[05:04.08 -> 05:05.46] You tap it back.
-[05:05.46 -> 05:06.62] And your mom?
-[05:06.62 -> 05:07.90] She hugs you.
-[05:07.90 -> 05:09.20] She whispers it.
-[05:09.20 -> 05:10.82] Small steps, Noah.
-[05:10.82 -> 05:12.16] Small steps.
-[05:12.16 -> 05:14.06] And for the first time in months...
-[05:14.26 -> 05:15.54] you don't have to lie.
-[05:15.54 -> 05:17.00] Not to anyone.
-[05:20.39 -> 05:21.53] Not anymore.
-[05:21.53 -> 05:23.35] Is any of this real?
-[05:23.35 -> 05:24.85] The shrinking is fiction.
-[05:25.13 -> 05:26.19] The physics is not.
-[05:26.19 -> 05:26.47] In
-[05:27.61 -> 05:30.27] 1638, Galileo wrote about the square-cube law.
-[05:30.27 -> 05:33.89] Grow ten times taller, and you weigh a thousand times more.
-[05:33.89 -> 05:36.51] But your bones are only a hundred times stronger.
-[05:37.47 -> 05:38.75] They would snap under you.
-[05:38.75 -> 05:43.07] The tallest man who ever lived, Robert Wadlow, was two meters seventy-two.
-[05:43.07 -> 05:44.97] His legs needed braces.
-[05:44.97 -> 05:47.35] He died at twenty-two.
-[05:47.35 -> 05:49.07] Small animals cheat the law.
-[05:49.07 -> 05:51.53] Ants lift fifty times their own weight.
+[03:21.48 -> 03:22.52] She says it again.
+[03:22.52 -> 03:24.06] Small steps, Noah.
+[03:24.06 -> 03:25.42] Small steps.
+[03:25.80 -> 03:27.22] You don't know what it means.
+[03:27.22 -> 03:28.28] Not yet.
+[03:28.28 -> 03:29.14] Then
+[03:31.89 -> 03:32.75] the ground moves.
+[03:33.37 -> 03:34.35] An earthquake.
+[03:34.35 -> 03:35.17] At school.
+[03:35.17 -> 03:36.83] The gym roof groans.
+[03:36.83 -> 03:38.43] A steel beam falls.
+[03:38.43 -> 03:39.89] Milo is under it.
+[03:39.89 -> 03:40.21] Pinned.
+[03:40.21 -> 03:41.35] You grow.
+[03:41.35 -> 03:42.11] Ten meters.
+[03:42.11 -> 03:43.41] You grab the beam.
+[03:43.41 -> 03:43.91] You pull.
+[03:43.91 -> 03:45.11] It doesn't move.
+[03:45.11 -> 03:46.01] Your knees buckle.
+[03:46.01 -> 03:48.63] Your own weight cracks the floor under you.
+[03:48.63 -> 03:49.99] Ten meters tall.
+[03:49.99 -> 03:51.81] Ten times weaker.
+[03:51.81 -> 03:54.45] The beam weighs a thousand times more now.
+[03:54.57 -> 03:56.09] You hear Milo's voice.
+[03:56.09 -> 03:57.01] Noah.
+[03:57.01 -> 03:57.75] Don't.
+[03:57.75 -> 03:58.89] You'll bring it all down.
+[03:58.89 -> 04:00.53] The choice is simple.
+[04:00.53 -> 04:01.67] And terrible.
+[04:02.21 -> 04:02.89] Bigger...
+[04:02.89 -> 04:03.75] or smaller?
+[04:03.75 -> 04:05.01] You shrink.
+[04:05.01 -> 04:06.11] Ten centimeters.
+[04:06.41 -> 04:08.53] You slip through the gap under the beam.
+[04:09.23 -> 04:09.87] Dark.
+[04:09.87 -> 04:10.97] Dust everywhere.
+[04:11.01 -> 04:12.19] You can't see him.
+[04:12.31 -> 04:12.89] You tap.
+[04:12.89 -> 04:13.73] Two taps.
+[04:13.73 -> 04:14.39] Pause.
+[04:14.39 -> 04:15.39] One tap.
+[04:15.39 -> 04:16.17] Silence.
+[04:16.17 -> 04:16.95] Then...
+[04:16.95 -> 04:17.91] two taps.
+[04:17.91 -> 04:18.65] Pause.
+[04:18.65 -> 04:19.75] One tap.
+[04:19.87 -> 04:20.67] He's alive.
+[04:20.67 -> 04:21.77] You climb.
+[04:21.77 -> 04:24.07] The beam rests on one bent strut.
+[04:24.07 -> 04:25.73] One pin holds it all.
+[04:26.29 -> 04:27.15] You push.
+[04:27.15 -> 04:30.53] At ten centimeters, you are ten times stronger for your weight.
+[04:30.53 -> 04:31.61] The pin slides.
+[04:31.61 -> 04:32.47] It drops.
+[04:32.47 -> 04:33.65] The beam shifts.
+[04:33.65 -> 04:34.57] Just enough.
+[04:34.57 -> 04:36.57] Milo pulls his leg free.
+[04:36.57 -> 04:37.71] You grow back.
+[04:37.71 -> 04:38.93] You carry him out.
+[04:38.93 -> 04:41.05] The building groans behind you.
+[04:41.05 -> 04:43.21] Outside, the crowd is waiting.
+[04:43.81 -> 04:44.95] The whole school.
+[04:44.95 -> 04:45.69] Mr.
+[04:45.75 -> 04:46.63] Vane pushes through.
+[04:46.63 -> 04:47.87] He holds a contract.
+[04:47.87 -> 04:48.77] Kid.
+[04:48.77 -> 04:49.75] Sign this.
+[04:49.75 -> 04:50.69] You'll be famous.
+[04:50.69 -> 04:52.35] You look at Milo.
+[04:52.35 -> 04:53.43] You look at your mom.
+[04:53.43 -> 04:55.09] You tear the contract...
+[04:55.09 -> 04:56.17] in half.
+[04:56.29 -> 04:57.41] I'm not a show.
+[04:57.41 -> 04:58.81] The crowd cheers.
+[04:59.45 -> 05:01.29] He taps the knock on your arm.
+[05:01.29 -> 05:02.33] Two taps.
+[05:02.33 -> 05:02.99] Pause.
+[05:02.99 -> 05:04.11] One tap.
+[05:04.11 -> 05:05.47] You tap it back.
+[05:05.47 -> 05:06.59] And your mom?
+[05:06.59 -> 05:07.89] She hugs you.
+[05:07.89 -> 05:09.23] She whispers it.
+[05:09.23 -> 05:10.81] Small steps, Noah.
+[05:10.81 -> 05:12.19] Small steps.
+[05:12.19 -> 05:14.07] And for the first time in months...
+[05:14.31 -> 05:15.55] you don't have to lie.
+[05:15.55 -> 05:17.01] Not to anyone.
+[05:17.65 -> 05:18.57] Not anymore.
+[05:22.03 -> 05:23.39] Is any of this real?
+[05:23.39 -> 05:24.85] The shrinking is fiction.
+[05:25.05 -> 05:26.19] The physics is not.
+[05:26.19 -> 05:26.49] In
+[05:27.55 -> 05:30.29] 1638, Galileo wrote about the square-cube law.
+[05:30.29 -> 05:33.93] Grow ten times taller, and you weigh a thousand times more.
+[05:33.93 -> 05:36.55] But your bones are only a hundred times stronger.
+[05:37.23 -> 05:38.77] They would snap under you.
+[05:38.77 -> 05:43.09] The tallest man who ever lived, Robert Wadlow, was two meters seventy-two.
+[05:43.09 -> 05:44.99] His legs needed braces.
+[05:45.27 -> 05:47.47] He died at twenty-two.
+[05:47.47 -> 05:49.11] Small animals cheat the law.
+[05:49.11 -> 05:51.53] Ants lift fifty times their own weight.
 [05:51.53 -> 05:54.23] Fleas jump two hundred times their own height.
-[05:54.23 -> 05:54.51] And
-[05:55.39 -> 05:57.97] a shrew must eat its own body weight every day...
-[05:57.97 -> 05:58.95] or starve.
-[05:59.59 -> 06:02.47] Voice pitch and body size are linked in real life too.
+[05:54.23 -> 05:54.53] And
+[05:55.39 -> 05:57.99] a shrew must eat its own body weight every day...
+[05:57.99 -> 05:58.93] or starve.
+[05:59.55 -> 06:02.47] Voice pitch and body size are linked in real life too.
 [06:03.03 -> 06:04.11] Children sound higher.
 [06:04.11 -> 06:05.81] Large men sound lower.
-[06:06.13 -> 06:08.37] So could a person really change size...
+[06:05.81 -> 06:08.37] So could a person really change size...
 [06:08.37 -> 06:09.57] and survive it?
-[06:10.23 -> 06:11.93] That night, a letter arrives.
-[06:12.11 -> 06:13.01] No stamp.
-[06:13.27 -> 06:14.09] No return address.
+[06:10.23 -> 06:11.91] That night, a letter arrives.
+[06:12.09 -> 06:13.01] No stamp.
+[06:13.21 -> 06:14.09] No return address.
 [06:14.71 -> 06:16.09] Inside, one line.
 [06:16.25 -> 06:18.15] We know what you did at the school.
-[06:18.15 -> 06:20.63] Come to the old observatory at midnight.
-[06:20.87 -> 06:21.95] Bring your friend.
-[06:22.55 -> 06:24.01] Milo reads it over your shoulder.
+[06:18.15 -> 06:20.61] Come to the old observatory at midnight.
+[06:20.61 -> 06:21.99] Bring your friend.
+[06:21.99 -> 06:24.03] Milo reads it over your shoulder.
 [06:24.71 -> 06:25.47] He says.
-[06:25.47 -> 06:26.17] Midnight?
-[06:26.17 -> 06:26.77] You say.
+[06:25.47 -> 06:26.15] Midnight?
+[06:26.15 -> 06:26.77] You say.
 [06:26.77 -> 06:27.99] Small steps.
 [06:28.09 -> 06:28.59] He says.
 [06:28.59 -> 06:30.01] Then let's go big.
@@ -261,4 +261,4 @@
 [06:33.73 -> 06:34.61] or shrink?
 [06:35.41 -> 06:36.11] Tell us in the comments.
 [06:36.11 -> 06:38.37] And if you felt that knock in the dark...
-[06:38.37 -> 06:41.33] hit like, and subscribe for more What Ifs.
+[06:38.37 -> 06:41.29] hit like, and subscribe for more What Ifs.
