@@ -7,17 +7,21 @@ broken AND the user has been told first. Local render is not a silent fallback.*
 (Stills for helper checks are the only local renders: `node render.mjs --project
 ... --stills` produces PNGs in `build/stills/`, never video.)
 
-## Status — BUILT, RENDER PENDING (2026-11-23)
+## Status — DELIVERED, VERIFIED (2026-11-23)
 - 28 hand-written shots, 6 fresh sets, story/shots.json + bible, audio mixed and
-  verified (see below). GitHub 10x render dispatched — see "GitHub render" section
-  once the run finishes.
+  verified (see below). GitHub 10x render **run 45173213807 — SUCCESS**, video
+  downloaded and fully verified. No defects found in the final render.
 - Script: `~/workspace/what-if-sample/words-swallow-script-final.txt` (1,050 words full;
   the 1-min sample uses the first 167 words — see `input/script.txt`).
 - Visual guide: `~/workspace/what-if-sample/words-swallow-visual-guide-final.txt`.
 
-## Deliverable — PENDING GitHub render
-- Target: `out/What_If_You_Could_See_The_Words_People_Swallow.mp4`, 1280×720, 24 fps,
-  ~63.46 s, −14 LUFS, 28 shots, 37 SFX cues (35.0/min), 6 sets.
+## Deliverable — VERIFIED
+- `out/What_If_You_Could_See_The_Words_People_Swallow.mp4`, md5
+  `438574f40317b2195229d8fd55603e62`, 9,315,199 bytes, 1280×720, 24 fps,
+  63.46 s, **−14.26 LUFS / TP −1.40 / LRA 3.20**, 28 shots, 37 SFX cues
+  (35.0/min), 6 sets.
+- Watch copy (CRF 23): `out/final-watch.mp4`, md5
+  `3b5a0fdf4337a88ceb903fa27c501b74`, 4,400,366 bytes, same fps/res/duration.
 
 ## Picture (built 2026-11-23)
 - 28 hand-written shots (build_story.py validates: contiguous 0–63.46 s, longest
@@ -50,16 +54,47 @@ broken AND the user has been told first. Local render is not a silent fallback.*
 - Master: build/mix_final.wav — **−14.26 LUFS / TP −1.50 / LRA 3.20**, 63.46 s.
 - Ambience: roomtone −36 (kitchen/hallway), murmur −38 (classroom), wind −38 (street).
 
-## GitHub render — PENDING
+## GitHub render — SUCCESS, run 45173213807 (2026-11-23 ~12:27 UTC, ~7.5 min)
 - Workflow: "Render plugin episode", repo nexorafitlab-debug/what-if-plugin-engine
 - Inputs: project=words-swallow-1min, chunks=10, encode_ranges=[[0,63.46]], fps=24
+- Commit ec5f4c1 ("words-swallow-1min: 1-min sample, 28 shots, 167 words, Helio
+  voice, mix_final -14.26 LUFS"), 46 files. All 12 jobs success (setup + 10
+  render chunks + stitch). Artifact "final-video" → final.mp4 (9,315,199 bytes).
+- The `gh run watch` session flooded context (refresh every 3 s) and was killed
+  mid-wait; a quiet 1/min polling waiter confirmed completion.
+
+## Verification of the final video (verify_final.py, 2026-11-23)
+- Format: 1280×720, 24 fps, 1523 frames, 63.46 s. Loudness on the mp4:
+  **−14.26 LUFS / TP −1.40 / LRA 3.20** (TP −1.40 vs mix −1.50 = AAC encode).
+- Whisper (faster-whisper small.en): 167 words heard; **161/167 strict (96.4%)**.
+  The 6 gaps are all whisper spelling artefacts, not missing words: "grey"→"gray"
+  (×4), "are sixteen."→"were 16". All 167 script words present, in order, no
+  invented lines.
+- A/V sync: median **+0.000 s**, mean −0.087 s, max |d| 0.92 s, **0 words off by
+  >1 s** — flat. First word ref 0.08 s / heard 0.0 s; last word ends ref 62.06 s /
+  heard 62.1 s.
+- Letterbox: 63 frames checked, **no bad bars** (40 px pure black). Frame means:
+  no frame below 3 in the content area — **no black holes**.
+- 1 fps eye scan (63 frames, 3 contact sheets in build/verify/): all 28 shots
+  present in order, no glitches, no missing shots, no "null" text. Eli's look
+  right in every shot (black round head, gold rim, green hoodie). Grey words
+  appear above heads and fade on cue (kitchen f007–f011, classroom, hallway
+  wisp clear of the SPEAK UP poster). **Gold turn verified at full res: at
+  57.4 s and 57.6 s "I'M SORRY." is bright gold with glow, mid-rise — exactly
+  on the narration "turned gold" (57.24–57.54 s); by 58.2 s it has risen and
+  faded, 58.8 s only sparkles remain.** Title card f061–f063 glowing gold on
+  the starry void, slow push-in.
+- **No defects found in the final render — no re-render needed.**
+- verify_final.py fixes applied during this run (kept in the file): loudnorm
+  call must not use `-v error` (it hides the JSON); faster-whisper 1.2.1 vs
+  PyAV 19 — av.open monkeypatched to drop the removed `metadata_errors` kwarg;
+  run with ~/workspace/venv-video/bin/python (has a working faster_whisper).
 
 
 ## Config (`config.json`)
 - Title: "What If You Could See The Words People Swallow?", fps **24**, bars **40**,
   style **dusk**, music gainDb **-17**, sfx gainDb **-6**, loudness -14 LUFS.
-- Duration **57.58 s is a PLACEHOLDER** copied from the Change Size sample — the
-  voiceover subagent sets the real duration from the recorded voiceover.
+- Duration **63.46 s** (updated from the 57.58 s placeholder to match the voiceover).
 
 ## Cast (`scenes/cast.js`)
 - ELI (hero, 16): forest green hoodie **#1E7B4D**, black round head, **gold rim light**
