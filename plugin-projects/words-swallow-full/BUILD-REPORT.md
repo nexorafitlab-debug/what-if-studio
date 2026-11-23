@@ -113,7 +113,40 @@ broken AND the user has been told first. Local render is not a silent fallback.*
 - Also kept from Change Size: `sizePill`, `jumpValue`, `goldLine`, `freezeLabel`,
   `handPos`, `drawPhone`, `drawEarring`, `drawDrop`.
 
-## GitHub render — PENDING
+## GitHub render — SUCCESS, run 45182420568 (2026-11-23, ~48 min)
 - Workflow: "Render plugin episode", repo nexorafitlab-debug/what-if-plugin-engine
 - Inputs: project=words-swallow-full, chunks=10, encode_ranges=[[0,430.94]], fps=60
-- Run number, result and verification to be filled in after the run.
+- Commit 58d3d09 (what-if-studio main). All 12 jobs success (setup + 10 render
+  chunks + stitch). Artifact "final-video" → final.mp4 (64,880,637 bytes).
+
+## Deliverable — VERIFIED
+- `out/final.mp4`, md5 `011b2e14f30404b1e98cb3efeed9bef6`, 64,880,637 bytes,
+  1280×720, 60 fps, 430.94 s, **−14.12 LUFS / TP −1.32 / LRA 4.20**,
+  193 shots, 275 SFX cues (38.3/min), 28 sets, 5 infographics.
+- Watch copy (CRF 23): `out/final-watch.mp4`, md5
+  `b44babfdd56ba548d44e33f5f5f88135`, 31,226,641 bytes, same fps/res/duration.
+
+## Verification of the final video (verify_final.py, 2026-11-23)
+- Format: 1280×720, 60 fps, h264 + aac, 25,856 frames, 430.94 s.
+  Loudness on the mp4: **−14.12 LUFS / TP −1.32 / LRA 4.20**
+  (TP −1.32 vs mix −1.47 = AAC encode).
+- Whisper (faster-whisper small.en): 1,050 words heard; **1025/1050 strict (97.6%)**.
+  The 25 unmatched words are spelling artefacts, same class as the 1-min sample:
+  "grey"→"gray", "sixteen."→"16", "Forty-three."→"43", "Eighty-two."→"82",
+  "neighbour"→"neighbor", "six thousand"→"6000", "Medvec".
+- A/V sync: median **−0.010 s**, mean −0.099 s, max |d| 1.11 s,
+  **2 words off by >1 s** — both short boundary words heard ~1 s early by
+  whisper ("And" 426.1 s → 424.99 s; "All" 127.09 s → 126.08 s), whisper
+  timestamp jitter at phrase boundaries, not render drift: first word ref
+  0.08 s / heard 0.0 s, last word ends ref 429.8 s / heard 429.95 s — flat.
+- Letterbox: 431 frames, bad bars: none. Frame means: no frame below 3
+  (no black holes).
+- 1fps eye scan of ALL 431 frames (18 contact sheets): no black holes, no
+  glitches, no missing shots, no "null" text, no repeated shots. Infographics
+  + ending beats visible in the render: 43-count (5→26→43), 6,000 thoughts
+  count-up + dot grid, Bronnie Ware top five (#3 gold), Wegner lab
+  (FREEZE + DANIEL WEGNER — HARVARD + THOUGHT SUPPRESSION, clean on the dark
+  board), Gilovich bars (inactions gold, "FAR MORE"), "GOODBYE." sting,
+  "TELL US IN THE COMMENTS." / "HIT LIKE, AND SUBSCRIBE FOR MORE WHAT IFS."
+  end card + fade-out tail. No defects found in the final render — no re-render
+  needed.
