@@ -1,0 +1,1586 @@
+[
+ {
+  "i": 0,
+  "start": 0.08,
+  "end": 1.08,
+  "text": "Your alarm rings."
+ },
+ {
+  "i": 1,
+  "start": 1.08,
+  "end": 2.14,
+  "text": "You stretch."
+ },
+ {
+  "i": 2,
+  "start": 2.14,
+  "end": 3.12,
+  "text": "You grow..."
+ },
+ {
+  "i": 3,
+  "start": 3.12,
+  "end": 5.18,
+  "text": "just enough to reach the top shelf."
+ },
+ {
+  "i": 4,
+  "start": 5.18,
+  "end": 6.76,
+  "text": "You shrink back down."
+ },
+ {
+  "i": 5,
+  "start": 6.76,
+  "end": 8.58,
+  "text": "Lily loses her earring."
+ },
+ {
+  "i": 6,
+  "start": 8.58,
+  "end": 10.0,
+  "text": "It rolls under the fridge."
+ },
+ {
+  "i": 7,
+  "start": 10.32,
+  "end": 11.86,
+  "text": "You shrink to ten centimeters."
+ },
+ {
+  "i": 8,
+  "start": 11.86,
+  "end": 14.06,
+  "text": "You walk underneath and find it."
+ },
+ {
+  "i": 9,
+  "start": 14.06,
+  "end": 15.32,
+  "text": "You hand it to her."
+ },
+ {
+  "i": 10,
+  "start": 15.98,
+  "end": 16.82,
+  "text": "She stares."
+ },
+ {
+  "i": 11,
+  "start": 16.82,
+  "end": 17.96,
+  "text": "You did it again..."
+ },
+ {
+  "i": 12,
+  "start": 17.96,
+  "end": 18.72,
+  "text": "didn't you?"
+ },
+ {
+  "i": 13,
+  "start": 18.72,
+  "end": 19.82,
+  "text": "You shrug."
+ },
+ {
+  "i": 14,
+  "start": 20.24,
+  "end": 21.08,
+  "text": "You grow back."
+ },
+ {
+  "i": 15,
+  "start": 21.08,
+  "end": 22.8,
+  "text": "Your mom calls from the kitchen."
+ },
+ {
+  "i": 16,
+  "start": 22.8,
+  "end": 23.64,
+  "text": "Noah."
+ },
+ {
+  "i": 17,
+  "start": 23.64,
+  "end": 24.26,
+  "text": "Breakfast."
+ },
+ {
+  "i": 18,
+  "start": 24.26,
+  "end": 24.84,
+  "text": "Now."
+ },
+ {
+  "i": 19,
+  "start": 24.84,
+  "end": 25.98,
+  "text": "And your tea..."
+ },
+ {
+  "i": 20,
+  "start": 25.98,
+  "end": 27.12,
+  "text": "is still hot."
+ },
+ {
+  "i": 21,
+  "start": 27.26,
+  "end": 28.42,
+  "text": "Your name is Noah."
+ },
+ {
+  "i": 22,
+  "start": 28.56,
+  "end": 30.08,
+  "text": "You are sixteen."
+ },
+ {
+  "i": 23,
+  "start": 30.08,
+  "end": 33.04,
+  "text": "The average teenager is one meter seventy."
+ },
+ {
+  "i": 24,
+  "start": 33.04,
+  "end": 33.6,
+  "text": "You?"
+ },
+ {
+  "i": 25,
+  "start": 33.6,
+  "end": 34.56,
+  "text": "Ten centimeters."
+ },
+ {
+  "i": 26,
+  "start": 34.56,
+  "end": 35.9,
+  "text": "Or ten meters."
+ },
+ {
+  "i": 27,
+  "start": 35.9,
+  "end": 37.22,
+  "text": "You can change your size."
+ },
+ {
+  "i": 28,
+  "start": 37.22,
+  "end": 38.08,
+  "text": "Any time."
+ },
+ {
+  "i": 29,
+  "start": 38.08,
+  "end": 39.6,
+  "text": "But there is a rule."
+ },
+ {
+  "i": 30,
+  "start": 39.6,
+  "end": 41.32,
+  "text": "Your body stays yours."
+ },
+ {
+  "i": 31,
+  "start": 41.32,
+  "end": 43.44,
+  "text": "Your muscles do not grow with you."
+ },
+ {
+  "i": 32,
+  "start": 43.44,
+  "end": 45.16,
+  "text": "Your bones do not get tougher."
+ },
+ {
+  "i": 33,
+  "start": 45.16,
+  "end": 46.92,
+  "text": "Grow ten times taller..."
+ },
+ {
+  "i": 34,
+  "start": 46.92,
+  "end": 49.38,
+  "text": "and you are ten times weaker for your weight."
+ },
+ {
+  "i": 35,
+  "start": 50.0,
+  "end": 51.54,
+  "text": "Shrink ten times smaller..."
+ },
+ {
+  "i": 36,
+  "start": 51.54,
+  "end": 53.42,
+  "text": "and a raindrop hits like a stone."
+ },
+ {
+  "i": 37,
+  "start": 53.42,
+  "end": 55.6,
+  "text": "So what if you could change your size?"
+ },
+ {
+  "i": 38,
+  "start": 55.6,
+  "end": 58.5,
+  "text": "At school, you grow to reach the top of the board."
+ },
+ {
+  "i": 39,
+  "start": 58.5,
+  "end": 60.08,
+  "text": "Your teacher sighs."
+ },
+ {
+  "i": 40,
+  "start": 60.08,
+  "end": 60.96,
+  "text": "Noah."
+ },
+ {
+  "i": 41,
+  "start": 60.96,
+  "end": 61.84,
+  "text": "Sit down."
+ },
+ {
+  "i": 42,
+  "start": 61.84,
+  "end": 62.8,
+  "text": "All of you."
+ },
+ {
+  "i": 43,
+  "start": 62.8,
+  "end": 64.92,
+  "text": "Minus: everyone stares."
+ },
+ {
+  "i": 44,
+  "start": 65.62,
+  "end": 67.76,
+  "text": "At basketball, you grow to ten meters."
+ },
+ {
+  "i": 45,
+  "start": 67.76,
+  "end": 69.2,
+  "text": "You dunk the ball."
+ },
+ {
+  "i": 46,
+  "start": 69.2,
+  "end": 71.02,
+  "text": "It feels like a grape in your hand."
+ },
+ {
+  "i": 47,
+  "start": 71.02,
+  "end": 71.86,
+  "text": "Noah."
+ },
+ {
+  "i": 48,
+  "start": 71.86,
+  "end": 72.64,
+  "text": "That's cheating."
+ },
+ {
+  "i": 49,
+  "start": 72.64,
+  "end": 75.88,
+  "text": "Plus: you shrink to ten centimeters and walk across a map."
+ },
+ {
+  "i": 50,
+  "start": 75.88,
+  "end": 77.66,
+  "text": "You stand on a mountain range..."
+ },
+ {
+  "i": 51,
+  "start": 78.28,
+  "end": 80.28,
+  "text": "You see the whole country in one glance."
+ },
+ {
+  "i": 52,
+  "start": 80.28,
+  "end": 81.82,
+  "text": "How did you do that?"
+ },
+ {
+  "i": 53,
+  "start": 82.24,
+  "end": 83.74,
+  "text": "But where it gets really crazy..."
+ },
+ {
+  "i": 54,
+  "start": 83.74,
+  "end": 84.6,
+  "text": "is the money."
+ },
+ {
+  "i": 55,
+  "start": 84.6,
+  "end": 87.02,
+  "text": "A plumber pays you to shrink under his sink."
+ },
+ {
+  "i": 56,
+  "start": 87.02,
+  "end": 88.88,
+  "text": "You fix the pipe in five minutes."
+ },
+ {
+  "i": 57,
+  "start": 88.88,
+  "end": 89.8,
+  "text": "A"
+ },
+ {
+  "i": 58,
+  "start": 93.0,
+  "end": 94.52,
+  "text": "builder pays you to change a streetlight."
+ },
+ {
+  "i": 59,
+  "start": 94.52,
+  "end": 95.48,
+  "text": "No ladder."
+ },
+ {
+  "i": 60,
+  "start": 95.48,
+  "end": 96.18,
+  "text": "Easy money."
+ },
+ {
+  "i": 61,
+  "start": 96.18,
+  "end": 98.56,
+  "text": "You grow to ten meters and move a truck."
+ },
+ {
+  "i": 62,
+  "start": 98.56,
+  "end": 99.94,
+  "text": "Mia calls out."
+ },
+ {
+  "i": 63,
+  "start": 99.94,
+  "end": 100.92,
+  "text": "Show off."
+ },
+ {
+  "i": 64,
+  "start": 100.92,
+  "end": 101.74,
+  "text": "You grin."
+ },
+ {
+  "i": 65,
+  "start": 101.74,
+  "end": 102.6,
+  "text": "The catch?"
+ },
+ {
+  "i": 66,
+  "start": 102.6,
+  "end": 104.14,
+  "text": "You come home starving."
+ },
+ {
+  "i": 67,
+  "start": 104.14,
+  "end": 105.94,
+  "text": "Every change burns fuel."
+ },
+ {
+  "i": 68,
+  "start": 106.58,
+  "end": 108.56,
+  "text": "Grow big, and you eat like a furnace."
+ },
+ {
+  "i": 69,
+  "start": 108.56,
+  "end": 110.12,
+  "text": "You eat four burgers."
+ },
+ {
+  "i": 70,
+  "start": 110.12,
+  "end": 111.48,
+  "text": "Your mom counts."
+ },
+ {
+  "i": 71,
+  "start": 111.48,
+  "end": 112.46,
+  "text": "Four?"
+ },
+ {
+  "i": 72,
+  "start": 112.46,
+  "end": 113.4,
+  "text": "You nod."
+ },
+ {
+  "i": 73,
+  "start": 113.7,
+  "end": 114.78,
+  "text": "That's your eighth burger."
+ },
+ {
+  "i": 74,
+  "start": 114.78,
+  "end": 116.08,
+  "text": "Then she stops."
+ },
+ {
+  "i": 75,
+  "start": 116.08,
+  "end": 116.96,
+  "text": "Noah."
+ },
+ {
+  "i": 76,
+  "start": 116.96,
+  "end": 118.16,
+  "text": "Are you okay?"
+ },
+ {
+  "i": 77,
+  "start": 118.16,
+  "end": 119.9,
+  "text": "Your cat thinks you're a mouse."
+ },
+ {
+  "i": 78,
+  "start": 119.9,
+  "end": 120.98,
+  "text": "You shrink."
+ },
+ {
+  "i": 79,
+  "start": 120.98,
+  "end": 121.88,
+  "text": "She pounces."
+ },
+ {
+  "i": 80,
+  "start": 121.88,
+  "end": 123.6,
+  "text": "You grow in half a second."
+ },
+ {
+  "i": 81,
+  "start": 124.22,
+  "end": 125.12,
+  "text": "She runs."
+ },
+ {
+  "i": 82,
+  "start": 125.12,
+  "end": 126.18,
+  "text": "It rains."
+ },
+ {
+  "i": 83,
+  "start": 126.18,
+  "end": 127.46,
+  "text": "You shrink."
+ },
+ {
+  "i": 84,
+  "start": 127.46,
+  "end": 129.2,
+  "text": "A drop hits your shoulder."
+ },
+ {
+  "i": 85,
+  "start": 129.44,
+  "end": 130.86,
+  "text": "It feels like a stone."
+ },
+ {
+  "i": 86,
+  "start": 131.4,
+  "end": 133.04,
+  "text": "You grow back, soaked."
+ },
+ {
+  "i": 87,
+  "start": 133.04,
+  "end": 135.26,
+  "text": "At ten meters, you cannot whisper."
+ },
+ {
+  "i": 88,
+  "start": 136.0,
+  "end": 137.02,
+  "text": "Everyone hears you."
+ },
+ {
+  "i": 89,
+  "start": 137.02,
+  "end": 138.52,
+  "text": "And there's a cost."
+ },
+ {
+  "i": 90,
+  "start": 138.52,
+  "end": 140.06,
+  "text": "The bigger you get..."
+ },
+ {
+  "i": 91,
+  "start": 140.06,
+  "end": 142.02,
+  "text": "the heavier the world gets."
+ },
+ {
+  "i": 92,
+  "start": 142.02,
+  "end": 144.06,
+  "text": "The smaller you get..."
+ },
+ {
+  "i": 93,
+  "start": 144.06,
+  "end": 145.58,
+  "text": "the sharper it gets."
+ },
+ {
+  "i": 94,
+  "start": 145.58,
+  "end": 148.06,
+  "text": "Then a man in a grey suit finds you."
+ },
+ {
+  "i": 95,
+  "start": 148.06,
+  "end": 148.78,
+  "text": "Mr."
+ },
+ {
+  "i": 96,
+  "start": 148.84,
+  "end": 149.24,
+  "text": "Vane."
+ },
+ {
+  "i": 97,
+  "start": 149.24,
+  "end": 150.4,
+  "text": "Talent scout."
+ },
+ {
+  "i": 98,
+  "start": 150.4,
+  "end": 151.44,
+  "text": "Kid."
+ },
+ {
+  "i": 99,
+  "start": 151.5,
+  "end": 152.28,
+  "text": "You're a show."
+ },
+ {
+  "i": 100,
+  "start": 152.5,
+  "end": 153.62,
+  "text": "He offers money."
+ },
+ {
+  "i": 101,
+  "start": 153.62,
+  "end": 154.62,
+  "text": "A stage."
+ },
+ {
+  "i": 102,
+  "start": 154.62,
+  "end": 156.04,
+  "text": "Your face on posters."
+ },
+ {
+  "i": 103,
+  "start": 156.04,
+  "end": 157.62,
+  "text": "All you have to do..."
+ },
+ {
+  "i": 104,
+  "start": 157.62,
+  "end": 158.46,
+  "text": "is grow."
+ },
+ {
+  "i": 105,
+  "start": 158.9,
+  "end": 159.72,
+  "text": "What do you say?"
+ },
+ {
+  "i": 106,
+  "start": 160.4,
+  "end": 161.3,
+  "text": "You say yes."
+ },
+ {
+  "i": 107,
+  "start": 161.48,
+  "end": 162.52,
+  "text": "Of course you say yes."
+ },
+ {
+  "i": 108,
+  "start": 162.52,
+  "end": 163.78,
+  "text": "The money is real."
+ },
+ {
+  "i": 109,
+  "start": 163.78,
+  "end": 165.3,
+  "text": "But the secret is heavy."
+ },
+ {
+  "i": 110,
+  "start": 165.3,
+  "end": 167.48,
+  "text": "You can't tell anyone how it works."
+ },
+ {
+  "i": 111,
+  "start": 167.64,
+  "end": 169.12,
+  "text": "You lie to everyone."
+ },
+ {
+  "i": 112,
+  "start": 169.12,
+  "end": 170.66,
+  "text": "And your body pays."
+ },
+ {
+  "i": 113,
+  "start": 170.66,
+  "end": 171.86,
+  "text": "You eat."
+ },
+ {
+  "i": 114,
+  "start": 171.86,
+  "end": 172.7,
+  "text": "Still hungry."
+ },
+ {
+  "i": 115,
+  "start": 172.7,
+  "end": 174.26,
+  "text": "And the loneliest part?"
+ },
+ {
+  "i": 116,
+  "start": 174.92,
+  "end": 176.28,
+  "text": "Nobody knows the real you."
+ },
+ {
+  "i": 117,
+  "start": 176.9,
+  "end": 178.06,
+  "text": "Not even Milo."
+ },
+ {
+  "i": 118,
+  "start": 178.06,
+  "end": 178.88,
+  "text": "Your best friend."
+ },
+ {
+  "i": 119,
+  "start": 178.88,
+  "end": 179.9,
+  "text": "Not yet."
+ },
+ {
+  "i": 120,
+  "start": 179.9,
+  "end": 181.82,
+  "text": "Milo knows something is wrong."
+ },
+ {
+  "i": 121,
+  "start": 181.82,
+  "end": 183.92,
+  "text": "He finds you on the roof after school."
+ },
+ {
+  "i": 122,
+  "start": 183.92,
+  "end": 185.2,
+  "text": "You didn't laugh today."
+ },
+ {
+  "i": 123,
+  "start": 185.4,
+  "end": 186.72,
+  "text": "You almost tell him."
+ },
+ {
+  "i": 124,
+  "start": 186.72,
+  "end": 187.76,
+  "text": "Then you don't."
+ },
+ {
+  "i": 125,
+  "start": 187.76,
+  "end": 189.88,
+  "text": "He teaches you a secret knock instead."
+ },
+ {
+  "i": 126,
+  "start": 190.56,
+  "end": 191.52,
+  "text": "Two taps."
+ },
+ {
+  "i": 127,
+  "start": 191.52,
+  "end": 192.22,
+  "text": "Pause."
+ },
+ {
+  "i": 128,
+  "start": 192.22,
+  "end": 193.44,
+  "text": "One tap."
+ },
+ {
+  "i": 129,
+  "start": 193.44,
+  "end": 194.82,
+  "text": "For the treehouse."
+ },
+ {
+  "i": 130,
+  "start": 194.82,
+  "end": 196.52,
+  "text": "He taps it on your shoulder."
+ },
+ {
+  "i": 131,
+  "start": 196.52,
+  "end": 197.82,
+  "text": "You tap it back."
+ },
+ {
+  "i": 132,
+  "start": 197.82,
+  "end": 198.96,
+  "text": "And your mom?"
+ },
+ {
+  "i": 133,
+  "start": 198.96,
+  "end": 201.18,
+  "text": "She watches you eat your fourth burger."
+ },
+ {
+  "i": 134,
+  "start": 201.18,
+  "end": 202.54,
+  "text": "She says it again."
+ },
+ {
+  "i": 135,
+  "start": 202.54,
+  "end": 204.06,
+  "text": "Small steps, Noah."
+ },
+ {
+  "i": 136,
+  "start": 204.06,
+  "end": 205.44,
+  "text": "Small steps."
+ },
+ {
+  "i": 137,
+  "start": 205.44,
+  "end": 207.2,
+  "text": "You don't know what it means."
+ },
+ {
+  "i": 138,
+  "start": 207.2,
+  "end": 208.26,
+  "text": "Not yet."
+ },
+ {
+  "i": 139,
+  "start": 208.34,
+  "end": 209.74,
+  "text": "Then the ground moves."
+ },
+ {
+  "i": 140,
+  "start": 209.74,
+  "end": 210.74,
+  "text": "An"
+ },
+ {
+  "i": 141,
+  "start": 213.94,
+  "end": 214.36,
+  "text": "earthquake."
+ },
+ {
+  "i": 142,
+  "start": 214.36,
+  "end": 215.16,
+  "text": "At school."
+ },
+ {
+  "i": 143,
+  "start": 215.16,
+  "end": 216.82,
+  "text": "The gym roof groans."
+ },
+ {
+  "i": 144,
+  "start": 216.82,
+  "end": 218.44,
+  "text": "A steel beam falls."
+ },
+ {
+  "i": 145,
+  "start": 218.44,
+  "end": 219.86,
+  "text": "Milo is under it."
+ },
+ {
+  "i": 146,
+  "start": 219.86,
+  "end": 220.24,
+  "text": "Pinned."
+ },
+ {
+  "i": 147,
+  "start": 220.24,
+  "end": 221.34,
+  "text": "You grow."
+ },
+ {
+  "i": 148,
+  "start": 221.34,
+  "end": 222.1,
+  "text": "Ten meters."
+ },
+ {
+  "i": 149,
+  "start": 222.1,
+  "end": 223.4,
+  "text": "You grab the beam."
+ },
+ {
+  "i": 150,
+  "start": 223.4,
+  "end": 223.9,
+  "text": "You pull."
+ },
+ {
+  "i": 151,
+  "start": 223.9,
+  "end": 225.12,
+  "text": "It doesn't move."
+ },
+ {
+  "i": 152,
+  "start": 225.12,
+  "end": 226.02,
+  "text": "Your knees buckle."
+ },
+ {
+  "i": 153,
+  "start": 226.02,
+  "end": 228.64,
+  "text": "Your own weight cracks the floor under you."
+ },
+ {
+  "i": 154,
+  "start": 228.64,
+  "end": 229.98,
+  "text": "Ten meters tall."
+ },
+ {
+  "i": 155,
+  "start": 229.98,
+  "end": 231.82,
+  "text": "Ten times weaker."
+ },
+ {
+  "i": 156,
+  "start": 231.82,
+  "end": 234.46,
+  "text": "The beam weighs a thousand times more now."
+ },
+ {
+  "i": 157,
+  "start": 234.46,
+  "end": 236.1,
+  "text": "You hear Milo's voice."
+ },
+ {
+  "i": 158,
+  "start": 236.1,
+  "end": 237.02,
+  "text": "Noah."
+ },
+ {
+  "i": 159,
+  "start": 237.02,
+  "end": 237.76,
+  "text": "Don't."
+ },
+ {
+  "i": 160,
+  "start": 237.76,
+  "end": 238.88,
+  "text": "You'll bring it all down."
+ },
+ {
+  "i": 161,
+  "start": 238.88,
+  "end": 240.52,
+  "text": "The choice is simple."
+ },
+ {
+  "i": 162,
+  "start": 240.52,
+  "end": 241.66,
+  "text": "And terrible."
+ },
+ {
+  "i": 163,
+  "start": 241.66,
+  "end": 242.7,
+  "text": "Bigger..."
+ },
+ {
+  "i": 164,
+  "start": 242.7,
+  "end": 243.76,
+  "text": "or smaller?"
+ },
+ {
+  "i": 165,
+  "start": 243.76,
+  "end": 245.04,
+  "text": "You shrink."
+ },
+ {
+  "i": 166,
+  "start": 245.04,
+  "end": 246.12,
+  "text": "Ten centimeters."
+ },
+ {
+  "i": 167,
+  "start": 246.12,
+  "end": 248.54,
+  "text": "You slip through the gap under the beam."
+ },
+ {
+  "i": 168,
+  "start": 249.3,
+  "end": 249.7,
+  "text": "Dark."
+ },
+ {
+  "i": 169,
+  "start": 249.7,
+  "end": 250.98,
+  "text": "Dust everywhere."
+ },
+ {
+  "i": 170,
+  "start": 250.98,
+  "end": 252.22,
+  "text": "You can't see him."
+ },
+ {
+  "i": 171,
+  "start": 252.22,
+  "end": 252.86,
+  "text": "You tap."
+ },
+ {
+  "i": 172,
+  "start": 252.86,
+  "end": 253.74,
+  "text": "Two taps."
+ },
+ {
+  "i": 173,
+  "start": 253.74,
+  "end": 254.38,
+  "text": "Pause."
+ },
+ {
+  "i": 174,
+  "start": 254.38,
+  "end": 255.4,
+  "text": "One tap."
+ },
+ {
+  "i": 175,
+  "start": 255.4,
+  "end": 256.16,
+  "text": "Silence."
+ },
+ {
+  "i": 176,
+  "start": 256.16,
+  "end": 257.0,
+  "text": "Then..."
+ },
+ {
+  "i": 177,
+  "start": 257.0,
+  "end": 257.96,
+  "text": "two taps."
+ },
+ {
+  "i": 178,
+  "start": 257.96,
+  "end": 258.68,
+  "text": "Pause."
+ },
+ {
+  "i": 179,
+  "start": 258.68,
+  "end": 259.74,
+  "text": "One tap."
+ },
+ {
+  "i": 180,
+  "start": 259.82,
+  "end": 260.68,
+  "text": "He's alive."
+ },
+ {
+  "i": 181,
+  "start": 261.02,
+  "end": 261.78,
+  "text": "You climb."
+ },
+ {
+  "i": 182,
+  "start": 261.78,
+  "end": 264.06,
+  "text": "The beam rests on one bent strut."
+ },
+ {
+  "i": 183,
+  "start": 264.06,
+  "end": 265.74,
+  "text": "One pin holds it all."
+ },
+ {
+  "i": 184,
+  "start": 266.3,
+  "end": 267.16,
+  "text": "You push."
+ },
+ {
+  "i": 185,
+  "start": 267.16,
+  "end": 270.54,
+  "text": "At ten centimeters, you are ten times stronger for your weight."
+ },
+ {
+  "i": 186,
+  "start": 270.54,
+  "end": 271.6,
+  "text": "The pin slides."
+ },
+ {
+  "i": 187,
+  "start": 271.6,
+  "end": 272.44,
+  "text": "It drops."
+ },
+ {
+  "i": 188,
+  "start": 272.44,
+  "end": 273.66,
+  "text": "The beam shifts."
+ },
+ {
+  "i": 189,
+  "start": 273.66,
+  "end": 274.56,
+  "text": "Just enough."
+ },
+ {
+  "i": 190,
+  "start": 275.18,
+  "end": 276.56,
+  "text": "Milo pulls his leg free."
+ },
+ {
+  "i": 191,
+  "start": 276.56,
+  "end": 277.72,
+  "text": "You grow back."
+ },
+ {
+  "i": 192,
+  "start": 277.72,
+  "end": 278.9,
+  "text": "You carry him out."
+ },
+ {
+  "i": 193,
+  "start": 278.9,
+  "end": 281.04,
+  "text": "The building groans behind you."
+ },
+ {
+  "i": 194,
+  "start": 281.04,
+  "end": 283.2,
+  "text": "Outside, the crowd is waiting."
+ },
+ {
+  "i": 195,
+  "start": 283.82,
+  "end": 284.98,
+  "text": "The whole school."
+ },
+ {
+  "i": 196,
+  "start": 284.98,
+  "end": 285.68,
+  "text": "Mr."
+ },
+ {
+  "i": 197,
+  "start": 285.76,
+  "end": 286.64,
+  "text": "Vane pushes through."
+ },
+ {
+  "i": 198,
+  "start": 286.64,
+  "end": 287.9,
+  "text": "He holds a contract."
+ },
+ {
+  "i": 199,
+  "start": 287.9,
+  "end": 288.78,
+  "text": "Kid."
+ },
+ {
+  "i": 200,
+  "start": 288.78,
+  "end": 289.76,
+  "text": "Sign this."
+ },
+ {
+  "i": 201,
+  "start": 289.76,
+  "end": 290.68,
+  "text": "You'll be famous."
+ },
+ {
+  "i": 202,
+  "start": 290.68,
+  "end": 292.34,
+  "text": "You look at Milo."
+ },
+ {
+  "i": 203,
+  "start": 292.34,
+  "end": 293.44,
+  "text": "You look at your mom."
+ },
+ {
+  "i": 204,
+  "start": 293.44,
+  "end": 295.06,
+  "text": "You tear the contract..."
+ },
+ {
+  "i": 205,
+  "start": 295.06,
+  "end": 296.18,
+  "text": "in half."
+ },
+ {
+  "i": 206,
+  "start": 296.34,
+  "end": 297.4,
+  "text": "I'm not a show."
+ },
+ {
+  "i": 207,
+  "start": 297.4,
+  "end": 298.8,
+  "text": "The crowd cheers."
+ },
+ {
+  "i": 208,
+  "start": 299.48,
+  "end": 301.28,
+  "text": "He taps the knock on your arm."
+ },
+ {
+  "i": 209,
+  "start": 301.28,
+  "end": 302.32,
+  "text": "Two taps."
+ },
+ {
+  "i": 210,
+  "start": 302.32,
+  "end": 302.96,
+  "text": "Pause."
+ },
+ {
+  "i": 211,
+  "start": 302.96,
+  "end": 304.08,
+  "text": "One tap."
+ },
+ {
+  "i": 212,
+  "start": 304.08,
+  "end": 305.46,
+  "text": "You tap it back."
+ },
+ {
+  "i": 213,
+  "start": 305.46,
+  "end": 306.62,
+  "text": "And your mom?"
+ },
+ {
+  "i": 214,
+  "start": 306.62,
+  "end": 307.9,
+  "text": "She hugs you."
+ },
+ {
+  "i": 215,
+  "start": 307.9,
+  "end": 309.2,
+  "text": "She whispers it."
+ },
+ {
+  "i": 216,
+  "start": 309.2,
+  "end": 310.82,
+  "text": "Small steps, Noah."
+ },
+ {
+  "i": 217,
+  "start": 310.82,
+  "end": 312.16,
+  "text": "Small steps."
+ },
+ {
+  "i": 218,
+  "start": 312.16,
+  "end": 314.06,
+  "text": "And for the first time in months..."
+ },
+ {
+  "i": 219,
+  "start": 314.26,
+  "end": 315.54,
+  "text": "you don't have to lie."
+ },
+ {
+  "i": 220,
+  "start": 315.54,
+  "end": 317.0,
+  "text": "Not to anyone."
+ },
+ {
+  "i": 221,
+  "start": 320.39,
+  "end": 321.53,
+  "text": "Not anymore."
+ },
+ {
+  "i": 222,
+  "start": 321.53,
+  "end": 323.35,
+  "text": "Is any of this real?"
+ },
+ {
+  "i": 223,
+  "start": 323.35,
+  "end": 324.85,
+  "text": "The shrinking is fiction."
+ },
+ {
+  "i": 224,
+  "start": 325.13,
+  "end": 326.19,
+  "text": "The physics is not."
+ },
+ {
+  "i": 225,
+  "start": 326.19,
+  "end": 326.47,
+  "text": "In"
+ },
+ {
+  "i": 226,
+  "start": 327.61,
+  "end": 330.27,
+  "text": "1638, Galileo wrote about the square-cube law."
+ },
+ {
+  "i": 227,
+  "start": 330.27,
+  "end": 333.89,
+  "text": "Grow ten times taller, and you weigh a thousand times more."
+ },
+ {
+  "i": 228,
+  "start": 333.89,
+  "end": 336.51,
+  "text": "But your bones are only a hundred times stronger."
+ },
+ {
+  "i": 229,
+  "start": 337.47,
+  "end": 338.75,
+  "text": "They would snap under you."
+ },
+ {
+  "i": 230,
+  "start": 338.75,
+  "end": 343.07,
+  "text": "The tallest man who ever lived, Robert Wadlow, was two meters seventy-two."
+ },
+ {
+  "i": 231,
+  "start": 343.07,
+  "end": 344.97,
+  "text": "His legs needed braces."
+ },
+ {
+  "i": 232,
+  "start": 344.97,
+  "end": 347.35,
+  "text": "He died at twenty-two."
+ },
+ {
+  "i": 233,
+  "start": 347.35,
+  "end": 349.07,
+  "text": "Small animals cheat the law."
+ },
+ {
+  "i": 234,
+  "start": 349.07,
+  "end": 351.53,
+  "text": "Ants lift fifty times their own weight."
+ },
+ {
+  "i": 235,
+  "start": 351.53,
+  "end": 354.23,
+  "text": "Fleas jump two hundred times their own height."
+ },
+ {
+  "i": 236,
+  "start": 354.23,
+  "end": 354.51,
+  "text": "And"
+ },
+ {
+  "i": 237,
+  "start": 355.39,
+  "end": 357.97,
+  "text": "a shrew must eat its own body weight every day..."
+ },
+ {
+  "i": 238,
+  "start": 357.97,
+  "end": 358.95,
+  "text": "or starve."
+ },
+ {
+  "i": 239,
+  "start": 359.59,
+  "end": 362.47,
+  "text": "Voice pitch and body size are linked in real life too."
+ },
+ {
+  "i": 240,
+  "start": 363.03,
+  "end": 364.11,
+  "text": "Children sound higher."
+ },
+ {
+  "i": 241,
+  "start": 364.11,
+  "end": 365.81,
+  "text": "Large men sound lower."
+ },
+ {
+  "i": 242,
+  "start": 366.13,
+  "end": 368.37,
+  "text": "So could a person really change size..."
+ },
+ {
+  "i": 243,
+  "start": 368.37,
+  "end": 369.57,
+  "text": "and survive it?"
+ },
+ {
+  "i": 244,
+  "start": 370.23,
+  "end": 371.93,
+  "text": "That night, a letter arrives."
+ },
+ {
+  "i": 245,
+  "start": 372.11,
+  "end": 373.01,
+  "text": "No stamp."
+ },
+ {
+  "i": 246,
+  "start": 373.27,
+  "end": 374.09,
+  "text": "No return address."
+ },
+ {
+  "i": 247,
+  "start": 374.71,
+  "end": 376.09,
+  "text": "Inside, one line."
+ },
+ {
+  "i": 248,
+  "start": 376.25,
+  "end": 378.15,
+  "text": "We know what you did at the school."
+ },
+ {
+  "i": 249,
+  "start": 378.15,
+  "end": 380.63,
+  "text": "Come to the old observatory at midnight."
+ },
+ {
+  "i": 250,
+  "start": 380.87,
+  "end": 381.95,
+  "text": "Bring your friend."
+ },
+ {
+  "i": 251,
+  "start": 382.55,
+  "end": 384.01,
+  "text": "Milo reads it over your shoulder."
+ },
+ {
+  "i": 252,
+  "start": 384.71,
+  "end": 385.47,
+  "text": "He says."
+ },
+ {
+  "i": 253,
+  "start": 385.47,
+  "end": 386.17,
+  "text": "Midnight?"
+ },
+ {
+  "i": 254,
+  "start": 386.17,
+  "end": 386.77,
+  "text": "You say."
+ },
+ {
+  "i": 255,
+  "start": 386.77,
+  "end": 387.99,
+  "text": "Small steps."
+ },
+ {
+  "i": 256,
+  "start": 388.09,
+  "end": 388.59,
+  "text": "He says."
+ },
+ {
+  "i": 257,
+  "start": 388.59,
+  "end": 390.01,
+  "text": "Then let's go big."
+ },
+ {
+  "i": 258,
+  "start": 390.01,
+  "end": 392.57,
+  "text": "So what would you do if you could change your size?"
+ },
+ {
+  "i": 259,
+  "start": 392.57,
+  "end": 393.73,
+  "text": "Would you grow..."
+ },
+ {
+  "i": 260,
+  "start": 393.73,
+  "end": 394.61,
+  "text": "or shrink?"
+ },
+ {
+  "i": 261,
+  "start": 395.41,
+  "end": 396.11,
+  "text": "Tell us in the comments."
+ },
+ {
+  "i": 262,
+  "start": 396.11,
+  "end": 398.37,
+  "text": "And if you felt that knock in the dark..."
+ },
+ {
+  "i": 263,
+  "start": 398.37,
+  "end": 401.33,
+  "text": "hit like, and subscribe for more What Ifs."
+ }
+]
