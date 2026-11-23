@@ -9,9 +9,16 @@ rendered locally by mistake; the local render was killed mid-chunk-B and the
 full video was re-rendered on GitHub instead. Local `chunk_a.mp4` (28.79 s) was
 kept only as a spare — the delivered file is the GitHub `final.mp4`.)
 
-## Deliverable
+## Deliverable — FINAL (GitHub render, run 45137174104)
 - File: `~/workspace/aitrends-2d-studio/projects/change-size-1min-muse/out/What_If_You_Could_Change_Your_Size.mp4`
-- (GitHub `final-video` artifact, downloaded and verified locally — see below.)
+- md5: `4ec88ef2ff4b25230303deacd9186c50`
+- Duration: 57.58 s (1382 frames), 1280×720, 24 fps, h264 + AAC, 12.6 MB
+- Loudness: **−13.92 LUFS**, true peak **−1.43 dBTP**, LRA 3.2
+- SFX: 30 cues (31.3/min) at v4 quiet levels (see Audio)
+- Shots: 27, longest 3.92 s, shortest 0.92 s, 28.1 cuts/min
+- Letterbox 40 px top+bottom, pure black (means ≤0.04 at 5 sample times)
+- Local spare (NOT delivered): `build/chunk_a.mp4` (28.79 s, first half,
+  rendered locally before the GitHub switch).
 
 ## Script (152 words, cut version — full 175-word script in `input/script-full-175w.txt`)
 Cut after "So what if you could change your size?" — the school-board beat,
@@ -37,7 +44,13 @@ Saved: `input/script.txt` (152 words).
   exprAt inside shots), walkPose with real travel, scale changes on the
   narration beat. One slow push-in only (s027 title card). FREEZE card s022.
 - Classroom is POPULATED: 4 students seated at desks in s018, 3 in s019/s020.
-- Render: GitHub 10x (see STANDING RULE above). Workflow run: (fill in).
+- Render: GitHub 10x (see STANDING RULE above). Workflow run **45137174104**
+  ("Render plugin episode", 10 chunks, fps=24, encode_ranges
+  [[0,28.79],[28.79,57.58]]), completed success ~08:21 AST, ~6 min total.
+  All 10 render chunks succeeded; stitch + mux + verify succeeded.
+  Workflow change for this render: `fps` is now a workflow input (default 60,
+  preserving Chances full-video behaviour) — commit b98b180 in
+  nexorafitlab-debug/what-if-plugin-engine. This run passed fps=24.
 
 ## Audio
 - Synth music bed (audio/music.py): 5 sections, mystery → wonder → mystery →
@@ -53,9 +66,34 @@ Saved: `input/script.txt` (152 words).
 - Master: mix.py + one extra loudnorm pass → build/mix_final.wav:
   −13.91 LUFS / TP −1.50 / LRA 3.2, 57.58 s.
 
-## Verification
-- (fill in after GitHub download: ffprobe, loudnorm, letterbox, 1 fps frame
-  scan, hero-region motion per shot, whisper on final audio.)
+## Verification (all run on the FINAL file, md5 4ec88ef2)
+- ffprobe: 1280×720, 24 fps, 1382 frames, 57.58 s
+- loudnorm: −13.92 LUFS, TP −1.43, LRA 3.2
+- Letterbox: top/bottom 40 rows mean ≤0.04 at 5 sample times — pure black
+- Full 1 fps frame scan by eye (all 58 frames, build/frames1fps/): no blanks,
+  glitches, tiling, or missing shots. Every pill above the right person with
+  the right value at the right time ("0.1 m" green at s008/s019, "10 m" red at
+  s020/s025). Exact-time checks: s001 lying flat at 0.1 s, mid-sit-up ~45° at
+  0.3 s; s020 pill top at row 60 — clear of the 40 px bar.
+- Hero-region motion: 26/27 shots pass the body-band test (>0.15); s009
+  scored LOW (0.05) only because tiny Noah walks at the very bottom of the
+  frame, below the measured band — targeted fridge-floor region diff
+  (13.1 vs 14.1 s) is 0.69, whole-frame 0.71: he IS walking. 27/27 move.
+- Whisper on the final file's audio: 151 words heard; 141/152 strict match
+  (92.8%) — all 11 gaps are whisper artefacts (digits "10"/"16"/"70" for the
+  spoken numbers, "anytime" for "any time"). All 152 script words present in
+  order; no missing lines, no invented lines.
+- Music bed constancy: bed RMS in voice gaps vs narrated windows within
+  0.5–0.7 dB (no ducking, no boost).
+- Delivery gates: words/sec 2.64 (≥2.2 ✓), cuts/min 28.1 (≥20 ✓), longest
+  shot 3.92 s (≤4 ✓), letterbox ✓, motion ✓. Places/min 6.3 — below the
+  ≥16 benchmark, same as the Chances 1-min sample (10.0): a 1-minute sample
+  with 6 fresh sets cannot hit a per-minute place rate built for 8-min videos;
+  not a defect of this sample.
+- Minor cosmetic items left as-is: s022 Noah's head just touches the bottom
+  glow of "STAYS YOURS." (no letter covered); s023/s025 the barbell floats
+  at giant Noah's waist rather than in his hands; seated students read as
+  sitting behind their desks (legs covered by desk fronts, as designed).
 
 ## Defects found and fixed (before delivery)
 1. s023/s025 used `seg`/`circle` without importing them — 2 shot errors on the
