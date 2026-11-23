@@ -1,0 +1,4760 @@
+{
+ "title": "What If You Could See The Words People Swallow?",
+ "duration": 430.94,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 2.61,
+   "line": "Your mom slides the toast across the table.",
+   "scene": "Kitchen: Mom slides the toast across the table to Eli",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s002",
+   "start": 2.61,
+   "end": 4.63,
+   "line": "She smiles. Eat up...",
+   "scene": "Close on Mom \u2014 she smiles, \"Eat up...\"",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.31,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s003",
+   "start": 4.63,
+   "end": 5.73,
+   "line": "it's a good day.",
+   "scene": "Eli looks up; Mom waves \u2014 \"it's a good day\"",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s004",
+   "start": 5.73,
+   "end": 8.79,
+   "line": "But above her head, grey words float.",
+   "scene": "But above her head, grey words float \u2014 a faint \"I'M SORRY...\" appears",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.4
+    },
+    {
+     "at": 1.99,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s005",
+   "start": 8.79,
+   "end": 10.65,
+   "line": "\"I'M SORRY I MISSED YOUR GAME.\"",
+   "scene": "The full line, bright grey above Mom",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    },
+    {
+     "at": 1.21,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s006",
+   "start": 10.65,
+   "end": 12.24,
+   "line": "You watch them fade.",
+   "scene": "You watch them fade \u2014 Eli's eyes follow the words down",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.03,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s007",
+   "start": 12.24,
+   "end": 14.93,
+   "line": "She never says them. She never will.",
+   "scene": "She never says them. She never will \u2014 Mom turns away to the counter",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.75,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s008",
+   "start": 14.93,
+   "end": 16.73,
+   "line": "What is she sorry for?",
+   "scene": "What is she sorry for? \u2014 Eli walks past the station, thinking",
+   "set": "train_station",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.4,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s009",
+   "start": 16.73,
+   "end": 18.92,
+   "line": "She missed your game last Tuesday.",
+   "scene": "She missed your game last Tuesday \u2014 Eli keeps walking, head down",
+   "set": "street_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.0,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s010",
+   "start": 18.92,
+   "end": 20.44,
+   "line": "She was working late.",
+   "scene": "She was working late \u2014 Eli slows, stops, looks up at the school gate",
+   "set": "street_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 0.9,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s011",
+   "start": 20.44,
+   "end": 22.35,
+   "line": "Six days she has carried it.",
+   "scene": "Six days she has carried it \u2014 Eli walks the school hallway",
+   "set": "school_hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "locker",
+     "gain": -18
+    },
+    {
+     "at": 1.2,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s012",
+   "start": 22.35,
+   "end": 23.87,
+   "line": "And now it is gone.",
+   "scene": "And now it is gone \u2014 Eli stops; a faint grey wisp dissolves into smoke",
+   "set": "school_hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19
+    },
+    {
+     "at": 1.0,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s013",
+   "start": 23.87,
+   "end": 26.96,
+   "line": "Your name is Eli. You are sixteen.",
+   "scene": "Name card on the void: ELI, 16 YEARS OLD",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    },
+    {
+     "at": 2.01,
+     "name": "blip",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s014",
+   "start": 26.96,
+   "end": 28.82,
+   "line": "And you can see the words people swallow.",
+   "scene": "And you can see the words people swallow \u2014 Eli at the front, grey words above three students",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -26.4
+    },
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s015",
+   "start": 28.82,
+   "end": 30.98,
+   "line": "Every unsaid sentence floats",
+   "scene": "Every unsaid sentence floats \u2014 wide classroom, words above students",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s016",
+   "start": 30.98,
+   "end": 32.0,
+   "line": "above their head.",
+   "scene": "\u2014 above their head: closer on June and Theo",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s017",
+   "start": 32.0,
+   "end": 34.45,
+   "line": "Grey text. Soft.",
+   "scene": "Grey text. Soft \u2014 close on June drawing birds; her grey words hang soft",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -26.4
+    },
+    {
+     "at": 1.0,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s018",
+   "start": 34.45,
+   "end": 35.64,
+   "line": "Like smoke.",
+   "scene": "Like smoke \u2014 the words drift up like smoke",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s019",
+   "start": 35.64,
+   "end": 38.98,
+   "line": "It hangs for a few seconds. Then it fades.",
+   "scene": "It hangs for a few seconds. Then it fades \u2014 Theo's word goes first, June's follows",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.17,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s020",
+   "start": 38.98,
+   "end": 40.38,
+   "line": "Once a word fades,",
+   "scene": "RULE CARD \u2014 Once a word fades,",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -28.1
+    },
+    {
+     "at": 0.91,
+     "name": "blip",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s021",
+   "start": 40.38,
+   "end": 42.18,
+   "line": "it is gone forever.",
+   "scene": "RULE CARD \u2014 it is gone forever.",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "freeze",
+     "gain": -28.1
+    },
+    {
+     "at": 1.17,
+     "name": "blip",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s022",
+   "start": 42.18,
+   "end": 44.35,
+   "line": "You cannot make anyone say them.",
+   "scene": "You cannot make anyone say them \u2014 Eli reaches for June's grey word; his hand passes through",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -19
+    },
+    {
+     "at": 1.4,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s023",
+   "start": 44.35,
+   "end": 45.82,
+   "line": "You can only watch...",
+   "scene": "You can only watch... \u2014 Eli alone in the void; grey words drift past",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 0.96,
+     "name": "blip",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s024",
+   "start": 45.82,
+   "end": 47.44,
+   "line": "You can watch a whole life...",
+   "scene": "You can watch a whole life... \u2014 a row of grey words fades in above Eli",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    },
+    {
+     "at": 1.05,
+     "name": "blip",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s025",
+   "start": 47.44,
+   "end": 49.96,
+   "line": "disappear in grey letters.",
+   "scene": "disappear in grey letters \u2014 the row of words melts away; Eli reaches for the last one",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "shimmer",
+     "gain": -26.4
+    },
+    {
+     "at": 1.64,
+     "name": "blip",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s026",
+   "start": 49.96,
+   "end": 52.36,
+   "line": "Once, just once, you",
+   "scene": "Once, just once, you \u2014 Eli watches a girl across the schoolyard",
+   "set": "schoolyard",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.56,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s027",
+   "start": 52.36,
+   "end": 54.0,
+   "line": "saw a word turn gold.",
+   "scene": "\u2014 saw a word turn gold: the girl and her friend walk on, the grey word hanging",
+   "set": "schoolyard",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.07,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s028",
+   "start": 54.0,
+   "end": 56.36,
+   "line": "A girl told her friend she was sorry.",
+   "scene": "A girl told her friend she was sorry \u2014 the girl STOPS and turns to her friend",
+   "set": "schoolyard",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -19
+    },
+    {
+     "at": 1.53,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s029",
+   "start": 56.36,
+   "end": 58.18,
+   "line": "The grey word turned gold",
+   "scene": "The grey word turned gold \u2014 at 1.20 s the grey word turns GOLD",
+   "set": "schoolyard",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "shimmer",
+     "gain": -26.4
+    },
+    {
+     "at": 1.18,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s030",
+   "start": 58.18,
+   "end": 60.52,
+   "line": "and floated up, like light.",
+   "scene": "\u2014 and floated up, like light: a golden glow keeps rising where it was",
+   "set": "schoolyard",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    },
+    {
+     "at": 1.52,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s031",
+   "start": 60.52,
+   "end": 63.66,
+   "line": "So what if you could see the words people swallow?",
+   "scene": "TITLE CARD \u2014 So what if you could see the words people swallow? (slow push-in)",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    },
+    {
+     "at": 2.04,
+     "name": "blip",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s032",
+   "start": 63.66,
+   "end": 67.2,
+   "line": "",
+   "scene": "CHAPTER PAUSE 1 \u2014 the title card holds in silence (music only)",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "musicSolo": true
+  },
+  {
+   "id": "s033",
+   "start": 67.2,
+   "end": 69.64,
+   "line": "At school, Mr. Hale points at the board.",
+   "scene": "At school, Mr. Hale points at the board",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.59,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s034",
+   "start": 69.64,
+   "end": 71.5,
+   "line": "His red pen shakes.",
+   "scene": "His red pen shakes \u2014 close on Hale, the pen trembling",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -17.7
+    },
+    {
+     "at": 1.21,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s035",
+   "start": 71.5,
+   "end": 74.8,
+   "line": "Above his head: \"I'M AFRAID OF LOSING MY JOB.\"",
+   "scene": "Above his head: \"I'M AFRAID OF LOSING MY JOB.\"",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -29.9
+    },
+    {
+     "at": 2.15,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s036",
+   "start": 74.8,
+   "end": 76.99,
+   "line": "He says: Detention.",
+   "scene": "He says: Detention \u2014 Hale stern, the class flinches",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -19
+    },
+    {
+     "at": 1.42,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s037",
+   "start": 76.99,
+   "end": 78.97,
+   "line": "Cole shoves a kid in the hallway.",
+   "scene": "Cole shoves a kid in the hallway",
+   "set": "school_hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hit",
+     "gain": -19
+    },
+    {
+     "at": 1.0,
+     "name": "clatter",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s038",
+   "start": 78.97,
+   "end": 80.38,
+   "line": "Everyone laughs.",
+   "scene": "Everyone laughs \u2014 the hallway crowd laughs",
+   "set": "school_hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "cheer",
+     "gain": -20
+    },
+    {
+     "at": 0.92,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s039",
+   "start": 80.38,
+   "end": 83.28,
+   "line": "Above his head: \"MY DAD HITS ME.\"",
+   "scene": "Above his head: \"MY DAD HITS ME.\" \u2014 the laughter dies",
+   "set": "school_hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    },
+    {
+     "at": 1.89,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s040",
+   "start": 83.28,
+   "end": 85.57,
+   "line": "Do you tell him? You don't.",
+   "scene": "Do you tell him? You don't \u2014 Eli close, looking at Cole, shaking his head",
+   "set": "school_hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.49,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s041",
+   "start": 85.57,
+   "end": 87.1,
+   "line": "Nobody laughs at that.",
+   "scene": "Nobody laughs at that \u2014 wide hallway, silence",
+   "set": "school_hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 0.99,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s042",
+   "start": 87.1,
+   "end": 89.36,
+   "line": "June sits two rows ahead.",
+   "scene": "June sits two rows ahead \u2014 populated classroom, June at her desk",
+   "set": "classroom_june",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.47,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s043",
+   "start": 89.36,
+   "end": 91.22,
+   "line": "She draws birds in her notebook.",
+   "scene": "She draws birds in her notebook \u2014 close on June's pencil birds",
+   "set": "classroom_june",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pencilsnap",
+     "gain": -19
+    },
+    {
+     "at": 1.21,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s044",
+   "start": 91.22,
+   "end": 93.66,
+   "line": "Above her head: \"I LIKE YOU.\"",
+   "scene": "Above her head: \"I LIKE YOU.\"",
+   "set": "classroom_june",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    },
+    {
+     "at": 1.59,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s045",
+   "start": 93.66,
+   "end": 96.45,
+   "line": "Do you tell her you saw it? You don't.",
+   "scene": "Do you tell her you saw it? You don't \u2014 Eli, torn",
+   "set": "classroom_june",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.81,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s046",
+   "start": 96.45,
+   "end": 97.96,
+   "line": "She never looks back.",
+   "scene": "She never looks back \u2014 June draws on, back to Eli",
+   "set": "classroom_june",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 0.98,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s047",
+   "start": 97.96,
+   "end": 100.15,
+   "line": "Theo, your best friend since you were six,",
+   "scene": "Theo, your best friend since you were six, \u2014 Theo grins at Eli",
+   "set": "gym",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.42,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s048",
+   "start": 100.15,
+   "end": 101.69,
+   "line": "cracks a joke.",
+   "scene": "\u2014 cracks a joke: Theo throws his arms wide",
+   "set": "gym",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "cheer",
+     "gain": -20
+    },
+    {
+     "at": 1.0,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s049",
+   "start": 101.69,
+   "end": 103.19,
+   "line": "Everyone laughs.",
+   "scene": "Everyone laughs",
+   "set": "gym",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "cheer",
+     "gain": -20
+    },
+    {
+     "at": 0.98,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s050",
+   "start": 103.19,
+   "end": 105.89,
+   "line": "Above his head: \"I MISS MY MOM.\"",
+   "scene": "Above his head: \"I MISS MY MOM.\"",
+   "set": "gym",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    },
+    {
+     "at": 1.76,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s051",
+   "start": 105.89,
+   "end": 109.12,
+   "line": "His mom moved away. He never talks about it.",
+   "scene": "His mom moved away. He never talks about it \u2014 Theo quiet on the bench",
+   "set": "gym",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.1,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s052",
+   "start": 109.12,
+   "end": 110.59,
+   "line": "You stop laughing.",
+   "scene": "You stop laughing \u2014 Eli stops; the others are still laughing behind him",
+   "set": "gym",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -19
+    },
+    {
+     "at": 0.96,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s053",
+   "start": 110.59,
+   "end": 113.24,
+   "line": "On the bus, a man sits beside his wife.",
+   "scene": "On the bus, a man sits beside his wife",
+   "set": "bus_interior",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.72,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s054",
+   "start": 113.24,
+   "end": 115.91,
+   "line": "Above his head: \"I DON'T LOVE YOU ANYMORE.\"",
+   "scene": "Above his head: \"I DON'T LOVE YOU ANYMORE.\"",
+   "set": "bus_interior",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    },
+    {
+     "at": 1.74,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s055",
+   "start": 115.91,
+   "end": 118.95,
+   "line": "It fades... he swallows it.",
+   "scene": "It fades... he swallows it \u2014 the words dissolve above the bus man",
+   "set": "bus_interior",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.98,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s056",
+   "start": 118.95,
+   "end": 121.94,
+   "line": "She never knows. You feel sick.",
+   "scene": "She never knows. You feel sick \u2014 the wife smiles, unaware; Eli feels sick",
+   "set": "bus_interior",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.94,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s057",
+   "start": 121.94,
+   "end": 124.25,
+   "line": "At lunch, you count the words.",
+   "scene": "At lunch, you count the words \u2014 Eli counts on his fingers at the lunch table",
+   "set": "cafeteria",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -17.7
+    },
+    {
+     "at": 1.2,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s058",
+   "start": 124.25,
+   "end": 127.09,
+   "line": "How many today? Forty-three.",
+   "scene": "How many today? Forty-three \u2014 the 43-word count-up infographic",
+   "set": "cafeteria",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -19
+    },
+    {
+     "at": 1.5,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s059",
+   "start": 127.09,
+   "end": 128.32,
+   "line": "All gone by dinner.",
+   "scene": "All gone by dinner \u2014 grey words above three lunch students, fading",
+   "set": "cafeteria",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s060",
+   "start": 128.32,
+   "end": 131.27,
+   "line": "You stop talking to people. Why bother?",
+   "scene": "You stop talking to people. Why bother? \u2014 Eli silent on the sofa at home",
+   "set": "living_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "paper",
+     "gain": -19
+    },
+    {
+     "at": 1.92,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s061",
+   "start": 131.27,
+   "end": 133.34,
+   "line": "You already know what they won't say.",
+   "scene": "You already know what they won't say \u2014 in Mr. Hale's office, Hale talks; Eli already knows",
+   "set": "office",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.35,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s062",
+   "start": 133.34,
+   "end": 134.61,
+   "line": "You sit alone.",
+   "scene": "You sit alone \u2014 wide library, Eli alone at the big table",
+   "set": "library",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "paper",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s063",
+   "start": 134.61,
+   "end": 135.97,
+   "line": "You carry a notebook.",
+   "scene": "You carry a notebook \u2014 Eli on the roof at sunset, notebook under his arm",
+   "set": "roof",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.3,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s064",
+   "start": 135.97,
+   "end": 138.35,
+   "line": "You write down every word you see.",
+   "scene": "You write down every word you see \u2014 Eli writes at his desk",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pencilsnap",
+     "gain": -19
+    },
+    {
+     "at": 1.55,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s065",
+   "start": 138.35,
+   "end": 140.49,
+   "line": "The apology your mom never gave.",
+   "scene": "The apology your mom never gave \u2014 close on the notebook page",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "paper",
+     "gain": -19
+    },
+    {
+     "at": 1.39,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s066",
+   "start": 140.49,
+   "end": 142.46,
+   "line": "The thank you your neighbour never said.",
+   "scene": "The thank you your neighbour never said \u2014 a neighbour waves, her word hangs",
+   "set": "street_night",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    },
+    {
+     "at": 1.28,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s067",
+   "start": 142.46,
+   "end": 144.78,
+   "line": "The confession your best friend never made.",
+   "scene": "The confession your best friend never made \u2014 Theo's word over the park bench",
+   "set": "park",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    },
+    {
+     "at": 1.51,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s068",
+   "start": 144.78,
+   "end": 146.89,
+   "line": "You tell yourself you are preserving them.",
+   "scene": "You tell yourself you are preserving them \u2014 Eli writes, pages stacking up",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "paper",
+     "gain": -19
+    },
+    {
+     "at": 1.4,
+     "name": "paper",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s069",
+   "start": 146.89,
+   "end": 150.12,
+   "line": "You are not. You are just watching them disappear.",
+   "scene": "You are not. You are just watching them disappear \u2014 Eli stops; the words on the pages fade",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -19
+    },
+    {
+     "at": 1.6,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s070",
+   "start": 150.12,
+   "end": 151.92,
+   "line": "The notebook grows thick.",
+   "scene": "The notebook grows thick \u2014 close on the thick, worn notebook",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "paper",
+     "gain": -19
+    },
+    {
+     "at": 1.17,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s071",
+   "start": 151.92,
+   "end": 153.61,
+   "line": "Your hands shake.",
+   "scene": "Your hands shake \u2014 close on Eli, his hands trembling",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -17.7
+    },
+    {
+     "at": 1.1,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s072",
+   "start": 153.61,
+   "end": 156.61,
+   "line": "One night, you catch yourself in the bathroom mirror.",
+   "scene": "One night, you catch yourself in the bathroom mirror \u2014 Eli approaches the mirror",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.2,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s073",
+   "start": 156.61,
+   "end": 159.53,
+   "line": "Above YOUR head, grey words float.",
+   "scene": "Above YOUR head, grey words float \u2014 the mirror reflection has words above it",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s074",
+   "start": 159.53,
+   "end": 163.47,
+   "line": "\"I'M SORRY.\" \"I'M SCARED.\" \"I LOVE YOU.\"",
+   "scene": "\"I'M SORRY.\" \"I'M SCARED.\" \"I LOVE YOU.\" \u2014 the stack of Eli's own words",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s075",
+   "start": 163.47,
+   "end": 166.35,
+   "line": "Dozens of them. Stacked. Fading.",
+   "scene": "Dozens of them. Stacked. Fading \u2014 the stack melts from the top down",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s076",
+   "start": 166.35,
+   "end": 169.44,
+   "line": "You have been swallowing your own words... for years.",
+   "scene": "You have been swallowing your own words... for years \u2014 Eli stares at his reflection",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s077",
+   "start": 169.44,
+   "end": 171.34,
+   "line": "And nobody can see them.",
+   "scene": "And nobody can see them \u2014 the reflection alone in the mirror",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s078",
+   "start": 171.34,
+   "end": 173.67,
+   "line": "Except you... in the mirror.",
+   "scene": "Except you... in the mirror \u2014 Eli touches the mirror; the reflection reaches back",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s079",
+   "start": 173.67,
+   "end": 176.39,
+   "line": "The rule was never one-sided.",
+   "scene": "The rule was never one-sided \u2014 Eli realises",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s080",
+   "start": 176.39,
+   "end": 177.98,
+   "line": "You were just the last to know.",
+   "scene": "You were just the last to know \u2014 Eli, determined, in the mirror",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s081",
+   "start": 177.98,
+   "end": 181.56,
+   "line": "",
+   "scene": "CHAPTER PAUSE 2 \u2014 \"THE RULE WAS NEVER ONE-SIDED.\" holds in silence (music only)",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "musicSolo": true
+  },
+  {
+   "id": "s082",
+   "start": 181.56,
+   "end": 183.23,
+   "line": "Your dad comes home at midnight.",
+   "scene": "Your dad comes home at midnight \u2014 Dad walks in, Eli at the table",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "doorknock",
+     "gain": -19
+    },
+    {
+     "at": 1.2,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s083",
+   "start": 183.23,
+   "end": 184.36,
+   "line": "Warehouse nights.",
+   "scene": "Warehouse nights \u2014 close on Dad, tired in his work shirt",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s084",
+   "start": 184.36,
+   "end": 185.82,
+   "line": "He opens the fridge.",
+   "scene": "He opens the fridge \u2014 the fridge light spills out",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s085",
+   "start": 185.82,
+   "end": 187.4,
+   "line": "He looks at you.",
+   "scene": "He looks at you \u2014 Dad turns from the fridge",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s086",
+   "start": 187.4,
+   "end": 189.9,
+   "line": "How was school? Fine.",
+   "scene": "How was school? Fine \u2014 Dad asks; Eli answers short",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s087",
+   "start": 189.9,
+   "end": 192.14,
+   "line": "Above his head, the same words as always:",
+   "scene": "Above his head, the same words as always: \u2014 the grey words appear",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s088",
+   "start": 192.14,
+   "end": 193.76,
+   "line": "\"I'M PROUD OF YOU, SON.\"",
+   "scene": "\"I'M PROUD OF YOU, SON.\" \u2014 the full line, bright grey above Dad",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s089",
+   "start": 193.76,
+   "end": 196.54,
+   "line": "You have seen them a hundred times.",
+   "scene": "You have seen them a hundred times \u2014 the words hang; Eli has seen them forever",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s090",
+   "start": 196.54,
+   "end": 198.26,
+   "line": "He has never said them.",
+   "scene": "He has never said them \u2014 Dad turns away from the table",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s091",
+   "start": 198.26,
+   "end": 200.67,
+   "line": "Not once. Not ever.",
+   "scene": "Not once. Not ever \u2014 the words are gone; Dad is at the counter",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s092",
+   "start": 200.67,
+   "end": 203.88,
+   "line": "Can you make him say it? No.",
+   "scene": "Can you make him say it? No \u2014 Eli close, shaking his head",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s093",
+   "start": 203.88,
+   "end": 205.2,
+   "line": "That's the rule.",
+   "scene": "That's the rule \u2014 the rule, small and gold, between them",
+   "set": "kitchen_midnight",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "freeze",
+     "gain": -28.1
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s094",
+   "start": 205.2,
+   "end": 207.45,
+   "line": "So you swallow yours too.",
+   "scene": "So you swallow yours too \u2014 Eli at the mirror again, at night",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s095",
+   "start": 207.45,
+   "end": 209.92,
+   "line": "\"DAD, I FORGIVE YOU.\"",
+   "scene": "\"DAD, I FORGIVE YOU.\" \u2014 Eli's own words in the mirror",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s096",
+   "start": 209.92,
+   "end": 213.38,
+   "line": "It floats above your head in the mirror. And fades.",
+   "scene": "It floats above your head in the mirror. And fades \u2014 the words melt away",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s097",
+   "start": 213.38,
+   "end": 215.6,
+   "line": "Then Grandma Rose goes to the hospital.",
+   "scene": "Then Grandma Rose goes to the hospital \u2014 Eli walks the corridor",
+   "set": "hospital_corridor",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.2,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s098",
+   "start": 215.6,
+   "end": 217.56,
+   "line": "Eighty-two.",
+   "scene": "Eighty-two \u2014 Grandma Rose, 82 years old",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s099",
+   "start": 217.56,
+   "end": 219.32,
+   "line": "The kindest person you know.",
+   "scene": "The kindest person you know \u2014 Grandma smiles at Eli",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s100",
+   "start": 219.32,
+   "end": 220.83,
+   "line": "You visit her.",
+   "scene": "You visit her \u2014 Eli comes to her bedside",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.2,
+     "name": "chairscrape",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s101",
+   "start": 220.83,
+   "end": 222.77,
+   "line": "Tubes. Machines.",
+   "scene": "Tubes. Machines \u2014 close on the machines beside her bed",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    },
+    {
+     "at": 1.0,
+     "name": "heartbeat",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s102",
+   "start": 222.77,
+   "end": 224.6,
+   "line": "Her eyes are closed.",
+   "scene": "Her eyes are closed \u2014 close on Grandma's sleeping face",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "heartbeat",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s103",
+   "start": 224.6,
+   "end": 227.93,
+   "line": "Above her head, grey words float.",
+   "scene": "Above her head, grey words float \u2014 faint grey words appear above Grandma",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s104",
+   "start": 227.93,
+   "end": 230.38,
+   "line": "Slow... fading.",
+   "scene": "Slow... fading \u2014 Grandma's words fade slowly",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s105",
+   "start": 230.38,
+   "end": 232.26,
+   "line": "\"TELL YOUR FATHER",
+   "scene": "\"TELL YOUR FATHER \u2014 the first half of her last words",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s106",
+   "start": 232.26,
+   "end": 234.91,
+   "line": "I LOVE HIM.\"",
+   "scene": "I LOVE HIM.\" \u2014 the full line, bright grey above Grandma",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s107",
+   "start": 234.91,
+   "end": 237.3,
+   "line": "What does she want to say?",
+   "scene": "What does she want to say? \u2014 Eli close, thinking",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s108",
+   "start": 237.3,
+   "end": 240.99,
+   "line": "She wants Dad to know... before it is too late.",
+   "scene": "She wants Dad to know... before it is too late \u2014 Eli looks out the window",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s109",
+   "start": 240.99,
+   "end": 242.77,
+   "line": "Dad is in the parking lot.",
+   "scene": "Dad is in the parking lot \u2014 Dad leans on his car, alone",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s110",
+   "start": 242.77,
+   "end": 245.64,
+   "line": "He won't come up. He never comes up.",
+   "scene": "He won't come up. He never comes up \u2014 Dad shakes his head",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s111",
+   "start": 245.64,
+   "end": 247.46,
+   "line": "You run. Down the stairs.",
+   "scene": "You run. Down the stairs \u2014 Eli sprints down the stairwell",
+   "set": "hospital_stairs",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 0.7,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.2,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s112",
+   "start": 247.46,
+   "end": 250.18,
+   "line": "Across the lot. Dad!",
+   "scene": "Across the lot. Dad! \u2014 Eli sprints across and shouts; Dad turns",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 0.7,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s113",
+   "start": 250.18,
+   "end": 251.53,
+   "line": "You grab his arm.",
+   "scene": "You grab his arm \u2014 Eli grabs Dad's arm",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s114",
+   "start": 251.53,
+   "end": 253.5,
+   "line": "Grandma wants to say she loves you.",
+   "scene": "Grandma wants to say she loves you \u2014 Eli pleads",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s115",
+   "start": 253.5,
+   "end": 256.26,
+   "line": "He stares. She can say it herself.",
+   "scene": "He stares. She can say it herself \u2014 Dad stares, disbelieving",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s116",
+   "start": 256.26,
+   "end": 258.24,
+   "line": "No, Dad. She can't.",
+   "scene": "No, Dad. She can't \u2014 Eli shakes his head, urgent",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s117",
+   "start": 258.24,
+   "end": 260.75,
+   "line": "She is trying. And her words are fading.",
+   "scene": "She is trying. And her words are fading \u2014 Eli points up at the hospital",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s118",
+   "start": 260.75,
+   "end": 261.9,
+   "line": "Right now.",
+   "scene": "Right now \u2014 Eli, urgent, close",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s119",
+   "start": 261.9,
+   "end": 264.17,
+   "line": "What if it fades before he gets there?",
+   "scene": "What if it fades before he gets there? \u2014 Dad looks at the hospital",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s120",
+   "start": 264.17,
+   "end": 267.57,
+   "line": "He looks at the hospital. He looks at you.",
+   "scene": "He looks at the hospital. He looks at you \u2014 Dad turns from the hospital to Eli",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s121",
+   "start": 267.57,
+   "end": 269.48,
+   "line": "Then he runs.",
+   "scene": "Then he runs \u2014 Dad runs for the hospital doors",
+   "set": "hospital_parking",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 0.7,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s122",
+   "start": 269.48,
+   "end": 271.08,
+   "line": "You follow him up.",
+   "scene": "You follow him up \u2014 the lift doors close on Dad and Eli",
+   "set": "hospital_lift",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "doorknock",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s123",
+   "start": 271.08,
+   "end": 272.49,
+   "line": "Room 312.",
+   "scene": "Room 312 \u2014 the door with the number 312",
+   "set": "hospital_corridor",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.2,
+     "name": "doorknock",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s124",
+   "start": 272.49,
+   "end": 274.25,
+   "line": "Grandma's eyes open.",
+   "scene": "Grandma's eyes open \u2014 her eyes flutter open",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s125",
+   "start": 274.25,
+   "end": 275.76,
+   "line": "Dad takes her hand.",
+   "scene": "Dad takes her hand \u2014 Dad kneels and takes Grandma's hand",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s126",
+   "start": 275.76,
+   "end": 278.41,
+   "line": "His voice breaks. Mom.",
+   "scene": "His voice breaks. Mom. \u2014 Dad's voice breaks",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "heartbeat",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s127",
+   "start": 278.41,
+   "end": 280.0,
+   "line": "I love you.",
+   "scene": "I love you \u2014 Dad says it out loud",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s128",
+   "start": 280.0,
+   "end": 282.32,
+   "line": "And above her head, the grey words...",
+   "scene": "And above her head, the grey words... \u2014 the grey words hang above Grandma",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s129",
+   "start": 282.32,
+   "end": 283.87,
+   "line": "turn gold.",
+   "scene": "turn gold \u2014 GOLD: Grandma's grey words turn gold",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s130",
+   "start": 283.87,
+   "end": 286.39,
+   "line": "They rise. Like light.",
+   "scene": "They rise. Like light \u2014 the gold glow keeps rising where the words were",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s131",
+   "start": 286.39,
+   "end": 288.96,
+   "line": "Grandma smiles... I know.",
+   "scene": "Grandma smiles... I know \u2014 she smiles; the gold glow rises (holds through the pause)",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s132",
+   "start": 288.96,
+   "end": 292.48,
+   "line": "",
+   "scene": "CHAPTER PAUSE 3 \u2014 the gold glow keeps rising over Grandma in silence (music only)",
+   "set": "hospital_room",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   },
+   "musicSolo": true
+  },
+  {
+   "id": "s133",
+   "start": 292.48,
+   "end": 294.57,
+   "line": "That night, Dad sits on your bed.",
+   "scene": "That night, Dad sits on your bed",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "chairscrape",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s134",
+   "start": 294.57,
+   "end": 296.22,
+   "line": "He looks at his hands...",
+   "scene": "He looks at his hands... \u2014 Dad looks down at his hands",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s135",
+   "start": 296.22,
+   "end": 298.41,
+   "line": "Eli. I'm proud of you, son.",
+   "scene": "Eli. I'm proud of you, son \u2014 Dad says it, out loud, at last",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s136",
+   "start": 298.41,
+   "end": 300.28,
+   "line": "The words he has swallowed for years...",
+   "scene": "The words he has swallowed for years... \u2014 Eli looks above Dad's head: nothing there",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s137",
+   "start": 300.28,
+   "end": 302.98,
+   "line": "finally said. Out loud.",
+   "scene": "finally said. Out loud \u2014 Dad smiles; nothing floats above him",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s138",
+   "start": 302.98,
+   "end": 305.38,
+   "line": "Above his head, nothing floats.",
+   "scene": "Above his head, nothing floats \u2014 wide: empty sky above Dad's head",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s139",
+   "start": 305.38,
+   "end": 307.67,
+   "line": "Because there is nothing left to swallow.",
+   "scene": "Because there is nothing left to swallow \u2014 Dad and Eli, warm and easy",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s140",
+   "start": 307.67,
+   "end": 309.36,
+   "line": "You look in the mirror.",
+   "scene": "You look in the mirror \u2014 Eli turns to the mirror",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s141",
+   "start": 309.36,
+   "end": 312.64,
+   "line": "Above your head: \"DAD, I FORGIVE YOU.\"",
+   "scene": "Above your head: \"DAD, I FORGIVE YOU.\" \u2014 his words wait in the mirror",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s142",
+   "start": 312.64,
+   "end": 315.44,
+   "line": "Would you say it? You do.",
+   "scene": "Would you say it? You do \u2014 Eli decides",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s143",
+   "start": 315.44,
+   "end": 316.97,
+   "line": "You turn around...",
+   "scene": "You turn around... \u2014 Eli turns from the mirror toward Dad",
+   "set": "bathroom_mirror",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s144",
+   "start": 316.97,
+   "end": 319.03,
+   "line": "Dad. I forgive you.",
+   "scene": "Dad. I forgive you \u2014 Eli says it to Dad's face",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s145",
+   "start": 319.03,
+   "end": 322.13,
+   "line": "The words turn gold. They rise.",
+   "scene": "The words turn gold. They rise \u2014 GOLD: Eli's words turn gold and rise like light",
+   "set": "bedroom_eli",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -26.4
+    },
+    {
+     "at": 1.6,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s146",
+   "start": 322.13,
+   "end": 324.16,
+   "line": "The next day, you tell June.",
+   "scene": "The next day, you tell June \u2014 Eli and June walk in the park",
+   "set": "park",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.3,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s147",
+   "start": 324.16,
+   "end": 326.75,
+   "line": "I like you. She blushes.",
+   "scene": "I like you. She blushes \u2014 Eli says it; close on June, blushing",
+   "set": "park",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -29.9
+    },
+    {
+     "at": 1.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s148",
+   "start": 326.75,
+   "end": 329.69,
+   "line": "I know. I swallowed it too.",
+   "scene": "I know. I swallowed it too \u2014 June smiles; she swallowed it too",
+   "set": "park",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s149",
+   "start": 329.69,
+   "end": 330.97,
+   "line": "You tell Theo.",
+   "scene": "You tell Theo \u2014 Eli finds Theo in the gym",
+   "set": "gym",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.0,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s150",
+   "start": 330.97,
+   "end": 332.6,
+   "line": "I miss your mom too.",
+   "scene": "I miss your mom too \u2014 Eli says it to Theo",
+   "set": "gym",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s151",
+   "start": 332.6,
+   "end": 335.05,
+   "line": "He cries... he laughs.",
+   "scene": "He cries... he laughs \u2014 Theo cries, then laughs",
+   "set": "gym",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "cheer",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s152",
+   "start": 335.05,
+   "end": 336.8,
+   "line": "You start saying everything.",
+   "scene": "You start saying everything \u2014 Eli walks through the school gate, gold wisps rising",
+   "set": "school_gate",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.2,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s153",
+   "start": 336.8,
+   "end": 338.84,
+   "line": "Every word. Before it fades.",
+   "scene": "Every word. Before it fades \u2014 Eli waves; small gold words rise around him",
+   "set": "school_gate",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s154",
+   "start": 338.84,
+   "end": 340.59,
+   "line": "Is any of this real?",
+   "scene": "Is any of this real? \u2014 Eli asks the question on the void",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ]
+  },
+  {
+   "id": "s155",
+   "start": 340.59,
+   "end": 344.19,
+   "line": "The words are fiction. The swallowing is not.",
+   "scene": "The words are fiction. The swallowing is not \u2014 the answer, in two lines",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ]
+  },
+  {
+   "id": "s156",
+   "start": 344.19,
+   "end": 347.35,
+   "line": "Daniel Wegner at Harvard studied thought suppression.",
+   "scene": "Daniel Wegner at Harvard studied thought suppression \u2014 FREEZE: the white-bear lab",
+   "set": "science_lab",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -28.1
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s157",
+   "start": 347.35,
+   "end": 349.94,
+   "line": "He found that trying not to think about something",
+   "scene": "He found that trying not to think about something \u2014 the bear waits",
+   "set": "science_lab",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s158",
+   "start": 349.94,
+   "end": 351.5,
+   "line": "makes it come back stronger.",
+   "scene": "\u2014 makes it come back stronger: the comeback arrow circles the bear",
+   "set": "science_lab",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s159",
+   "start": 351.5,
+   "end": 353.52,
+   "line": "What you swallow does not vanish.",
+   "scene": "What you swallow does not vanish \u2014 the bear waits",
+   "set": "science_lab",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s160",
+   "start": 353.52,
+   "end": 354.87,
+   "line": "It waits.",
+   "scene": "It waits \u2014 the white bear, waiting in the dark",
+   "set": "science_lab",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s161",
+   "start": 354.87,
+   "end": 358.16,
+   "line": "Psychologists Thomas Gilovich and Victoria Medvec found",
+   "scene": "Psychologists Thomas Gilovich and Victoria Medvec found \u2014 FREEZE: the regret study",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -28.1
+    }
+   ]
+  },
+  {
+   "id": "s162",
+   "start": 358.16,
+   "end": 359.04,
+   "line": "that in the long run,",
+   "scene": "that in the long run... \u2014 the two empty bars wait on the axes",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ]
+  },
+  {
+   "id": "s163",
+   "start": 359.04,
+   "end": 361.99,
+   "line": "people regret the things they did NOT do...",
+   "scene": "...people regret the things they did NOT do \u2014 the two bars grow: inactions tower over actions",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s164",
+   "start": 361.99,
+   "end": 364.03,
+   "line": "far more than the things they did.",
+   "scene": "far more than the things they did \u2014 the INACTIONS bar glows gold",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ]
+  },
+  {
+   "id": "s165",
+   "start": 364.03,
+   "end": 365.82,
+   "line": "The words they did not say.",
+   "scene": "The words they did not say \u2014 grey unsaid words drift and fade",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s166",
+   "start": 365.82,
+   "end": 367.83,
+   "line": "The chances they did not take.",
+   "scene": "The chances they did not take \u2014 the second line fades too",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s167",
+   "start": 367.83,
+   "end": 370.86,
+   "line": "Nurse Bronnie Ware spent years with dying people.",
+   "scene": "Nurse Bronnie Ware spent years with dying people \u2014 her portrait card",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ]
+  },
+  {
+   "id": "s168",
+   "start": 370.86,
+   "end": 373.24,
+   "line": "She wrote down their top five regrets.",
+   "scene": "She wrote down their top five regrets \u2014 the list title",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s169",
+   "start": 373.24,
+   "end": 374.12,
+   "line": "Number one:",
+   "scene": "Number one: \u2014 regret #1 is introduced",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ]
+  },
+  {
+   "id": "s170",
+   "start": 374.12,
+   "end": 377.37,
+   "line": "I wish I'd lived a life true to myself.",
+   "scene": "I wish I'd lived a life true to myself \u2014 regret #1, full line",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ]
+  },
+  {
+   "id": "s171",
+   "start": 377.37,
+   "end": 380.94,
+   "line": "Number two: I wish I hadn't worked so hard.",
+   "scene": "Number two: I wish I hadn't worked so hard \u2014 regret #2 joins #1",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ]
+  },
+  {
+   "id": "s172",
+   "start": 380.94,
+   "end": 381.88,
+   "line": "Number three:",
+   "scene": "Number three: \u2014 the theme regret is introduced",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ]
+  },
+  {
+   "id": "s173",
+   "start": 381.88,
+   "end": 385.23,
+   "line": "I wish I'd had the courage to express my feelings.",
+   "scene": "I wish I'd had the courage to express my feelings \u2014 regret #3, GOLD: the theme of the video",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ]
+  },
+  {
+   "id": "s174",
+   "start": 385.23,
+   "end": 388.79,
+   "line": "Number four: I wish I'd stayed in touch with friends.",
+   "scene": "Number four: I wish I'd stayed in touch with friends \u2014 regret #4",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ]
+  },
+  {
+   "id": "s175",
+   "start": 388.79,
+   "end": 392.45,
+   "line": "Number five: I wish I'd let myself be happier.",
+   "scene": "Number five: I wish I'd let myself be happier \u2014 the full top five, #3 still gold",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ]
+  },
+  {
+   "id": "s176",
+   "start": 392.45,
+   "end": 395.1,
+   "line": "The dying do not regret what they said.",
+   "scene": "The dying do not regret what they said",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s177",
+   "start": 395.1,
+   "end": 396.98,
+   "line": "They regret what they swallowed.",
+   "scene": "They regret what they swallowed \u2014 the moral, in gold",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ]
+  },
+  {
+   "id": "s178",
+   "start": 396.98,
+   "end": 398.38,
+   "line": "The average person has",
+   "scene": "The average person has \u2014 the number builds",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "s179",
+   "start": 398.38,
+   "end": 400.14,
+   "line": "six thousand thoughts a day.",
+   "scene": "\u2014 six thousand thoughts a day: the full 6,000-dot infographic",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ]
+  },
+  {
+   "id": "s180",
+   "start": 400.14,
+   "end": 402.3,
+   "line": "How many of them do you say out loud?",
+   "scene": "How many of them do you say out loud? \u2014 only a few dots turn gold",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ]
+  },
+  {
+   "id": "s181",
+   "start": 402.3,
+   "end": 405.33,
+   "line": "How many fade... before anyone hears them?",
+   "scene": "How many fade... before anyone hears them? \u2014 the grey dots fade away",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s182",
+   "start": 405.33,
+   "end": 407.59,
+   "line": "Next morning. The bus.",
+   "scene": "Next morning. The bus \u2014 Eli waits; the bus pulls in",
+   "set": "bus_stop",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.4,
+     "name": "carpass",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s183",
+   "start": 407.59,
+   "end": 409.7,
+   "line": "A stranger sits across from you.",
+   "scene": "A stranger sits across from you",
+   "set": "bus_interior",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s184",
+   "start": 409.7,
+   "end": 412.74,
+   "line": "Above her head, one grey word floats.",
+   "scene": "Above her head, one grey word floats \u2014 a single grey word appears",
+   "set": "bus_interior",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s185",
+   "start": 412.74,
+   "end": 414.0,
+   "line": "\"GOODBYE.\"",
+   "scene": "\"GOODBYE.\" \u2014 the word, big and close",
+   "set": "bus_interior",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s186",
+   "start": 414.0,
+   "end": 416.26,
+   "line": "It is fading... fast.",
+   "scene": "It is fading... fast \u2014 the word fades fast",
+   "set": "bus_interior",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s187",
+   "start": 416.26,
+   "end": 417.56,
+   "line": "You stand up...",
+   "scene": "You stand up... \u2014 Eli stands",
+   "set": "bus_interior",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "chairscrape",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s188",
+   "start": 417.56,
+   "end": 418.73,
+   "line": "What do you do?",
+   "scene": "What do you do? \u2014 Eli looks straight at the viewer",
+   "set": "bus_interior",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s189",
+   "start": 418.73,
+   "end": 420.59,
+   "line": "What words have you swallowed?",
+   "scene": "What words have you swallowed? \u2014 the question, in gold",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ]
+  },
+  {
+   "id": "s190",
+   "start": 420.59,
+   "end": 423.79,
+   "line": "What would you say... if you had one more second?",
+   "scene": "What would you say... if you had one more second? \u2014 the second question",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ]
+  },
+  {
+   "id": "s191",
+   "start": 423.79,
+   "end": 425.52,
+   "line": "Tell us in the comments.",
+   "scene": "Tell us in the comments \u2014 the comment CTA",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ]
+  },
+  {
+   "id": "s192",
+   "start": 425.52,
+   "end": 427.23,
+   "line": "And if this one hit you...",
+   "scene": "And if this one hit you... \u2014 Eli, warm, before the end card",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s193",
+   "start": 427.23,
+   "end": 430.94,
+   "line": "hit like, and subscribe for more What Ifs.",
+   "scene": "hit like, and subscribe for more What Ifs \u2014 the end card (slow push-in)",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 67.25,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 67.25,
+   "end": 122.23,
+   "mood": "wonder",
+   "intensity": 0.5
+  },
+  {
+   "start": 122.23,
+   "end": 181.64,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 181.64,
+   "end": 241.44,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 241.44,
+   "end": 292.5,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 292.5,
+   "end": 335.44,
+   "mood": "wonder",
+   "intensity": 0.55
+  },
+  {
+   "start": 335.44,
+   "end": 405.72,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 405.72,
+   "end": 430.94,
+   "mood": "wonder",
+   "intensity": 0.55
+  }
+ ]
+}
