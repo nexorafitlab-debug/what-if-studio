@@ -1,0 +1,703 @@
+{
+ "title": "What If You Could See The Words People Swallow?",
+ "duration": 63.46,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 2.32,
+   "line": "Your mom slides the toast across the table.",
+   "scene": "Kitchen: Mom slides the toast across the table to Eli",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s002",
+   "start": 2.32,
+   "end": 3.98,
+   "line": "She smiles. Eat up...",
+   "scene": "Close on Mom \u2014 she smiles, \"Eat up...\"",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s003",
+   "start": 3.98,
+   "end": 5.68,
+   "line": "it's a good day.",
+   "scene": "Eli looks up; Mom waves \u2014 \"it's a good day\"",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s004",
+   "start": 5.68,
+   "end": 7.86,
+   "line": "But above her head, grey words float.",
+   "scene": "Grey words FADE IN above Mom's head",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s005",
+   "start": 7.86,
+   "end": 10.54,
+   "line": "\"I'M SORRY I MISSED YOUR GAME.\"",
+   "scene": "The full line, bright grey above Mom",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s006",
+   "start": 10.54,
+   "end": 12.04,
+   "line": "You watch them fade.",
+   "scene": "The words dissolve; Eli's eyes follow them down",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s007",
+   "start": 12.04,
+   "end": 13.96,
+   "line": "She never says them. She never will.",
+   "scene": "Mom turns away to the counter; Eli alone at the table",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s008",
+   "start": 13.96,
+   "end": 16.62,
+   "line": "What is she sorry for?",
+   "scene": "Eli walks to school, thinking",
+   "set": "street_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.4,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s009",
+   "start": 16.62,
+   "end": 18.08,
+   "line": "She missed your game last Tuesday.",
+   "scene": "Eli keeps walking, head down; a passer-by passes",
+   "set": "street_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.0,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s010",
+   "start": 18.08,
+   "end": 19.42,
+   "line": "She was working late.",
+   "scene": "Eli slows, stops, looks up at the school gate",
+   "set": "street_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 0.9,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s011",
+   "start": 19.42,
+   "end": 21.56,
+   "line": "Six days she has carried it.",
+   "scene": "Eli walks the school hallway; students pass",
+   "set": "school_hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "locker",
+     "gain": -18
+    },
+    {
+     "at": 1.2,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s012",
+   "start": 21.56,
+   "end": 23.78,
+   "line": "And now it is gone.",
+   "scene": "Eli stops; a faint grey wisp dissolves into smoke",
+   "set": "school_hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19
+    },
+    {
+     "at": 1.0,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s013",
+   "start": 23.78,
+   "end": 26.28,
+   "line": "Your name is Eli. You are sixteen.",
+   "scene": "Name card on the void: ELI, 16 YEARS OLD",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ]
+  },
+  {
+   "id": "s014",
+   "start": 26.28,
+   "end": 28.79,
+   "line": "And you can see the words people swallow.",
+   "scene": "Eli at the front; grey words above three students",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s015",
+   "start": 28.79,
+   "end": 31.42,
+   "line": "Every unsaid sentence floats above their head.",
+   "scene": "WIDE classroom: four students, grey words above two",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s016",
+   "start": 31.42,
+   "end": 33.52,
+   "line": "Grey text. Soft.",
+   "scene": "CLOSE on June drawing birds; her grey words hang soft",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s017",
+   "start": 33.52,
+   "end": 35.38,
+   "line": "Like smoke.",
+   "scene": "June's words drift up; Theo's rise beside them",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s018",
+   "start": 35.38,
+   "end": 37.78,
+   "line": "It hangs for a few seconds. Then it fades.",
+   "scene": "Theo's word goes first, June's follows; Eli watches",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s019",
+   "start": 37.78,
+   "end": 40.92,
+   "line": "Once a word fades, it is gone forever.",
+   "scene": "RULE CARD on the void: ONCE A WORD FADES, IT IS GONE FOREVER.",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -28.1
+    }
+   ]
+  },
+  {
+   "id": "s020",
+   "start": 40.92,
+   "end": 43.32,
+   "line": "You cannot make anyone say them.",
+   "scene": "Eli reaches for June's grey word; his hand passes through",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -19
+    },
+    {
+     "at": 1.4,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s021",
+   "start": 43.32,
+   "end": 45.5,
+   "line": "You can only watch...",
+   "scene": "Eli alone in the void; grey words drift past",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "s022",
+   "start": 45.5,
+   "end": 46.74,
+   "line": "You can watch a whole life...",
+   "scene": "A row of grey words fades IN above Eli, one by one",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ]
+  },
+  {
+   "id": "s023",
+   "start": 46.74,
+   "end": 48.7,
+   "line": "disappear in grey letters.",
+   "scene": "The row of words melts away; Eli reaches for the last one",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ]
+  },
+  {
+   "id": "s024",
+   "start": 48.7,
+   "end": 51.5,
+   "line": "Once, just once, you saw a word turn gold.",
+   "scene": "By the school gate: a girl walks with her friend, grey \"I'M SORRY.\" above her",
+   "set": "street_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.6,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s025",
+   "start": 51.5,
+   "end": 54.5,
+   "line": "A girl told her friend...",
+   "scene": "The girl STOPS and turns to her friend; the grey word hangs",
+   "set": "street_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s026",
+   "start": 54.5,
+   "end": 56.4,
+   "line": "...she was sorry.",
+   "scene": "The girl SPEAKS; her friend's face changes; the word hangs",
+   "set": "street_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s027",
+   "start": 56.4,
+   "end": 60.2,
+   "line": "The grey word turned gold and floated up, like light.",
+   "scene": "The word turns GOLD at 0.85 s and rises; a golden glow keeps rising; Eli is amazed",
+   "set": "street_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.85,
+     "name": "shimmer",
+     "gain": -26.4
+    },
+    {
+     "at": 2.2,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s028",
+   "start": 60.2,
+   "end": 63.46,
+   "line": "So what if you could see the words people swallow?",
+   "scene": "TITLE CARD on the void, slow push-in on Eli",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 19.42,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 19.42,
+   "end": 28.79,
+   "mood": "wonder",
+   "intensity": 0.5
+  },
+  {
+   "start": 28.79,
+   "end": 40.92,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 40.92,
+   "end": 53.32,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 53.32,
+   "end": 63.46,
+   "mood": "wonder",
+   "intensity": 0.55
+  }
+ ]
+}
