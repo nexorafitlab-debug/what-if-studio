@@ -1,24 +1,33 @@
 # BUILD REPORT — What If Every Lie You Tell Grows A Feather? (1-min sample)
 
 ## STANDING RULE — READ FIRST
-**ALWAYS render on GitHub 10x (repo `nexorafitlab-debug/what-if-plugin-engine`,
-workflow "Render plugin episode"). NEVER render locally unless GitHub is proven
-broken AND the user has been told first. Local render is not a silent fallback.**
+**Render on GitHub 10x ONLY, on the NEW public-repo setup (user decision
+2026-11-25 ~02:16 AST — see "GitHub render" below). The OLD private workflow
+(repo `nexorafitlab-debug/what-if-plugin-engine`) is DEAD: its artifact storage
+quota is exhausted for November (blocked until Dec 1) and every dispatch fails
+at artifact upload. NEVER dispatch on the old workflow again. NEVER render
+video locally unless GitHub is proven broken AND the user has been told first.**
 (Stills for helper checks are the only local renders: `node render.mjs --project
 ... --stills` produces PNGs in `build/stills/`, never video.)
 
-## Status — BUILT, MIX VERIFIED, RENDER PENDING
+## Status — BUILT, MIX VERIFIED, STILLS VERIFIED, RENDER-READY (NO RENDER YET)
 - 27 hand-written shots, 6 fresh sets, story/shots.json + bible, audio mixed and
-  verified (see below). GitHub 10x render dispatched — run number + verification below.
+  verified (see below), full 27-shot stills sheet re-checked post-fix (27/27 clean).
+  **No video exists yet** — the sample is render-ready and waits for the NEW
+  public-repo GitHub setup (infra worker building it). Do NOT dispatch on the old
+  private workflow.
 - Script: `~/workspace/what-if-sample/feathers-script-final.txt` (1,045 words full;
   the 1-min sample uses the first **152 words** — see `input/script.txt` — ending at
   "So what if every lie you tell grows a feather?").
 - Visual guide: `~/workspace/what-if-sample/feathers-visual-guide-final.txt`.
 
-## Deliverable — PENDING (filled after GitHub render + verification)
-- `out/What_If_Every_Lie_You_Tell_Grows_A_Feather.mp4`, md5 TBD, 1280×720, 24 fps,
+## Deliverable — NOT RENDERED YET (render-ready, awaiting new GitHub setup)
+- Planned: `out/What_If_Every_Lie_You_Tell_Grows_A_Feather.mp4`, 1280×720, 24 fps,
   55.18 s, 27 shots, 31 SFX cues (33.7/min), 6 sets.
-- Watch copy (CRF 23): `out/final-watch.mp4`, md5 TBD.
+- Watch copy (CRF 23): `out/final-watch.mp4` — made after the render.
+- Voiceover + mix are final and will NOT be rebuilt for the render:
+  `input/voiceover.wav` md5 3713535585c9df2efd86db5d2c447369 (55.18 s);
+  `build/mix_final.wav` md5 0bb63d708e942a3510e9e1b0910c0923 (−14.12 LUFS / TP −1.38).
 
 ## Picture (built 2026-11-25)
 - 27 hand-written shots (build_story.py validates: contiguous 0–55.18 s, longest
@@ -36,7 +45,11 @@ broken AND the user has been told first. Local render is not a silent fallback.*
   sample — the lunch count is in the full video), bathroom_mirror (drawn, unused —
   the mirror beats are in the full video), school_hallway, void.
 - Stills check: full 27-shot sheet rendered clean (0 shot errors) + 13 targeted
-  full-res stills, all checked by eye. Defects found + fixed:
+  full-res stills, all checked by eye. Final post-fix sheet re-rendered
+  2026-11-25 ~06:20 UTC and checked again by eye: **27/27 shots clean** — no black
+  holes, no glitches, no "null" text, faces clear in every collar-feather shot,
+  feathers visible in every relevant shot, Kai's burgundy #800020 reads deep
+  wine-red in every shot, gold rim light on the head edge. Defects found + fixed:
   1. Collar feathers pointed straight UP and covered Kai's face (s016, s019 —
      the grown-back feather hid his whole head). Fixed: collar anchor moved lower
      + behind the shoulder (hy + hr*1.55, hx − facing*hr*0.5) and every collar
@@ -80,12 +93,34 @@ broken AND the user has been told first. Local render is not a silent fallback.*
   was tried first (−14.71) and rejected — it barely moved the number.
 - Ambience: roomtone −36 (kitchen/hallway), murmur −38 (classroom).
 
-## GitHub render — PENDING
-- Workflow: "Render plugin episode", repo nexorafitlab-debug/what-if-plugin-engine
-- Inputs: project=feathers-1min, chunks=10, encode_ranges=[[0,55.18]], fps=24
-- Commit TBD. Artifact "final-video" → final.mp4.
+## GitHub render — OLD WORKFLOW FAILED TWICE; NEW SETUP PENDING
+- Old workflow: "Render plugin episode", repo nexorafitlab-debug/what-if-plugin-engine.
+  Inputs: project=feathers-1min, chunks=10, encode_ranges=[[0,55.18]], fps=24.
+  Commit `0b0d092` (pushed to origin main) — project copied to
+  `~/workspace/what-if-studio/plugin-projects/feathers-1min/`.
+- Run **45556869034** (2026-11-25 ~05:55 UTC): FAILED — all 10 chunks rendered
+  fine, every `upload-artifact` step failed: "Artifact storage quota has been
+  hit. Unable to upload any new artifacts. Usage is recalculated every 6-12 hours."
+- Run **45557762586** (2026-11-25 ~06:03 UTC): FAILED, same error — even after
+  deleting 25 old artifacts (~253 MB freed). Root cause: storage is counted by
+  GB-Hours, not current stored bytes. Nov 22–23 binge (~23 GB chunks held ~20 h)
+  accrued ~460 GB-Hours vs 360 allowance — November storage exhausted even though
+  only ~62 MB was stored; resets Dec 1. Minutes also over: 2,497/2,000. Spending
+  limit already $0 with "stop usage when budget reached" on; no payment method on
+  file, so charges are impossible. **Retrying the old workflow will keep failing
+  the same way until Dec 1.**
+- User decision (2026-11-25 ~02:16 AST, "i dont know do best according to you"):
+  go PUBLIC with a safe dual-repo pattern (engine stays private, never published;
+  only our own work in a new public repo; workflow pulls engine/image with a
+  secret token; chunks via Actions cache, final video via GitHub Release).
+  A separate infra worker is building that setup. This sample will be re-rendered
+  on the NEW setup once it is ready — this project is committed-ready for it.
+- Local render fallback: started 2026-11-25 ~06:08 UTC under the standing rule
+  (GitHub proven broken + user told first), then **STOPPED ~06:19 UTC on new
+  orders** (render plan changed — no more local video renders). Partial parts
+  deleted; no video was produced. The project does not depend on any local render.
 
-## Verification of the final video — PENDING
+## Verification of the final video — PENDING (runs after the new-setup render)
 - (verify_final.py — to be filled after the render: format, loudness, whisper
   word match, A/V sync, letterbox, 1fps eye scan.)
 
