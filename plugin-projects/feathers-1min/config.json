@@ -1,0 +1,23 @@
+{
+ "aspect": "16:9",
+ "bars": 40,
+ "captions": false,
+ "duration": 55.18,
+ "fadeIn": 0.5,
+ "fadeOut": 0.8,
+ "fps": 24,
+ "loudness": -14,
+ "music": {
+  "enabled": true,
+  "gainDb": -17
+ },
+ "resolution": "720p",
+ "script": "input/script.txt",
+ "sfx": {
+  "enabled": true,
+  "gainDb": -6
+ },
+ "style": "dusk",
+ "title": "What If Every Lie You Tell Grows A Feather?",
+ "voiceover": "input/voiceover.wav"
+}

@@ -1,0 +1,655 @@
+{
+ "title": "What If Every Lie You Tell Grows A Feather?",
+ "duration": 55.18,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 1.52,
+   "line": "Monday morning.",
+   "scene": "Kitchen wide: Kai walks in, Mom at the table",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.0,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s002",
+   "start": 1.52,
+   "end": 3.36,
+   "line": "Your mom stands in the kitchen.",
+   "scene": "Mom stands in the kitchen, hands on the table",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s003",
+   "start": 3.36,
+   "end": 4.52,
+   "line": "Did you do your homework?",
+   "scene": "Close on Mom \u2014 \"Did you do your homework?\"",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s004",
+   "start": 4.52,
+   "end": 5.52,
+   "line": "You did not.",
+   "scene": "Close on Kai \u2014 guilty, head down",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s005",
+   "start": 5.52,
+   "end": 7.38,
+   "line": "You played games till midnight.",
+   "scene": "Kai at the table with a game controller, night tint",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    },
+    {
+     "at": 1.2,
+     "name": "tick",
+     "gain": -17.7
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s006",
+   "start": 7.38,
+   "end": 8.8,
+   "line": "You say \"Yes.\"",
+   "scene": "Kai lies \u2014 forced smile, Mom watching",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s007",
+   "start": 8.8,
+   "end": 10.7,
+   "line": "And something moves on your wrist...",
+   "scene": "Wrist close-up \u2014 a tiny white nub pulses under the skin",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s008",
+   "start": 10.7,
+   "end": 12.44,
+   "line": "A feather. Small.",
+   "scene": "The small white feather sits on his wrist",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s009",
+   "start": 12.44,
+   "end": 14.1,
+   "line": "White. Pop.",
+   "scene": "Tight on the wrist \u2014 the feather POPS with a ring burst, \"POP.\"",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s010",
+   "start": 14.1,
+   "end": 16.68,
+   "line": "It pushes out of your skin like a sprout.",
+   "scene": "The feather GROWS taller on his wrist",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s011",
+   "start": 16.68,
+   "end": 19.2,
+   "line": "You pull your sleeve down. Fast.",
+   "scene": "Kai pulls his sleeve down \u2014 the feather still peeks out",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s012",
+   "start": 19.2,
+   "end": 21.64,
+   "line": "Your name is Kai. You are sixteen.",
+   "scene": "Name card on the void: KAI, 16 YEARS OLD",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ]
+  },
+  {
+   "id": "s013",
+   "start": 21.64,
+   "end": 24.32,
+   "line": "And every lie you tell grows a feather.",
+   "scene": "Kai medium \u2014 the wrist feather, plain to see; Mom stares",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s014",
+   "start": 24.32,
+   "end": 27.02,
+   "line": "A small lie grows a small white feather.",
+   "scene": "RULE CARD 1 on the void: SMALL LIE = SMALL WHITE FEATHER",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -29.9
+    }
+   ]
+  },
+  {
+   "id": "s015",
+   "start": 27.02,
+   "end": 29.63,
+   "line": "A big lie grows a big black one.",
+   "scene": "RULE CARD 2 on the void: BIG LIE = BIG BLACK FEATHER",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "freeze",
+     "gain": -28.1
+    }
+   ]
+  },
+  {
+   "id": "s016",
+   "start": 29.63,
+   "end": 32.16,
+   "line": "It grows in one second...",
+   "scene": "A feather POPS out of his collar \u2014 \"IN ONE SECOND\"",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -17.7
+    },
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s017",
+   "start": 32.16,
+   "end": 34.0,
+   "line": "Right where everyone can see it.",
+   "scene": "Kai walks the hallway, students stare at his collar feather",
+   "set": "school_hallway",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 1.2,
+     "name": "footstep",
+     "gain": -18
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s018",
+   "start": 34.0,
+   "end": 35.52,
+   "line": "You cannot pull it out.",
+   "scene": "Kai tugs at the collar feather \u2014 it will not move",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s019",
+   "start": 35.52,
+   "end": 39.04,
+   "line": "It hurts... And it grows back. Bigger.",
+   "scene": "The feather grows back BIGGER on his collar",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s020",
+   "start": 39.04,
+   "end": 40.22,
+   "line": "Can you stop it?",
+   "scene": "Close on Kai \u2014 \"Can you stop it?\"",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s021",
+   "start": 40.22,
+   "end": 43.04,
+   "line": "The only way to lose a feather is to tell the truth.",
+   "scene": "RULE CARD 3 on the void: TO LOSE A FEATHER, TELL THE TRUTH.",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ]
+  },
+  {
+   "id": "s022",
+   "start": 43.04,
+   "end": 44.36,
+   "line": "Say it out loud...",
+   "scene": "Kai speaks \u2014 the collar feather trembles",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -19
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s023",
+   "start": 44.36,
+   "end": 45.88,
+   "line": "And the feather falls.",
+   "scene": "The feather leaves his collar and drifts down",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s024",
+   "start": 45.88,
+   "end": 47.56,
+   "line": "It floats away.",
+   "scene": "The feather floats away like snow",
+   "set": "kitchen_morning",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -26.4
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -36
+   }
+  },
+  {
+   "id": "s025",
+   "start": 47.56,
+   "end": 50.56,
+   "line": "You cannot see anyone else's. Only yours.",
+   "scene": "Classroom \u2014 classmates have NO feathers; \"ONLY YOURS.\"",
+   "set": "school_classroom",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -38
+   }
+  },
+  {
+   "id": "s026",
+   "start": 50.56,
+   "end": 51.8,
+   "line": "That is the rule.",
+   "scene": "RULE CARD on the void: THAT IS THE RULE.",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "freeze",
+     "gain": -28.1
+    }
+   ]
+  },
+  {
+   "id": "s027",
+   "start": 51.8,
+   "end": 55.18,
+   "line": "So what if every lie you tell grows a feather?",
+   "scene": "TITLE CARD on the void, slow push-in on Kai",
+   "set": "void",
+   "bars": "wide",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -22.3
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 19.2,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 19.2,
+   "end": 29.63,
+   "mood": "wonder",
+   "intensity": 0.5
+  },
+  {
+   "start": 29.63,
+   "end": 40.22,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 40.22,
+   "end": 47.56,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 47.56,
+   "end": 55.18,
+   "mood": "wonder",
+   "intensity": 0.55
+  }
+ ]
+}
